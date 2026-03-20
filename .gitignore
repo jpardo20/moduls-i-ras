@@ -1,0 +1,18 @@
+# DOCS amagats (IMPORTANT)
+docs/amagats/
+**.out
+
+# ZIP
+*.zip
+
+# DOCX descomprimits
+docs/**/*.xml
+docs/**/word/
+docs/**/_rels/
+
+# Python
+__pycache__/
+*.pyc
+
+# OS
+.DS_Store

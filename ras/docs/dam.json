@@ -1,0 +1,1904 @@
+{
+  "cycle": {
+    "id": "DAM",
+    "cycle_code": "ICB0",
+    "name": "Desenvolupament d'aplicacions multiplataforma",
+    "family": "Informàtica i comunicacions",
+    "line_reference_type": "parsed_docx_plaintext_line_1_based",
+    "sources": [
+      {
+        "type": "mp",
+        "filename": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx",
+        "official_url": "https://xtec.gencat.cat/web/.content/curriculum/professionals/fp/titolsloe/infcomunicacions/mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx",
+        "verified": true,
+        "role": "primary_ra_source"
+      },
+      {
+        "type": "o",
+        "filename": "o_ICB0_desenvolupament_aplicacions_multiplataforma_20240322.docx",
+        "official_url": "https://xtec.gencat.cat/web/.content/curriculum/professionals/fp/titolsloe/infcomunicacions/o_ICB0_desenvolupament_aplicacions_multiplataforma_20240322.docx",
+        "verified": true,
+        "role": "orientation_source"
+      },
+      {
+        "type": "dogc",
+        "filename": "DOGC_TS_desenvolupament_aplicacions_multiplataforma.pdf",
+        "official_url": "https://xtec.gencat.cat/web/.content/alfresco/d/d/workspace/SpacesStore/0052/64a26049-c0c0-45cc-baa0-a4f831059839/DOGC_TS_desenvolupament_aplicacions_multiplataforma.pdf",
+        "verified": true,
+        "role": "normative_source"
+      },
+      {
+        "type": "boe",
+        "filename": "BOE_GS_Aplic_Multiplataforma.pdf",
+        "official_url": "https://xtec.gencat.cat/web/.content/alfresco/d/d/workspace/SpacesStore/0069/a046eaea-4fd5-46bd-b6b9-8a0f0d37d4b6/BOE_GS_Aplic_Multiplataforma.pdf",
+        "verified": true,
+        "role": "normative_source"
+      },
+      {
+        "type": "validation_pdf_local",
+        "filename": "Butlletí__1a aval._Abe Abag, Lexter.pdf",
+        "official_url": null,
+        "verified": false,
+        "role": "ra_count_validation_source"
+      }
+    ]
+  },
+  "modules": [
+    {
+      "id": "0373",
+      "code_full": "0373_ICB0",
+      "name": "Llenguatges de marques i sistemes de gestió d’informació",
+      "status": "oficial",
+      "hours": 99,
+      "hours_center": 66,
+      "hours_company": 33,
+      "ects": 7,
+      "ra_count": 7,
+      "ra_count_validated_with_bulletin": true,
+      "sources": [
+        {
+          "type": "mp",
+          "filename": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx",
+          "official_url": "https://xtec.gencat.cat/web/.content/curriculum/professionals/fp/titolsloe/infcomunicacions/mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx",
+          "verified": true,
+          "role": "primary_ra_source"
+        },
+        {
+          "type": "o",
+          "filename": "o_ICB0_desenvolupament_aplicacions_multiplataforma_20240322.docx",
+          "official_url": "https://xtec.gencat.cat/web/.content/curriculum/professionals/fp/titolsloe/infcomunicacions/o_ICB0_desenvolupament_aplicacions_multiplataforma_20240322.docx",
+          "verified": true,
+          "role": "orientation_source"
+        },
+        {
+          "type": "dogc",
+          "filename": "DOGC_TS_desenvolupament_aplicacions_multiplataforma.pdf",
+          "official_url": "https://xtec.gencat.cat/web/.content/alfresco/d/d/workspace/SpacesStore/0052/64a26049-c0c0-45cc-baa0-a4f831059839/DOGC_TS_desenvolupament_aplicacions_multiplataforma.pdf",
+          "verified": true,
+          "role": "normative_source"
+        },
+        {
+          "type": "boe",
+          "filename": "BOE_GS_Aplic_Multiplataforma.pdf",
+          "official_url": "https://xtec.gencat.cat/web/.content/alfresco/d/d/workspace/SpacesStore/0069/a046eaea-4fd5-46bd-b6b9-8a0f0d37d4b6/BOE_GS_Aplic_Multiplataforma.pdf",
+          "verified": true,
+          "role": "normative_source"
+        }
+      ],
+      "ra": [
+        {
+          "code": "RA1",
+          "code_full": "0373_ICB0_RA1",
+          "short_description": "Reconeix les característiques de llenguatges de marques",
+          "long_description": "Reconeix les característiques de llenguatges de marques analitzant i interpretant fragments de codi.",
+          "source": {
+            "line_start": 91,
+            "line_end": 91,
+            "confidence": "high",
+            "source_file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx"
+          }
+        },
+        {
+          "code": "RA2",
+          "code_full": "0373_ICB0_RA2",
+          "short_description": "Utilitza llenguatges de marques per a la transmissió i presentació de informació a través del web",
+          "long_description": "Utilitza llenguatges de marques per a la transmissió i presentació de informació a través del web analitzant l'estructura dels documents i identificant-ne els elements.",
+          "source": {
+            "line_start": 102,
+            "line_end": 102,
+            "confidence": "high",
+            "source_file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx"
+          }
+        },
+        {
+          "code": "RA3",
+          "code_full": "0373_ICB0_RA3",
+          "short_description": "Accedeix i manipula documents web",
+          "long_description": "Accedeix i manipula documents web utilitzant llenguatges de guions de client.",
+          "source": {
+            "line_start": 114,
+            "line_end": 114,
+            "confidence": "high",
+            "source_file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx"
+          }
+        },
+        {
+          "code": "RA4",
+          "code_full": "0373_ICB0_RA4",
+          "short_description": "Estableix mecanismes de validació de documents per a l'intercanvi d'informació",
+          "long_description": "Estableix mecanismes de validació de documents per a l'intercanvi d'informació utilitzant mètodes per definir-ne la sintaxi i l'estructura.",
+          "source": {
+            "line_start": 122,
+            "line_end": 122,
+            "confidence": "high",
+            "source_file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx"
+          }
+        },
+        {
+          "code": "RA5",
+          "code_full": "0373_ICB0_RA5",
+          "short_description": "Realitza conversions sobre documents per a l'intercanvi de informació",
+          "long_description": "Realitza conversions sobre documents per a l'intercanvi de informació utilitzant tècniques, llenguatges i eines de processament.",
+          "source": {
+            "line_start": 131,
+            "line_end": 131,
+            "confidence": "high",
+            "source_file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx"
+          }
+        },
+        {
+          "code": "RA6",
+          "code_full": "0373_ICB0_RA6",
+          "short_description": "Gestiona la informació en formats d'intercanvi de dades",
+          "long_description": "Gestiona la informació en formats d'intercanvi de dades analitzant i utilitzant tecnologies d'emmagatzematge i llenguatges de consulta.",
+          "source": {
+            "line_start": 140,
+            "line_end": 140,
+            "confidence": "high",
+            "source_file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx"
+          }
+        },
+        {
+          "code": "RA7",
+          "code_full": "0373_ICB0_RA7",
+          "short_description": "Efectua operacions amb sistemes empresarials de gestió d'informació realitzant tasques",
+          "long_description": "Efectua operacions amb sistemes empresarials de gestió d'informació realitzant tasques d'importació, integració, assegurament i extracció de la informació.",
+          "source": {
+            "line_start": 151,
+            "line_end": 151,
+            "confidence": "high",
+            "source_file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx"
+          }
+        }
+      ]
+    },
+    {
+      "id": "0483",
+      "code_full": "0483_ICB0",
+      "name": "Sistemes informàtics",
+      "status": "oficial",
+      "hours": 165,
+      "hours_center": 99,
+      "hours_company": 66,
+      "ects": 10,
+      "ra_count": 7,
+      "ra_count_validated_with_bulletin": true,
+      "sources": [
+        {
+          "type": "mp",
+          "filename": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx",
+          "official_url": "https://xtec.gencat.cat/web/.content/curriculum/professionals/fp/titolsloe/infcomunicacions/mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx",
+          "verified": true,
+          "role": "primary_ra_source"
+        },
+        {
+          "type": "o",
+          "filename": "o_ICB0_desenvolupament_aplicacions_multiplataforma_20240322.docx",
+          "official_url": "https://xtec.gencat.cat/web/.content/curriculum/professionals/fp/titolsloe/infcomunicacions/o_ICB0_desenvolupament_aplicacions_multiplataforma_20240322.docx",
+          "verified": true,
+          "role": "orientation_source"
+        },
+        {
+          "type": "dogc",
+          "filename": "DOGC_TS_desenvolupament_aplicacions_multiplataforma.pdf",
+          "official_url": "https://xtec.gencat.cat/web/.content/alfresco/d/d/workspace/SpacesStore/0052/64a26049-c0c0-45cc-baa0-a4f831059839/DOGC_TS_desenvolupament_aplicacions_multiplataforma.pdf",
+          "verified": true,
+          "role": "normative_source"
+        },
+        {
+          "type": "boe",
+          "filename": "BOE_GS_Aplic_Multiplataforma.pdf",
+          "official_url": "https://xtec.gencat.cat/web/.content/alfresco/d/d/workspace/SpacesStore/0069/a046eaea-4fd5-46bd-b6b9-8a0f0d37d4b6/BOE_GS_Aplic_Multiplataforma.pdf",
+          "verified": true,
+          "role": "normative_source"
+        }
+      ],
+      "ra": [
+        {
+          "code": "RA1",
+          "code_full": "0483_ICB0_RA1",
+          "short_description": "Avalua sistemes informàtics",
+          "long_description": "Avalua sistemes informàtics, identificant els seus components i característiques",
+          "source": {
+            "line_start": 224,
+            "line_end": 224,
+            "confidence": "high",
+            "source_file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx"
+          }
+        },
+        {
+          "code": "RA2",
+          "code_full": "0483_ICB0_RA2",
+          "short_description": "Instal·la sistemes operatius",
+          "long_description": "Instal·la sistemes operatius planificant el procés i interpretant documentació tècnica.",
+          "source": {
+            "line_start": 234,
+            "line_end": 234,
+            "confidence": "high",
+            "source_file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx"
+          }
+        },
+        {
+          "code": "RA3",
+          "code_full": "0483_ICB0_RA3",
+          "short_description": "Gestiona la informació del sistema",
+          "long_description": "Gestiona la informació del sistema identificant les estructures d'emmagatzematge i aplicant mesures per assegurar la integritat de les dades.",
+          "source": {
+            "line_start": 245,
+            "line_end": 245,
+            "confidence": "high",
+            "source_file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx"
+          }
+        },
+        {
+          "code": "RA4",
+          "code_full": "0483_ICB0_RA4",
+          "short_description": "Gestiona sistemes operatius",
+          "long_description": "Gestiona sistemes operatius utilitzant comandes i eines gràfiques i avaluant les necessitats del sistema.",
+          "source": {
+            "line_start": 254,
+            "line_end": 254,
+            "confidence": "high",
+            "source_file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx"
+          }
+        },
+        {
+          "code": "RA5",
+          "code_full": "0483_ICB0_RA5",
+          "short_description": "Interconnecta sistemes en xarxa configurant dispositius i protocols",
+          "long_description": "Interconnecta sistemes en xarxa configurant dispositius i protocols.",
+          "source": {
+            "line_start": 264,
+            "line_end": 264,
+            "confidence": "high",
+            "source_file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx"
+          }
+        },
+        {
+          "code": "RA6",
+          "code_full": "0483_ICB0_RA6",
+          "short_description": "Treballa amb sistemes en xarxa gestionant-ne els recursos",
+          "long_description": "Treballa amb sistemes en xarxa gestionant-ne els recursos i identificant les restriccions de seguretat existents.",
+          "source": {
+            "line_start": 274,
+            "line_end": 274,
+            "confidence": "high",
+            "source_file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx"
+          }
+        },
+        {
+          "code": "RA7",
+          "code_full": "0483_ICB0_RA7",
+          "short_description": "Elabora documentació valorant",
+          "long_description": "Elabora documentació valorant i utilitzant aplicacions informàtiques de propòsit general.",
+          "source": {
+            "line_start": 283,
+            "line_end": 283,
+            "confidence": "high",
+            "source_file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx"
+          }
+        }
+      ]
+    },
+    {
+      "id": "0484",
+      "code_full": "0484_ICB0",
+      "name": "Bases de dades",
+      "status": "oficial",
+      "hours": 198,
+      "hours_center": 132,
+      "hours_company": 66,
+      "ects": 12,
+      "ra_count": 7,
+      "ra_count_validated_with_bulletin": true,
+      "sources": [
+        {
+          "type": "mp",
+          "filename": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx",
+          "official_url": "https://xtec.gencat.cat/web/.content/curriculum/professionals/fp/titolsloe/infcomunicacions/mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx",
+          "verified": true,
+          "role": "primary_ra_source"
+        },
+        {
+          "type": "o",
+          "filename": "o_ICB0_desenvolupament_aplicacions_multiplataforma_20240322.docx",
+          "official_url": "https://xtec.gencat.cat/web/.content/curriculum/professionals/fp/titolsloe/infcomunicacions/o_ICB0_desenvolupament_aplicacions_multiplataforma_20240322.docx",
+          "verified": true,
+          "role": "orientation_source"
+        },
+        {
+          "type": "dogc",
+          "filename": "DOGC_TS_desenvolupament_aplicacions_multiplataforma.pdf",
+          "official_url": "https://xtec.gencat.cat/web/.content/alfresco/d/d/workspace/SpacesStore/0052/64a26049-c0c0-45cc-baa0-a4f831059839/DOGC_TS_desenvolupament_aplicacions_multiplataforma.pdf",
+          "verified": true,
+          "role": "normative_source"
+        },
+        {
+          "type": "boe",
+          "filename": "BOE_GS_Aplic_Multiplataforma.pdf",
+          "official_url": "https://xtec.gencat.cat/web/.content/alfresco/d/d/workspace/SpacesStore/0069/a046eaea-4fd5-46bd-b6b9-8a0f0d37d4b6/BOE_GS_Aplic_Multiplataforma.pdf",
+          "verified": true,
+          "role": "normative_source"
+        }
+      ],
+      "ra": [
+        {
+          "code": "RA1",
+          "code_full": "0484_ICB0_RA1",
+          "short_description": "Reconeix els elements de les bases de dades",
+          "long_description": "Reconeix els elements de les bases de dades analitzant-ne les funcions i valorant la utilitat dels sistemes gestors.",
+          "source": {
+            "line_start": 377,
+            "line_end": 377,
+            "confidence": "high",
+            "source_file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx"
+          }
+        },
+        {
+          "code": "RA2",
+          "code_full": "0484_ICB0_RA2",
+          "short_description": "Crea bases de dades",
+          "long_description": "Crea bases de dades definint-ne l'estructura i les característiques dels elements segons el model relacional.",
+          "source": {
+            "line_start": 389,
+            "line_end": 389,
+            "confidence": "high",
+            "source_file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx"
+          }
+        },
+        {
+          "code": "RA3",
+          "code_full": "0484_ICB0_RA3",
+          "short_description": "Consulta la informació emmagatzemada en una base de dades",
+          "long_description": "Consulta la informació emmagatzemada en una base de dades fent servir assistents, eines gràfiques i el llenguatge de manipulació de dades.",
+          "source": {
+            "line_start": 399,
+            "line_end": 399,
+            "confidence": "high",
+            "source_file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx"
+          }
+        },
+        {
+          "code": "RA4",
+          "code_full": "0484_ICB0_RA4",
+          "short_description": "Modifica la informació emmagatzemada a la base de dades",
+          "long_description": "Modifica la informació emmagatzemada a la base de dades utilitzant assistents, eines gràfiques i el llenguatge de manipulació de dades.",
+          "source": {
+            "line_start": 409,
+            "line_end": 409,
+            "confidence": "high",
+            "source_file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx"
+          }
+        },
+        {
+          "code": "RA5",
+          "code_full": "0484_ICB0_RA5",
+          "short_description": "Desenvolupa procediments emmagatzemats",
+          "long_description": "Desenvolupa procediments emmagatzemats avaluant i utilitzant les sentències del llenguatge incorporat al sistema gestor de bases de dades.",
+          "source": {
+            "line_start": 419,
+            "line_end": 419,
+            "confidence": "high",
+            "source_file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx"
+          }
+        },
+        {
+          "code": "RA6",
+          "code_full": "0484_ICB0_RA6",
+          "short_description": "Dissenya models relacionals normalitzats",
+          "long_description": "Dissenya models relacionals normalitzats interpretant diagrames entitat/relació.",
+          "source": {
+            "line_start": 431,
+            "line_end": 431,
+            "confidence": "high",
+            "source_file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx"
+          }
+        },
+        {
+          "code": "RA7",
+          "code_full": "0484_ICB0_RA7",
+          "short_description": "Gestiona la informació emmagatzemada en bases de dades no relacionals",
+          "long_description": "Gestiona la informació emmagatzemada en bases de dades no relacionals, avaluant i utilitzant les possibilitats que proporciona el sistema gestor.",
+          "source": {
+            "line_start": 441,
+            "line_end": 441,
+            "confidence": "high",
+            "source_file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx"
+          }
+        }
+      ]
+    },
+    {
+      "id": "0485",
+      "code_full": "0485_ICB0",
+      "name": "Programació",
+      "status": "oficial",
+      "hours": 264,
+      "hours_center": 198,
+      "hours_company": 66,
+      "ects": 15,
+      "ra_count": 9,
+      "ra_count_validated_with_bulletin": true,
+      "sources": [
+        {
+          "type": "mp",
+          "filename": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx",
+          "official_url": "https://xtec.gencat.cat/web/.content/curriculum/professionals/fp/titolsloe/infcomunicacions/mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx",
+          "verified": true,
+          "role": "primary_ra_source"
+        },
+        {
+          "type": "o",
+          "filename": "o_ICB0_desenvolupament_aplicacions_multiplataforma_20240322.docx",
+          "official_url": "https://xtec.gencat.cat/web/.content/curriculum/professionals/fp/titolsloe/infcomunicacions/o_ICB0_desenvolupament_aplicacions_multiplataforma_20240322.docx",
+          "verified": true,
+          "role": "orientation_source"
+        },
+        {
+          "type": "dogc",
+          "filename": "DOGC_TS_desenvolupament_aplicacions_multiplataforma.pdf",
+          "official_url": "https://xtec.gencat.cat/web/.content/alfresco/d/d/workspace/SpacesStore/0052/64a26049-c0c0-45cc-baa0-a4f831059839/DOGC_TS_desenvolupament_aplicacions_multiplataforma.pdf",
+          "verified": true,
+          "role": "normative_source"
+        },
+        {
+          "type": "boe",
+          "filename": "BOE_GS_Aplic_Multiplataforma.pdf",
+          "official_url": "https://xtec.gencat.cat/web/.content/alfresco/d/d/workspace/SpacesStore/0069/a046eaea-4fd5-46bd-b6b9-8a0f0d37d4b6/BOE_GS_Aplic_Multiplataforma.pdf",
+          "verified": true,
+          "role": "normative_source"
+        }
+      ],
+      "ra": [
+        {
+          "code": "RA1",
+          "code_full": "0485_ICB0_RA1",
+          "short_description": "Reconeix l'estructura d'un programa informàtic",
+          "long_description": "Reconeix l'estructura d'un programa informàtic, identificant i relacionant els elements propis del llenguatge de programació utilitzat.",
+          "source": {
+            "line_start": 520,
+            "line_end": 520,
+            "confidence": "high",
+            "source_file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx"
+          }
+        },
+        {
+          "code": "RA2",
+          "code_full": "0485_ICB0_RA2",
+          "short_description": "Escriu i prova programes senzills",
+          "long_description": "Escriu i prova programes senzills, reconeixent i aplicant els fonaments de la programació orientada a objectes.",
+          "source": {
+            "line_start": 531,
+            "line_end": 531,
+            "confidence": "high",
+            "source_file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx"
+          }
+        },
+        {
+          "code": "RA3",
+          "code_full": "0485_ICB0_RA3",
+          "short_description": "Escriu i depura codi",
+          "long_description": "Escriu i depura codi, analitzant i utilitzant les estructures de control del llenguatge.",
+          "source": {
+            "line_start": 542,
+            "line_end": 542,
+            "confidence": "high",
+            "source_file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx"
+          }
+        },
+        {
+          "code": "RA4",
+          "code_full": "0485_ICB0_RA4",
+          "short_description": "Desenvolupa programes organitzats en classes",
+          "long_description": "Desenvolupa programes organitzats en classes analitzant i aplicant els principis de la programació orientada a objectes.",
+          "source": {
+            "line_start": 553,
+            "line_end": 553,
+            "confidence": "high",
+            "source_file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx"
+          }
+        },
+        {
+          "code": "RA5",
+          "code_full": "0485_ICB0_RA5",
+          "short_description": "Realitza operacions d'entrada i sortida d'informació",
+          "long_description": "Realitza operacions d'entrada i sortida d'informació, utilitzant procediments específics del llenguatge i llibreries de classes.",
+          "source": {
+            "line_start": 564,
+            "line_end": 564,
+            "confidence": "high",
+            "source_file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx"
+          }
+        },
+        {
+          "code": "RA6",
+          "code_full": "0485_ICB0_RA6",
+          "short_description": "Escriu programes que manipulin informació",
+          "long_description": "Escriu programes que manipulin informació seleccionant i utilitzant tipus avançats de dades.",
+          "source": {
+            "line_start": 574,
+            "line_end": 574,
+            "confidence": "high",
+            "source_file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx"
+          }
+        },
+        {
+          "code": "RA7",
+          "code_full": "0485_ICB0_RA7",
+          "short_description": "Desenvolupa programes",
+          "long_description": "Desenvolupa programes aplicant característiques avançades dels llenguatges orientats a objectes i de l'entorn de programació.",
+          "source": {
+            "line_start": 586,
+            "line_end": 586,
+            "confidence": "high",
+            "source_file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx"
+          }
+        },
+        {
+          "code": "RA8",
+          "code_full": "0485_ICB0_RA8",
+          "short_description": "Utilitza bases de dades orientades a objectes",
+          "long_description": "Utilitza bases de dades orientades a objectes, analitzant-ne les característiques i aplicant tècniques per mantenir la persistència de la informació.",
+          "source": {
+            "line_start": 598,
+            "line_end": 598,
+            "confidence": "high",
+            "source_file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx"
+          }
+        },
+        {
+          "code": "RA9",
+          "code_full": "0485_ICB0_RA9",
+          "short_description": "Gestiona informació emmagatzemada en bases de dades mantenint la integritat",
+          "long_description": "Gestiona informació emmagatzemada en bases de dades mantenint la integritat i consistència de les dades.",
+          "source": {
+            "line_start": 608,
+            "line_end": 608,
+            "confidence": "high",
+            "source_file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx"
+          }
+        }
+      ]
+    },
+    {
+      "id": "0486",
+      "code_full": "0486_ICB0",
+      "name": "Accés a dades",
+      "status": "oficial",
+      "hours": 132,
+      "hours_center": 66,
+      "hours_company": 66,
+      "ects": 10,
+      "ra_count": 6,
+      "ra_count_validated_with_bulletin": true,
+      "sources": [
+        {
+          "type": "mp",
+          "filename": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx",
+          "official_url": "https://xtec.gencat.cat/web/.content/curriculum/professionals/fp/titolsloe/infcomunicacions/mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx",
+          "verified": true,
+          "role": "primary_ra_source"
+        },
+        {
+          "type": "o",
+          "filename": "o_ICB0_desenvolupament_aplicacions_multiplataforma_20240322.docx",
+          "official_url": "https://xtec.gencat.cat/web/.content/curriculum/professionals/fp/titolsloe/infcomunicacions/o_ICB0_desenvolupament_aplicacions_multiplataforma_20240322.docx",
+          "verified": true,
+          "role": "orientation_source"
+        },
+        {
+          "type": "dogc",
+          "filename": "DOGC_TS_desenvolupament_aplicacions_multiplataforma.pdf",
+          "official_url": "https://xtec.gencat.cat/web/.content/alfresco/d/d/workspace/SpacesStore/0052/64a26049-c0c0-45cc-baa0-a4f831059839/DOGC_TS_desenvolupament_aplicacions_multiplataforma.pdf",
+          "verified": true,
+          "role": "normative_source"
+        },
+        {
+          "type": "boe",
+          "filename": "BOE_GS_Aplic_Multiplataforma.pdf",
+          "official_url": "https://xtec.gencat.cat/web/.content/alfresco/d/d/workspace/SpacesStore/0069/a046eaea-4fd5-46bd-b6b9-8a0f0d37d4b6/BOE_GS_Aplic_Multiplataforma.pdf",
+          "verified": true,
+          "role": "normative_source"
+        }
+      ],
+      "ra": [
+        {
+          "code": "RA1",
+          "code_full": "0486_ICB0_RA1",
+          "short_description": "Desenvolupa aplicacions que gestionen informació emmagatzemada en fitxers",
+          "long_description": "Desenvolupa aplicacions que gestionen informació emmagatzemada en fitxers identificant-ne el camp d'aplicació i utilitzant classes específiques.",
+          "source": {
+            "line_start": 707,
+            "line_end": 707,
+            "confidence": "high",
+            "source_file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx"
+          }
+        },
+        {
+          "code": "RA2",
+          "code_full": "0486_ICB0_RA2",
+          "short_description": "Desenvolupa aplicacions que gestionen informació emmagatzemada en bases de dades relacionals",
+          "long_description": "Desenvolupa aplicacions que gestionen informació emmagatzemada en bases de dades relacionals identificant i utilitzant mecanismes de connexió.",
+          "source": {
+            "line_start": 716,
+            "line_end": 716,
+            "confidence": "high",
+            "source_file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx"
+          }
+        },
+        {
+          "code": "RA3",
+          "code_full": "0486_ICB0_RA3",
+          "short_description": "Gestiona la persistència de les dades",
+          "long_description": "Gestiona la persistència de les dades identificant eines de mapatge objecte relacional (ORM) i desenvolupant aplicacions que les utilitzen.",
+          "source": {
+            "line_start": 729,
+            "line_end": 729,
+            "confidence": "high",
+            "source_file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx"
+          }
+        },
+        {
+          "code": "RA4",
+          "code_full": "0486_ICB0_RA4",
+          "short_description": "Desenvolupa aplicacions que gestionen la informació emmagatzemada en bases de dades objecte relacionals i orientades a objectes valorant-ne les característiques",
+          "long_description": "Desenvolupa aplicacions que gestionen la informació emmagatzemada en bases de dades objecte relacionals i orientades a objectes valorant-ne les característiques i utilitzant els mecanismes d'accés incorporats.",
+          "source": {
+            "line_start": 738,
+            "line_end": 738,
+            "confidence": "high",
+            "source_file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx"
+          }
+        },
+        {
+          "code": "RA5",
+          "code_full": "0486_ICB0_RA5",
+          "short_description": "Desenvolupa aplicacions que gestionen la informació emmagatzemada en bases de dades documentals natives",
+          "long_description": "Desenvolupa aplicacions que gestionen la informació emmagatzemada en bases de dades documentals natives avaluant i utilitzant classes específiques.",
+          "source": {
+            "line_start": 748,
+            "line_end": 748,
+            "confidence": "high",
+            "source_file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx"
+          }
+        },
+        {
+          "code": "RA6",
+          "code_full": "0486_ICB0_RA6",
+          "short_description": "Programa components d'accés a dades",
+          "long_description": "Programa components d'accés a dades identificant les característiques que ha de posseir un component i utilitzant eines de desenvolupament.",
+          "source": {
+            "line_start": 755,
+            "line_end": 755,
+            "confidence": "high",
+            "source_file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx"
+          }
+        }
+      ]
+    },
+    {
+      "id": "0487",
+      "code_full": "0487_ICB0",
+      "name": "Entorns de desenvolupament",
+      "status": "oficial",
+      "hours": 99,
+      "hours_center": 66,
+      "hours_company": 33,
+      "ects": 6,
+      "ra_count": 6,
+      "ra_count_validated_with_bulletin": true,
+      "sources": [
+        {
+          "type": "mp",
+          "filename": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx",
+          "official_url": "https://xtec.gencat.cat/web/.content/curriculum/professionals/fp/titolsloe/infcomunicacions/mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx",
+          "verified": true,
+          "role": "primary_ra_source"
+        },
+        {
+          "type": "o",
+          "filename": "o_ICB0_desenvolupament_aplicacions_multiplataforma_20240322.docx",
+          "official_url": "https://xtec.gencat.cat/web/.content/curriculum/professionals/fp/titolsloe/infcomunicacions/o_ICB0_desenvolupament_aplicacions_multiplataforma_20240322.docx",
+          "verified": true,
+          "role": "orientation_source"
+        },
+        {
+          "type": "dogc",
+          "filename": "DOGC_TS_desenvolupament_aplicacions_multiplataforma.pdf",
+          "official_url": "https://xtec.gencat.cat/web/.content/alfresco/d/d/workspace/SpacesStore/0052/64a26049-c0c0-45cc-baa0-a4f831059839/DOGC_TS_desenvolupament_aplicacions_multiplataforma.pdf",
+          "verified": true,
+          "role": "normative_source"
+        },
+        {
+          "type": "boe",
+          "filename": "BOE_GS_Aplic_Multiplataforma.pdf",
+          "official_url": "https://xtec.gencat.cat/web/.content/alfresco/d/d/workspace/SpacesStore/0069/a046eaea-4fd5-46bd-b6b9-8a0f0d37d4b6/BOE_GS_Aplic_Multiplataforma.pdf",
+          "verified": true,
+          "role": "normative_source"
+        }
+      ],
+      "ra": [
+        {
+          "code": "RA1",
+          "code_full": "0487_ICB0_RA1",
+          "short_description": "Reconeix els elements i les eines que intervenen en el desenvolupament d'un programa informàtic",
+          "long_description": "Reconeix els elements i les eines que intervenen en el desenvolupament d'un programa informàtic, analitzant-ne les característiques i les fases en què actuen fins a arribar a la posada en funcionament.",
+          "source": {
+            "line_start": 834,
+            "line_end": 834,
+            "confidence": "high",
+            "source_file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx"
+          }
+        },
+        {
+          "code": "RA2",
+          "code_full": "0487_ICB0_RA2",
+          "short_description": "Avalua entorns integrats de desenvolupament",
+          "long_description": "Avalua entorns integrats de desenvolupament analitzant-ne les característiques per editar codi font i generar executables.",
+          "source": {
+            "line_start": 843,
+            "line_end": 843,
+            "confidence": "high",
+            "source_file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx"
+          }
+        },
+        {
+          "code": "RA3",
+          "code_full": "0487_ICB0_RA3",
+          "short_description": "Verifica el funcionament de programes dissenyant i realitzant proves",
+          "long_description": "Verifica el funcionament de programes dissenyant i realitzant proves.",
+          "source": {
+            "line_start": 852,
+            "line_end": 852,
+            "confidence": "high",
+            "source_file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx"
+          }
+        },
+        {
+          "code": "RA4",
+          "code_full": "0487_ICB0_RA4",
+          "short_description": "Optimitza codi",
+          "long_description": "Optimitza codi utilitzant les eines disponibles a l'entorn de desenvolupament.",
+          "source": {
+            "line_start": 863,
+            "line_end": 863,
+            "confidence": "high",
+            "source_file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx"
+          }
+        },
+        {
+          "code": "RA5",
+          "code_full": "0487_ICB0_RA5",
+          "short_description": "Genera diagrames de classes valorant-ne la importància en el desenvolupament d'aplicacions",
+          "long_description": "Genera diagrames de classes valorant-ne la importància en el desenvolupament d'aplicacions i emprant eines específiques.",
+          "source": {
+            "line_start": 874,
+            "line_end": 874,
+            "confidence": "high",
+            "source_file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx"
+          }
+        },
+        {
+          "code": "RA6",
+          "code_full": "0487_ICB0_RA6",
+          "short_description": "Genera diagrames de comportament valorant-ne la importància en el desenvolupament d'aplicacions",
+          "long_description": "Genera diagrames de comportament valorant-ne la importància en el desenvolupament d'aplicacions i emprant eines específiques.",
+          "source": {
+            "line_start": 882,
+            "line_end": 882,
+            "confidence": "high",
+            "source_file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx"
+          }
+        }
+      ]
+    },
+    {
+      "id": "0488",
+      "code_full": "0488_ICB0",
+      "name": "Desenvolupament d’interfícies",
+      "status": "oficial",
+      "hours": 119,
+      "hours_center": 66,
+      "hours_company": 53,
+      "ects": 10,
+      "ra_count": 8,
+      "ra_count_validated_with_bulletin": true,
+      "sources": [
+        {
+          "type": "mp",
+          "filename": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx",
+          "official_url": "https://xtec.gencat.cat/web/.content/curriculum/professionals/fp/titolsloe/infcomunicacions/mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx",
+          "verified": true,
+          "role": "primary_ra_source"
+        },
+        {
+          "type": "o",
+          "filename": "o_ICB0_desenvolupament_aplicacions_multiplataforma_20240322.docx",
+          "official_url": "https://xtec.gencat.cat/web/.content/curriculum/professionals/fp/titolsloe/infcomunicacions/o_ICB0_desenvolupament_aplicacions_multiplataforma_20240322.docx",
+          "verified": true,
+          "role": "orientation_source"
+        },
+        {
+          "type": "dogc",
+          "filename": "DOGC_TS_desenvolupament_aplicacions_multiplataforma.pdf",
+          "official_url": "https://xtec.gencat.cat/web/.content/alfresco/d/d/workspace/SpacesStore/0052/64a26049-c0c0-45cc-baa0-a4f831059839/DOGC_TS_desenvolupament_aplicacions_multiplataforma.pdf",
+          "verified": true,
+          "role": "normative_source"
+        },
+        {
+          "type": "boe",
+          "filename": "BOE_GS_Aplic_Multiplataforma.pdf",
+          "official_url": "https://xtec.gencat.cat/web/.content/alfresco/d/d/workspace/SpacesStore/0069/a046eaea-4fd5-46bd-b6b9-8a0f0d37d4b6/BOE_GS_Aplic_Multiplataforma.pdf",
+          "verified": true,
+          "role": "normative_source"
+        }
+      ],
+      "ra": [
+        {
+          "code": "RA1",
+          "code_full": "0488_ICB0_RA1",
+          "short_description": "Genera interfícies gràfiques d'usuari mitjançant editors visuals",
+          "long_description": "Genera interfícies gràfiques d'usuari mitjançant editors visuals utilitzant les funcionalitats de l'editor i adaptant el codi generat.",
+          "source": {
+            "line_start": 950,
+            "line_end": 950,
+            "confidence": "high",
+            "source_file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx"
+          }
+        },
+        {
+          "code": "RA2",
+          "code_full": "0488_ICB0_RA2",
+          "short_description": "Genera interfícies naturals d'usuari",
+          "long_description": "Genera interfícies naturals d'usuari utilitzant eines visuals.",
+          "source": {
+            "line_start": 960,
+            "line_end": 960,
+            "confidence": "high",
+            "source_file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx"
+          }
+        },
+        {
+          "code": "RA3",
+          "code_full": "0488_ICB0_RA3",
+          "short_description": "Crea components visuals valorant",
+          "long_description": "Crea components visuals valorant i emprant eines específiques.",
+          "source": {
+            "line_start": 968,
+            "line_end": 968,
+            "confidence": "high",
+            "source_file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx"
+          }
+        },
+        {
+          "code": "RA4",
+          "code_full": "0488_ICB0_RA4",
+          "short_description": "Dissenya interfícies gràfiques",
+          "long_description": "Dissenya interfícies gràfiques identificant i aplicant criteris d'usabilitat i accessibilitat.",
+          "source": {
+            "line_start": 978,
+            "line_end": 978,
+            "confidence": "high",
+            "source_file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx"
+          }
+        },
+        {
+          "code": "RA5",
+          "code_full": "0488_ICB0_RA5",
+          "short_description": "Crea informes",
+          "long_description": "Crea informes avaluant i utilitzant eines gràfiques.",
+          "source": {
+            "line_start": 989,
+            "line_end": 989,
+            "confidence": "high",
+            "source_file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx"
+          }
+        },
+        {
+          "code": "RA6",
+          "code_full": "0488_ICB0_RA6",
+          "short_description": "Documenta aplicacions",
+          "long_description": "Documenta aplicacions seleccionant i utilitzant eines específiques.",
+          "source": {
+            "line_start": 999,
+            "line_end": 999,
+            "confidence": "high",
+            "source_file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx"
+          }
+        },
+        {
+          "code": "RA7",
+          "code_full": "0488_ICB0_RA7",
+          "short_description": "Prepara aplicacions per a la distribució",
+          "long_description": "Prepara aplicacions per a la distribució avaluant i utilitzant eines específiques.",
+          "source": {
+            "line_start": 1008,
+            "line_end": 1008,
+            "confidence": "high",
+            "source_file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx"
+          }
+        },
+        {
+          "code": "RA8",
+          "code_full": "0488_ICB0_RA8",
+          "short_description": "Avalua el funcionament d'aplicacions dissenyant i executant proves",
+          "long_description": "Avalua el funcionament d'aplicacions dissenyant i executant proves.",
+          "source": {
+            "line_start": 1018,
+            "line_end": 1018,
+            "confidence": "high",
+            "source_file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx"
+          }
+        }
+      ]
+    },
+    {
+      "id": "0489",
+      "code_full": "0489_ICB0",
+      "name": "Programació multimèdia i dispositius mòbils",
+      "status": "oficial",
+      "hours": 132,
+      "hours_center": 66,
+      "hours_company": 66,
+      "ects": 7,
+      "ra_count": 5,
+      "ra_count_validated_with_bulletin": true,
+      "sources": [
+        {
+          "type": "mp",
+          "filename": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx",
+          "official_url": "https://xtec.gencat.cat/web/.content/curriculum/professionals/fp/titolsloe/infcomunicacions/mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx",
+          "verified": true,
+          "role": "primary_ra_source"
+        },
+        {
+          "type": "o",
+          "filename": "o_ICB0_desenvolupament_aplicacions_multiplataforma_20240322.docx",
+          "official_url": "https://xtec.gencat.cat/web/.content/curriculum/professionals/fp/titolsloe/infcomunicacions/o_ICB0_desenvolupament_aplicacions_multiplataforma_20240322.docx",
+          "verified": true,
+          "role": "orientation_source"
+        },
+        {
+          "type": "dogc",
+          "filename": "DOGC_TS_desenvolupament_aplicacions_multiplataforma.pdf",
+          "official_url": "https://xtec.gencat.cat/web/.content/alfresco/d/d/workspace/SpacesStore/0052/64a26049-c0c0-45cc-baa0-a4f831059839/DOGC_TS_desenvolupament_aplicacions_multiplataforma.pdf",
+          "verified": true,
+          "role": "normative_source"
+        },
+        {
+          "type": "boe",
+          "filename": "BOE_GS_Aplic_Multiplataforma.pdf",
+          "official_url": "https://xtec.gencat.cat/web/.content/alfresco/d/d/workspace/SpacesStore/0069/a046eaea-4fd5-46bd-b6b9-8a0f0d37d4b6/BOE_GS_Aplic_Multiplataforma.pdf",
+          "verified": true,
+          "role": "normative_source"
+        }
+      ],
+      "ra": [
+        {
+          "code": "RA1",
+          "code_full": "0489_ICB0_RA1",
+          "short_description": "Aplica tecnologies de desenvolupament per a dispositius mòbils",
+          "long_description": "Aplica tecnologies de desenvolupament per a dispositius mòbils avaluant-ne les característiques i capacitats.",
+          "source": {
+            "line_start": 1108,
+            "line_end": 1108,
+            "confidence": "high",
+            "source_file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx"
+          }
+        },
+        {
+          "code": "RA2",
+          "code_full": "0489_ICB0_RA2",
+          "short_description": "Desenvolupa aplicacions per a dispositius mòbils",
+          "long_description": "Desenvolupa aplicacions per a dispositius mòbils analitzant i emprant les tecnologies i llibreries específiques.",
+          "source": {
+            "line_start": 1118,
+            "line_end": 1118,
+            "confidence": "high",
+            "source_file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx"
+          }
+        },
+        {
+          "code": "RA3",
+          "code_full": "0489_ICB0_RA3",
+          "short_description": "Desenvolupa programes que integren continguts multimèdia",
+          "long_description": "Desenvolupa programes que integren continguts multimèdia analitzant i emprant les tecnologies i llibreries específiques.",
+          "source": {
+            "line_start": 1130,
+            "line_end": 1130,
+            "confidence": "high",
+            "source_file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx"
+          }
+        },
+        {
+          "code": "RA4",
+          "code_full": "0489_ICB0_RA4",
+          "short_description": "Selecciona i prova motors de jocs",
+          "long_description": "Selecciona i prova motors de jocs analitzant l'arquitectura de jocs 2D i 3D.",
+          "source": {
+            "line_start": 1140,
+            "line_end": 1140,
+            "confidence": "high",
+            "source_file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx"
+          }
+        },
+        {
+          "code": "RA5",
+          "code_full": "0489_ICB0_RA5",
+          "short_description": "Desenvolupa jocs 2D i 3D senzills",
+          "long_description": "Desenvolupa jocs 2D i 3D senzills utilitzant motors de jocs.",
+          "source": {
+            "line_start": 1148,
+            "line_end": 1148,
+            "confidence": "high",
+            "source_file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx"
+          }
+        }
+      ]
+    },
+    {
+      "id": "0490",
+      "code_full": "0490_ICB0",
+      "name": "Programació de serveis i processos",
+      "status": "oficial",
+      "hours": 99,
+      "hours_center": 66,
+      "hours_company": 33,
+      "ects": 5,
+      "ra_count": 5,
+      "ra_count_validated_with_bulletin": true,
+      "sources": [
+        {
+          "type": "mp",
+          "filename": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx",
+          "official_url": "https://xtec.gencat.cat/web/.content/curriculum/professionals/fp/titolsloe/infcomunicacions/mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx",
+          "verified": true,
+          "role": "primary_ra_source"
+        },
+        {
+          "type": "o",
+          "filename": "o_ICB0_desenvolupament_aplicacions_multiplataforma_20240322.docx",
+          "official_url": "https://xtec.gencat.cat/web/.content/curriculum/professionals/fp/titolsloe/infcomunicacions/o_ICB0_desenvolupament_aplicacions_multiplataforma_20240322.docx",
+          "verified": true,
+          "role": "orientation_source"
+        },
+        {
+          "type": "dogc",
+          "filename": "DOGC_TS_desenvolupament_aplicacions_multiplataforma.pdf",
+          "official_url": "https://xtec.gencat.cat/web/.content/alfresco/d/d/workspace/SpacesStore/0052/64a26049-c0c0-45cc-baa0-a4f831059839/DOGC_TS_desenvolupament_aplicacions_multiplataforma.pdf",
+          "verified": true,
+          "role": "normative_source"
+        },
+        {
+          "type": "boe",
+          "filename": "BOE_GS_Aplic_Multiplataforma.pdf",
+          "official_url": "https://xtec.gencat.cat/web/.content/alfresco/d/d/workspace/SpacesStore/0069/a046eaea-4fd5-46bd-b6b9-8a0f0d37d4b6/BOE_GS_Aplic_Multiplataforma.pdf",
+          "verified": true,
+          "role": "normative_source"
+        }
+      ],
+      "ra": [
+        {
+          "code": "RA1",
+          "code_full": "0490_ICB0_RA1",
+          "short_description": "Desenvolupa aplicacions compostes per diversos processos",
+          "long_description": "Desenvolupa aplicacions compostes per diversos processos reconeixent i aplicant principis de programació paral·lela.",
+          "source": {
+            "line_start": 1223,
+            "line_end": 1223,
+            "confidence": "high",
+            "source_file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx"
+          }
+        },
+        {
+          "code": "RA2",
+          "code_full": "0490_ICB0_RA2",
+          "short_description": "Desenvolupa aplicacions compostes per diversos fils d'execució",
+          "long_description": "Desenvolupa aplicacions compostes per diversos fils d'execució analitzant i aplicant llibreries específiques del llenguatge de programació.",
+          "source": {
+            "line_start": 1234,
+            "line_end": 1234,
+            "confidence": "high",
+            "source_file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx"
+          }
+        },
+        {
+          "code": "RA3",
+          "code_full": "0490_ICB0_RA3",
+          "short_description": "Programa mecanismes de comunicació en xarxa",
+          "long_description": "Programa mecanismes de comunicació en xarxa emprant sockets i analitzant l'escenari d'execució.",
+          "source": {
+            "line_start": 1247,
+            "line_end": 1247,
+            "confidence": "high",
+            "source_file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx"
+          }
+        },
+        {
+          "code": "RA4",
+          "code_full": "0490_ICB0_RA4",
+          "short_description": "Desenvolupa aplicacions que ofereixen serveis en xarxa",
+          "long_description": "Desenvolupa aplicacions que ofereixen serveis en xarxa, utilitzant llibreries de classes i aplicant criteris d'eficiència i disponibilitat.",
+          "source": {
+            "line_start": 1259,
+            "line_end": 1259,
+            "confidence": "high",
+            "source_file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx"
+          }
+        },
+        {
+          "code": "RA5",
+          "code_full": "0490_ICB0_RA5",
+          "short_description": "Protegeix les aplicacions i les dades",
+          "long_description": "Protegeix les aplicacions i les dades definint i aplicant criteris de seguretat en l'accés, l'emmagatzematge i la transmissió de la informació.",
+          "source": {
+            "line_start": 1270,
+            "line_end": 1270,
+            "confidence": "high",
+            "source_file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx"
+          }
+        }
+      ]
+    },
+    {
+      "id": "0491",
+      "code_full": "0491_ICB0",
+      "name": "Sistemes de gestió empresarial",
+      "status": "oficial",
+      "hours": 99,
+      "hours_center": 66,
+      "hours_company": 33,
+      "ects": 6,
+      "ra_count": 5,
+      "ra_count_validated_with_bulletin": true,
+      "sources": [
+        {
+          "type": "mp",
+          "filename": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx",
+          "official_url": "https://xtec.gencat.cat/web/.content/curriculum/professionals/fp/titolsloe/infcomunicacions/mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx",
+          "verified": true,
+          "role": "primary_ra_source"
+        },
+        {
+          "type": "o",
+          "filename": "o_ICB0_desenvolupament_aplicacions_multiplataforma_20240322.docx",
+          "official_url": "https://xtec.gencat.cat/web/.content/curriculum/professionals/fp/titolsloe/infcomunicacions/o_ICB0_desenvolupament_aplicacions_multiplataforma_20240322.docx",
+          "verified": true,
+          "role": "orientation_source"
+        },
+        {
+          "type": "dogc",
+          "filename": "DOGC_TS_desenvolupament_aplicacions_multiplataforma.pdf",
+          "official_url": "https://xtec.gencat.cat/web/.content/alfresco/d/d/workspace/SpacesStore/0052/64a26049-c0c0-45cc-baa0-a4f831059839/DOGC_TS_desenvolupament_aplicacions_multiplataforma.pdf",
+          "verified": true,
+          "role": "normative_source"
+        },
+        {
+          "type": "boe",
+          "filename": "BOE_GS_Aplic_Multiplataforma.pdf",
+          "official_url": "https://xtec.gencat.cat/web/.content/alfresco/d/d/workspace/SpacesStore/0069/a046eaea-4fd5-46bd-b6b9-8a0f0d37d4b6/BOE_GS_Aplic_Multiplataforma.pdf",
+          "verified": true,
+          "role": "normative_source"
+        }
+      ],
+      "ra": [
+        {
+          "code": "RA1",
+          "code_full": "0491_ICB0_RA1",
+          "short_description": "Identifica sistemes de planificació de recursos empresarials i de gestió de relacions amb clients (ERP-CRM)",
+          "long_description": "Identifica sistemes de planificació de recursos empresarials i de gestió de relacions amb clients (ERP-CRM) reconeixent-ne les característiques i verificant la configuració del sistema informàtic.",
+          "source": {
+            "line_start": 1342,
+            "line_end": 1342,
+            "confidence": "high",
+            "source_file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx"
+          }
+        },
+        {
+          "code": "RA2",
+          "code_full": "0491_ICB0_RA2",
+          "short_description": "Implanta sistemes ERP-CRM",
+          "long_description": "Implanta sistemes ERP-CRM interpretant la documentació tècnica i identificant les diferents opcions i mòduls.",
+          "source": {
+            "line_start": 1352,
+            "line_end": 1352,
+            "confidence": "high",
+            "source_file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx"
+          }
+        },
+        {
+          "code": "RA3",
+          "code_full": "0491_ICB0_RA3",
+          "short_description": "Realitza operacions de gestió, consulta i anàlisi de la informació seguint les especificacions de disseny",
+          "long_description": "Realitza operacions de gestió, consulta i anàlisi de la informació seguint les especificacions de disseny i utilitzant les eines proporcionades pels sistemes ERP-CRM.",
+          "source": {
+            "line_start": 1360,
+            "line_end": 1360,
+            "confidence": "high",
+            "source_file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx"
+          }
+        },
+        {
+          "code": "RA4",
+          "code_full": "0491_ICB0_RA4",
+          "short_description": "Adapta sistemes ERP-CRM",
+          "long_description": "Adapta sistemes ERP-CRM identificant els requeriments d'un supòsit empresarial i utilitzant les eines proporcionades per aquests.",
+          "source": {
+            "line_start": 1370,
+            "line_end": 1370,
+            "confidence": "high",
+            "source_file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx"
+          }
+        },
+        {
+          "code": "RA5",
+          "code_full": "0491_ICB0_RA5",
+          "short_description": "Desenvolupa components per a un sistema ERP-CRM",
+          "long_description": "Desenvolupa components per a un sistema ERP-CRM analitzant i utilitzant el llenguatge de programació incorporat.",
+          "source": {
+            "line_start": 1382,
+            "line_end": 1382,
+            "confidence": "high",
+            "source_file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx"
+          }
+        }
+      ]
+    },
+    {
+      "id": "0179",
+      "code_full": "0179_ICB0",
+      "name": "Anglès professional",
+      "status": "oficial",
+      "hours": 66,
+      "hours_center": 66,
+      "hours_company": null,
+      "ects": 5,
+      "ra_count": 5,
+      "ra_count_validated_with_bulletin": true,
+      "sources": [
+        {
+          "type": "mp",
+          "filename": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx",
+          "official_url": "https://xtec.gencat.cat/web/.content/curriculum/professionals/fp/titolsloe/infcomunicacions/mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx",
+          "verified": true,
+          "role": "primary_ra_source"
+        },
+        {
+          "type": "o",
+          "filename": "o_ICB0_desenvolupament_aplicacions_multiplataforma_20240322.docx",
+          "official_url": "https://xtec.gencat.cat/web/.content/curriculum/professionals/fp/titolsloe/infcomunicacions/o_ICB0_desenvolupament_aplicacions_multiplataforma_20240322.docx",
+          "verified": true,
+          "role": "orientation_source"
+        },
+        {
+          "type": "dogc",
+          "filename": "DOGC_TS_desenvolupament_aplicacions_multiplataforma.pdf",
+          "official_url": "https://xtec.gencat.cat/web/.content/alfresco/d/d/workspace/SpacesStore/0052/64a26049-c0c0-45cc-baa0-a4f831059839/DOGC_TS_desenvolupament_aplicacions_multiplataforma.pdf",
+          "verified": true,
+          "role": "normative_source"
+        },
+        {
+          "type": "boe",
+          "filename": "BOE_GS_Aplic_Multiplataforma.pdf",
+          "official_url": "https://xtec.gencat.cat/web/.content/alfresco/d/d/workspace/SpacesStore/0069/a046eaea-4fd5-46bd-b6b9-8a0f0d37d4b6/BOE_GS_Aplic_Multiplataforma.pdf",
+          "verified": true,
+          "role": "normative_source"
+        }
+      ],
+      "ra": [
+        {
+          "code": "RA1",
+          "code_full": "0179_ICB0_RA1",
+          "short_description": "Comprèn informació, d'índole professional, acadèmica i quotidiana, continguda en tota mena de discursos orals, emesos per qualsevol mitjà de comunicació en llengua estàndard",
+          "long_description": "Comprèn informació, d'índole professional, acadèmica i quotidiana, continguda en tota mena de discursos orals, emesos per qualsevol mitjà de comunicació en llengua estàndard, interpretant amb precisió el contingut del missatge.",
+          "source": {
+            "line_start": 1452,
+            "line_end": 1452,
+            "confidence": "high",
+            "source_file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx"
+          }
+        },
+        {
+          "code": "RA2",
+          "code_full": "0179_ICB0_RA2",
+          "short_description": "Comprèn missatges escrits, de naturalesa professional, acadèmica i quotidiana, de relativa dificultat",
+          "long_description": "Comprèn missatges escrits, de naturalesa professional, acadèmica i quotidiana, de relativa dificultat, analitzant de manera comprensiva el seu contingut.",
+          "source": {
+            "line_start": 1462,
+            "line_end": 1462,
+            "confidence": "high",
+            "source_file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx"
+          }
+        },
+        {
+          "code": "RA3",
+          "code_full": "0179_ICB0_RA3",
+          "short_description": "Emet missatges orals clars i ben estructurats",
+          "long_description": "Emet missatges orals clars i ben estructurats, analitzant el contingut de la situació i adaptant-se al registre lingüístic de l'interlocutor.",
+          "source": {
+            "line_start": 1475,
+            "line_end": 1475,
+            "confidence": "high",
+            "source_file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx"
+          }
+        },
+        {
+          "code": "RA4",
+          "code_full": "0179_ICB0_RA4",
+          "short_description": "Redacta documents i informes, propis del sector o de la vida acadèmica i quotidiana",
+          "long_description": "Redacta documents i informes, propis del sector o de la vida acadèmica i quotidiana, relacionant els recursos lingüístics amb el seu propòsit.",
+          "source": {
+            "line_start": 1488,
+            "line_end": 1488,
+            "confidence": "high",
+            "source_file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx"
+          }
+        },
+        {
+          "code": "RA5",
+          "code_full": "0179_ICB0_RA5",
+          "short_description": "Aplica actituds i comportaments professionals en situacions de comunicació",
+          "long_description": "Aplica actituds i comportaments professionals en situacions de comunicació, descrivint les relacions típiques característiques del país de la llengua estrangera.",
+          "source": {
+            "line_start": 1498,
+            "line_end": 1498,
+            "confidence": "high",
+            "source_file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx"
+          }
+        }
+      ]
+    },
+    {
+      "id": "1665",
+      "code_full": "1665_ICB0",
+      "name": "Digitalització aplicada als sectors productius",
+      "status": "oficial",
+      "hours": 33,
+      "hours_center": 33,
+      "hours_company": null,
+      "ects": 3,
+      "ra_count": 6,
+      "ra_count_validated_with_bulletin": true,
+      "sources": [
+        {
+          "type": "mp",
+          "filename": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx",
+          "official_url": "https://xtec.gencat.cat/web/.content/curriculum/professionals/fp/titolsloe/infcomunicacions/mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx",
+          "verified": true,
+          "role": "primary_ra_source"
+        },
+        {
+          "type": "o",
+          "filename": "o_ICB0_desenvolupament_aplicacions_multiplataforma_20240322.docx",
+          "official_url": "https://xtec.gencat.cat/web/.content/curriculum/professionals/fp/titolsloe/infcomunicacions/o_ICB0_desenvolupament_aplicacions_multiplataforma_20240322.docx",
+          "verified": true,
+          "role": "orientation_source"
+        },
+        {
+          "type": "dogc",
+          "filename": "DOGC_TS_desenvolupament_aplicacions_multiplataforma.pdf",
+          "official_url": "https://xtec.gencat.cat/web/.content/alfresco/d/d/workspace/SpacesStore/0052/64a26049-c0c0-45cc-baa0-a4f831059839/DOGC_TS_desenvolupament_aplicacions_multiplataforma.pdf",
+          "verified": true,
+          "role": "normative_source"
+        },
+        {
+          "type": "boe",
+          "filename": "BOE_GS_Aplic_Multiplataforma.pdf",
+          "official_url": "https://xtec.gencat.cat/web/.content/alfresco/d/d/workspace/SpacesStore/0069/a046eaea-4fd5-46bd-b6b9-8a0f0d37d4b6/BOE_GS_Aplic_Multiplataforma.pdf",
+          "verified": true,
+          "role": "normative_source"
+        }
+      ],
+      "ra": [
+        {
+          "code": "RA1",
+          "code_full": "1665_ICB0_RA1",
+          "short_description": "Analitza el concepte de digitalització i la seva repercussió en els sectors productius",
+          "long_description": "Analitza el concepte de digitalització i la seva repercussió en els sectors productius tenint en compte l'activitat de l'empresa i identificant entorns IT (Information Technology: tecnologia de la informació) i OT (Operation Technology: tecnologia d'operació) característics.",
+          "source": {
+            "line_start": 1546,
+            "line_end": 1546,
+            "confidence": "high",
+            "source_file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx"
+          }
+        },
+        {
+          "code": "RA2",
+          "code_full": "1665_ICB0_RA2",
+          "short_description": "Caracteritza les tecnologies habilitadores digitals necessàries per a l'adequació/transformació de les empreses a entorns digitals",
+          "long_description": "Caracteritza les tecnologies habilitadores digitals necessàries per a l'adequació/transformació de les empreses a entorns digitals descrivint les seves característiques i aplicacions.",
+          "source": {
+            "line_start": 1555,
+            "line_end": 1555,
+            "confidence": "high",
+            "source_file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx"
+          }
+        },
+        {
+          "code": "RA3",
+          "code_full": "1665_ICB0_RA3",
+          "short_description": "Identifica sistemes basats en cloud/núvol i la seva influència en",
+          "long_description": "Identifica sistemes basats en cloud/núvol i la seva influència en el desenvolupament dels sistemes digitals.",
+          "source": {
+            "line_start": 1565,
+            "line_end": 1565,
+            "confidence": "high",
+            "source_file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx"
+          }
+        },
+        {
+          "code": "RA4",
+          "code_full": "1665_ICB0_RA4",
+          "short_description": "Identifica aplicacions de la IA (intel·ligència artificial) en entorns del sector on està emmarcat el títol",
+          "long_description": "Identifica aplicacions de la IA (intel·ligència artificial) en entorns del sector on està emmarcat el títol descrivint les millores implícites en la seva implementació",
+          "source": {
+            "line_start": 1572,
+            "line_end": 1572,
+            "confidence": "high",
+            "source_file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx"
+          }
+        },
+        {
+          "code": "RA5",
+          "code_full": "1665_ICB0_RA5",
+          "short_description": "Avalua la importància de les dades, així com la seva protecció en una economia digital globalitzada",
+          "long_description": "Avalua la importància de les dades, així com la seva protecció en una economia digital globalitzada, definint sistemes de seguretat i ciberseguretat tant a nivell d'equip/sistema, com a globals.",
+          "source": {
+            "line_start": 1580,
+            "line_end": 1580,
+            "confidence": "high",
+            "source_file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx"
+          }
+        },
+        {
+          "code": "RA6",
+          "code_full": "1665_ICB0_RA6",
+          "short_description": "Desenvolupa un projecte de transformació digital d'una empresa d'un sector relacionat amb el títol",
+          "long_description": "Desenvolupa un projecte de transformació digital d'una empresa d'un sector relacionat amb el títol, tenint en compte els canvis que s'han de produir en funció dels objectius de l'empresa.",
+          "source": {
+            "line_start": 1591,
+            "line_end": 1591,
+            "confidence": "high",
+            "source_file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx"
+          }
+        }
+      ]
+    },
+    {
+      "id": "1708",
+      "code_full": "1708_ICB0",
+      "name": "Sostenibilitat Aplicada al Sistema Productiu",
+      "status": "oficial",
+      "hours": 33,
+      "hours_center": 33,
+      "hours_company": null,
+      "ects": 3,
+      "ra_count": 6,
+      "ra_count_validated_with_bulletin": true,
+      "sources": [
+        {
+          "type": "mp",
+          "filename": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx",
+          "official_url": "https://xtec.gencat.cat/web/.content/curriculum/professionals/fp/titolsloe/infcomunicacions/mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx",
+          "verified": true,
+          "role": "primary_ra_source"
+        },
+        {
+          "type": "o",
+          "filename": "o_ICB0_desenvolupament_aplicacions_multiplataforma_20240322.docx",
+          "official_url": "https://xtec.gencat.cat/web/.content/curriculum/professionals/fp/titolsloe/infcomunicacions/o_ICB0_desenvolupament_aplicacions_multiplataforma_20240322.docx",
+          "verified": true,
+          "role": "orientation_source"
+        },
+        {
+          "type": "dogc",
+          "filename": "DOGC_TS_desenvolupament_aplicacions_multiplataforma.pdf",
+          "official_url": "https://xtec.gencat.cat/web/.content/alfresco/d/d/workspace/SpacesStore/0052/64a26049-c0c0-45cc-baa0-a4f831059839/DOGC_TS_desenvolupament_aplicacions_multiplataforma.pdf",
+          "verified": true,
+          "role": "normative_source"
+        },
+        {
+          "type": "boe",
+          "filename": "BOE_GS_Aplic_Multiplataforma.pdf",
+          "official_url": "https://xtec.gencat.cat/web/.content/alfresco/d/d/workspace/SpacesStore/0069/a046eaea-4fd5-46bd-b6b9-8a0f0d37d4b6/BOE_GS_Aplic_Multiplataforma.pdf",
+          "verified": true,
+          "role": "normative_source"
+        }
+      ],
+      "ra": [
+        {
+          "code": "RA1",
+          "code_full": "1708_ICB0_RA1",
+          "short_description": "Identifica els aspectes ambientals, socials i de governança (ASG) relatius a la sostenibilitat",
+          "long_description": "Identifica els aspectes ambientals, socials i de governança (ASG) relatius a la sostenibilitat tenint en compte el concepte de desenvolupament sostenible i els marcs internacionals que contribueixen a la seva consecució.",
+          "source": {
+            "line_start": 1662,
+            "line_end": 1662,
+            "confidence": "high",
+            "source_file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx"
+          }
+        },
+        {
+          "code": "RA2",
+          "code_full": "1708_ICB0_RA2",
+          "short_description": "Caracteritza els reptes ambientals i socials als quals s'enfronta la societat",
+          "long_description": "Caracteritza els reptes ambientals i socials als quals s'enfronta la societat, descrivint els impactes sobre les persones i els sectors productius i proposant accions per a minimitzar-los.",
+          "source": {
+            "line_start": 1670,
+            "line_end": 1670,
+            "confidence": "high",
+            "source_file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx"
+          }
+        },
+        {
+          "code": "RA3",
+          "code_full": "1708_ICB0_RA3",
+          "short_description": "Estableix l'aplicació de criteris de sostenibilitat en l'acompliment professional i personal",
+          "long_description": "Estableix l'aplicació de criteris de sostenibilitat en l'acompliment professional i personal, identificant els elements necessaris.",
+          "source": {
+            "line_start": 1677,
+            "line_end": 1677,
+            "confidence": "high",
+            "source_file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx"
+          }
+        },
+        {
+          "code": "RA4",
+          "code_full": "1708_ICB0_RA4",
+          "short_description": "Proposa productes i serveis responsables",
+          "long_description": "Proposa productes i serveis responsables tenint en compte els principis de l’economia circular.",
+          "source": {
+            "line_start": 1682,
+            "line_end": 1682,
+            "confidence": "high",
+            "source_file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx"
+          }
+        },
+        {
+          "code": "RA5",
+          "code_full": "1708_ICB0_RA5",
+          "short_description": "Realitza activitats sostenibles minimitzant l'impacte de les mateixes en el",
+          "long_description": "Realitza activitats sostenibles minimitzant l'impacte de les mateixes en el medi ambient.",
+          "source": {
+            "line_start": 1690,
+            "line_end": 1690,
+            "confidence": "high",
+            "source_file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx"
+          }
+        },
+        {
+          "code": "RA6",
+          "code_full": "1708_ICB0_RA6",
+          "short_description": "Analitza un pla de sostenibilitat d'una empresa del sector",
+          "long_description": "Analitza un pla de sostenibilitat d'una empresa del sector, identificant els seus grups d'interès, els aspectes ASG materials i justificant accions per a la seva gestió i mesurament.",
+          "source": {
+            "line_start": 1701,
+            "line_end": 1701,
+            "confidence": "high",
+            "source_file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx"
+          }
+        }
+      ]
+    },
+    {
+      "id": "1709",
+      "code_full": "1709_ICB0",
+      "name": "Itinerari personal per a l'ocupabilitat I",
+      "status": "oficial",
+      "hours": 99,
+      "hours_center": 99,
+      "hours_company": null,
+      "ects": 5,
+      "ra_count": 5,
+      "ra_count_validated_with_bulletin": true,
+      "sources": [
+        {
+          "type": "mp",
+          "filename": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx",
+          "official_url": "https://xtec.gencat.cat/web/.content/curriculum/professionals/fp/titolsloe/infcomunicacions/mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx",
+          "verified": true,
+          "role": "primary_ra_source"
+        },
+        {
+          "type": "o",
+          "filename": "o_ICB0_desenvolupament_aplicacions_multiplataforma_20240322.docx",
+          "official_url": "https://xtec.gencat.cat/web/.content/curriculum/professionals/fp/titolsloe/infcomunicacions/o_ICB0_desenvolupament_aplicacions_multiplataforma_20240322.docx",
+          "verified": true,
+          "role": "orientation_source"
+        },
+        {
+          "type": "dogc",
+          "filename": "DOGC_TS_desenvolupament_aplicacions_multiplataforma.pdf",
+          "official_url": "https://xtec.gencat.cat/web/.content/alfresco/d/d/workspace/SpacesStore/0052/64a26049-c0c0-45cc-baa0-a4f831059839/DOGC_TS_desenvolupament_aplicacions_multiplataforma.pdf",
+          "verified": true,
+          "role": "normative_source"
+        },
+        {
+          "type": "boe",
+          "filename": "BOE_GS_Aplic_Multiplataforma.pdf",
+          "official_url": "https://xtec.gencat.cat/web/.content/alfresco/d/d/workspace/SpacesStore/0069/a046eaea-4fd5-46bd-b6b9-8a0f0d37d4b6/BOE_GS_Aplic_Multiplataforma.pdf",
+          "verified": true,
+          "role": "normative_source"
+        }
+      ],
+      "ra": [
+        {
+          "code": "RA1",
+          "code_full": "1709_ICB0_RA1",
+          "short_description": "Distingeix les característiques del sector productiu i defineix els llocs de treball",
+          "long_description": "Distingeix les característiques del sector productiu i defineix els llocs de treball, relacionant-los amb les competències professionals expressades en el títol.",
+          "source": {
+            "line_start": 1744,
+            "line_end": 1744,
+            "confidence": "high",
+            "source_file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx"
+          }
+        },
+        {
+          "code": "RA2",
+          "code_full": "1709_ICB0_RA2",
+          "short_description": "Assoleix les competències necessàries per a l'obtenció del títol de",
+          "long_description": "Assoleix les competències necessàries per a l'obtenció del títol de Tècnic Bàsic en Prevenció de Riscos Laborals.",
+          "source": {
+            "line_start": 1749,
+            "line_end": 1749,
+            "confidence": "high",
+            "source_file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx"
+          }
+        },
+        {
+          "code": "RA3",
+          "code_full": "1709_ICB0_RA3",
+          "short_description": "Analitza les seves condicions laborals com a persona treballadora per compte d'altri",
+          "long_description": "Analitza les seves condicions laborals com a persona treballadora per compte d'altri, identificant-les en els principals tipus de canvis i vicissituds rellevants que es poden presentar en la relació laboral, en la normativa laboral i, especialment, en el conveni col·lectiu del sector.",
+          "source": {
+            "line_start": 1760,
+            "line_end": 1760,
+            "confidence": "high",
+            "source_file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx"
+          }
+        },
+        {
+          "code": "RA4",
+          "code_full": "1709_ICB0_RA4",
+          "short_description": "Analitza i avalua el seu potencial professional i els seus",
+          "long_description": "Analitza i avalua el seu potencial professional i els seus interessos per a guiar-se en el procés d'autoorientació i elabora un full de ruta per a la inserció professional partint de l'anàlisi de les competències, interessos i destreses personals.",
+          "source": {
+            "line_start": 1769,
+            "line_end": 1769,
+            "confidence": "high",
+            "source_file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx"
+          }
+        },
+        {
+          "code": "RA5",
+          "code_full": "1709_ICB0_RA5",
+          "short_description": "Aplica les estratègies per a l'aprenentatge autònom",
+          "long_description": "Aplica les estratègies per a l'aprenentatge autònom reconeixent el seu valor professionalitzador, dissenyant i optimitzant el seu propi entorn d'aprenentatge fent ús de les tecnologies digitals com a eines d'aprenentatge autònom, sent coherent amb la seva identitat digital i els seus objectius professionals plantejats en el seu pla de desenvolupament individual.",
+          "source": {
+            "line_start": 1782,
+            "line_end": 1782,
+            "confidence": "high",
+            "source_file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx"
+          }
+        }
+      ]
+    },
+    {
+      "id": "1710",
+      "code_full": "1710_ICB0",
+      "name": "Itinerari personal per a l'ocupabilitat II",
+      "status": "oficial",
+      "hours": 66,
+      "hours_center": 66,
+      "hours_company": null,
+      "ects": 5,
+      "ra_count": 5,
+      "ra_count_validated_with_bulletin": true,
+      "sources": [
+        {
+          "type": "mp",
+          "filename": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx",
+          "official_url": "https://xtec.gencat.cat/web/.content/curriculum/professionals/fp/titolsloe/infcomunicacions/mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx",
+          "verified": true,
+          "role": "primary_ra_source"
+        },
+        {
+          "type": "o",
+          "filename": "o_ICB0_desenvolupament_aplicacions_multiplataforma_20240322.docx",
+          "official_url": "https://xtec.gencat.cat/web/.content/curriculum/professionals/fp/titolsloe/infcomunicacions/o_ICB0_desenvolupament_aplicacions_multiplataforma_20240322.docx",
+          "verified": true,
+          "role": "orientation_source"
+        },
+        {
+          "type": "dogc",
+          "filename": "DOGC_TS_desenvolupament_aplicacions_multiplataforma.pdf",
+          "official_url": "https://xtec.gencat.cat/web/.content/alfresco/d/d/workspace/SpacesStore/0052/64a26049-c0c0-45cc-baa0-a4f831059839/DOGC_TS_desenvolupament_aplicacions_multiplataforma.pdf",
+          "verified": true,
+          "role": "normative_source"
+        },
+        {
+          "type": "boe",
+          "filename": "BOE_GS_Aplic_Multiplataforma.pdf",
+          "official_url": "https://xtec.gencat.cat/web/.content/alfresco/d/d/workspace/SpacesStore/0069/a046eaea-4fd5-46bd-b6b9-8a0f0d37d4b6/BOE_GS_Aplic_Multiplataforma.pdf",
+          "verified": true,
+          "role": "normative_source"
+        }
+      ],
+      "ra": [
+        {
+          "code": "RA1",
+          "code_full": "1710_ICB0_RA1",
+          "short_description": "Planifica i posa en marxa estratègies en els diferents processos",
+          "long_description": "Planifica i posa en marxa estratègies en els diferents processos selectius d'ocupació que li permeten millorar les seves possibilitats d'inserció laboral.",
+          "source": {
+            "line_start": 1865,
+            "line_end": 1865,
+            "confidence": "high",
+            "source_file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx"
+          }
+        },
+        {
+          "code": "RA2",
+          "code_full": "1710_ICB0_RA2",
+          "short_description": "Aplica estratègies relacionades amb les competències personals, socials i emocionals",
+          "long_description": "Aplica estratègies relacionades amb les competències personals, socials i emocionals per al desenvolupament de la seva iniciativa emprenedora i la millora de la seva ocupabilitat.",
+          "source": {
+            "line_start": 1871,
+            "line_end": 1871,
+            "confidence": "high",
+            "source_file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx"
+          }
+        },
+        {
+          "code": "RA3",
+          "code_full": "1710_ICB0_RA3",
+          "short_description": "Posa en pràctica les habilitats emprenedores necessàries per al desenvolupament",
+          "long_description": "Posa en pràctica les habilitats emprenedores necessàries per al desenvolupament de processos d’innovació i recerca aplicades que promouen la modernització del sector productiu cap a un model sostenible.",
+          "source": {
+            "line_start": 1880,
+            "line_end": 1880,
+            "confidence": "high",
+            "source_file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx"
+          }
+        },
+        {
+          "code": "RA4",
+          "code_full": "1710_ICB0_RA4",
+          "short_description": "Identifica, defineix i valida idees d’emprenedoria generadores de noves oportunitats a partir d’estratègies d’anàlisi de l’entorn socioproductiu",
+          "long_description": "Identifica, defineix i valida idees d’emprenedoria generadores de noves oportunitats a partir d’estratègies d’anàlisi de l’entorn socioproductiu utilitzant metodologies àgils per l’emprenedoria.",
+          "source": {
+            "line_start": 1888,
+            "line_end": 1888,
+            "confidence": "high",
+            "source_file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx"
+          }
+        },
+        {
+          "code": "RA5",
+          "code_full": "1710_ICB0_RA5",
+          "short_description": "Desenvolupa un projecte emprenedor d’innovació social i/o tecnològica aplicada en",
+          "long_description": "Desenvolupa un projecte emprenedor d’innovació social i/o tecnològica aplicada en col·laboració amb l’entorn.",
+          "source": {
+            "line_start": 1900,
+            "line_end": 1900,
+            "confidence": "high",
+            "source_file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx"
+          }
+        }
+      ]
+    },
+    {
+      "id": "0492",
+      "code_full": "0492_ICB0",
+      "name": "Projecte intermodular de desenvolupament d'aplicacions multiplataforma",
+      "status": "oficial",
+      "hours": 198,
+      "hours_center": 99,
+      "hours_company": 0,
+      "ects": 5,
+      "ra_count": 4,
+      "ra_count_validated_with_bulletin": true,
+      "sources": [
+        {
+          "type": "mp",
+          "filename": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx",
+          "official_url": "https://xtec.gencat.cat/web/.content/curriculum/professionals/fp/titolsloe/infcomunicacions/mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx",
+          "verified": true,
+          "role": "primary_ra_source"
+        },
+        {
+          "type": "o",
+          "filename": "o_ICB0_desenvolupament_aplicacions_multiplataforma_20240322.docx",
+          "official_url": "https://xtec.gencat.cat/web/.content/curriculum/professionals/fp/titolsloe/infcomunicacions/o_ICB0_desenvolupament_aplicacions_multiplataforma_20240322.docx",
+          "verified": true,
+          "role": "orientation_source"
+        },
+        {
+          "type": "dogc",
+          "filename": "DOGC_TS_desenvolupament_aplicacions_multiplataforma.pdf",
+          "official_url": "https://xtec.gencat.cat/web/.content/alfresco/d/d/workspace/SpacesStore/0052/64a26049-c0c0-45cc-baa0-a4f831059839/DOGC_TS_desenvolupament_aplicacions_multiplataforma.pdf",
+          "verified": true,
+          "role": "normative_source"
+        },
+        {
+          "type": "boe",
+          "filename": "BOE_GS_Aplic_Multiplataforma.pdf",
+          "official_url": "https://xtec.gencat.cat/web/.content/alfresco/d/d/workspace/SpacesStore/0069/a046eaea-4fd5-46bd-b6b9-8a0f0d37d4b6/BOE_GS_Aplic_Multiplataforma.pdf",
+          "verified": true,
+          "role": "normative_source"
+        }
+      ],
+      "ra": [
+        {
+          "code": "RA1",
+          "code_full": "0492_ICB0_RA1",
+          "short_description": "Identifica necessitats del sector productiu",
+          "long_description": "Identifica necessitats del sector productiu, relacionant-les amb projectes tipus que les puguin satisfer.",
+          "source": {
+            "line_start": 1971,
+            "line_end": 1971,
+            "confidence": "high",
+            "source_file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx"
+          }
+        },
+        {
+          "code": "RA2",
+          "code_full": "0492_ICB0_RA2",
+          "short_description": "Dissenya projectes relacionats amb les competències expressades al títol",
+          "long_description": "Dissenya projectes relacionats amb les competències expressades al títol, desenvolupant explícitament les fases que el componen.",
+          "source": {
+            "line_start": 1982,
+            "line_end": 1982,
+            "confidence": "high",
+            "source_file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx"
+          }
+        },
+        {
+          "code": "RA3",
+          "code_full": "0492_ICB0_RA3",
+          "short_description": "Planifica l'execució del projecte, determinant el pla d'intervenció i la",
+          "long_description": "Planifica l'execució del projecte, determinant el pla d'intervenció i la documentació associada.",
+          "source": {
+            "line_start": 1993,
+            "line_end": 1993,
+            "confidence": "high",
+            "source_file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx"
+          }
+        },
+        {
+          "code": "RA4",
+          "code_full": "0492_ICB0_RA4",
+          "short_description": "Defineix els procediments per al seguiment i el control en",
+          "long_description": "Defineix els procediments per al seguiment i el control en l'execució del projecte, justificant la selecció de variables i instruments emprats.",
+          "source": {
+            "line_start": 2003,
+            "line_end": 2003,
+            "confidence": "high",
+            "source_file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx"
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1602 @@
+{
+  "cycle": {
+    "id": "IC10",
+    "name": "Sistemes microinformàtics i xarxes",
+    "level": "CFGM",
+    "status": "oficial",
+    "source_file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+    "line_basis": "paragraph_index_in_parsed_docx_text",
+    "notes": [
+      "Les línies line_start i line_end corresponen a l’índex de paràgraf del text parsejat del DOCX.",
+      "Els mòduls 0221, 0222, 0223, 0225, 0156, 1664, 1708 i 1709 tenen el recompte de RA contrastat amb el butlletí de coordinació de 1a avaluació.",
+      "Els mòduls 0224, 0226, 0227, 0228, 1710 i 1713 s’han extret literalment del DOCX oficial, però no apareixen al butlletí adjunt i per tant no tenen contrast de recompte amb aquest PDF.",
+      "El mòdul optatiu de centre MOPT1 no s’inclou perquè no apareix al DOCX oficial del cicle i, per tant, no es pot generar sense heurístiques ni font oficial equivalent."
+    ]
+  },
+  "sources": [
+    {
+      "type": "dogc",
+      "filename": "DOGC_T_sistemes_microinformatics_xarxes.pdf",
+      "official_url": "https://xtec.gencat.cat/web/.content/alfresco/d/d/workspace/SpacesStore/0087/d5856770-ea2c-4b02-a8f6-ab9a35d446e9/DOGC_T_sistemes_microinformatics_xarxes.pdf",
+      "verified": true
+    },
+    {
+      "type": "mp",
+      "filename": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+      "official_url": "https://xtec.gencat.cat/web/.content/curriculum/professionals/fp/titolsloe/infcomunicacions/mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+      "verified": true
+    },
+    {
+      "type": "o",
+      "filename": "o_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+      "official_url": "https://xtec.gencat.cat/web/.content/curriculum/professionals/fp/titolsloe/infcomunicacions/o_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+      "verified": true
+    },
+    {
+      "type": "titol",
+      "filename": "T_sist_microinformatics_i_xarxes.pdf",
+      "official_url": "https://xtec.gencat.cat/web/.content/alfresco/d/d/workspace/SpacesStore/0057/78f127a0-c628-46c4-8ad0-e79ce4f39376/T_sist_microinformatics_i_xarxes.pdf",
+      "verified": true
+    }
+  ],
+  "modules": [
+    {
+      "id": "0221",
+      "name": "Muntatge i manteniment d’equips",
+      "family": "IC10",
+      "status": "oficial",
+      "hours": 231,
+      "sources": [
+        {
+          "type": "dogc",
+          "filename": "DOGC_T_sistemes_microinformatics_xarxes.pdf",
+          "official_url": "https://xtec.gencat.cat/web/.content/alfresco/d/d/workspace/SpacesStore/0087/d5856770-ea2c-4b02-a8f6-ab9a35d446e9/DOGC_T_sistemes_microinformatics_xarxes.pdf",
+          "verified": true
+        },
+        {
+          "type": "mp",
+          "filename": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+          "official_url": "https://xtec.gencat.cat/web/.content/curriculum/professionals/fp/titolsloe/infcomunicacions/mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+          "verified": true
+        },
+        {
+          "type": "o",
+          "filename": "o_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+          "official_url": "https://xtec.gencat.cat/web/.content/curriculum/professionals/fp/titolsloe/infcomunicacions/o_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+          "verified": true
+        },
+        {
+          "type": "titol",
+          "filename": "T_sist_microinformatics_i_xarxes.pdf",
+          "official_url": "https://xtec.gencat.cat/web/.content/alfresco/d/d/workspace/SpacesStore/0057/78f127a0-c628-46c4-8ad0-e79ce4f39376/T_sist_microinformatics_i_xarxes.pdf",
+          "verified": true
+        }
+      ],
+      "validation": {
+        "docx_ra_count": 8,
+        "bulletin_ra_count": 8,
+        "count_match": true,
+        "bulletin_validated": true
+      },
+      "ra": [
+        {
+          "code": "RA1",
+          "code_full": "0221_IC10_RA1",
+          "short_description": "Selecciona els components d’integració d’un equip microinformàtic estàndard, descrivint-ne les funcions i comparant-ne les prestacions de diferents fabricants.",
+          "long_description": "Selecciona els components d’integració d’un equip microinformàtic estàndard, descrivint-ne les funcions i comparant-ne les prestacions de diferents fabricants.",
+          "source": {
+            "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+            "line_start": 66,
+            "line_end": 66,
+            "confidence": "literal_docx_paragraph"
+          }
+        },
+        {
+          "code": "RA2",
+          "code_full": "0221_IC10_RA2",
+          "short_description": "Acobla un equip microinformàtic, interpretant-ne els plans i instruccions del fabricant, i  aplicant-hi tècniques de muntatge.",
+          "long_description": "Acobla un equip microinformàtic, interpretant-ne els plans i instruccions del fabricant, i  aplicant-hi tècniques de muntatge.",
+          "source": {
+            "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+            "line_start": 78,
+            "line_end": 78,
+            "confidence": "literal_docx_paragraph"
+          }
+        },
+        {
+          "code": "RA3",
+          "code_full": "0221_IC10_RA3",
+          "short_description": "Mesura paràmetres elèctrics, identificant el tipus de senyal i relacionant-la amb les seves unitats característiques.",
+          "long_description": "Mesura paràmetres elèctrics, identificant el tipus de senyal i relacionant-la amb les seves unitats característiques.",
+          "source": {
+            "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+            "line_start": 92,
+            "line_end": 92,
+            "confidence": "literal_docx_paragraph"
+          }
+        },
+        {
+          "code": "RA4",
+          "code_full": "0221_IC10_RA4",
+          "short_description": "Manté equips informàtics interpretant les recomanacions dels fabricants i relacionant les disfuncions amb les seves causes.",
+          "long_description": "Manté equips informàtics interpretant les recomanacions dels fabricants i relacionant les disfuncions amb les seves causes.",
+          "source": {
+            "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+            "line_start": 104,
+            "line_end": 104,
+            "confidence": "literal_docx_paragraph"
+          }
+        },
+        {
+          "code": "RA5",
+          "code_full": "0221_IC10_RA5",
+          "short_description": "Instal·la programari en un equip informàtic utilitzant una imatge emmagatzemada en un suport de memòria i justificant el procediment a seguir.",
+          "long_description": "Instal·la programari en un equip informàtic utilitzant una imatge emmagatzemada en un suport de memòria i justificant el procediment a seguir.",
+          "source": {
+            "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+            "line_start": 115,
+            "line_end": 115,
+            "confidence": "literal_docx_paragraph"
+          }
+        },
+        {
+          "code": "RA6",
+          "code_full": "0221_IC10_RA6",
+          "short_description": "Reconeix noves tendències en l’acoblament d’equips microinformàtics descrivint-ne els avantatges i adaptant-les a les característiques d’ús dels equips.",
+          "long_description": "Reconeix noves tendències en l’acoblament d’equips microinformàtics descrivint-ne els avantatges i adaptant-les a les característiques d’ús dels equips.",
+          "source": {
+            "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+            "line_start": 126,
+            "line_end": 126,
+            "confidence": "literal_docx_paragraph"
+          }
+        },
+        {
+          "code": "RA7",
+          "code_full": "0221_IC10_RA7",
+          "short_description": "Manté perifèrics, interpretant-ne les recomanacions dels fabricants d'equips i relacionant-ne disfuncions amb les seves causes.",
+          "long_description": "Manté perifèrics, interpretant-ne les recomanacions dels fabricants d'equips i relacionant-ne disfuncions amb les seves causes.",
+          "source": {
+            "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+            "line_start": 136,
+            "line_end": 136,
+            "confidence": "literal_docx_paragraph"
+          }
+        },
+        {
+          "code": "RA8",
+          "code_full": "0221_IC10_RA8",
+          "short_description": "Compleix les normes de prevenció de riscos laborals i de protecció ambiental, identificant-ne els riscos associats, les mesures i equips per a prevenir-los.",
+          "long_description": "Compleix les normes de prevenció de riscos laborals i de protecció ambiental, identificant-ne els riscos associats, les mesures i equips per a prevenir-los.",
+          "source": {
+            "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+            "line_start": 147,
+            "line_end": 147,
+            "confidence": "literal_docx_paragraph"
+          }
+        }
+      ]
+    },
+    {
+      "id": "0222",
+      "name": "Sistemes operatius monolloc",
+      "family": "IC10",
+      "status": "oficial",
+      "hours": 132,
+      "sources": [
+        {
+          "type": "dogc",
+          "filename": "DOGC_T_sistemes_microinformatics_xarxes.pdf",
+          "official_url": "https://xtec.gencat.cat/web/.content/alfresco/d/d/workspace/SpacesStore/0087/d5856770-ea2c-4b02-a8f6-ab9a35d446e9/DOGC_T_sistemes_microinformatics_xarxes.pdf",
+          "verified": true
+        },
+        {
+          "type": "mp",
+          "filename": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+          "official_url": "https://xtec.gencat.cat/web/.content/curriculum/professionals/fp/titolsloe/infcomunicacions/mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+          "verified": true
+        },
+        {
+          "type": "o",
+          "filename": "o_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+          "official_url": "https://xtec.gencat.cat/web/.content/curriculum/professionals/fp/titolsloe/infcomunicacions/o_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+          "verified": true
+        },
+        {
+          "type": "titol",
+          "filename": "T_sist_microinformatics_i_xarxes.pdf",
+          "official_url": "https://xtec.gencat.cat/web/.content/alfresco/d/d/workspace/SpacesStore/0057/78f127a0-c628-46c4-8ad0-e79ce4f39376/T_sist_microinformatics_i_xarxes.pdf",
+          "verified": true
+        }
+      ],
+      "validation": {
+        "docx_ra_count": 5,
+        "bulletin_ra_count": 5,
+        "count_match": true,
+        "bulletin_validated": true
+      },
+      "ra": [
+        {
+          "code": "RA1",
+          "code_full": "0222_IC10_RA1",
+          "short_description": "Reconeix les característiques dels sistemes operatius, descrivint-ne els tipus i aplicacions.",
+          "long_description": "Reconeix les característiques dels sistemes operatius, descrivint-ne els tipus i aplicacions.",
+          "source": {
+            "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+            "line_start": 212,
+            "line_end": 212,
+            "confidence": "literal_docx_paragraph"
+          }
+        },
+        {
+          "code": "RA2",
+          "code_full": "0222_IC10_RA2",
+          "short_description": "Instal·la sistemes operatius, relacionant-ne les característiques amb el maquinari de l'equip i el programari d'aplicació.",
+          "long_description": "Instal·la sistemes operatius, relacionant-ne les característiques amb el maquinari de l'equip i el programari d'aplicació.",
+          "source": {
+            "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+            "line_start": 221,
+            "line_end": 221,
+            "confidence": "literal_docx_paragraph"
+          }
+        },
+        {
+          "code": "RA3",
+          "code_full": "0222_IC10_RA3",
+          "short_description": "Realitza tasques bàsiques de configuració de sistemes operatius, interpretant-ne requeriments i descrivint-ne els procediments seguits.",
+          "long_description": "Realitza tasques bàsiques de configuració de sistemes operatius, interpretant-ne requeriments i descrivint-ne els procediments seguits.",
+          "source": {
+            "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+            "line_start": 235,
+            "line_end": 235,
+            "confidence": "literal_docx_paragraph"
+          }
+        },
+        {
+          "code": "RA4",
+          "code_full": "0222_IC10_RA4",
+          "short_description": "Realitza operacions bàsiques d'administració de sistemes operatius, interpretant requeriments i optimitzant el sistema per al seu ús.",
+          "long_description": "Realitza operacions bàsiques d'administració de sistemes operatius, interpretant requeriments i optimitzant el sistema per al seu ús.",
+          "source": {
+            "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+            "line_start": 250,
+            "line_end": 250,
+            "confidence": "literal_docx_paragraph"
+          }
+        },
+        {
+          "code": "RA5",
+          "code_full": "0222_IC10_RA5",
+          "short_description": "Crea màquines virtuals identificant-ne el camp d'aplicació i instal·lant-hi programari específic.",
+          "long_description": "Crea màquines virtuals identificant-ne el camp d'aplicació i instal·lant-hi programari específic.",
+          "source": {
+            "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+            "line_start": 264,
+            "line_end": 264,
+            "confidence": "literal_docx_paragraph"
+          }
+        }
+      ]
+    },
+    {
+      "id": "0223",
+      "name": "Aplicacions ofimàtiques",
+      "family": "IC10",
+      "status": "oficial",
+      "hours": 198,
+      "sources": [
+        {
+          "type": "dogc",
+          "filename": "DOGC_T_sistemes_microinformatics_xarxes.pdf",
+          "official_url": "https://xtec.gencat.cat/web/.content/alfresco/d/d/workspace/SpacesStore/0087/d5856770-ea2c-4b02-a8f6-ab9a35d446e9/DOGC_T_sistemes_microinformatics_xarxes.pdf",
+          "verified": true
+        },
+        {
+          "type": "mp",
+          "filename": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+          "official_url": "https://xtec.gencat.cat/web/.content/curriculum/professionals/fp/titolsloe/infcomunicacions/mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+          "verified": true
+        },
+        {
+          "type": "o",
+          "filename": "o_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+          "official_url": "https://xtec.gencat.cat/web/.content/curriculum/professionals/fp/titolsloe/infcomunicacions/o_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+          "verified": true
+        },
+        {
+          "type": "titol",
+          "filename": "T_sist_microinformatics_i_xarxes.pdf",
+          "official_url": "https://xtec.gencat.cat/web/.content/alfresco/d/d/workspace/SpacesStore/0057/78f127a0-c628-46c4-8ad0-e79ce4f39376/T_sist_microinformatics_i_xarxes.pdf",
+          "verified": true
+        }
+      ],
+      "validation": {
+        "docx_ra_count": 9,
+        "bulletin_ra_count": 9,
+        "count_match": true,
+        "bulletin_validated": true
+      },
+      "ra": [
+        {
+          "code": "RA1",
+          "code_full": "0223_IC10_RA1",
+          "short_description": "Instal·la i actualitza aplicacions ofimàtiques, interpretant especificacions i descrivint els passos a seguir en el procés.",
+          "long_description": "Instal·la i actualitza aplicacions ofimàtiques, interpretant especificacions i descrivint els passos a seguir en el procés.",
+          "source": {
+            "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+            "line_start": 320,
+            "line_end": 320,
+            "confidence": "literal_docx_paragraph"
+          }
+        },
+        {
+          "code": "RA2",
+          "code_full": "0223_IC10_RA2",
+          "short_description": "Elabora documents i plantilles, descrivint i aplicant les opcions avançades de processadors de textos.",
+          "long_description": "Elabora documents i plantilles, descrivint i aplicant les opcions avançades de processadors de textos.",
+          "source": {
+            "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+            "line_start": 331,
+            "line_end": 331,
+            "confidence": "literal_docx_paragraph"
+          }
+        },
+        {
+          "code": "RA3",
+          "code_full": "0223_IC10_RA3",
+          "short_description": "Elabora documents i plantilles de càlcul, descrivint i aplicant opcions avançades de fulls de càlcul.",
+          "long_description": "Elabora documents i plantilles de càlcul, descrivint i aplicant opcions avançades de fulls de càlcul.",
+          "source": {
+            "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+            "line_start": 341,
+            "line_end": 341,
+            "confidence": "literal_docx_paragraph"
+          }
+        },
+        {
+          "code": "RA4",
+          "code_full": "0223_IC10_RA4",
+          "short_description": "Elabora documents amb bases de dades ofimàtiques descrivint i aplicant operacions de manipulació de dades.",
+          "long_description": "Elabora documents amb bases de dades ofimàtiques descrivint i aplicant operacions de manipulació de dades.",
+          "source": {
+            "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+            "line_start": 354,
+            "line_end": 354,
+            "confidence": "literal_docx_paragraph"
+          }
+        },
+        {
+          "code": "RA5",
+          "code_full": "0223_IC10_RA5",
+          "short_description": "Manipula imatges digitals analitzant les possibilitats de diferents programes i aplicant tècniques de captura i edició bàsiques.",
+          "long_description": "Manipula imatges digitals analitzant les possibilitats de diferents programes i aplicant tècniques de captura i edició bàsiques.",
+          "source": {
+            "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+            "line_start": 371,
+            "line_end": 371,
+            "confidence": "literal_docx_paragraph"
+          }
+        },
+        {
+          "code": "RA6",
+          "code_full": "0223_IC10_RA6",
+          "short_description": "Manipula seqüències de vídeo analitzant les possibilitats de diferents programes i aplicant tècniques de captura i edició bàsiques.",
+          "long_description": "Manipula seqüències de vídeo analitzant les possibilitats de diferents programes i aplicant tècniques de captura i edició bàsiques.",
+          "source": {
+            "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+            "line_start": 382,
+            "line_end": 382,
+            "confidence": "literal_docx_paragraph"
+          }
+        },
+        {
+          "code": "RA7",
+          "code_full": "0223_IC10_RA7",
+          "short_description": "Elabora presentacions multimèdia descrivint i aplicant normes bàsiques de composició i disseny.",
+          "long_description": "Elabora presentacions multimèdia descrivint i aplicant normes bàsiques de composició i disseny.",
+          "source": {
+            "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+            "line_start": 393,
+            "line_end": 393,
+            "confidence": "literal_docx_paragraph"
+          }
+        },
+        {
+          "code": "RA8",
+          "code_full": "0223_IC10_RA8",
+          "short_description": "Realitza operacions de gestió del correu i l'agenda electrònica, relacionant-ne les necessitats d'ús amb la seva configuració.",
+          "long_description": "Realitza operacions de gestió del correu i l'agenda electrònica, relacionant-ne les necessitats d'ús amb la seva configuració.",
+          "source": {
+            "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+            "line_start": 405,
+            "line_end": 405,
+            "confidence": "literal_docx_paragraph"
+          }
+        },
+        {
+          "code": "RA9",
+          "code_full": "0223_IC10_RA9",
+          "short_description": "Aplica tècniques de suport en l'ús d'aplicacions, identificant i resolent incidències.",
+          "long_description": "Aplica tècniques de suport en l'ús d'aplicacions, identificant i resolent incidències.",
+          "source": {
+            "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+            "line_start": 418,
+            "line_end": 418,
+            "confidence": "literal_docx_paragraph"
+          }
+        }
+      ]
+    },
+    {
+      "id": "0224",
+      "name": "Sistemes operatius en xarxa",
+      "family": "IC10",
+      "status": "oficial",
+      "hours": 198,
+      "sources": [
+        {
+          "type": "dogc",
+          "filename": "DOGC_T_sistemes_microinformatics_xarxes.pdf",
+          "official_url": "https://xtec.gencat.cat/web/.content/alfresco/d/d/workspace/SpacesStore/0087/d5856770-ea2c-4b02-a8f6-ab9a35d446e9/DOGC_T_sistemes_microinformatics_xarxes.pdf",
+          "verified": true
+        },
+        {
+          "type": "mp",
+          "filename": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+          "official_url": "https://xtec.gencat.cat/web/.content/curriculum/professionals/fp/titolsloe/infcomunicacions/mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+          "verified": true
+        },
+        {
+          "type": "o",
+          "filename": "o_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+          "official_url": "https://xtec.gencat.cat/web/.content/curriculum/professionals/fp/titolsloe/infcomunicacions/o_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+          "verified": true
+        },
+        {
+          "type": "titol",
+          "filename": "T_sist_microinformatics_i_xarxes.pdf",
+          "official_url": "https://xtec.gencat.cat/web/.content/alfresco/d/d/workspace/SpacesStore/0057/78f127a0-c628-46c4-8ad0-e79ce4f39376/T_sist_microinformatics_i_xarxes.pdf",
+          "verified": true
+        }
+      ],
+      "validation": {
+        "docx_ra_count": 6,
+        "bulletin_ra_count": null,
+        "count_match": null,
+        "bulletin_validated": false
+      },
+      "ra": [
+        {
+          "code": "RA1",
+          "code_full": "0224_IC10_RA1",
+          "short_description": "Instal·la sistemes operatius en xarxa descrivint-ne les característiques i interpretant-ne la documentació tècnica.",
+          "long_description": "Instal·la sistemes operatius en xarxa descrivint-ne les característiques i interpretant-ne la documentació tècnica.",
+          "source": {
+            "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+            "line_start": 492,
+            "line_end": 492,
+            "confidence": "literal_docx_paragraph"
+          }
+        },
+        {
+          "code": "RA2",
+          "code_full": "0224_IC10_RA2",
+          "short_description": "Gestiona usuaris i grups de sistemes operatius en xarxa, interpretant especificacions i aplicant eines del sistema.",
+          "long_description": "Gestiona usuaris i grups de sistemes operatius en xarxa, interpretant especificacions i aplicant eines del sistema.",
+          "source": {
+            "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+            "line_start": 503,
+            "line_end": 503,
+            "confidence": "literal_docx_paragraph"
+          }
+        },
+        {
+          "code": "RA3",
+          "code_full": "0224_IC10_RA3",
+          "short_description": "Realitza tasques de gestió sobre dominis identificant necessitats i aplicant eines d'administració de dominis.",
+          "long_description": "Realitza tasques de gestió sobre dominis identificant necessitats i aplicant eines d'administració de dominis.",
+          "source": {
+            "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+            "line_start": 516,
+            "line_end": 516,
+            "confidence": "literal_docx_paragraph"
+          }
+        },
+        {
+          "code": "RA4",
+          "code_full": "0224_IC10_RA4",
+          "short_description": "Gestiona els recursos compartits del sistema, interpretant especificacions i determinant nivells de seguretat.",
+          "long_description": "Gestiona els recursos compartits del sistema, interpretant especificacions i determinant nivells de seguretat.",
+          "source": {
+            "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+            "line_start": 531,
+            "line_end": 531,
+            "confidence": "literal_docx_paragraph"
+          }
+        },
+        {
+          "code": "RA5",
+          "code_full": "0224_IC10_RA5",
+          "short_description": "Realitza tasques de monitoratge i ús del sistema operatiu en xarxa, descrivint les eines utilitzades i identificant les principals incidències.",
+          "long_description": "Realitza tasques de monitoratge i ús del sistema operatiu en xarxa, descrivint les eines utilitzades i identificant les principals incidències.",
+          "source": {
+            "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+            "line_start": 543,
+            "line_end": 543,
+            "confidence": "literal_docx_paragraph"
+          }
+        },
+        {
+          "code": "RA6",
+          "code_full": "0224_IC10_RA6",
+          "short_description": "Realitza tasques d'integració de sistemes operatius lliures i propietaris, descrivint els avantatges de compartir recursos i instal·lant programari específic.",
+          "long_description": "Realitza tasques d'integració de sistemes operatius lliures i propietaris, descrivint els avantatges de compartir recursos i instal·lant programari específic.",
+          "source": {
+            "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+            "line_start": 554,
+            "line_end": 554,
+            "confidence": "literal_docx_paragraph"
+          }
+        }
+      ]
+    },
+    {
+      "id": "0225",
+      "name": "Xarxes locals",
+      "family": "IC10",
+      "status": "oficial",
+      "hours": 198,
+      "sources": [
+        {
+          "type": "dogc",
+          "filename": "DOGC_T_sistemes_microinformatics_xarxes.pdf",
+          "official_url": "https://xtec.gencat.cat/web/.content/alfresco/d/d/workspace/SpacesStore/0087/d5856770-ea2c-4b02-a8f6-ab9a35d446e9/DOGC_T_sistemes_microinformatics_xarxes.pdf",
+          "verified": true
+        },
+        {
+          "type": "mp",
+          "filename": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+          "official_url": "https://xtec.gencat.cat/web/.content/curriculum/professionals/fp/titolsloe/infcomunicacions/mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+          "verified": true
+        },
+        {
+          "type": "o",
+          "filename": "o_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+          "official_url": "https://xtec.gencat.cat/web/.content/curriculum/professionals/fp/titolsloe/infcomunicacions/o_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+          "verified": true
+        },
+        {
+          "type": "titol",
+          "filename": "T_sist_microinformatics_i_xarxes.pdf",
+          "official_url": "https://xtec.gencat.cat/web/.content/alfresco/d/d/workspace/SpacesStore/0057/78f127a0-c628-46c4-8ad0-e79ce4f39376/T_sist_microinformatics_i_xarxes.pdf",
+          "verified": true
+        }
+      ],
+      "validation": {
+        "docx_ra_count": 6,
+        "bulletin_ra_count": 6,
+        "count_match": true,
+        "bulletin_validated": true
+      },
+      "ra": [
+        {
+          "code": "RA1",
+          "code_full": "0225_IC10_RA1",
+          "short_description": "Reconeix l'estructura de xarxes locals cablejades analitzant-ne les característiques d'entorns d'aplicació i descrivint-ne la funcionalitat dels seus components.",
+          "long_description": "Reconeix l'estructura de xarxes locals cablejades analitzant-ne les característiques d'entorns d'aplicació i descrivint-ne la funcionalitat dels seus components.",
+          "source": {
+            "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+            "line_start": 611,
+            "line_end": 611,
+            "confidence": "literal_docx_paragraph"
+          }
+        },
+        {
+          "code": "RA2",
+          "code_full": "0225_IC10_RA2",
+          "short_description": "Desplega el cablejat d'una xarxa local interpretant-ne especificacions i aplicant-hi tècniques de muntatge.",
+          "long_description": "Desplega el cablejat d'una xarxa local interpretant-ne especificacions i aplicant-hi tècniques de muntatge.",
+          "source": {
+            "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+            "line_start": 621,
+            "line_end": 621,
+            "confidence": "literal_docx_paragraph"
+          }
+        },
+        {
+          "code": "RA3",
+          "code_full": "0225_IC10_RA3",
+          "short_description": "Interconnecta equips en xarxes locals cablejades descrivint estàndards de cablejat i aplicant tècniques de muntatge de connectors.",
+          "long_description": "Interconnecta equips en xarxes locals cablejades descrivint estàndards de cablejat i aplicant tècniques de muntatge de connectors.",
+          "source": {
+            "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+            "line_start": 635,
+            "line_end": 635,
+            "confidence": "literal_docx_paragraph"
+          }
+        },
+        {
+          "code": "RA4",
+          "code_full": "0225_IC10_RA4",
+          "short_description": "Instal·la equips en xarxa, descrivint les seves prestacions i aplicant tècniques de muntatge.",
+          "long_description": "Instal·la equips en xarxa, descrivint les seves prestacions i aplicant tècniques de muntatge.",
+          "source": {
+            "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+            "line_start": 649,
+            "line_end": 649,
+            "confidence": "literal_docx_paragraph"
+          }
+        },
+        {
+          "code": "RA5",
+          "code_full": "0225_IC10_RA5",
+          "short_description": "Manté una xarxa local interpretant recomanacions dels fabricants de maquinari o programari i establint la relació entre disfuncions i les seves causes.",
+          "long_description": "Manté una xarxa local interpretant recomanacions dels fabricants de maquinari o programari i establint la relació entre disfuncions i les seves causes.",
+          "source": {
+            "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+            "line_start": 664,
+            "line_end": 664,
+            "confidence": "literal_docx_paragraph"
+          }
+        },
+        {
+          "code": "RA6",
+          "code_full": "0225_IC10_RA6",
+          "short_description": "Compleix les normes de prevenció de riscos laborals i de protecció ambiental, identificant els riscos associats, les mesures i equips per a prevenir-los.",
+          "long_description": "Compleix les normes de prevenció de riscos laborals i de protecció ambiental, identificant els riscos associats, les mesures i equips per a prevenir-los.",
+          "source": {
+            "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+            "line_start": 677,
+            "line_end": 677,
+            "confidence": "literal_docx_paragraph"
+          }
+        }
+      ]
+    },
+    {
+      "id": "0226",
+      "name": "Seguretat informàtica",
+      "family": "IC10",
+      "status": "oficial",
+      "hours": 132,
+      "sources": [
+        {
+          "type": "dogc",
+          "filename": "DOGC_T_sistemes_microinformatics_xarxes.pdf",
+          "official_url": "https://xtec.gencat.cat/web/.content/alfresco/d/d/workspace/SpacesStore/0087/d5856770-ea2c-4b02-a8f6-ab9a35d446e9/DOGC_T_sistemes_microinformatics_xarxes.pdf",
+          "verified": true
+        },
+        {
+          "type": "mp",
+          "filename": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+          "official_url": "https://xtec.gencat.cat/web/.content/curriculum/professionals/fp/titolsloe/infcomunicacions/mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+          "verified": true
+        },
+        {
+          "type": "o",
+          "filename": "o_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+          "official_url": "https://xtec.gencat.cat/web/.content/curriculum/professionals/fp/titolsloe/infcomunicacions/o_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+          "verified": true
+        },
+        {
+          "type": "titol",
+          "filename": "T_sist_microinformatics_i_xarxes.pdf",
+          "official_url": "https://xtec.gencat.cat/web/.content/alfresco/d/d/workspace/SpacesStore/0057/78f127a0-c628-46c4-8ad0-e79ce4f39376/T_sist_microinformatics_i_xarxes.pdf",
+          "verified": true
+        }
+      ],
+      "validation": {
+        "docx_ra_count": 5,
+        "bulletin_ra_count": null,
+        "count_match": null,
+        "bulletin_validated": false
+      },
+      "ra": [
+        {
+          "code": "RA1",
+          "code_full": "0226_IC10_RA1",
+          "short_description": "Aplica mesures de seguretat passiva en sistemes informàtics descrivint característiques d'entorns i relacionant-les amb les seves necessitats.",
+          "long_description": "Aplica mesures de seguretat passiva en sistemes informàtics descrivint característiques d'entorns i relacionant-les amb les seves necessitats.",
+          "source": {
+            "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+            "line_start": 735,
+            "line_end": 735,
+            "confidence": "literal_docx_paragraph"
+          }
+        },
+        {
+          "code": "RA2",
+          "code_full": "0226_IC10_RA2",
+          "short_description": "Gestiona dispositius d'emmagatzematge descrivint els procediments efectuats i aplicant tècniques per assegurar la integritat de la informació.",
+          "long_description": "Gestiona dispositius d'emmagatzematge descrivint els procediments efectuats i aplicant tècniques per assegurar la integritat de la informació.",
+          "source": {
+            "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+            "line_start": 746,
+            "line_end": 746,
+            "confidence": "literal_docx_paragraph"
+          }
+        },
+        {
+          "code": "RA3",
+          "code_full": "0226_IC10_RA3",
+          "short_description": "Aplica mecanismes de seguretat activa descrivint-ne les característiques i relacionant-les amb les necessitats d'ús del sistema informàtic.",
+          "long_description": "Aplica mecanismes de seguretat activa descrivint-ne les característiques i relacionant-les amb les necessitats d'ús del sistema informàtic.",
+          "source": {
+            "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+            "line_start": 760,
+            "line_end": 760,
+            "confidence": "literal_docx_paragraph"
+          }
+        },
+        {
+          "code": "RA4",
+          "code_full": "0226_IC10_RA4",
+          "short_description": "Assegura la privadesa de la informació transmesa en xarxes informàtiques descrivint vulnerabilitats i instal·lant programari específic.",
+          "long_description": "Assegura la privadesa de la informació transmesa en xarxes informàtiques descrivint vulnerabilitats i instal·lant programari específic.",
+          "source": {
+            "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+            "line_start": 773,
+            "line_end": 773,
+            "confidence": "literal_docx_paragraph"
+          }
+        },
+        {
+          "code": "RA5",
+          "code_full": "0226_IC10_RA5",
+          "short_description": "Reconeix la legislació i normativa sobre seguretat i protecció de dades analitzant-ne les repercussions de l’incompliment.",
+          "long_description": "Reconeix la legislació i normativa sobre seguretat i protecció de dades analitzant-ne les repercussions de l’incompliment.",
+          "source": {
+            "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+            "line_start": 786,
+            "line_end": 786,
+            "confidence": "literal_docx_paragraph"
+          }
+        }
+      ]
+    },
+    {
+      "id": "0227",
+      "name": "Serveis de xarxa",
+      "family": "IC10",
+      "status": "oficial",
+      "hours": 198,
+      "sources": [
+        {
+          "type": "dogc",
+          "filename": "DOGC_T_sistemes_microinformatics_xarxes.pdf",
+          "official_url": "https://xtec.gencat.cat/web/.content/alfresco/d/d/workspace/SpacesStore/0087/d5856770-ea2c-4b02-a8f6-ab9a35d446e9/DOGC_T_sistemes_microinformatics_xarxes.pdf",
+          "verified": true
+        },
+        {
+          "type": "mp",
+          "filename": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+          "official_url": "https://xtec.gencat.cat/web/.content/curriculum/professionals/fp/titolsloe/infcomunicacions/mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+          "verified": true
+        },
+        {
+          "type": "o",
+          "filename": "o_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+          "official_url": "https://xtec.gencat.cat/web/.content/curriculum/professionals/fp/titolsloe/infcomunicacions/o_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+          "verified": true
+        },
+        {
+          "type": "titol",
+          "filename": "T_sist_microinformatics_i_xarxes.pdf",
+          "official_url": "https://xtec.gencat.cat/web/.content/alfresco/d/d/workspace/SpacesStore/0057/78f127a0-c628-46c4-8ad0-e79ce4f39376/T_sist_microinformatics_i_xarxes.pdf",
+          "verified": true
+        }
+      ],
+      "validation": {
+        "docx_ra_count": 8,
+        "bulletin_ra_count": null,
+        "count_match": null,
+        "bulletin_validated": false
+      },
+      "ra": [
+        {
+          "code": "RA1",
+          "code_full": "0227_IC10_RA1",
+          "short_description": "Instal·la serveis de configuració dinàmica, descrivint-ne les característiques i aplicacions.",
+          "long_description": "Instal·la serveis de configuració dinàmica, descrivint-ne les característiques i aplicacions.",
+          "source": {
+            "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+            "line_start": 834,
+            "line_end": 834,
+            "confidence": "literal_docx_paragraph"
+          }
+        },
+        {
+          "code": "RA2",
+          "code_full": "0227_IC10_RA2",
+          "short_description": "Instal·la serveis de resolució de noms, descrivint-ne les característiques i aplicacions.",
+          "long_description": "Instal·la serveis de resolució de noms, descrivint-ne les característiques i aplicacions.",
+          "source": {
+            "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+            "line_start": 844,
+            "line_end": 844,
+            "confidence": "literal_docx_paragraph"
+          }
+        },
+        {
+          "code": "RA3",
+          "code_full": "0227_IC10_RA3",
+          "short_description": "Instal·la serveis de transferència de fitxers, descrivint-ne les característiques i aplicacions.",
+          "long_description": "Instal·la serveis de transferència de fitxers, descrivint-ne les característiques i aplicacions.",
+          "source": {
+            "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+            "line_start": 856,
+            "line_end": 856,
+            "confidence": "literal_docx_paragraph"
+          }
+        },
+        {
+          "code": "RA4",
+          "code_full": "0227_IC10_RA4",
+          "short_description": "Gestiona servidors de correu electrònic identificant-ne requeriments d'utilització i aplicant-hi criteris de configuració.",
+          "long_description": "Gestiona servidors de correu electrònic identificant-ne requeriments d'utilització i aplicant-hi criteris de configuració.",
+          "source": {
+            "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+            "line_start": 866,
+            "line_end": 866,
+            "confidence": "literal_docx_paragraph"
+          }
+        },
+        {
+          "code": "RA5",
+          "code_full": "0227_IC10_RA5",
+          "short_description": "Gestiona servidors web identificant-ne requeriments d'utilització i aplicant-hi criteris de configuració.",
+          "long_description": "Gestiona servidors web identificant-ne requeriments d'utilització i aplicant-hi criteris de configuració.",
+          "source": {
+            "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+            "line_start": 880,
+            "line_end": 880,
+            "confidence": "literal_docx_paragraph"
+          }
+        },
+        {
+          "code": "RA6",
+          "code_full": "0227_IC10_RA6",
+          "short_description": "Gestiona mètodes d'accés remot descrivint-ne les característiques i instal·lant-hi els serveis corresponents.",
+          "long_description": "Gestiona mètodes d'accés remot descrivint-ne les característiques i instal·lant-hi els serveis corresponents.",
+          "source": {
+            "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+            "line_start": 893,
+            "line_end": 893,
+            "confidence": "literal_docx_paragraph"
+          }
+        },
+        {
+          "code": "RA7",
+          "code_full": "0227_IC10_RA7",
+          "short_description": "Desplega xarxes sense fils segures justificant la configuració triada i descrivint els procediments d'implantació.",
+          "long_description": "Desplega xarxes sense fils segures justificant la configuració triada i descrivint els procediments d'implantació.",
+          "source": {
+            "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+            "line_start": 904,
+            "line_end": 904,
+            "confidence": "literal_docx_paragraph"
+          }
+        },
+        {
+          "code": "RA8",
+          "code_full": "0227_IC10_RA8",
+          "short_description": "Estableix l'accés des de xarxes locals a xarxes públiques identificant possibles escenaris i aplicant programari específic.",
+          "long_description": "Estableix l'accés des de xarxes locals a xarxes públiques identificant possibles escenaris i aplicant programari específic.",
+          "source": {
+            "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+            "line_start": 915,
+            "line_end": 915,
+            "confidence": "literal_docx_paragraph"
+          }
+        }
+      ]
+    },
+    {
+      "id": "0228",
+      "name": "Aplicacions web",
+      "family": "IC10",
+      "status": "oficial",
+      "hours": 119,
+      "sources": [
+        {
+          "type": "dogc",
+          "filename": "DOGC_T_sistemes_microinformatics_xarxes.pdf",
+          "official_url": "https://xtec.gencat.cat/web/.content/alfresco/d/d/workspace/SpacesStore/0087/d5856770-ea2c-4b02-a8f6-ab9a35d446e9/DOGC_T_sistemes_microinformatics_xarxes.pdf",
+          "verified": true
+        },
+        {
+          "type": "mp",
+          "filename": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+          "official_url": "https://xtec.gencat.cat/web/.content/curriculum/professionals/fp/titolsloe/infcomunicacions/mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+          "verified": true
+        },
+        {
+          "type": "o",
+          "filename": "o_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+          "official_url": "https://xtec.gencat.cat/web/.content/curriculum/professionals/fp/titolsloe/infcomunicacions/o_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+          "verified": true
+        },
+        {
+          "type": "titol",
+          "filename": "T_sist_microinformatics_i_xarxes.pdf",
+          "official_url": "https://xtec.gencat.cat/web/.content/alfresco/d/d/workspace/SpacesStore/0057/78f127a0-c628-46c4-8ad0-e79ce4f39376/T_sist_microinformatics_i_xarxes.pdf",
+          "verified": true
+        }
+      ],
+      "validation": {
+        "docx_ra_count": 5,
+        "bulletin_ra_count": null,
+        "count_match": null,
+        "bulletin_validated": false
+      },
+      "ra": [
+        {
+          "code": "RA1",
+          "code_full": "0228_IC10_RA1",
+          "short_description": "Instal·la gestors de continguts, identificant-ne les aplicacions i configurant-los segons requeriments.",
+          "long_description": "Instal·la gestors de continguts, identificant-ne les aplicacions i configurant-los segons requeriments.",
+          "source": {
+            "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+            "line_start": 970,
+            "line_end": 970,
+            "confidence": "literal_docx_paragraph"
+          }
+        },
+        {
+          "code": "RA2",
+          "code_full": "0228_IC10_RA2",
+          "short_description": "Instal·la sistemes de gestió d'aprenentatge a distància, descrivint-ne l'estructura del lloc i la jerarquia de directoris generada.",
+          "long_description": "Instal·la sistemes de gestió d'aprenentatge a distància, descrivint-ne l'estructura del lloc i la jerarquia de directoris generada.",
+          "source": {
+            "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+            "line_start": 982,
+            "line_end": 982,
+            "confidence": "literal_docx_paragraph"
+          }
+        },
+        {
+          "code": "RA3",
+          "code_full": "0228_IC10_RA3",
+          "short_description": "Instal·la serveis de gestió d'arxius web, identificant-ne les aplicacions i verificant-ne la integritat.",
+          "long_description": "Instal·la serveis de gestió d'arxius web, identificant-ne les aplicacions i verificant-ne la integritat.",
+          "source": {
+            "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+            "line_start": 994,
+            "line_end": 994,
+            "confidence": "literal_docx_paragraph"
+          }
+        },
+        {
+          "code": "RA4",
+          "code_full": "0228_IC10_RA4",
+          "short_description": "Instal·la aplicacions d'ofimàtica web, descrivint-ne les característiques i entorns d'ús.",
+          "long_description": "Instal·la aplicacions d'ofimàtica web, descrivint-ne les característiques i entorns d'ús.",
+          "source": {
+            "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+            "line_start": 1009,
+            "line_end": 1009,
+            "confidence": "literal_docx_paragraph"
+          }
+        },
+        {
+          "code": "RA5",
+          "code_full": "0228_IC10_RA5",
+          "short_description": "Instal·la aplicacions web d'escriptori, descrivint-ne les característiques i entorns d'ús.",
+          "long_description": "Instal·la aplicacions web d'escriptori, descrivint-ne les característiques i entorns d'ús.",
+          "source": {
+            "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+            "line_start": 1021,
+            "line_end": 1021,
+            "confidence": "literal_docx_paragraph"
+          }
+        }
+      ]
+    },
+    {
+      "id": "0156",
+      "name": "Anglès Professional",
+      "family": "IC10",
+      "status": "oficial",
+      "hours": 66,
+      "sources": [
+        {
+          "type": "dogc",
+          "filename": "DOGC_T_sistemes_microinformatics_xarxes.pdf",
+          "official_url": "https://xtec.gencat.cat/web/.content/alfresco/d/d/workspace/SpacesStore/0087/d5856770-ea2c-4b02-a8f6-ab9a35d446e9/DOGC_T_sistemes_microinformatics_xarxes.pdf",
+          "verified": true
+        },
+        {
+          "type": "mp",
+          "filename": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+          "official_url": "https://xtec.gencat.cat/web/.content/curriculum/professionals/fp/titolsloe/infcomunicacions/mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+          "verified": true
+        },
+        {
+          "type": "o",
+          "filename": "o_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+          "official_url": "https://xtec.gencat.cat/web/.content/curriculum/professionals/fp/titolsloe/infcomunicacions/o_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+          "verified": true
+        },
+        {
+          "type": "titol",
+          "filename": "T_sist_microinformatics_i_xarxes.pdf",
+          "official_url": "https://xtec.gencat.cat/web/.content/alfresco/d/d/workspace/SpacesStore/0057/78f127a0-c628-46c4-8ad0-e79ce4f39376/T_sist_microinformatics_i_xarxes.pdf",
+          "verified": true
+        }
+      ],
+      "validation": {
+        "docx_ra_count": 5,
+        "bulletin_ra_count": 5,
+        "count_match": true,
+        "bulletin_validated": true
+      },
+      "ra": [
+        {
+          "code": "RA1",
+          "code_full": "0156_IC10_RA1",
+          "short_description": "Comprèn informació, d'índole professional i quotidiana, continguda en discursos orals senzills, emesos en llengua estàndard, desxifrant el contingut global del missatge, i relacionant-lo amb els recursos lingüístics corresponents.",
+          "long_description": "Comprèn informació, d'índole professional i quotidiana, continguda en discursos orals senzills, emesos en llengua estàndard, desxifrant el contingut global del missatge, i relacionant-lo amb els recursos lingüístics corresponents.",
+          "source": {
+            "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+            "line_start": 1065,
+            "line_end": 1065,
+            "confidence": "literal_docx_paragraph"
+          }
+        },
+        {
+          "code": "RA2",
+          "code_full": "0156_IC10_RA2",
+          "short_description": "Comprèn informació professional continguda en textos escrits senzills, analitzant de manera comprensiva el seu contingut.",
+          "long_description": "Comprèn informació professional continguda en textos escrits senzills, analitzant de manera comprensiva el seu contingut.",
+          "source": {
+            "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+            "line_start": 1077,
+            "line_end": 1077,
+            "confidence": "literal_docx_paragraph"
+          }
+        },
+        {
+          "code": "RA3",
+          "code_full": "0156_IC10_RA3",
+          "short_description": "Emet missatges orals senzills, clars i estructurats, participant com a agent actiu en converses professionals.",
+          "long_description": "Emet missatges orals senzills, clars i estructurats, participant com a agent actiu en converses professionals.",
+          "source": {
+            "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+            "line_start": 1090,
+            "line_end": 1090,
+            "confidence": "literal_docx_paragraph"
+          }
+        },
+        {
+          "code": "RA4",
+          "code_full": "0156_IC10_RA4",
+          "short_description": "Redacta textos senzills en llengua estàndard, relacionant les regles gramaticals amb la seva finalitat.",
+          "long_description": "Redacta textos senzills en llengua estàndard, relacionant les regles gramaticals amb la seva finalitat.",
+          "source": {
+            "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+            "line_start": 1110,
+            "line_end": 1110,
+            "confidence": "literal_docx_paragraph"
+          }
+        },
+        {
+          "code": "RA5",
+          "code_full": "0156_IC10_RA5",
+          "short_description": "Aplica actituds i comportaments professionals en situacions de comunicació, descrivint les relacions típiques característiques del país de la llengua estrangera.",
+          "long_description": "Aplica actituds i comportaments professionals en situacions de comunicació, descrivint les relacions típiques característiques del país de la llengua estrangera.",
+          "source": {
+            "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+            "line_start": 1125,
+            "line_end": 1125,
+            "confidence": "literal_docx_paragraph"
+          }
+        }
+      ]
+    },
+    {
+      "id": "1664",
+      "name": "Digitalització aplicada als sectors productius",
+      "family": "IC10",
+      "status": "oficial",
+      "hours": 33,
+      "sources": [
+        {
+          "type": "dogc",
+          "filename": "DOGC_T_sistemes_microinformatics_xarxes.pdf",
+          "official_url": "https://xtec.gencat.cat/web/.content/alfresco/d/d/workspace/SpacesStore/0087/d5856770-ea2c-4b02-a8f6-ab9a35d446e9/DOGC_T_sistemes_microinformatics_xarxes.pdf",
+          "verified": true
+        },
+        {
+          "type": "mp",
+          "filename": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+          "official_url": "https://xtec.gencat.cat/web/.content/curriculum/professionals/fp/titolsloe/infcomunicacions/mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+          "verified": true
+        },
+        {
+          "type": "o",
+          "filename": "o_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+          "official_url": "https://xtec.gencat.cat/web/.content/curriculum/professionals/fp/titolsloe/infcomunicacions/o_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+          "verified": true
+        },
+        {
+          "type": "titol",
+          "filename": "T_sist_microinformatics_i_xarxes.pdf",
+          "official_url": "https://xtec.gencat.cat/web/.content/alfresco/d/d/workspace/SpacesStore/0057/78f127a0-c628-46c4-8ad0-e79ce4f39376/T_sist_microinformatics_i_xarxes.pdf",
+          "verified": true
+        }
+      ],
+      "validation": {
+        "docx_ra_count": 5,
+        "bulletin_ra_count": 5,
+        "count_match": true,
+        "bulletin_validated": true
+      },
+      "ra": [
+        {
+          "code": "RA1",
+          "code_full": "1664_IC10_RA1",
+          "short_description": "Estableix les diferències entre l'Economia Lineal (EL) i l'Economia Circular (EC), identificant els avantatges de la EC en relació amb el medi ambient i el desenvolupament sostenible.",
+          "long_description": "Estableix les diferències entre l'Economia Lineal (EL) i l'Economia Circular (EC), identificant els avantatges de la EC en relació amb el medi ambient i el desenvolupament sostenible.",
+          "source": {
+            "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+            "line_start": 1173,
+            "line_end": 1173,
+            "confidence": "literal_docx_paragraph"
+          }
+        },
+        {
+          "code": "RA2",
+          "code_full": "1664_IC10_RA2",
+          "short_description": "Caracteritza els principals aspectes de la 4a Revolució Industrial indicant els canvis i els avantatges que es produeixen tant des del punt de vista dels clients com de les empreses.",
+          "long_description": "Caracteritza els principals aspectes de la 4a Revolució Industrial indicant els canvis i els avantatges que es produeixen tant des del punt de vista dels clients com de les empreses.",
+          "source": {
+            "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+            "line_start": 1181,
+            "line_end": 1181,
+            "confidence": "literal_docx_paragraph"
+          }
+        },
+        {
+          "code": "RA3",
+          "code_full": "1664_IC10_RA3",
+          "short_description": "Identifica l'estructura dels sistemes basats en cloud/núvol descrivint la seva tipologia i camp d'aplicació.",
+          "long_description": "Identifica l'estructura dels sistemes basats en cloud/núvol descrivint la seva tipologia i camp d'aplicació.",
+          "source": {
+            "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+            "line_start": 1191,
+            "line_end": 1191,
+            "confidence": "literal_docx_paragraph"
+          }
+        },
+        {
+          "code": "RA4",
+          "code_full": "1664_IC10_RA4",
+          "short_description": "Compara els sistemes de producció/prestació de serveis digitalitzats amb els sistemes clàssics identificant les millores introduïdes.",
+          "long_description": "Compara els sistemes de producció/prestació de serveis digitalitzats amb els sistemes clàssics identificant les millores introduïdes.",
+          "source": {
+            "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+            "line_start": 1203,
+            "line_end": 1203,
+            "confidence": "literal_docx_paragraph"
+          }
+        },
+        {
+          "code": "RA5",
+          "code_full": "1664_IC10_RA5",
+          "short_description": "Elabora un pla de transformació d'una empresa clàssica del sector en el qual s'emmarca el títol, basada en una EL, al concepte 4.0, determinant els canvis a introduir en les principals fases del sistema i indicant com afecta als recursos humans.",
+          "long_description": "Elabora un pla de transformació d'una empresa clàssica del sector en el qual s'emmarca el títol, basada en una EL, al concepte 4.0, determinant els canvis a introduir en les principals fases del sistema i indicant com afecta als recursos humans.",
+          "source": {
+            "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+            "line_start": 1216,
+            "line_end": 1216,
+            "confidence": "literal_docx_paragraph"
+          }
+        }
+      ]
+    },
+    {
+      "id": "1708",
+      "name": "Sostenibilitat Aplicada al Sistema Productiu",
+      "family": "IC10",
+      "status": "oficial",
+      "hours": 33,
+      "sources": [
+        {
+          "type": "dogc",
+          "filename": "DOGC_T_sistemes_microinformatics_xarxes.pdf",
+          "official_url": "https://xtec.gencat.cat/web/.content/alfresco/d/d/workspace/SpacesStore/0087/d5856770-ea2c-4b02-a8f6-ab9a35d446e9/DOGC_T_sistemes_microinformatics_xarxes.pdf",
+          "verified": true
+        },
+        {
+          "type": "mp",
+          "filename": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+          "official_url": "https://xtec.gencat.cat/web/.content/curriculum/professionals/fp/titolsloe/infcomunicacions/mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+          "verified": true
+        },
+        {
+          "type": "o",
+          "filename": "o_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+          "official_url": "https://xtec.gencat.cat/web/.content/curriculum/professionals/fp/titolsloe/infcomunicacions/o_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+          "verified": true
+        },
+        {
+          "type": "titol",
+          "filename": "T_sist_microinformatics_i_xarxes.pdf",
+          "official_url": "https://xtec.gencat.cat/web/.content/alfresco/d/d/workspace/SpacesStore/0057/78f127a0-c628-46c4-8ad0-e79ce4f39376/T_sist_microinformatics_i_xarxes.pdf",
+          "verified": true
+        }
+      ],
+      "validation": {
+        "docx_ra_count": 6,
+        "bulletin_ra_count": 6,
+        "count_match": true,
+        "bulletin_validated": true
+      },
+      "ra": [
+        {
+          "code": "RA1",
+          "code_full": "1708_IC10_RA1",
+          "short_description": "Identifica els aspectes ambientals, socials i de governança (ASG) relatius a la sostenibilitat tenint en compte el concepte de desenvolupament sostenible i els marcs internacionals que contribueixen a la seva consecució.",
+          "long_description": "Identifica els aspectes ambientals, socials i de governança (ASG) relatius a la sostenibilitat tenint en compte el concepte de desenvolupament sostenible i els marcs internacionals que contribueixen a la seva consecució.",
+          "source": {
+            "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+            "line_start": 1264,
+            "line_end": 1264,
+            "confidence": "literal_docx_paragraph"
+          }
+        },
+        {
+          "code": "RA2",
+          "code_full": "1708_IC10_RA2",
+          "short_description": "Caracteritza els reptes ambientals i socials als quals s'enfronta la societat, descrivint els impactes sobre les persones i els sectors productius i proposant accions per a minimitzar-los.",
+          "long_description": "Caracteritza els reptes ambientals i socials als quals s'enfronta la societat, descrivint els impactes sobre les persones i els sectors productius i proposant accions per a minimitzar-los.",
+          "source": {
+            "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+            "line_start": 1272,
+            "line_end": 1272,
+            "confidence": "literal_docx_paragraph"
+          }
+        },
+        {
+          "code": "RA3",
+          "code_full": "1708_IC10_RA3",
+          "short_description": "Estableix l'aplicació de criteris de sostenibilitat en l'acompliment professional i personal, identificant els elements necessaris.",
+          "long_description": "Estableix l'aplicació de criteris de sostenibilitat en l'acompliment professional i personal, identificant els elements necessaris.",
+          "source": {
+            "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+            "line_start": 1279,
+            "line_end": 1279,
+            "confidence": "literal_docx_paragraph"
+          }
+        },
+        {
+          "code": "RA4",
+          "code_full": "1708_IC10_RA4",
+          "short_description": "Proposa productes i serveis responsables tenint en compte els principis de l’economia circular.",
+          "long_description": "Proposa productes i serveis responsables tenint en compte els principis de l’economia circular.",
+          "source": {
+            "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+            "line_start": 1284,
+            "line_end": 1284,
+            "confidence": "literal_docx_paragraph"
+          }
+        },
+        {
+          "code": "RA5",
+          "code_full": "1708_IC10_RA5",
+          "short_description": "Realitza activitats sostenibles minimitzant l'impacte de les mateixes en el medi ambient.",
+          "long_description": "Realitza activitats sostenibles minimitzant l'impacte de les mateixes en el medi ambient.",
+          "source": {
+            "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+            "line_start": 1292,
+            "line_end": 1292,
+            "confidence": "literal_docx_paragraph"
+          }
+        },
+        {
+          "code": "RA6",
+          "code_full": "1708_IC10_RA6",
+          "short_description": "Analitza un pla de sostenibilitat d'una empresa del sector, identificant els seus grups d'interès, els aspectes ASG materials i justificant accions per a la seva gestió i mesurament.",
+          "long_description": "Analitza un pla de sostenibilitat d'una empresa del sector, identificant els seus grups d'interès, els aspectes ASG materials i justificant accions per a la seva gestió i mesurament.",
+          "source": {
+            "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+            "line_start": 1303,
+            "line_end": 1303,
+            "confidence": "literal_docx_paragraph"
+          }
+        }
+      ]
+    },
+    {
+      "id": "1709",
+      "name": "Itinerari personal per a l'ocupabilitat I",
+      "family": "IC10",
+      "status": "oficial",
+      "hours": 99,
+      "sources": [
+        {
+          "type": "dogc",
+          "filename": "DOGC_T_sistemes_microinformatics_xarxes.pdf",
+          "official_url": "https://xtec.gencat.cat/web/.content/alfresco/d/d/workspace/SpacesStore/0087/d5856770-ea2c-4b02-a8f6-ab9a35d446e9/DOGC_T_sistemes_microinformatics_xarxes.pdf",
+          "verified": true
+        },
+        {
+          "type": "mp",
+          "filename": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+          "official_url": "https://xtec.gencat.cat/web/.content/curriculum/professionals/fp/titolsloe/infcomunicacions/mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+          "verified": true
+        },
+        {
+          "type": "o",
+          "filename": "o_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+          "official_url": "https://xtec.gencat.cat/web/.content/curriculum/professionals/fp/titolsloe/infcomunicacions/o_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+          "verified": true
+        },
+        {
+          "type": "titol",
+          "filename": "T_sist_microinformatics_i_xarxes.pdf",
+          "official_url": "https://xtec.gencat.cat/web/.content/alfresco/d/d/workspace/SpacesStore/0057/78f127a0-c628-46c4-8ad0-e79ce4f39376/T_sist_microinformatics_i_xarxes.pdf",
+          "verified": true
+        }
+      ],
+      "validation": {
+        "docx_ra_count": 4,
+        "bulletin_ra_count": 5,
+        "count_match": false,
+        "bulletin_validated": true
+      },
+      "ra": [
+        {
+          "code": "RA1",
+          "code_full": "1709_IC10_RA1",
+          "short_description": "Distingeix les característiques del sector productiu i defineix els llocs de treball, relacionant-los amb les competències professionals expressades en el títol.",
+          "long_description": "Distingeix les característiques del sector productiu i defineix els llocs de treball, relacionant-los amb les competències professionals expressades en el títol.",
+          "source": {
+            "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+            "line_start": 1350,
+            "line_end": 1350,
+            "confidence": "literal_docx_paragraph"
+          }
+        },
+        {
+          "code": "RA2",
+          "code_full": "1709_IC10_RA2",
+          "short_description": "Assoleix les competències necessàries per a l'obtenció del títol de Tècnic Bàsic en Prevenció de Riscos Laborals.",
+          "long_description": "Assoleix les competències necessàries per a l'obtenció del títol de Tècnic Bàsic en Prevenció de Riscos Laborals.",
+          "source": {
+            "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+            "line_start": 1355,
+            "line_end": 1355,
+            "confidence": "literal_docx_paragraph"
+          }
+        },
+        {
+          "code": "RA3",
+          "code_full": "1709_IC10_RA3",
+          "short_description": "Analitza i avalua el seu potencial professional i els seus interessos per a guiar-se en el procés d'autoorientació i elabora un full de ruta per a la inserció professional partint de l'anàlisi de les competències, interessos i destreses personals.",
+          "long_description": "Analitza i avalua el seu potencial professional i els seus interessos per a guiar-se en el procés d'autoorientació i elabora un full de ruta per a la inserció professional partint de l'anàlisi de les competències, interessos i destreses personals.",
+          "source": {
+            "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+            "line_start": 1375,
+            "line_end": 1375,
+            "confidence": "literal_docx_paragraph"
+          }
+        },
+        {
+          "code": "RA4",
+          "code_full": "1709_IC10_RA4",
+          "short_description": "Aplica les estratègies per a l'aprenentatge autònom reconeixent el seu valor professionalitzador, dissenyant i optimitzant el seu propi entorn d'aprenentatge fent ús de les tecnologies digitals com a eines d'aprenentatge autònom, sent coherent amb la seva identitat digital i els seus objectius professionals plantejats en el seu pla de desenvolupament individual.",
+          "long_description": "Aplica les estratègies per a l'aprenentatge autònom reconeixent el seu valor professionalitzador, dissenyant i optimitzant el seu propi entorn d'aprenentatge fent ús de les tecnologies digitals com a eines d'aprenentatge autònom, sent coherent amb la seva identitat digital i els seus objectius professionals plantejats en el seu pla de desenvolupament individual.",
+          "source": {
+            "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+            "line_start": 1388,
+            "line_end": 1388,
+            "confidence": "literal_docx_paragraph"
+          }
+        }
+      ]
+    },
+    {
+      "id": "1710",
+      "name": "Itinerari personal per a l'ocupabilitat II",
+      "family": "IC10",
+      "status": "oficial",
+      "hours": 66,
+      "sources": [
+        {
+          "type": "dogc",
+          "filename": "DOGC_T_sistemes_microinformatics_xarxes.pdf",
+          "official_url": "https://xtec.gencat.cat/web/.content/alfresco/d/d/workspace/SpacesStore/0087/d5856770-ea2c-4b02-a8f6-ab9a35d446e9/DOGC_T_sistemes_microinformatics_xarxes.pdf",
+          "verified": true
+        },
+        {
+          "type": "mp",
+          "filename": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+          "official_url": "https://xtec.gencat.cat/web/.content/curriculum/professionals/fp/titolsloe/infcomunicacions/mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+          "verified": true
+        },
+        {
+          "type": "o",
+          "filename": "o_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+          "official_url": "https://xtec.gencat.cat/web/.content/curriculum/professionals/fp/titolsloe/infcomunicacions/o_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+          "verified": true
+        },
+        {
+          "type": "titol",
+          "filename": "T_sist_microinformatics_i_xarxes.pdf",
+          "official_url": "https://xtec.gencat.cat/web/.content/alfresco/d/d/workspace/SpacesStore/0057/78f127a0-c628-46c4-8ad0-e79ce4f39376/T_sist_microinformatics_i_xarxes.pdf",
+          "verified": true
+        }
+      ],
+      "validation": {
+        "docx_ra_count": 5,
+        "bulletin_ra_count": null,
+        "count_match": null,
+        "bulletin_validated": false
+      },
+      "ra": [
+        {
+          "code": "RA1",
+          "code_full": "1710_IC10_RA1",
+          "short_description": "Planifica i posa en marxa estratègies en els diferents processos selectius d'ocupació que li permeten millorar les seves possibilitats d'inserció laboral.",
+          "long_description": "Planifica i posa en marxa estratègies en els diferents processos selectius d'ocupació que li permeten millorar les seves possibilitats d'inserció laboral.",
+          "source": {
+            "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+            "line_start": 1471,
+            "line_end": 1471,
+            "confidence": "literal_docx_paragraph"
+          }
+        },
+        {
+          "code": "RA2",
+          "code_full": "1710_IC10_RA2",
+          "short_description": "Aplica estratègies relacionades amb les competències personals, socials i emocionals per al desenvolupament de la seva iniciativa emprenedora i la millora de la seva ocupabilitat.",
+          "long_description": "Aplica estratègies relacionades amb les competències personals, socials i emocionals per al desenvolupament de la seva iniciativa emprenedora i la millora de la seva ocupabilitat.",
+          "source": {
+            "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+            "line_start": 1477,
+            "line_end": 1477,
+            "confidence": "literal_docx_paragraph"
+          }
+        },
+        {
+          "code": "RA3",
+          "code_full": "1710_IC10_RA3",
+          "short_description": "Posa en pràctica les habilitats emprenedores necessàries per al desenvolupament de processos d’innovació i recerca aplicades que promouen la modernització del sector productiu cap a un model sostenible.",
+          "long_description": "Posa en pràctica les habilitats emprenedores necessàries per al desenvolupament de processos d’innovació i recerca aplicades que promouen la modernització del sector productiu cap a un model sostenible.",
+          "source": {
+            "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+            "line_start": 1486,
+            "line_end": 1486,
+            "confidence": "literal_docx_paragraph"
+          }
+        },
+        {
+          "code": "RA4",
+          "code_full": "1710_IC10_RA4",
+          "short_description": "Identifica, defineix i valida idees d’emprenedoria generadores de noves oportunitats a partir d’estratègies d’anàlisi de l’entorn socioproductiu utilitzant metodologies àgils per l’emprenedoria.",
+          "long_description": "Identifica, defineix i valida idees d’emprenedoria generadores de noves oportunitats a partir d’estratègies d’anàlisi de l’entorn socioproductiu utilitzant metodologies àgils per l’emprenedoria.",
+          "source": {
+            "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+            "line_start": 1494,
+            "line_end": 1494,
+            "confidence": "literal_docx_paragraph"
+          }
+        },
+        {
+          "code": "RA5",
+          "code_full": "1710_IC10_RA5",
+          "short_description": "Desenvolupa un projecte emprenedor d’innovació social i/o tecnològica aplicada en col·laboració amb l’entorn.",
+          "long_description": "Desenvolupa un projecte emprenedor d’innovació social i/o tecnològica aplicada en col·laboració amb l’entorn.",
+          "source": {
+            "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+            "line_start": 1506,
+            "line_end": 1506,
+            "confidence": "literal_docx_paragraph"
+          }
+        }
+      ]
+    },
+    {
+      "id": "1713",
+      "name": "Projecte intermodular",
+      "family": "IC10",
+      "status": "oficial",
+      "hours": 198,
+      "sources": [
+        {
+          "type": "dogc",
+          "filename": "DOGC_T_sistemes_microinformatics_xarxes.pdf",
+          "official_url": "https://xtec.gencat.cat/web/.content/alfresco/d/d/workspace/SpacesStore/0087/d5856770-ea2c-4b02-a8f6-ab9a35d446e9/DOGC_T_sistemes_microinformatics_xarxes.pdf",
+          "verified": true
+        },
+        {
+          "type": "mp",
+          "filename": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+          "official_url": "https://xtec.gencat.cat/web/.content/curriculum/professionals/fp/titolsloe/infcomunicacions/mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+          "verified": true
+        },
+        {
+          "type": "o",
+          "filename": "o_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+          "official_url": "https://xtec.gencat.cat/web/.content/curriculum/professionals/fp/titolsloe/infcomunicacions/o_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+          "verified": true
+        },
+        {
+          "type": "titol",
+          "filename": "T_sist_microinformatics_i_xarxes.pdf",
+          "official_url": "https://xtec.gencat.cat/web/.content/alfresco/d/d/workspace/SpacesStore/0057/78f127a0-c628-46c4-8ad0-e79ce4f39376/T_sist_microinformatics_i_xarxes.pdf",
+          "verified": true
+        }
+      ],
+      "validation": {
+        "docx_ra_count": 5,
+        "bulletin_ra_count": null,
+        "count_match": null,
+        "bulletin_validated": false
+      },
+      "ra": [
+        {
+          "code": "RA1",
+          "code_full": "1713_IC10_RA1",
+          "short_description": "Caracteritza les empreses del sector atenent la seva organització i el tipus de producte o servei que ofereixen.",
+          "long_description": "Caracteritza les empreses del sector atenent la seva organització i el tipus de producte o servei que ofereixen.",
+          "source": {
+            "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+            "line_start": 1570,
+            "line_end": 1570,
+            "confidence": "literal_docx_paragraph"
+          }
+        },
+        {
+          "code": "RA2",
+          "code_full": "1713_IC10_RA2",
+          "short_description": "Planteja solucions a les necessitats del sector tenint en compte la seva viabilitat, els costos associats i elaborant un petit projecte.",
+          "long_description": "Planteja solucions a les necessitats del sector tenint en compte la seva viabilitat, els costos associats i elaborant un petit projecte.",
+          "source": {
+            "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+            "line_start": 1581,
+            "line_end": 1581,
+            "confidence": "literal_docx_paragraph"
+          }
+        },
+        {
+          "code": "RA3",
+          "code_full": "1713_IC10_RA3",
+          "short_description": "Planifica l'execució de les activitats proposades a la solució plantejada, determinant el pla d'intervenció i elaborant la documentació corresponent.",
+          "long_description": "Planifica l'execució de les activitats proposades a la solució plantejada, determinant el pla d'intervenció i elaborant la documentació corresponent.",
+          "source": {
+            "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+            "line_start": 1596,
+            "line_end": 1596,
+            "confidence": "literal_docx_paragraph"
+          }
+        },
+        {
+          "code": "RA4",
+          "code_full": "1713_IC10_RA4",
+          "short_description": "Realitza el seguiment de l'execució de les activitats plantejades, verificant que es compleix amb la planificació.",
+          "long_description": "Realitza el seguiment de l'execució de les activitats plantejades, verificant que es compleix amb la planificació.",
+          "source": {
+            "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+            "line_start": 1612,
+            "line_end": 1612,
+            "confidence": "literal_docx_paragraph"
+          }
+        },
+        {
+          "code": "RA5",
+          "code_full": "1713_IC10_RA5",
+          "short_description": "Transmet informació amb claredat, de manera ordenada i estructurada.",
+          "long_description": "Transmet informació amb claredat, de manera ordenada i estructurada.",
+          "source": {
+            "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+            "line_start": 1623,
+            "line_end": 1623,
+            "confidence": "literal_docx_paragraph"
+          }
+        }
+      ]
+    }
+  ]
+}

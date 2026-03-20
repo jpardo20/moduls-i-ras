@@ -1,0 +1,56 @@
+{
+  "ASIX": {
+    "DOGC": {
+      "file": "DOGC_T_administracio_sistemes_informatics_xarxa.pdf",
+      "official_url": "https://xtec.gencat.cat/web/.content/alfresco/d/d/workspace/SpacesStore/0035/15cc64c8-86b9-4576-a924-665ce20c9021/DOGC_T_administracio_sistemes_informatics_xarxa.pdf"
+    },
+    "MP": {
+      "file": "mp_-ICA0_administracio_sistemes_informatics_xarxa_20240425.docx",
+      "official_url": "https://xtec.gencat.cat/web/.content/curriculum/professionals/fp/titolsloe/infcomunicacions/mp_-ICA0_administracio_sistemes_informatics_xarxa_20240425.docx"
+    },
+    "ORIENTACIONS": {
+      "file": "o_ICA0_administracio_sistemes_informatics_xarxa_20240425.docx",
+      "official_url": "https://xtec.gencat.cat/web/.content/curriculum/professionals/fp/titolsloe/infcomunicacions/o_ICA0_administracio_sistemes_informatics_xarxa_20240425.docx"
+    },
+    "RD": {
+      "file": "RD_TS_sistemes_informatics.pdf",
+      "official_url": "https://xtec.gencat.cat/web/.content/alfresco/d/d/workspace/SpacesStore/0090/dec760bc-7598-453a-9830-f87c5d95c226/RD_TS_sistemes_informatics.pdf"
+    }
+  },
+  "DAM": {
+    "BOE": {
+      "file": "BOE_GS_Aplic_Multiplataforma.pdf",
+      "official_url": "https://xtec.gencat.cat/web/.content/alfresco/d/d/workspace/SpacesStore/0069/a046eaea-4fd5-46bd-b6b9-8a0f0d37d4b6/BOE_GS_Aplic_Multiplataforma.pdf"
+    },
+    "DOGC": {
+      "file": "DOGC_TS_desenvolupament_aplicacions_multiplataforma.pdf",
+      "official_url": "https://xtec.gencat.cat/web/.content/alfresco/d/d/workspace/SpacesStore/0052/64a26049-c0c0-45cc-baa0-a4f831059839/DOGC_TS_desenvolupament_aplicacions_multiplataforma.pdf"
+    },
+    "MP": {
+      "file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx",
+      "official_url": "https://xtec.gencat.cat/web/.content/curriculum/professionals/fp/titolsloe/infcomunicacions/mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx"
+    },
+    "ORIENTACIONS": {
+      "file": "o_ICB0_desenvolupament_aplicacions_multiplataforma_20240322.docx",
+      "official_url": "https://xtec.gencat.cat/web/.content/curriculum/professionals/fp/titolsloe/infcomunicacions/o_ICB0_desenvolupament_aplicacions_multiplataforma_20240322.docx"
+    }
+  },
+  "SMX": {
+    "DOGC": {
+      "file": "DOGC_T_sistemes_microinformatics_xarxes.pdf",
+      "official_url": "https://xtec.gencat.cat/web/.content/alfresco/d/d/workspace/SpacesStore/0087/d5856770-ea2c-4b02-a8f6-ab9a35d446e9/DOGC_T_sistemes_microinformatics_xarxes.pdf"
+    },
+    "MP": {
+      "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+      "official_url": "https://xtec.gencat.cat/web/.content/curriculum/professionals/fp/titolsloe/infcomunicacions/mp_IC10_sistemes_microinformatics_xarxes_20240424.docx"
+    },
+    "ORIENTACIONS": {
+      "file": "o_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+      "official_url": "https://xtec.gencat.cat/web/.content/curriculum/professionals/fp/titolsloe/infcomunicacions/o_IC10_sistemes_microinformatics_xarxes_20240424.docx"
+    },
+    "TITOL": {
+      "file": "T_sist_microinformatics_i_xarxes.pdf",
+      "official_url": "https://xtec.gencat.cat/web/.content/alfresco/d/d/workspace/SpacesStore/0057/78f127a0-c628-46c4-8ad0-e79ce4f39376/T_sist_microinformatics_i_xarxes.pdf"
+    }
+  }
+}
