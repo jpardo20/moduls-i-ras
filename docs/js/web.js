@@ -5,8 +5,8 @@ let data = {
 };
 
 async function loadData() {
-  const dam = await fetch("./docs/dam.json").then(r => r.json());
-  const smx = await fetch("./docs/smx.json").then(r => r.json());
+  const dam = await fetch("./data/dam.json").then(r => r.json());
+  const smx = await fetch("./data/smx.json").then(r => r.json());
 
   data.dam = dam.modules || dam;
   data.smx = smx.modules || smx;
