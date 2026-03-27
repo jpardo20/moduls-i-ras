@@ -18,5 +18,10 @@ __pycache__/
 .DS_Storetmp/
 *.old
 
+<<<<<<< HEAD
 **/**_v1**
 tmp/
+=======
+**/*_v*.js
+tmp/*
+>>>>>>> origin/main
