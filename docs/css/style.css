@@ -34,3 +34,64 @@
       display: none;
     }
   
+    /* ---------- GENERAL ---------- */
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+}
+
+.module {
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    margin-bottom: 20px;
+    padding: 10px;
+}
+
+.module-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.module-link {
+    font-size: 0.9em;
+}
+
+/* ---------- RA ---------- */
+
+.ra {
+    margin-top: 10px;
+}
+
+.ra-header {
+    cursor: pointer;
+    background: #f5f5f5;
+    padding: 8px;
+    border-radius: 5px;
+    font-weight: bold;
+}
+
+.ra-header:hover {
+    background: #e0e0e0;
+}
+
+.ra-content {
+    padding: 10px;
+    margin-top: 5px;
+    border-left: 3px solid #ccc;
+}
+
+.hidden {
+    display: none;
+}
+
+/* ---------- CRITERIS ---------- */
+
+.criteria-list {
+    margin-top: 10px;
+}
+
+.criteria {
+    margin-bottom: 5px;
+}
