@@ -145,7 +145,8 @@ def parse_modules(paragraphs, source_file, cycle_code):
         if (
             inside_criteria_section
             and current_ra
-            and style == "TextdeldocumentMP"
+            # and style == "TextdeldocumentMP"
+            and style == "Pargrafdellista"
             and has_numbering
         ):
             ca_counter += 1
@@ -181,8 +182,10 @@ def build_json(docx_path):
 
 
 if __name__ == "__main__":
-    DOCX_PATH = "docs/amagats/smx/mp_IC10_sistemes_microinformatics_xarxes_20240424.docx"
-    OUTPUT_PATH = "tmp/smx.generated.json"
+    # DOCX_PATH = "docs/amagats/smx/mp_IC10_sistemes_microinformatics_xarxes_20240424.docx"
+    DOCX_PATH = "docs/amagats/dam/mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx"
+    # OUTPUT_PATH = "tmp/smx.generated.json"
+    OUTPUT_PATH = "tmp/dam.generated.json"
 
     Path("tmp").mkdir(exist_ok=True)
 
