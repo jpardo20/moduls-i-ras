@@ -298,6 +298,7 @@ select {
 .weight-info {
     display: flex;
     flex-direction: column;
+
 }
 
 .weight-info strong {
