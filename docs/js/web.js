@@ -17,6 +17,9 @@ const LOCAL_MODULE_FILES = {
 };
 const WEIGHTS_FILE = "data/ponderacions.json";
 
+const IMPLANTACIO_FILE =
+    "data/implantacio.json";
+
 // ---------- INIT ----------
 document.addEventListener("DOMContentLoaded", async () => {
     const select = document.getElementById("cycleSelect");
@@ -40,14 +43,16 @@ async function loadAndRender(cycle) {
         const [
             curriculumRes,
             weightsRes,
-            localModulesRes
+            localModulesRes,
+            implantacioRes
         ] = await Promise.all([
             fetch(url),
             fetch(WEIGHTS_FILE),
-            fetch(
-                LOCAL_MODULE_FILES[cycle]
-            )
+            fetch(LOCAL_MODULE_FILES[cycle]),
+            fetch(IMPLANTACIO_FILE)
         ]);
+        const implantacio =
+            await implantacioRes.json();
         const data =
             await curriculumRes.json();
 
@@ -68,7 +73,8 @@ async function loadAndRender(cycle) {
 
         renderModules(
             modules,
-            weights[data.cycle_code] || {}
+            weights[data.cycle_code] || {},
+            implantacio[cycle]
         );
     } catch (err) {
         console.error("Error carregant JSON:", err);
@@ -203,23 +209,78 @@ function renderDashboard(modules, weightsByModule) {
 }
 
 // ---------- RENDER PRINCIPAL ----------
-function renderModules(modules, weightsByModule) {
+function renderModules(
+    modules,
+    weightsByModule,
+    implantacio
+) {
+    const cursos = ["1", "2"];
+
+
+
     const container = document.getElementById("app");
     if (!container) {
         console.error("❌ No existeix #app al HTML");
         return;
     }
+
     container.innerHTML = "";
-    modules.forEach(module => {
-        const moduleWeights =
-            weightsByModule[module.id] || {};
-        container.appendChild(
-            renderModule(
-                module,
-                moduleWeights
-            )
+
+    cursos.forEach(curs => {
+
+        const titol =
+            document.createElement("div");
+
+        titol.className =
+            "course-title";
+
+        titol.textContent =
+            `> ${curs}r curs`;
+
+        container.appendChild(titol);
+
+        const courseContent =
+            document.createElement("div");
+
+        titol.addEventListener(
+            "click",
+            () => {
+                const hidden =
+                    courseContent.classList.toggle(
+                        "hidden"
+                    );
+                titol.textContent =
+                    `${hidden ? ">" : "<"} ${curs}r curs`;
+            }
         );
+
+        courseContent.className =
+            "course-content hidden";
+
+        container.appendChild(
+            courseContent
+        );
+
+        const modulsCurs =
+            modules.filter(module =>
+                implantacio[curs]
+                    ?.includes(module.id)
+            );
+
+        modulsCurs.forEach(module => {
+
+            const moduleWeights =
+                weightsByModule[module.id] || {};
+            courseContent.appendChild(
+                renderModule(
+                    module,
+                    moduleWeights
+                )
+            );
+        });
+
     });
+
 }
 
 // ---------- RENDER MÒDUL ----------

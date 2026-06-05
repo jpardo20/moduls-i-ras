@@ -314,3 +314,15 @@ select {
     font-weight: 700;
     color: #1d4ed8;
 }
+
+.course-title {
+    margin-top: 2rem;
+    margin-bottom: 1rem;
+    padding: 0.75rem 1rem;
+    cursor: pointer;
+    font-size: 1.3rem;
+    font-weight: 700;
+    border-radius: 8px;
+    background: var(--card-bg);
+    border-bottom: 2px solid var(--border-color);
+}
