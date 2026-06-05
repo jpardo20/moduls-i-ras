@@ -11,6 +11,10 @@ const DATA_FILES = {
     smx: "data/smx.json"
 };
 
+const LOCAL_MODULE_FILES = {
+    dam: "data/moduls-locals-dam.json",
+    smx: "data/moduls-locals-smx.json"
+};
 const WEIGHTS_FILE = "data/ponderacions.json";
 
 // ---------- INIT ----------
@@ -33,18 +37,37 @@ async function loadAndRender(cycle) {
             : "cycle-badge badge-smx";
     const url = DATA_FILES[cycle];
     try {
-        const [curriculumRes, weightsRes] = await Promise.all([
+        const [
+            curriculumRes,
+            weightsRes,
+            localModulesRes
+        ] = await Promise.all([
             fetch(url),
-            fetch(WEIGHTS_FILE)
+            fetch(WEIGHTS_FILE),
+            fetch(
+                LOCAL_MODULE_FILES[cycle]
+            )
         ]);
-        const data = await curriculumRes.json();
-        const weights = await weightsRes.json();
+        const data =
+            await curriculumRes.json();
+
+        const weights =
+            await weightsRes.json();
+        const localModules =
+            await localModulesRes.json();
+
+        const modules = [
+            ...data.modules,
+            ...localModules.modules
+        ];
+
         renderDashboard(
-            data.modules,
+            modules,
             weights[data.cycle_code] || {}
         );
+
         renderModules(
-            data.modules,
+            modules,
             weights[data.cycle_code] || {}
         );
     } catch (err) {
@@ -342,10 +365,9 @@ function renderRA(ra, weight) {
 
 
     header.textContent =
-        `> ${ra.code}: ${
-            getShortDescription(
-                ra.long_description
-            )
+        `> ${ra.code}: ${getShortDescription(
+            ra.long_description
+        )
         } (${weight}%)`;
 
     const content = document.createElement("div");
@@ -356,10 +378,9 @@ function renderRA(ra, weight) {
             content.classList.toggle("hidden");
 
         header.textContent =
-            `${isHidden ? ">" : "<"} ${ra.code}: ${
-                getShortDescription(
-                    ra.long_description
-                )
+            `${isHidden ? ">" : "<"} ${ra.code}: ${getShortDescription(
+                ra.long_description
+            )
             } (${weight}%)`;
 
     });

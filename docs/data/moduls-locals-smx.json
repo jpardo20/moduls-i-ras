@@ -1,0 +1,45 @@
+{
+    "cycle": "smx",
+    "cycle_code": "IC10",
+    "modules": [
+        {
+            "id": "MOPT1",
+            "name": "Programació Python i Robòtica",
+            "hours": 99,
+            "ra": [
+                {
+                    "code": "RA1",
+                    "long_description": "Participa en la definició, planificació i organització d'un projecte de robòtica educativa, utilitzant eines de gestió de tasques i treball col·laboratiu."
+                },
+                {
+                    "code": "RA2",
+                    "long_description": "Munta i configura els components físics necessaris per al desenvolupament d'un sistema robòtic senzill, aplicant criteris de seguretat i funcionament."
+                },
+                {
+                    "code": "RA3",
+                    "long_description": "Desenvolupa i integra solucions de programació per controlar el comportament del sistema robòtic i resoldre els reptes plantejats."
+                },
+                {
+                    "code": "RA4",
+                    "long_description": "Documenta el desenvolupament del projecte i comunica els resultats obtinguts utilitzant eines digitals i documentació tècnica."
+                },
+                {
+                    "code": "RA5",
+                    "long_description": "Desenvolupa programes senzills en Python utilitzant variables, operadors, estructures de control i funcions."
+                },
+                {
+                    "code": "RA6",
+                    "long_description": "Gestiona dades mitjançant estructures bàsiques de Python i organitza el codi en mòduls reutilitzables."
+                },
+                {
+                    "code": "RA7",
+                    "long_description": "Aplica tècniques de prova, depuració i documentació per garantir la qualitat dels programes desenvolupats."
+                },
+                {
+                    "code": "RA8",
+                    "long_description": "Desenvolupa aplicacions senzilles orientades a la resolució de problemes reals integrant els coneixements adquirits."
+                }
+            ]
+        }
+    ]
+}
