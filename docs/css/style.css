@@ -293,3 +293,23 @@ select {
 .weight-row:not(:last-child) {
     border-bottom: 1px solid #e5e7eb;
 }
+
+
+.weight-info {
+    display: flex;
+    flex-direction: column;
+}
+
+.weight-info strong {
+    color: #0f172a;
+}
+
+.weight-info span {
+    color: #64748b;
+    font-size: .9rem;
+}
+
+.weight-value {
+    font-weight: 700;
+    color: #1d4ed8;
+}

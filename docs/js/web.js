@@ -239,19 +239,23 @@ function renderModule(module, moduleWeights) {
         "weights-panel hidden";
 
     Object.entries(moduleWeights)
-        .forEach(([ra, weight]) => {
-
+        module.ra.forEach(ra => {
+            const weight =
+                moduleWeights[ra.code];
+            if (!weight) return;
             const row =
                 document.createElement("div");
-
             row.className =
                 "weight-row";
-
             row.innerHTML = `
-                <span>${ra}</span>
-                <span>${weight}%</span>
+                <div class="weight-info">
+                    <strong>${ra.code}</strong>
+                    <span>${ra.short_description}</span>
+                </div>
+                <span class="weight-value">
+                    ${weight}%
+                </span>
             `;
-
             weightsPanel.appendChild(row);
         });
 
