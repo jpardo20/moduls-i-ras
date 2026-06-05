@@ -23,13 +23,23 @@ document.addEventListener("DOMContentLoaded", async () => {
 
 // ---------- LOAD ----------
 async function loadAndRender(cycle) {
+
+    const badge = document.getElementById("cycleBadge");
+
+    badge.textContent = cycle.toUpperCase();
+
+    badge.className =
+        cycle === "dam"
+            ? "cycle-badge badge-dam"
+            : "cycle-badge badge-smx";
+
     const url = DATA_FILES[cycle];
 
     try {
         const res = await fetch(url);
         const data = await res.json();
 
-        renderModules(data.modules); // 🔥 IMPORTANT
+        renderModules(data.modules);
     } catch (err) {
         console.error("Error carregant JSON:", err);
     }
@@ -60,9 +70,22 @@ function renderModule(module) {
     const header = document.createElement("div");
     header.className = "module-header";
 
+    const totalRA = module.ra.length;
+
+    const totalCriteria = module.ra.reduce(
+        (total, ra) => total + (ra.criteria?.length || 0),
+        0
+    );
+
     const title = document.createElement("h2");
-    title.textContent = `${module.id} — ${module.name}`;
+    title.textContent = `▶ ${module.id} — ${module.name}`;
     header.appendChild(title);
+
+    const stats = document.createElement("div");
+    stats.className = "module-stats";
+    stats.textContent = `${totalRA} RA · ${totalCriteria} CA`;
+
+    header.appendChild(stats);
 
     // 🔗 LINK NOMÉS A NIVELL DE MÒDUL
     if (module.sources && module.sources.length > 0) {
@@ -79,7 +102,17 @@ function renderModule(module) {
     // RA container
     const content = document.createElement("div");
     content.className = "module-content";
+    content.classList.add("hidden");
 
+    header.addEventListener("click", (e) => {
+
+        if (e.target.tagName === "A") return;
+
+        const hidden = content.classList.toggle("hidden");
+
+        title.textContent =
+            `${hidden ? "▶" : "▼"} ${module.id} — ${module.name}`;
+    });
     module.ra.forEach(ra => {
         content.appendChild(renderRA(ra));
     });
