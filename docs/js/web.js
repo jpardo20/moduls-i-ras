@@ -1,7 +1,9 @@
 // ======================================================
-// web_v2.js — DEFINITIU
+// web_v2.js: DEFINITIU
 // Compatible amb JSON v3 (modules + RA + criteria)
 // ======================================================
+
+const MAX_LEN = 120
 
 // ---------- CONFIG ----------
 const DATA_FILES = {
@@ -48,6 +50,28 @@ async function loadAndRender(cycle) {
     } catch (err) {
         console.error("Error carregant JSON:", err);
     }
+}
+
+function getShortDescription(text, maxLen = 120) {
+
+    if (!text) return "";
+
+    const cleanText = text
+        .replace(/\s+/g, " ")
+        .trim();
+
+    if (cleanText.length <= maxLen) {
+        return cleanText;
+    }
+
+    const cut = cleanText.substring(0, maxLen);
+
+    return (
+        cut.substring(
+            0,
+            cut.lastIndexOf(" ")
+        ) + "..."
+    );
 }
 
 function renderDashboard(modules, weightsByModule) {
@@ -128,9 +152,8 @@ function renderDashboard(modules, weightsByModule) {
                 </span>
             </div>
 
-           ${
-                pending > 0
-                    ? `
+           ${pending > 0
+            ? `
                         <div class="dashboard-card ok">
                             <span class="dashboard-number">
                                 ${configured}
@@ -149,8 +172,8 @@ function renderDashboard(modules, weightsByModule) {
                             </span>
                         </div>
                     `
-                    : ""
-            }
+            : ""
+        }
 
         </div>
     `;
@@ -193,7 +216,7 @@ function renderModule(module, moduleWeights) {
     const isValidWeight = totalWeight === 100;
 
     const title = document.createElement("h2");
-    title.textContent = `> ${module.id} — ${module.name}`;
+    title.textContent = `> ${module.id}: ${module.name}`;
     header.appendChild(title);
     const stats = document.createElement("div");
     stats.className = "module-stats";
@@ -201,10 +224,9 @@ function renderModule(module, moduleWeights) {
         stats.classList.add("weight-warning");
     }
     stats.textContent =
-        `${totalRA} RA · ${totalCriteria} CA · ${
-            isValidWeight
-                ? "✓ 100%"
-                : `⚠ ${totalWeight}%`
+        `${totalRA} RA · ${totalCriteria} CA · ${isValidWeight
+            ? "✓ 100%"
+            : `⚠ ${totalWeight}%`
         }`;
     header.appendChild(stats);
     // LINK NOMÉS A NIVELL DE MÒDUL
@@ -224,7 +246,7 @@ function renderModule(module, moduleWeights) {
     content.classList.add("hidden");
 
     const weightsButton =
-    document.createElement("button");
+        document.createElement("button");
 
     weightsButton.className =
         "weights-button";
@@ -238,26 +260,31 @@ function renderModule(module, moduleWeights) {
     weightsPanel.className =
         "weights-panel hidden";
 
-    Object.entries(moduleWeights)
-        module.ra.forEach(ra => {
-            const weight =
-                moduleWeights[ra.code];
-            if (!weight) return;
-            const row =
-                document.createElement("div");
-            row.className =
-                "weight-row";
-            row.innerHTML = `
+    module.ra.forEach(ra => {
+        const shortText =
+            getShortDescription(
+                ra.long_description,
+                MAX_LEN
+            );
+
+        const weight =
+            moduleWeights[ra.code];
+        if (!weight) return;
+        const row =
+            document.createElement("div");
+        row.className =
+            "weight-row";
+        row.innerHTML = `
                 <div class="weight-info">
                     <strong>${ra.code}</strong>
-                    <span>${ra.short_description}</span>
+                    <span>${shortText}</span>
                 </div>
                 <span class="weight-value">
                     ${weight}%
                 </span>
             `;
-            weightsPanel.appendChild(row);
-        });
+        weightsPanel.appendChild(row);
+    });
 
     weightsButton.addEventListener(
         "click",
@@ -287,7 +314,7 @@ function renderModule(module, moduleWeights) {
         if (e.target.tagName === "A") return;
         const hidden = content.classList.toggle("hidden");
         title.textContent =
-            `${hidden ? ">" : "<"} ${module.id} — ${module.name}`;
+            `${hidden ? ">" : "<"} ${module.id}: ${module.name}`;
     });
     module.ra.forEach(ra => {
 
@@ -315,15 +342,28 @@ function renderRA(ra, weight) {
 
 
     header.textContent =
-         `> ${ra.code} (${weight}%) — ${ra.short_description}`;
+        `> ${ra.code}: ${
+            getShortDescription(
+                ra.long_description
+            )
+        } (${weight}%)`;
 
     const content = document.createElement("div");
     content.className = "ra-content hidden";
     // Toggle
     header.addEventListener("click", () => {
-        const isHidden = content.classList.toggle("hidden");
+        const isHidden =
+            content.classList.toggle("hidden");
+
         header.textContent =
-            `${isHidden ? ">" : "<"} ${ra.code} (${weight}%) — ${ra.short_description}`;    });
+            `${isHidden ? ">" : "<"} ${ra.code}: ${
+                getShortDescription(
+                    ra.long_description
+                )
+            } (${weight}%)`;
+
+    });
+
     // Descripció
     if (ra.long_description) {
         const desc = document.createElement("p");
@@ -349,6 +389,6 @@ function renderRA(ra, weight) {
 function renderCriterion(c) {
     const li = document.createElement("li");
     li.className = "criterion";
-    li.textContent = `${c.code} — ${c.description}`;
+    li.textContent = `${c.code}: ${c.description}`;
     return li;
 }
