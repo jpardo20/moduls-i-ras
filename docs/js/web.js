@@ -61,7 +61,7 @@ function renderModule(module) {
     header.className = "module-header";
 
     const title = document.createElement("h2");
-    title.textContent = `${module.id} — ${module.name}`;
+    title.textContent = `▶ ${module.id} — ${module.name}`;
     header.appendChild(title);
 
     // 🔗 LINK NOMÉS A NIVELL DE MÒDUL
@@ -79,7 +79,17 @@ function renderModule(module) {
     // RA container
     const content = document.createElement("div");
     content.className = "module-content";
+    content.classList.add("hidden");
 
+    header.addEventListener("click", (e) => {
+
+        if (e.target.tagName === "A") return;
+
+        const hidden = content.classList.toggle("hidden");
+
+        title.textContent =
+            `${hidden ? "▶" : "▼"} ${module.id} — ${module.name}`;
+    });
     module.ra.forEach(ra => {
         content.appendChild(renderRA(ra));
     });
