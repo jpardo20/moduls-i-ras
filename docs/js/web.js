@@ -128,23 +128,29 @@ function renderDashboard(modules, weightsByModule) {
                 </span>
             </div>
 
-            <div class="dashboard-card ok">
-                <span class="dashboard-number">
-                    ${configured}
-                </span>
-                <span class="dashboard-label">
-                    Configurats
-                </span>
-            </div>
+           ${
+                pending > 0
+                    ? `
+                        <div class="dashboard-card ok">
+                            <span class="dashboard-number">
+                                ${configured}
+                            </span>
+                            <span class="dashboard-label">
+                                Configurats
+                            </span>
+                        </div>
 
-            <div class="dashboard-card warning">
-                <span class="dashboard-number">
-                    ${pending}
-                </span>
-                <span class="dashboard-label">
-                    Pendents
-                </span>
-            </div>
+                        <div class="dashboard-card warning">
+                            <span class="dashboard-number">
+                                ${pending}
+                            </span>
+                            <span class="dashboard-label">
+                                Pendents
+                            </span>
+                        </div>
+                    `
+                    : ""
+            }
 
         </div>
     `;
@@ -187,7 +193,7 @@ function renderModule(module, moduleWeights) {
     const isValidWeight = totalWeight === 100;
 
     const title = document.createElement("h2");
-    title.textContent = `▶ ${module.id} — ${module.name}`;
+    title.textContent = `> ${module.id} — ${module.name}`;
     header.appendChild(title);
     const stats = document.createElement("div");
     stats.className = "module-stats";
@@ -210,16 +216,74 @@ function renderModule(module, moduleWeights) {
         link.className = "module-link";
         header.appendChild(link);
     }
+
     wrapper.appendChild(header);
     // RA container
     const content = document.createElement("div");
     content.className = "module-content";
     content.classList.add("hidden");
+
+    const weightsButton =
+    document.createElement("button");
+
+    weightsButton.className =
+        "weights-button";
+
+    weightsButton.textContent =
+        "Pesos RA";
+
+    const weightsPanel =
+        document.createElement("div");
+
+    weightsPanel.className =
+        "weights-panel hidden";
+
+    Object.entries(moduleWeights)
+        .forEach(([ra, weight]) => {
+
+            const row =
+                document.createElement("div");
+
+            row.className =
+                "weight-row";
+
+            row.innerHTML = `
+                <span>${ra}</span>
+                <span>${weight}%</span>
+            `;
+
+            weightsPanel.appendChild(row);
+        });
+
+    weightsButton.addEventListener(
+        "click",
+        (e) => {
+
+            e.stopPropagation();
+
+            const hidden =
+                weightsPanel.classList.toggle(
+                    "hidden"
+                );
+
+            weightsButton.textContent =
+                hidden
+                    ? "Pesos RA"
+                    : "✕ Tancar";
+        }
+    );
+
+    if (Object.keys(moduleWeights).length > 0) {
+        header.appendChild(weightsButton);
+        wrapper.appendChild(weightsPanel);
+        wrapper.appendChild(content);
+    }
+
     header.addEventListener("click", (e) => {
         if (e.target.tagName === "A") return;
         const hidden = content.classList.toggle("hidden");
         title.textContent =
-            `${hidden ? "▶" : "▼"} ${module.id} — ${module.name}`;
+            `${hidden ? ">" : "<"} ${module.id} — ${module.name}`;
     });
     module.ra.forEach(ra => {
 
@@ -247,7 +311,7 @@ function renderRA(ra, weight) {
 
 
     header.textContent =
-         `▶ ${ra.code} (${weight}%) — ${ra.short_description}`;
+         `> ${ra.code} (${weight}%) — ${ra.short_description}`;
 
     const content = document.createElement("div");
     content.className = "ra-content hidden";
@@ -255,7 +319,7 @@ function renderRA(ra, weight) {
     header.addEventListener("click", () => {
         const isHidden = content.classList.toggle("hidden");
         header.textContent =
-            `${isHidden ? "▶" : "▼"} ${ra.code} (${weight}%) — ${ra.short_description}`;    });
+            `${isHidden ? ">" : "<"} ${ra.code} (${weight}%) — ${ra.short_description}`;    });
     // Descripció
     if (ra.long_description) {
         const desc = document.createElement("p");
