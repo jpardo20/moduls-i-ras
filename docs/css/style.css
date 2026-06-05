@@ -89,9 +89,17 @@ select {
 
     align-items: center;
 
-    padding: 18px 22px;
-
     cursor: pointer;
+
+    background: white;
+
+    padding: 1rem;
+
+    font-size: 1.05rem;
+
+    font-weight: 700;
+
+
 }
 
 .module-header:hover {
@@ -114,7 +122,12 @@ select {
 }
 
 .ra {
-    margin-top: 12px;
+    margin-left: 1rem;
+    margin-bottom: .75rem;
+    background: #f8fafc;
+    border-radius: 8px;
+    overflow: hidden;
+    border-left: 4px solid #3b82f6;
 }
 
 .ra-header {
@@ -135,15 +148,15 @@ select {
 }
 
 .ra-content {
-
     margin-top: 8px;
-
     padding: 14px;
-
     border-left: 4px solid #cbd5e1;
-
-    background: white;
+    background: ivory;
+    margin-left: 20px;
+    margin-right: 20px;
+    border-radius: 10px;
 }
+
 
 .ra-desc {
     margin-top: 0;
@@ -152,11 +165,14 @@ select {
 
 .criteria-list {
     padding-left: 20px;
+    margin-left: 1rem;
 }
 
 .criterion {
     margin-bottom: 8px;
     line-height: 1.4;
+    padding: .35rem 0;
+    color: #475569;
 }
 
 .hidden {
@@ -171,13 +187,9 @@ select {
 }
 
 .cycle-badge {
-
     padding: 6px 12px;
-
     border-radius: 999px;
-
     font-size: .85rem;
-
     font-weight: 600;
 }
 
@@ -244,4 +256,40 @@ select {
 
 .dashboard-card.warning {
     border-top: 4px solid #dc2626;
+}
+
+
+.weights-button {
+    padding: .35rem .7rem;
+    border: 1px solid var(--border);
+    border-radius: 999px;
+    cursor: pointer;
+    background: #f8fafc;
+    color: #334155;
+    font-size: .8rem;
+    font-weight: 600;
+}
+
+.weights-button:hover {
+    background: #eef2ff;
+    color: #1d4ed8;
+}
+
+.weights-panel {
+    padding: 1rem;
+    background: #f8fafc;
+    border-radius: 8px;
+    margin-top: .5rem;
+    margin-bottom: .5rem;;
+}
+
+
+.weight-row {
+    display: flex;
+    justify-content: space-between;
+    padding: .25rem 0;
+}
+
+.weight-row:not(:last-child) {
+    border-bottom: 1px solid #e5e7eb;
 }
