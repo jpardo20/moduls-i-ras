@@ -1,0 +1,25 @@
+{
+    "name": "moduls-i-ras",
+    "version": "1.1.0",
+    "base_url": "https://jpardo20.github.io/moduls-i-ras/data/",
+    "updated": "2026-06-06",
+    "maintainer": "Joan Pardo",
+    "cycles": [
+        {
+            "code": "dam",
+            "name": "Desenvolupament d'Aplicacions Multiplataforma",
+            "file": "dam.json"
+        },
+        {
+            "code": "smx",
+            "name": "Sistemes Microinformàtics i Xarxes",
+            "file": "smx.json"
+        }
+    ],
+    "resources": {
+        "implantacio": "implantacio.json",
+        "ponderacions": "ponderacions.json",
+        "moduls_locals_dam": "moduls-locals-dam.json",
+        "moduls_locals_smx": "moduls-locals-smx.json"
+    }
+}
