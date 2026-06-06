@@ -235,7 +235,7 @@ function renderModules(
             "course-title";
 
         titol.textContent =
-            `> ${curs}r curs`;
+            `▶${curs}r curs`;
 
         container.appendChild(titol);
 
@@ -250,7 +250,7 @@ function renderModules(
                         "hidden"
                     );
                 titol.textContent =
-                    `${hidden ? ">" : "<"} ${curs}r curs`;
+                    `${hidden ? "▶" : "▼"} ${curs}r curs`;
             }
         );
 
@@ -300,15 +300,17 @@ function renderModule(module, moduleWeights) {
     const isValidWeight = totalWeight === 100;
 
     const title = document.createElement("h2");
-    title.textContent = `> ${module.id}: ${module.name}`;
+    title.textContent = `▶${module.id}: ${module.name}`;
     header.appendChild(title);
     const stats = document.createElement("div");
     stats.className = "module-stats";
     if (!isValidWeight) {
         stats.classList.add("weight-warning");
     }
+
     stats.textContent =
-        `${totalRA} RA · ${totalCriteria} CA · ${isValidWeight
+        `${totalRA} RA${totalRA > 1 ? "s" : ""}  · ` +
+        `${totalCriteria} CA${totalCriteria > 1 ? "s" : ""} · ${isValidWeight
             ? "✓ 100%"
             : `⚠ ${totalWeight}%`
         }`;
@@ -359,38 +361,46 @@ function renderModule(module, moduleWeights) {
         row.className =
             "weight-row";
         row.innerHTML = `
-                <div class="weight-info">
-                    <strong>${ra.code}</strong>
-                    <span>${shortText}</span>
-                </div>
-                <span class="weight-value">
-                    ${weight}%
-                </span>
-            `;
+            <div class="weight-info">
+                <strong>${ra.code}</strong>
+                <span>${shortText}</span>
+            </div>
+
+            <span class="weight-value">
+                ${weight}%
+            </span>
+        `;
         weightsPanel.appendChild(row);
     });
 
     weightsButton.addEventListener(
         "click",
         (e) => {
-
             e.stopPropagation();
-
-            const hidden =
-                weightsPanel.classList.toggle(
-                    "hidden"
+            const modal =
+                document.getElementById(
+                    "weightsModal"
                 );
-
-            weightsButton.textContent =
-                hidden
-                    ? "Pesos RA"
-                    : "✕ Tancar";
+            const modalTitle =
+                document.getElementById(
+                    "weightsModalTitle"
+                );
+            const modalBody =
+                document.getElementById(
+                    "weightsModalBody"
+                );
+            modalTitle.textContent =
+                `${module.id}: ${module.name}`;
+            modalBody.innerHTML =
+                weightsPanel.innerHTML;
+            modal.classList.remove(
+                "hidden"
+            );
         }
     );
 
     if (Object.keys(moduleWeights).length > 0) {
         header.appendChild(weightsButton);
-        wrapper.appendChild(weightsPanel);
         wrapper.appendChild(content);
     }
 
@@ -398,7 +408,7 @@ function renderModule(module, moduleWeights) {
         if (e.target.tagName === "A") return;
         const hidden = content.classList.toggle("hidden");
         title.textContent =
-            `${hidden ? ">" : "<"} ${module.id}: ${module.name}`;
+            `${hidden ? "▶" : "▼"} ${module.id}: ${module.name}`;
     });
     module.ra.forEach(ra => {
 
@@ -426,7 +436,7 @@ function renderRA(ra, weight) {
 
 
     header.textContent =
-        `> ${ra.code}: ${getShortDescription(
+        `▶${ra.code}: ${getShortDescription(
             ra.long_description
         )
         } (${weight}%)`;
@@ -439,7 +449,7 @@ function renderRA(ra, weight) {
             content.classList.toggle("hidden");
 
         header.textContent =
-            `${isHidden ? ">" : "<"} ${ra.code}: ${getShortDescription(
+            `${isHidden ? "▶" : "▼"} ${ra.code}: ${getShortDescription(
                 ra.long_description
             )
             } (${weight}%)`;
@@ -471,6 +481,44 @@ function renderRA(ra, weight) {
 function renderCriterion(c) {
     const li = document.createElement("li");
     li.className = "criterion";
-    li.textContent = `${c.code}: ${c.description}`;
+    li.innerHTML = `<strong>${c.code}</strong>: ${c.description}`;
     return li;
 }
+
+
+document.addEventListener(
+    "DOMContentLoaded",
+    () => {
+
+        const modal =
+            document.getElementById(
+                "weightsModal"
+            );
+
+        const closeButton =
+            document.getElementById(
+                "closeWeightsModal"
+            );
+
+        if (!modal) return;
+
+        closeButton.addEventListener(
+            "click",
+            () =>
+                modal.classList.add(
+                    "hidden"
+                )
+        );
+
+        modal.addEventListener(
+            "click",
+            (e) => {
+                if (e.target === modal) {
+                    modal.classList.add(
+                        "hidden"
+                    );
+                }
+            }
+        );
+    }
+);
