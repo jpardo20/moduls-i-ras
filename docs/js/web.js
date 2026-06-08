@@ -135,15 +135,25 @@ function renderDashboard(modules, weightsByModule) {
         const moduleWeights =
             weightsByModule[module.id] || {};
 
+        const companyWeight =
+            moduleWeights.company_weight || 0;
+
         const totalWeight =
-            Object.values(moduleWeights)
+            Object.entries(moduleWeights)
+                .filter(([key]) =>
+                    key.startsWith("RA")
+                )
                 .reduce(
-                    (sum, value) =>
+                    (sum, [, value]) =>
                         sum + value,
                     0
                 );
 
-        if (totalWeight === 100) {
+        if (
+            totalWeight +
+            companyWeight ===
+            100
+        ) {
             configured++;
         }
     });
@@ -295,9 +305,25 @@ function renderModule(module, moduleWeights) {
         (total, ra) => total + (ra.criteria?.length || 0),
         0
     );
-    const totalWeight = Object.values(moduleWeights)
-        .reduce((sum, value) => sum + value, 0);
-    const isValidWeight = totalWeight === 100;
+
+    const companyWeight =
+        moduleWeights.company_weight || 0;
+
+    const totalWeight =
+        Object.entries(moduleWeights)
+            .filter(([key]) =>
+                key.startsWith("RA")
+            )
+            .reduce(
+                (sum, [, value]) =>
+                    sum + value,
+                0
+            );
+
+    const isValidWeight =
+        totalWeight +
+        companyWeight ===
+        100;
 
     const title = document.createElement("h2");
     title.textContent = `▶${module.id}: ${module.name}`;
@@ -308,12 +334,20 @@ function renderModule(module, moduleWeights) {
         stats.classList.add("weight-warning");
     }
 
+    const companyText =
+        companyWeight > 0
+            ? ` · Empresa ${companyWeight}%`
+            : "";
+
     stats.textContent =
-        `${totalRA} RA${totalRA > 1 ? "s" : ""}  · ` +
-        `${totalCriteria} CA${totalCriteria > 1 ? "s" : ""} · ${isValidWeight
+        `${totalRA} RA${totalRA > 1 ? "s" : ""} · ` +
+        `${totalCriteria} CA${totalCriteria > 1 ? "s" : ""}` +
+        companyText +
+        ` · ${isValidWeight
             ? "✓ 100%"
-            : `⚠ ${totalWeight}%`
+            : `⚠ ${totalWeight + companyWeight}%`
         }`;
+
     header.appendChild(stats);
     // LINK NOMÉS A NIVELL DE MÒDUL
     if (module.sources && module.sources.length > 0) {
@@ -422,6 +456,29 @@ function renderModule(module, moduleWeights) {
             )
         );
     });
+
+    if (companyWeight > 0) {
+
+        const row =
+            document.createElement("div");
+
+        row.className =
+            "weight-row";
+
+        row.innerHTML = `
+        <div class="weight-info">
+            <strong>EM</strong>
+            <span>Estada a l'empresa</span>
+        </div>
+
+        <span class="weight-value">
+            ${companyWeight}%
+        </span>
+    `;
+
+        weightsPanel.appendChild(row);
+    }
+
     wrapper.appendChild(content);
     return wrapper;
 }
