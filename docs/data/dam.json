@@ -668,7 +668,10 @@
             "confidence": "docx_structural_text"
           }
         }
-      ]
+      ],
+      "company": {
+        "enabled": true
+      }
     },
     {
       "id": "0483",
@@ -1306,7 +1309,10 @@
             "confidence": "docx_structural_text"
           }
         }
-      ]
+      ],
+      "company": {
+        "enabled": true
+      }
     },
     {
       "id": "0484",
@@ -1974,7 +1980,10 @@
             "confidence": "docx_structural_text"
           }
         }
-      ]
+      ],
+      "company": {
+        "enabled": true
+      }
     },
     {
       "id": "0485",
@@ -2888,7 +2897,10 @@
             "confidence": "docx_structural_text"
           }
         }
-      ]
+      ],
+      "company": {
+        "enabled": true
+      }
     },
     {
       "id": "0486",
@@ -3443,7 +3455,10 @@
             "confidence": "docx_structural_text"
           }
         }
-      ]
+      ],
+      "company": {
+        "enabled": true
+      }
     },
     {
       "id": "0487",
@@ -3988,7 +4003,10 @@
             "confidence": "docx_structural_text"
           }
         }
-      ]
+      ],
+      "company": {
+        "enabled": true
+      }
     },
     {
       "id": "0488",
@@ -4709,7 +4727,10 @@
             "confidence": "docx_structural_text"
           }
         }
-      ]
+      ],
+      "company": {
+        "enabled": true
+      }
     },
     {
       "id": "0489",
@@ -5201,7 +5222,10 @@
             "confidence": "docx_structural_text"
           }
         }
-      ]
+      ],
+      "company": {
+        "enabled": true
+      }
     },
     {
       "id": "0490",
@@ -5733,7 +5757,10 @@
             "confidence": "docx_structural_text"
           }
         }
-      ]
+      ],
+      "company": {
+        "enabled": true
+      }
     },
     {
       "id": "0491",
@@ -6195,7 +6222,10 @@
             "confidence": "docx_structural_text"
           }
         }
-      ]
+      ],
+      "company": {
+        "enabled": true
+      }
     },
     {
       "id": "0179",
