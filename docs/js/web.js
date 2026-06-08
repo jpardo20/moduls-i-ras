@@ -336,17 +336,19 @@ function renderModule(module, moduleWeights) {
 
     const companyText =
         companyWeight > 0
-            ? ` · Empresa ${companyWeight}%`
+            ? ` · EM ${companyWeight}%`
             : "";
+
+    const validationText =
+    isValidWeight
+        ? ""
+        : ` · ⚠ ${totalWeight + companyWeight}%`;
 
     stats.textContent =
         `${totalRA} RA${totalRA > 1 ? "s" : ""} · ` +
         `${totalCriteria} CA${totalCriteria > 1 ? "s" : ""}` +
         companyText +
-        ` · ${isValidWeight
-            ? "✓ 100%"
-            : `⚠ ${totalWeight + companyWeight}%`
-        }`;
+        validationText;
 
     header.appendChild(stats);
     // LINK NOMÉS A NIVELL DE MÒDUL
