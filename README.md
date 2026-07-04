@@ -1,18 +1,21 @@
 # Mòduls i Resultats d'Aprenentatge de FP
 
-Repositori de consulta i estructuració de mòduls professionals, Resultats d'Aprenentatge (RA) i dades curriculars de cicles formatius d'informàtica.
+>  **Web pública:** https://jpardo20.github.io/moduls-i-ras/
+
+Portal web de consulta de mòduls professionals, Resultats d'Aprenentatge (RA) i dades curriculars dels cicles formatius d'informàtica.
+
 
 ## Objectiu
 
-Centralitzar informació útil per a la planificació docent, l'avaluació per RA i la consulta ràpida de mòduls de DAM i SMX.
+Centralitzar informació útil per a la planificació docent, l'avaluació per RA i la consulta ràpida de mòduls de DAM, DAW i SMX.
 
 ## Contingut
 
 - Dades estructurades de cicles i mòduls en format JSON.
-- Informació sobre DAM i SMX.
-- Ponderacions i mòduls locals.
-- Interfície web estàtica de consulta.
+- Resultats d'Aprenentatge (RA) i ponderacions.
+- Informació de DAM, DAW i SMX.
 - Scripts de generació i validació de dades.
+- Web estàtica publicada amb GitHub Pages.
 
 ## Estructura
 
@@ -23,8 +26,12 @@ Centralitzar informació útil per a la planificació docent, l'avaluació per R
 
 ## Tecnologies
 
-HTML · CSS · JavaScript · JSON · Python
+- HTML, CSS i JavaScript
+- JSON
+- Python
+- GitHub Pages
 
-## Estat
+## Estat del projecte
 
-Projecte docent en evolució.
+Projecte docent actiu, utilitzat com a eina de suport per a la planificació, la docència i l'avaluació basada en Resultats d'Aprenentatge (RA) en Formació Professional.
+
