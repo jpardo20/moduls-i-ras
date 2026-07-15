@@ -4,15 +4,19 @@
   "descripcio": "API estàtica de consulta de mòduls professionals, resultats d'aprenentatge i criteris d'avaluació.",
   "base_path": "docs/api/v1",
   "cicles": {
-    "IC10": {
-      "nom": "smx",
+    "SMX": {
+      "codi_oficial": "IC10",
+      "nom": "Sistemes Microinformàtics i Xarxes",
+      "slug": "smx",
       "num_moduls": 14,
-      "url": "cicles/ic10.json"
+      "url": "cicles/smx.json"
     },
-    "ICB0": {
-      "nom": "dam",
+    "DAM": {
+      "codi_oficial": "ICB0",
+      "nom": "Desenvolupament d'Aplicacions Multiplataforma",
+      "slug": "dam",
       "num_moduls": 16,
-      "url": "cicles/icb0.json"
+      "url": "cicles/dam.json"
     }
   },
   "moduls": {
@@ -208,6 +212,6 @@
   },
   "metadata": {
     "estat": "generat",
-    "data_generacio": "2026-07-15T14:28:35.869249+00:00"
+    "data_generacio": "2026-07-15T14:38:12.114606+00:00"
   }
 }

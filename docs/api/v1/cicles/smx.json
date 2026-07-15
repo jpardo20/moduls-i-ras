@@ -1,7 +1,9 @@
 {
   "api_version": "1.0",
-  "codi": "IC10",
-  "nom": "smx",
+  "codi": "SMX",
+  "codi_oficial": "IC10",
+  "nom": "Sistemes Microinformàtics i Xarxes",
+  "slug": "smx",
   "num_moduls": 14,
   "moduls": [
     {
@@ -120,6 +122,6 @@
   "metadata": {
     "font": "docs/data/smx.json",
     "estat": "generat",
-    "data_generacio": "2026-07-15T14:28:35.869249+00:00"
+    "data_generacio": "2026-07-15T14:38:12.114606+00:00"
   }
 }

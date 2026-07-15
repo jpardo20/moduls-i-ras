@@ -3,8 +3,10 @@
   "codi": "1664",
   "nom": "Digitalització aplicada als sectors productius",
   "cicle": {
-    "codi": "IC10",
-    "nom": "smx"
+    "codi": "SMX",
+    "codi_oficial": "IC10",
+    "nom": "Sistemes Microinformàtics i Xarxes",
+    "slug": "smx"
   },
   "hores": {
     "total": 33
@@ -747,8 +749,8 @@
   },
   "metadata": {
     "font": "docs/data",
-    "fitxer_origen": "ic10.json",
+    "fitxer_origen": "smx.json",
     "estat": "generat",
-    "data_generacio": "2026-07-15T14:28:35.869249+00:00"
+    "data_generacio": "2026-07-15T14:38:12.114606+00:00"
   }
 }

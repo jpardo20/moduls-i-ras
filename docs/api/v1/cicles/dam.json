@@ -1,7 +1,9 @@
 {
   "api_version": "1.0",
-  "codi": "ICB0",
-  "nom": "dam",
+  "codi": "DAM",
+  "codi_oficial": "ICB0",
+  "nom": "Desenvolupament d'Aplicacions Multiplataforma",
+  "slug": "dam",
   "num_moduls": 16,
   "moduls": [
     {
@@ -136,6 +138,6 @@
   "metadata": {
     "font": "docs/data/dam.json",
     "estat": "generat",
-    "data_generacio": "2026-07-15T14:28:35.869249+00:00"
+    "data_generacio": "2026-07-15T14:38:12.114606+00:00"
   }
 }

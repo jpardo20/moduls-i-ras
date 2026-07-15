@@ -3,8 +3,10 @@
   "codi": "0492",
   "nom": "Projecte intermodular de desenvolupament d'aplicacions multiplataforma",
   "cicle": {
-    "codi": "ICB0",
-    "nom": "dam"
+    "codi": "DAM",
+    "codi_oficial": "ICB0",
+    "nom": "Desenvolupament d'Aplicacions Multiplataforma",
+    "slug": "dam"
   },
   "hores": {
     "total": 198
@@ -733,8 +735,8 @@
   },
   "metadata": {
     "font": "docs/data",
-    "fitxer_origen": "icb0.json",
+    "fitxer_origen": "dam.json",
     "estat": "generat",
-    "data_generacio": "2026-07-15T14:28:35.869249+00:00"
+    "data_generacio": "2026-07-15T14:38:12.114606+00:00"
   }
 }
