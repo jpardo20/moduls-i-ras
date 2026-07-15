@@ -1,0 +1,1008 @@
+{
+  "api_version": "1.0",
+  "codi": "1665",
+  "nom": "Digitalització aplicada als sectors productius",
+  "cicle": {
+    "codi": "ICB0",
+    "nom": "dam"
+  },
+  "hores": {
+    "total": 33
+  },
+  "empresa": {
+    "te_estada": false
+  },
+  "num_ra": 6,
+  "resultats_aprenentatge": {
+    "RA1": {
+      "ordre": 1,
+      "codi": "RA1",
+      "codi_complet": "ICB0_1665_RA1",
+      "descripcio": "Analitza el concepte de digitalització i la seva repercussió en els sectors productius tenint en compte l'activitat de l'empresa i identificant entorns IT (Information Technology: tecnologia de la informació) i OT (Operation Technology: tecnologia d'operació) característics.",
+      "descripcio_curta": "Analitza el concepte de digitalització i la seva repercussió en els sectors prod",
+      "font": {
+        "file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx",
+        "paragraph_index": 1545,
+        "confidence": "docx_structural_text"
+      },
+      "criteris_avaluacio": {
+        "CA01": {
+          "codi": "CA01",
+          "codi_complet": "ICB0_1665_RA1_CA01",
+          "descripcio": "1.1 Descriu en què consisteix el concepte de digitalització.",
+          "font": {
+            "file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx",
+            "paragraph_index": 1547,
+            "confidence": "docx_structural_text"
+          },
+          "dades_originals": {
+            "code": "CA01",
+            "code_full": "ICB0_1665_RA1_CA01",
+            "description": "1.1 Descriu en què consisteix el concepte de digitalització.",
+            "source": {
+              "file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx",
+              "paragraph_index": 1547,
+              "confidence": "docx_structural_text"
+            }
+          }
+        },
+        "CA02": {
+          "codi": "CA02",
+          "codi_complet": "ICB0_1665_RA1_CA02",
+          "descripcio": "1.2 Relaciona la implantació de la tecnologia digital amb l'organització de les empreses.",
+          "font": {
+            "file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx",
+            "paragraph_index": 1548,
+            "confidence": "docx_structural_text"
+          },
+          "dades_originals": {
+            "code": "CA02",
+            "code_full": "ICB0_1665_RA1_CA02",
+            "description": "1.2 Relaciona la implantació de la tecnologia digital amb l'organització de les empreses.",
+            "source": {
+              "file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx",
+              "paragraph_index": 1548,
+              "confidence": "docx_structural_text"
+            }
+          }
+        },
+        "CA03": {
+          "codi": "CA03",
+          "codi_complet": "ICB0_1665_RA1_CA03",
+          "descripcio": "1.3 Estableix les diferències i similituds entre els entorns IT i OT.",
+          "font": {
+            "file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx",
+            "paragraph_index": 1549,
+            "confidence": "docx_structural_text"
+          },
+          "dades_originals": {
+            "code": "CA03",
+            "code_full": "ICB0_1665_RA1_CA03",
+            "description": "1.3 Estableix les diferències i similituds entre els entorns IT i OT.",
+            "source": {
+              "file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx",
+              "paragraph_index": 1549,
+              "confidence": "docx_structural_text"
+            }
+          }
+        },
+        "CA04": {
+          "codi": "CA04",
+          "codi_complet": "ICB0_1665_RA1_CA04",
+          "descripcio": "1.4 Identifica els departaments típics de les empreses que poden constituir entorns IT.",
+          "font": {
+            "file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx",
+            "paragraph_index": 1550,
+            "confidence": "docx_structural_text"
+          },
+          "dades_originals": {
+            "code": "CA04",
+            "code_full": "ICB0_1665_RA1_CA04",
+            "description": "1.4 Identifica els departaments típics de les empreses que poden constituir entorns IT.",
+            "source": {
+              "file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx",
+              "paragraph_index": 1550,
+              "confidence": "docx_structural_text"
+            }
+          }
+        },
+        "CA05": {
+          "codi": "CA05",
+          "codi_complet": "ICB0_1665_RA1_CA05",
+          "descripcio": "1.5 Selecciona les tecnologies típiques de la digitalització en planta i en negoci.",
+          "font": {
+            "file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx",
+            "paragraph_index": 1551,
+            "confidence": "docx_structural_text"
+          },
+          "dades_originals": {
+            "code": "CA05",
+            "code_full": "ICB0_1665_RA1_CA05",
+            "description": "1.5 Selecciona les tecnologies típiques de la digitalització en planta i en negoci.",
+            "source": {
+              "file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx",
+              "paragraph_index": 1551,
+              "confidence": "docx_structural_text"
+            }
+          }
+        },
+        "CA06": {
+          "codi": "CA06",
+          "codi_complet": "ICB0_1665_RA1_CA06",
+          "descripcio": "1.6 Analitza la importància de la connexió entre entorns IT i OT.",
+          "font": {
+            "file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx",
+            "paragraph_index": 1552,
+            "confidence": "docx_structural_text"
+          },
+          "dades_originals": {
+            "code": "CA06",
+            "code_full": "ICB0_1665_RA1_CA06",
+            "description": "1.6 Analitza la importància de la connexió entre entorns IT i OT.",
+            "source": {
+              "file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx",
+              "paragraph_index": 1552,
+              "confidence": "docx_structural_text"
+            }
+          }
+        },
+        "CA07": {
+          "codi": "CA07",
+          "codi_complet": "ICB0_1665_RA1_CA07",
+          "descripcio": "1.7 Analitza els avantatges de digitalitzar una empresa industrial d'extrem a extrem.",
+          "font": {
+            "file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx",
+            "paragraph_index": 1553,
+            "confidence": "docx_structural_text"
+          },
+          "dades_originals": {
+            "code": "CA07",
+            "code_full": "ICB0_1665_RA1_CA07",
+            "description": "1.7 Analitza els avantatges de digitalitzar una empresa industrial d'extrem a extrem.",
+            "source": {
+              "file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx",
+              "paragraph_index": 1553,
+              "confidence": "docx_structural_text"
+            }
+          }
+        }
+      }
+    },
+    "RA2": {
+      "ordre": 2,
+      "codi": "RA2",
+      "codi_complet": "ICB0_1665_RA2",
+      "descripcio": "Caracteritza les tecnologies habilitadores digitals necessàries per a l'adequació/transformació de les empreses a entorns digitals descrivint les seves característiques i aplicacions.",
+      "descripcio_curta": "Caracteritza les tecnologies habilitadores digitals necessàries per a l'adequaci",
+      "font": {
+        "file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx",
+        "paragraph_index": 1554,
+        "confidence": "docx_structural_text"
+      },
+      "criteris_avaluacio": {
+        "CA01": {
+          "codi": "CA01",
+          "codi_complet": "ICB0_1665_RA2_CA01",
+          "descripcio": "2.1 Identifica les principals tecnologies habilitadores digitals.",
+          "font": {
+            "file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx",
+            "paragraph_index": 1556,
+            "confidence": "docx_structural_text"
+          },
+          "dades_originals": {
+            "code": "CA01",
+            "code_full": "ICB0_1665_RA2_CA01",
+            "description": "2.1 Identifica les principals tecnologies habilitadores digitals.",
+            "source": {
+              "file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx",
+              "paragraph_index": 1556,
+              "confidence": "docx_structural_text"
+            }
+          }
+        },
+        "CA02": {
+          "codi": "CA02",
+          "codi_complet": "ICB0_1665_RA2_CA02",
+          "descripcio": "2.2 Relaciona les THD amb el desenvolupament de productes i serveis.",
+          "font": {
+            "file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx",
+            "paragraph_index": 1557,
+            "confidence": "docx_structural_text"
+          },
+          "dades_originals": {
+            "code": "CA02",
+            "code_full": "ICB0_1665_RA2_CA02",
+            "description": "2.2 Relaciona les THD amb el desenvolupament de productes i serveis.",
+            "source": {
+              "file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx",
+              "paragraph_index": 1557,
+              "confidence": "docx_structural_text"
+            }
+          }
+        },
+        "CA03": {
+          "codi": "CA03",
+          "codi_complet": "ICB0_1665_RA2_CA03",
+          "descripcio": "2.3 Relaciona la importància de les THD amb l'economia sostenible i eficient.",
+          "font": {
+            "file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx",
+            "paragraph_index": 1558,
+            "confidence": "docx_structural_text"
+          },
+          "dades_originals": {
+            "code": "CA03",
+            "code_full": "ICB0_1665_RA2_CA03",
+            "description": "2.3 Relaciona la importància de les THD amb l'economia sostenible i eficient.",
+            "source": {
+              "file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx",
+              "paragraph_index": 1558,
+              "confidence": "docx_structural_text"
+            }
+          }
+        },
+        "CA04": {
+          "codi": "CA04",
+          "codi_complet": "ICB0_1665_RA2_CA04",
+          "descripcio": "2.4 Identifica nous mercats generats per les THD.",
+          "font": {
+            "file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx",
+            "paragraph_index": 1559,
+            "confidence": "docx_structural_text"
+          },
+          "dades_originals": {
+            "code": "CA04",
+            "code_full": "ICB0_1665_RA2_CA04",
+            "description": "2.4 Identifica nous mercats generats per les THD.",
+            "source": {
+              "file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx",
+              "paragraph_index": 1559,
+              "confidence": "docx_structural_text"
+            }
+          }
+        },
+        "CA05": {
+          "codi": "CA05",
+          "codi_complet": "ICB0_1665_RA2_CA05",
+          "descripcio": "2.5 Analitza la implicació de THD tant en la part de negoci com en la part de planta.",
+          "font": {
+            "file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx",
+            "paragraph_index": 1560,
+            "confidence": "docx_structural_text"
+          },
+          "dades_originals": {
+            "code": "CA05",
+            "code_full": "ICB0_1665_RA2_CA05",
+            "description": "2.5 Analitza la implicació de THD tant en la part de negoci com en la part de planta.",
+            "source": {
+              "file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx",
+              "paragraph_index": 1560,
+              "confidence": "docx_structural_text"
+            }
+          }
+        },
+        "CA06": {
+          "codi": "CA06",
+          "codi_complet": "ICB0_1665_RA2_CA06",
+          "descripcio": "2.6 Identifica les millores produïdes a causa de la implantació de les tecnologies habilitadores en relació amb els entorns IT i OT.",
+          "font": {
+            "file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx",
+            "paragraph_index": 1561,
+            "confidence": "docx_structural_text"
+          },
+          "dades_originals": {
+            "code": "CA06",
+            "code_full": "ICB0_1665_RA2_CA06",
+            "description": "2.6 Identifica les millores produïdes a causa de la implantació de les tecnologies habilitadores en relació amb els entorns IT i OT.",
+            "source": {
+              "file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx",
+              "paragraph_index": 1561,
+              "confidence": "docx_structural_text"
+            }
+          }
+        },
+        "CA07": {
+          "codi": "CA07",
+          "codi_complet": "ICB0_1665_RA2_CA07",
+          "descripcio": "2.7 Elabora un informe que relacioni, les tecnologies amb les seves característiques i àrees d'aplicació.",
+          "font": {
+            "file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx",
+            "paragraph_index": 1562,
+            "confidence": "docx_structural_text"
+          },
+          "dades_originals": {
+            "code": "CA07",
+            "code_full": "ICB0_1665_RA2_CA07",
+            "description": "2.7 Elabora un informe que relacioni, les tecnologies amb les seves característiques i àrees d'aplicació.",
+            "source": {
+              "file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx",
+              "paragraph_index": 1562,
+              "confidence": "docx_structural_text"
+            }
+          }
+        }
+      }
+    },
+    "RA3": {
+      "ordre": 3,
+      "codi": "RA3",
+      "codi_complet": "ICB0_1665_RA3",
+      "descripcio": "Identifica sistemes basats en cloud/núvol i la seva influència en el desenvolupament dels sistemes digitals.",
+      "descripcio_curta": "Identifica sistemes basats en cloud/núvol i la seva influència en el desenvolupa",
+      "font": {
+        "file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx",
+        "paragraph_index": 1564,
+        "confidence": "docx_structural_text"
+      },
+      "criteris_avaluacio": {
+        "CA01": {
+          "codi": "CA01",
+          "codi_complet": "ICB0_1665_RA3_CA01",
+          "descripcio": "3.1 Identifica els diferents nivells del cloud/núvol.",
+          "font": {
+            "file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx",
+            "paragraph_index": 1566,
+            "confidence": "docx_structural_text"
+          },
+          "dades_originals": {
+            "code": "CA01",
+            "code_full": "ICB0_1665_RA3_CA01",
+            "description": "3.1 Identifica els diferents nivells del cloud/núvol.",
+            "source": {
+              "file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx",
+              "paragraph_index": 1566,
+              "confidence": "docx_structural_text"
+            }
+          }
+        },
+        "CA02": {
+          "codi": "CA02",
+          "codi_complet": "ICB0_1665_RA3_CA02",
+          "descripcio": "3.2 Identifica les principals funcions de la cloud/núvol (processament de dades, intercanvi d'informació, execució d'aplicacions, entre altres).",
+          "font": {
+            "file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx",
+            "paragraph_index": 1567,
+            "confidence": "docx_structural_text"
+          },
+          "dades_originals": {
+            "code": "CA02",
+            "code_full": "ICB0_1665_RA3_CA02",
+            "description": "3.2 Identifica les principals funcions de la cloud/núvol (processament de dades, intercanvi d'informació, execució d'aplicacions, entre altres).",
+            "source": {
+              "file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx",
+              "paragraph_index": 1567,
+              "confidence": "docx_structural_text"
+            }
+          }
+        },
+        "CA03": {
+          "codi": "CA03",
+          "codi_complet": "ICB0_1665_RA3_CA03",
+          "descripcio": "3.3 Descriu el concepte d’edge computing i la seva relació amb la cloud/núvol.",
+          "font": {
+            "file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx",
+            "paragraph_index": 1568,
+            "confidence": "docx_structural_text"
+          },
+          "dades_originals": {
+            "code": "CA03",
+            "code_full": "ICB0_1665_RA3_CA03",
+            "description": "3.3 Descriu el concepte d’edge computing i la seva relació amb la cloud/núvol.",
+            "source": {
+              "file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx",
+              "paragraph_index": 1568,
+              "confidence": "docx_structural_text"
+            }
+          }
+        },
+        "CA04": {
+          "codi": "CA04",
+          "codi_complet": "ICB0_1665_RA3_CA04",
+          "descripcio": "3.4 Defineix els conceptes de fog i mist i les seves zones d'aplicació en el conjunt.",
+          "font": {
+            "file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx",
+            "paragraph_index": 1569,
+            "confidence": "docx_structural_text"
+          },
+          "dades_originals": {
+            "code": "CA04",
+            "code_full": "ICB0_1665_RA3_CA04",
+            "description": "3.4 Defineix els conceptes de fog i mist i les seves zones d'aplicació en el conjunt.",
+            "source": {
+              "file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx",
+              "paragraph_index": 1569,
+              "confidence": "docx_structural_text"
+            }
+          }
+        },
+        "CA05": {
+          "codi": "CA05",
+          "codi_complet": "ICB0_1665_RA3_CA05",
+          "descripcio": "3.5 Identifica els avantatges que proporciona la utilització del cloud/núvol en els sistemes connectats.",
+          "font": {
+            "file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx",
+            "paragraph_index": 1570,
+            "confidence": "docx_structural_text"
+          },
+          "dades_originals": {
+            "code": "CA05",
+            "code_full": "ICB0_1665_RA3_CA05",
+            "description": "3.5 Identifica els avantatges que proporciona la utilització del cloud/núvol en els sistemes connectats.",
+            "source": {
+              "file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx",
+              "paragraph_index": 1570,
+              "confidence": "docx_structural_text"
+            }
+          }
+        }
+      }
+    },
+    "RA4": {
+      "ordre": 4,
+      "codi": "RA4",
+      "codi_complet": "ICB0_1665_RA4",
+      "descripcio": "Identifica aplicacions de la IA (intel·ligència artificial) en entorns del sector on està emmarcat el títol descrivint les millores implícites en la seva implementació",
+      "descripcio_curta": "Identifica aplicacions de la IA (intel·ligència artificial) en entorns del secto",
+      "font": {
+        "file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx",
+        "paragraph_index": 1571,
+        "confidence": "docx_structural_text"
+      },
+      "criteris_avaluacio": {
+        "CA01": {
+          "codi": "CA01",
+          "codi_complet": "ICB0_1665_RA4_CA01",
+          "descripcio": "4.1 Identifica la importància de la IA en l'automatització de processos i la seva optimització.",
+          "font": {
+            "file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx",
+            "paragraph_index": 1573,
+            "confidence": "docx_structural_text"
+          },
+          "dades_originals": {
+            "code": "CA01",
+            "code_full": "ICB0_1665_RA4_CA01",
+            "description": "4.1 Identifica la importància de la IA en l'automatització de processos i la seva optimització.",
+            "source": {
+              "file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx",
+              "paragraph_index": 1573,
+              "confidence": "docx_structural_text"
+            }
+          }
+        },
+        "CA02": {
+          "codi": "CA02",
+          "codi_complet": "ICB0_1665_RA4_CA02",
+          "descripcio": "4.2 Relaciona la IA amb la recollida massiva de dades (Big Data) i el seu tractament (anàlisi) amb la rendibilitat de les empreses.",
+          "font": {
+            "file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx",
+            "paragraph_index": 1574,
+            "confidence": "docx_structural_text"
+          },
+          "dades_originals": {
+            "code": "CA02",
+            "code_full": "ICB0_1665_RA4_CA02",
+            "description": "4.2 Relaciona la IA amb la recollida massiva de dades (Big Data) i el seu tractament (anàlisi) amb la rendibilitat de les empreses.",
+            "source": {
+              "file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx",
+              "paragraph_index": 1574,
+              "confidence": "docx_structural_text"
+            }
+          }
+        },
+        "CA03": {
+          "codi": "CA03",
+          "codi_complet": "ICB0_1665_RA4_CA03",
+          "descripcio": "4.3 Valora la importància present i futura de la IA.",
+          "font": {
+            "file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx",
+            "paragraph_index": 1575,
+            "confidence": "docx_structural_text"
+          },
+          "dades_originals": {
+            "code": "CA03",
+            "code_full": "ICB0_1665_RA4_CA03",
+            "description": "4.3 Valora la importància present i futura de la IA.",
+            "source": {
+              "file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx",
+              "paragraph_index": 1575,
+              "confidence": "docx_structural_text"
+            }
+          }
+        },
+        "CA04": {
+          "codi": "CA04",
+          "codi_complet": "ICB0_1665_RA4_CA04",
+          "descripcio": "4.4 Identifica els sectors amb implantació més rellevant de IA.",
+          "font": {
+            "file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx",
+            "paragraph_index": 1576,
+            "confidence": "docx_structural_text"
+          },
+          "dades_originals": {
+            "code": "CA04",
+            "code_full": "ICB0_1665_RA4_CA04",
+            "description": "4.4 Identifica els sectors amb implantació més rellevant de IA.",
+            "source": {
+              "file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx",
+              "paragraph_index": 1576,
+              "confidence": "docx_structural_text"
+            }
+          }
+        },
+        "CA05": {
+          "codi": "CA05",
+          "codi_complet": "ICB0_1665_RA4_CA05",
+          "descripcio": "4.5 Identifica els llenguatges de programació en IA.",
+          "font": {
+            "file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx",
+            "paragraph_index": 1577,
+            "confidence": "docx_structural_text"
+          },
+          "dades_originals": {
+            "code": "CA05",
+            "code_full": "ICB0_1665_RA4_CA05",
+            "description": "4.5 Identifica els llenguatges de programació en IA.",
+            "source": {
+              "file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx",
+              "paragraph_index": 1577,
+              "confidence": "docx_structural_text"
+            }
+          }
+        },
+        "CA06": {
+          "codi": "CA06",
+          "codi_complet": "ICB0_1665_RA4_CA06",
+          "descripcio": "4.6 Descriu com influeix la IA en el sector del títol.",
+          "font": {
+            "file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx",
+            "paragraph_index": 1578,
+            "confidence": "docx_structural_text"
+          },
+          "dades_originals": {
+            "code": "CA06",
+            "code_full": "ICB0_1665_RA4_CA06",
+            "description": "4.6 Descriu com influeix la IA en el sector del títol.",
+            "source": {
+              "file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx",
+              "paragraph_index": 1578,
+              "confidence": "docx_structural_text"
+            }
+          }
+        }
+      }
+    },
+    "RA5": {
+      "ordre": 5,
+      "codi": "RA5",
+      "codi_complet": "ICB0_1665_RA5",
+      "descripcio": "Avalua la importància de les dades, així com la seva protecció en una economia digital globalitzada, definint sistemes de seguretat i ciberseguretat tant a nivell d'equip/sistema, com a globals.",
+      "descripcio_curta": "Avalua la importància de les dades, així com la seva protecció en una economia d",
+      "font": {
+        "file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx",
+        "paragraph_index": 1579,
+        "confidence": "docx_structural_text"
+      },
+      "criteris_avaluacio": {
+        "CA01": {
+          "codi": "CA01",
+          "codi_complet": "ICB0_1665_RA5_CA01",
+          "descripcio": "5.1 Estableix la diferència entre dada i informació.",
+          "font": {
+            "file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx",
+            "paragraph_index": 1581,
+            "confidence": "docx_structural_text"
+          },
+          "dades_originals": {
+            "code": "CA01",
+            "code_full": "ICB0_1665_RA5_CA01",
+            "description": "5.1 Estableix la diferència entre dada i informació.",
+            "source": {
+              "file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx",
+              "paragraph_index": 1581,
+              "confidence": "docx_structural_text"
+            }
+          }
+        },
+        "CA02": {
+          "codi": "CA02",
+          "codi_complet": "ICB0_1665_RA5_CA02",
+          "descripcio": "5.2 Descriu el cicle de vida de la dada.",
+          "font": {
+            "file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx",
+            "paragraph_index": 1582,
+            "confidence": "docx_structural_text"
+          },
+          "dades_originals": {
+            "code": "CA02",
+            "code_full": "ICB0_1665_RA5_CA02",
+            "description": "5.2 Descriu el cicle de vida de la dada.",
+            "source": {
+              "file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx",
+              "paragraph_index": 1582,
+              "confidence": "docx_structural_text"
+            }
+          }
+        },
+        "CA03": {
+          "codi": "CA03",
+          "codi_complet": "ICB0_1665_RA5_CA03",
+          "descripcio": "5.3 Identifica la relació entre Big Data, anàlisi de dades, machine/deep learning i intel·ligència artificial.",
+          "font": {
+            "file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx",
+            "paragraph_index": 1583,
+            "confidence": "docx_structural_text"
+          },
+          "dades_originals": {
+            "code": "CA03",
+            "code_full": "ICB0_1665_RA5_CA03",
+            "description": "5.3 Identifica la relació entre Big Data, anàlisi de dades, machine/deep learning i intel·ligència artificial.",
+            "source": {
+              "file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx",
+              "paragraph_index": 1583,
+              "confidence": "docx_structural_text"
+            }
+          }
+        },
+        "CA04": {
+          "codi": "CA04",
+          "codi_complet": "ICB0_1665_RA5_CA04",
+          "descripcio": "5.4 Descriu les característiques que defineixen Big Data.",
+          "font": {
+            "file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx",
+            "paragraph_index": 1584,
+            "confidence": "docx_structural_text"
+          },
+          "dades_originals": {
+            "code": "CA04",
+            "code_full": "ICB0_1665_RA5_CA04",
+            "description": "5.4 Descriu les característiques que defineixen Big Data.",
+            "source": {
+              "file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx",
+              "paragraph_index": 1584,
+              "confidence": "docx_structural_text"
+            }
+          }
+        },
+        "CA05": {
+          "codi": "CA05",
+          "codi_complet": "ICB0_1665_RA5_CA05",
+          "descripcio": "5.5 Descriu les etapes típiques de la ciència de dades i la seva relació en el procés.",
+          "font": {
+            "file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx",
+            "paragraph_index": 1585,
+            "confidence": "docx_structural_text"
+          },
+          "dades_originals": {
+            "code": "CA05",
+            "code_full": "ICB0_1665_RA5_CA05",
+            "description": "5.5 Descriu les etapes típiques de la ciència de dades i la seva relació en el procés.",
+            "source": {
+              "file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx",
+              "paragraph_index": 1585,
+              "confidence": "docx_structural_text"
+            }
+          }
+        },
+        "CA06": {
+          "codi": "CA06",
+          "codi_complet": "ICB0_1665_RA5_CA06",
+          "descripcio": "5.6 Descriu els procediments d'emmagatzematge de dades en el cloud/núvol.",
+          "font": {
+            "file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx",
+            "paragraph_index": 1586,
+            "confidence": "docx_structural_text"
+          },
+          "dades_originals": {
+            "code": "CA06",
+            "code_full": "ICB0_1665_RA5_CA06",
+            "description": "5.6 Descriu els procediments d'emmagatzematge de dades en el cloud/núvol.",
+            "source": {
+              "file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx",
+              "paragraph_index": 1586,
+              "confidence": "docx_structural_text"
+            }
+          }
+        },
+        "CA07": {
+          "codi": "CA07",
+          "codi_complet": "ICB0_1665_RA5_CA07",
+          "descripcio": "5.7 Descriu la importància del cloud computing.",
+          "font": {
+            "file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx",
+            "paragraph_index": 1587,
+            "confidence": "docx_structural_text"
+          },
+          "dades_originals": {
+            "code": "CA07",
+            "code_full": "ICB0_1665_RA5_CA07",
+            "description": "5.7 Descriu la importància del cloud computing.",
+            "source": {
+              "file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx",
+              "paragraph_index": 1587,
+              "confidence": "docx_structural_text"
+            }
+          }
+        },
+        "CA08": {
+          "codi": "CA08",
+          "codi_complet": "ICB0_1665_RA5_CA08",
+          "descripcio": "5.8 Identifica els principals objectius de la ciència de dades en les diferents empreses.",
+          "font": {
+            "file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx",
+            "paragraph_index": 1588,
+            "confidence": "docx_structural_text"
+          },
+          "dades_originals": {
+            "code": "CA08",
+            "code_full": "ICB0_1665_RA5_CA08",
+            "description": "5.8 Identifica els principals objectius de la ciència de dades en les diferents empreses.",
+            "source": {
+              "file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx",
+              "paragraph_index": 1588,
+              "confidence": "docx_structural_text"
+            }
+          }
+        },
+        "CA09": {
+          "codi": "CA09",
+          "codi_complet": "ICB0_1665_RA5_CA09",
+          "descripcio": "5.9 Valora la importància de la seguretat i la seva regulació en relació amb les dades.",
+          "font": {
+            "file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx",
+            "paragraph_index": 1589,
+            "confidence": "docx_structural_text"
+          },
+          "dades_originals": {
+            "code": "CA09",
+            "code_full": "ICB0_1665_RA5_CA09",
+            "description": "5.9 Valora la importància de la seguretat i la seva regulació en relació amb les dades.",
+            "source": {
+              "file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx",
+              "paragraph_index": 1589,
+              "confidence": "docx_structural_text"
+            }
+          }
+        }
+      }
+    },
+    "RA6": {
+      "ordre": 6,
+      "codi": "RA6",
+      "codi_complet": "ICB0_1665_RA6",
+      "descripcio": "Desenvolupa un projecte de transformació digital d'una empresa d'un sector relacionat amb el títol, tenint en compte els canvis que s'han de produir en funció dels objectius de l'empresa.",
+      "descripcio_curta": "Desenvolupa un projecte de transformació digital d'una empresa d'un sector relac",
+      "font": {
+        "file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx",
+        "paragraph_index": 1590,
+        "confidence": "docx_structural_text"
+      },
+      "criteris_avaluacio": {
+        "CA01": {
+          "codi": "CA01",
+          "codi_complet": "ICB0_1665_RA6_CA01",
+          "descripcio": "6.1 Identifica els objectius estratègics de l'empresa.",
+          "font": {
+            "file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx",
+            "paragraph_index": 1592,
+            "confidence": "docx_structural_text"
+          },
+          "dades_originals": {
+            "code": "CA01",
+            "code_full": "ICB0_1665_RA6_CA01",
+            "description": "6.1 Identifica els objectius estratègics de l'empresa.",
+            "source": {
+              "file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx",
+              "paragraph_index": 1592,
+              "confidence": "docx_structural_text"
+            }
+          }
+        },
+        "CA02": {
+          "codi": "CA02",
+          "codi_complet": "ICB0_1665_RA6_CA02",
+          "descripcio": "6.2 Identifica i alinea les àrees de producció/negoci i de comunicacions.",
+          "font": {
+            "file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx",
+            "paragraph_index": 1593,
+            "confidence": "docx_structural_text"
+          },
+          "dades_originals": {
+            "code": "CA02",
+            "code_full": "ICB0_1665_RA6_CA02",
+            "description": "6.2 Identifica i alinea les àrees de producció/negoci i de comunicacions.",
+            "source": {
+              "file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx",
+              "paragraph_index": 1593,
+              "confidence": "docx_structural_text"
+            }
+          }
+        },
+        "CA03": {
+          "codi": "CA03",
+          "codi_complet": "ICB0_1665_RA6_CA03",
+          "descripcio": "6.3 Identifica les àrees susceptibles de ser digitalitzades.",
+          "font": {
+            "file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx",
+            "paragraph_index": 1594,
+            "confidence": "docx_structural_text"
+          },
+          "dades_originals": {
+            "code": "CA03",
+            "code_full": "ICB0_1665_RA6_CA03",
+            "description": "6.3 Identifica les àrees susceptibles de ser digitalitzades.",
+            "source": {
+              "file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx",
+              "paragraph_index": 1594,
+              "confidence": "docx_structural_text"
+            }
+          }
+        },
+        "CA04": {
+          "codi": "CA04",
+          "codi_complet": "ICB0_1665_RA6_CA04",
+          "descripcio": "6.4 Analitza l'encaix d’AD (Àrees Digitalitzades) entre si i amb les quals no ho estan.",
+          "font": {
+            "file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx",
+            "paragraph_index": 1595,
+            "confidence": "docx_structural_text"
+          },
+          "dades_originals": {
+            "code": "CA04",
+            "code_full": "ICB0_1665_RA6_CA04",
+            "description": "6.4 Analitza l'encaix d’AD (Àrees Digitalitzades) entre si i amb les quals no ho estan.",
+            "source": {
+              "file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx",
+              "paragraph_index": 1595,
+              "confidence": "docx_structural_text"
+            }
+          }
+        },
+        "CA05": {
+          "codi": "CA05",
+          "codi_complet": "ICB0_1665_RA6_CA05",
+          "descripcio": "6.5 Té en compte les necessitats presents i futures de l'empresa.",
+          "font": {
+            "file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx",
+            "paragraph_index": 1596,
+            "confidence": "docx_structural_text"
+          },
+          "dades_originals": {
+            "code": "CA05",
+            "code_full": "ICB0_1665_RA6_CA05",
+            "description": "6.5 Té en compte les necessitats presents i futures de l'empresa.",
+            "source": {
+              "file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx",
+              "paragraph_index": 1596,
+              "confidence": "docx_structural_text"
+            }
+          }
+        },
+        "CA06": {
+          "codi": "CA06",
+          "codi_complet": "ICB0_1665_RA6_CA06",
+          "descripcio": "6.6 Relaciona cadascuna de les àrees amb la implantació de les tecnologies.",
+          "font": {
+            "file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx",
+            "paragraph_index": 1597,
+            "confidence": "docx_structural_text"
+          },
+          "dades_originals": {
+            "code": "CA06",
+            "code_full": "ICB0_1665_RA6_CA06",
+            "description": "6.6 Relaciona cadascuna de les àrees amb la implantació de les tecnologies.",
+            "source": {
+              "file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx",
+              "paragraph_index": 1597,
+              "confidence": "docx_structural_text"
+            }
+          }
+        },
+        "CA07": {
+          "codi": "CA07",
+          "codi_complet": "ICB0_1665_RA6_CA07",
+          "descripcio": "6.7 Analitza les possibles bretxes de seguretat en cadascuna de les àrees.",
+          "font": {
+            "file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx",
+            "paragraph_index": 1598,
+            "confidence": "docx_structural_text"
+          },
+          "dades_originals": {
+            "code": "CA07",
+            "code_full": "ICB0_1665_RA6_CA07",
+            "description": "6.7 Analitza les possibles bretxes de seguretat en cadascuna de les àrees.",
+            "source": {
+              "file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx",
+              "paragraph_index": 1598,
+              "confidence": "docx_structural_text"
+            }
+          }
+        },
+        "CA08": {
+          "codi": "CA08",
+          "codi_complet": "ICB0_1665_RA6_CA08",
+          "descripcio": "6.8 Defineix el tractament de les dades i la seva anàlisi.",
+          "font": {
+            "file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx",
+            "paragraph_index": 1599,
+            "confidence": "docx_structural_text"
+          },
+          "dades_originals": {
+            "code": "CA08",
+            "code_full": "ICB0_1665_RA6_CA08",
+            "description": "6.8 Defineix el tractament de les dades i la seva anàlisi.",
+            "source": {
+              "file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx",
+              "paragraph_index": 1599,
+              "confidence": "docx_structural_text"
+            }
+          }
+        },
+        "CA09": {
+          "codi": "CA09",
+          "codi_complet": "ICB0_1665_RA6_CA09",
+          "descripcio": "6.9 Té en compte la integració entre dades, aplicacions i plataformes que les suporten, entre altres.",
+          "font": {
+            "file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx",
+            "paragraph_index": 1600,
+            "confidence": "docx_structural_text"
+          },
+          "dades_originals": {
+            "code": "CA09",
+            "code_full": "ICB0_1665_RA6_CA09",
+            "description": "6.9 Té en compte la integració entre dades, aplicacions i plataformes que les suporten, entre altres.",
+            "source": {
+              "file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx",
+              "paragraph_index": 1600,
+              "confidence": "docx_structural_text"
+            }
+          }
+        },
+        "CA10": {
+          "codi": "CA10",
+          "codi_complet": "ICB0_1665_RA6_CA10",
+          "descripcio": "6.10 Documenta els canvis realitzats en funció de l'estratègia.",
+          "font": {
+            "file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx",
+            "paragraph_index": 1601,
+            "confidence": "docx_structural_text"
+          },
+          "dades_originals": {
+            "code": "CA10",
+            "code_full": "ICB0_1665_RA6_CA10",
+            "description": "6.10 Documenta els canvis realitzats en funció de l'estratègia.",
+            "source": {
+              "file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx",
+              "paragraph_index": 1601,
+              "confidence": "docx_structural_text"
+            }
+          }
+        },
+        "CA11": {
+          "codi": "CA11",
+          "codi_complet": "ICB0_1665_RA6_CA11",
+          "descripcio": "6.11 Té en compte la idoneïtat dels recursos humans.",
+          "font": {
+            "file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx",
+            "paragraph_index": 1602,
+            "confidence": "docx_structural_text"
+          },
+          "dades_originals": {
+            "code": "CA11",
+            "code_full": "ICB0_1665_RA6_CA11",
+            "description": "6.11 Té en compte la idoneïtat dels recursos humans.",
+            "source": {
+              "file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx",
+              "paragraph_index": 1602,
+              "confidence": "docx_structural_text"
+            }
+          }
+        }
+      }
+    }
+  },
+  "metadata": {
+    "font": "docs/data",
+    "fitxer_origen": "icb0.json",
+    "estat": "generat",
+    "data_generacio": "2026-07-15T14:28:35.869249+00:00"
+  }
+}

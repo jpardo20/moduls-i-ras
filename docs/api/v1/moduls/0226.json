@@ -1,0 +1,874 @@
+{
+  "api_version": "1.0",
+  "codi": "0226",
+  "nom": "Seguretat informàtica",
+  "cicle": {
+    "codi": "IC10",
+    "nom": "smx"
+  },
+  "hores": {
+    "total": 132
+  },
+  "empresa": {
+    "te_estada": true
+  },
+  "num_ra": 5,
+  "resultats_aprenentatge": {
+    "RA1": {
+      "ordre": 1,
+      "codi": "RA1",
+      "codi_complet": "IC10_0226_RA1",
+      "descripcio": "Aplica mesures de seguretat passiva en sistemes informàtics descrivint característiques d'entorns i relacionant-les amb les seves necessitats.",
+      "descripcio_curta": "Aplica mesures de seguretat passiva en sistemes informàtics descrivint caracterí",
+      "font": {
+        "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+        "paragraph_index": 734,
+        "confidence": "docx_structural_text"
+      },
+      "criteris_avaluacio": {
+        "CA01": {
+          "codi": "CA01",
+          "codi_complet": "IC10_0226_RA1_CA01",
+          "descripcio": "Valora la importància de mantenir la informació segura.",
+          "font": {
+            "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+            "paragraph_index": 736,
+            "confidence": "docx_structural_text"
+          },
+          "dades_originals": {
+            "code": "CA01",
+            "code_full": "IC10_0226_RA1_CA01",
+            "description": "Valora la importància de mantenir la informació segura.",
+            "source": {
+              "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+              "paragraph_index": 736,
+              "confidence": "docx_structural_text"
+            }
+          }
+        },
+        "CA02": {
+          "codi": "CA02",
+          "codi_complet": "IC10_0226_RA1_CA02",
+          "descripcio": "Descriu les diferències entre seguretat física i lògica.",
+          "font": {
+            "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+            "paragraph_index": 737,
+            "confidence": "docx_structural_text"
+          },
+          "dades_originals": {
+            "code": "CA02",
+            "code_full": "IC10_0226_RA1_CA02",
+            "description": "Descriu les diferències entre seguretat física i lògica.",
+            "source": {
+              "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+              "paragraph_index": 737,
+              "confidence": "docx_structural_text"
+            }
+          }
+        },
+        "CA03": {
+          "codi": "CA03",
+          "codi_complet": "IC10_0226_RA1_CA03",
+          "descripcio": "Defineix les característiques de la ubicació física i condicions ambientals dels equips i servidors.",
+          "font": {
+            "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+            "paragraph_index": 738,
+            "confidence": "docx_structural_text"
+          },
+          "dades_originals": {
+            "code": "CA03",
+            "code_full": "IC10_0226_RA1_CA03",
+            "description": "Defineix les característiques de la ubicació física i condicions ambientals dels equips i servidors.",
+            "source": {
+              "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+              "paragraph_index": 738,
+              "confidence": "docx_structural_text"
+            }
+          }
+        },
+        "CA04": {
+          "codi": "CA04",
+          "codi_complet": "IC10_0226_RA1_CA04",
+          "descripcio": "Identifica la necessitat de protegir físicament els sistemes informàtics.",
+          "font": {
+            "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+            "paragraph_index": 739,
+            "confidence": "docx_structural_text"
+          },
+          "dades_originals": {
+            "code": "CA04",
+            "code_full": "IC10_0226_RA1_CA04",
+            "description": "Identifica la necessitat de protegir físicament els sistemes informàtics.",
+            "source": {
+              "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+              "paragraph_index": 739,
+              "confidence": "docx_structural_text"
+            }
+          }
+        },
+        "CA05": {
+          "codi": "CA05",
+          "codi_complet": "IC10_0226_RA1_CA05",
+          "descripcio": "Verifica el funcionament dels sistemes d'alimentació ininterrompuda.",
+          "font": {
+            "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+            "paragraph_index": 740,
+            "confidence": "docx_structural_text"
+          },
+          "dades_originals": {
+            "code": "CA05",
+            "code_full": "IC10_0226_RA1_CA05",
+            "description": "Verifica el funcionament dels sistemes d'alimentació ininterrompuda.",
+            "source": {
+              "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+              "paragraph_index": 740,
+              "confidence": "docx_structural_text"
+            }
+          }
+        },
+        "CA06": {
+          "codi": "CA06",
+          "codi_complet": "IC10_0226_RA1_CA06",
+          "descripcio": "Selecciona els punts d'aplicació dels sistemes d'alimentació ininterrompuda.",
+          "font": {
+            "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+            "paragraph_index": 741,
+            "confidence": "docx_structural_text"
+          },
+          "dades_originals": {
+            "code": "CA06",
+            "code_full": "IC10_0226_RA1_CA06",
+            "description": "Selecciona els punts d'aplicació dels sistemes d'alimentació ininterrompuda.",
+            "source": {
+              "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+              "paragraph_index": 741,
+              "confidence": "docx_structural_text"
+            }
+          }
+        },
+        "CA07": {
+          "codi": "CA07",
+          "codi_complet": "IC10_0226_RA1_CA07",
+          "descripcio": "Esquematitza les característiques d'una política de seguretat basada en llistes de control d'accés.",
+          "font": {
+            "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+            "paragraph_index": 742,
+            "confidence": "docx_structural_text"
+          },
+          "dades_originals": {
+            "code": "CA07",
+            "code_full": "IC10_0226_RA1_CA07",
+            "description": "Esquematitza les característiques d'una política de seguretat basada en llistes de control d'accés.",
+            "source": {
+              "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+              "paragraph_index": 742,
+              "confidence": "docx_structural_text"
+            }
+          }
+        },
+        "CA08": {
+          "codi": "CA08",
+          "codi_complet": "IC10_0226_RA1_CA08",
+          "descripcio": "Valora la importància d'establir una política de contrasenyes.",
+          "font": {
+            "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+            "paragraph_index": 743,
+            "confidence": "docx_structural_text"
+          },
+          "dades_originals": {
+            "code": "CA08",
+            "code_full": "IC10_0226_RA1_CA08",
+            "description": "Valora la importància d'establir una política de contrasenyes.",
+            "source": {
+              "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+              "paragraph_index": 743,
+              "confidence": "docx_structural_text"
+            }
+          }
+        },
+        "CA09": {
+          "codi": "CA09",
+          "codi_complet": "IC10_0226_RA1_CA09",
+          "descripcio": "Valora els avantatges que suposa la utilització de sistemes biomètrics.",
+          "font": {
+            "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+            "paragraph_index": 744,
+            "confidence": "docx_structural_text"
+          },
+          "dades_originals": {
+            "code": "CA09",
+            "code_full": "IC10_0226_RA1_CA09",
+            "description": "Valora els avantatges que suposa la utilització de sistemes biomètrics.",
+            "source": {
+              "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+              "paragraph_index": 744,
+              "confidence": "docx_structural_text"
+            }
+          }
+        }
+      }
+    },
+    "RA2": {
+      "ordre": 2,
+      "codi": "RA2",
+      "codi_complet": "IC10_0226_RA2",
+      "descripcio": "Gestiona dispositius d'emmagatzematge descrivint els procediments efectuats i aplicant tècniques per assegurar la integritat de la informació.",
+      "descripcio_curta": "Gestiona dispositius d'emmagatzematge descrivint els procediments efectuats i ap",
+      "font": {
+        "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+        "paragraph_index": 745,
+        "confidence": "docx_structural_text"
+      },
+      "criteris_avaluacio": {
+        "CA01": {
+          "codi": "CA01",
+          "codi_complet": "IC10_0226_RA2_CA01",
+          "descripcio": "Interpreta la documentació tècnica relativa a la política d'emmagatzematge.",
+          "font": {
+            "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+            "paragraph_index": 749,
+            "confidence": "docx_structural_text"
+          },
+          "dades_originals": {
+            "code": "CA01",
+            "code_full": "IC10_0226_RA2_CA01",
+            "description": "Interpreta la documentació tècnica relativa a la política d'emmagatzematge.",
+            "source": {
+              "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+              "paragraph_index": 749,
+              "confidence": "docx_structural_text"
+            }
+          }
+        },
+        "CA02": {
+          "codi": "CA02",
+          "codi_complet": "IC10_0226_RA2_CA02",
+          "descripcio": "Té en compte factors inherents a l'emmagatzematge de la informació (rendiment, disponibilitat, accessibilitat, entre d’altres)..",
+          "font": {
+            "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+            "paragraph_index": 750,
+            "confidence": "docx_structural_text"
+          },
+          "dades_originals": {
+            "code": "CA02",
+            "code_full": "IC10_0226_RA2_CA02",
+            "description": "Té en compte factors inherents a l'emmagatzematge de la informació (rendiment, disponibilitat, accessibilitat, entre d’altres)..",
+            "source": {
+              "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+              "paragraph_index": 750,
+              "confidence": "docx_structural_text"
+            }
+          }
+        },
+        "CA03": {
+          "codi": "CA03",
+          "codi_complet": "IC10_0226_RA2_CA03",
+          "descripcio": "Classifica i enumera els principals mètodes d'emmagatzematge inclosos els sistemes d'emmagatzematge en xarxa.",
+          "font": {
+            "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+            "paragraph_index": 751,
+            "confidence": "docx_structural_text"
+          },
+          "dades_originals": {
+            "code": "CA03",
+            "code_full": "IC10_0226_RA2_CA03",
+            "description": "Classifica i enumera els principals mètodes d'emmagatzematge inclosos els sistemes d'emmagatzematge en xarxa.",
+            "source": {
+              "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+              "paragraph_index": 751,
+              "confidence": "docx_structural_text"
+            }
+          }
+        },
+        "CA04": {
+          "codi": "CA04",
+          "codi_complet": "IC10_0226_RA2_CA04",
+          "descripcio": "Descriu les tecnologies d'emmagatzematge redundant i distribuït.",
+          "font": {
+            "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+            "paragraph_index": 752,
+            "confidence": "docx_structural_text"
+          },
+          "dades_originals": {
+            "code": "CA04",
+            "code_full": "IC10_0226_RA2_CA04",
+            "description": "Descriu les tecnologies d'emmagatzematge redundant i distribuït.",
+            "source": {
+              "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+              "paragraph_index": 752,
+              "confidence": "docx_structural_text"
+            }
+          }
+        },
+        "CA05": {
+          "codi": "CA05",
+          "codi_complet": "IC10_0226_RA2_CA05",
+          "descripcio": "Selecciona estratègies per a la realització de còpies de seguretat.",
+          "font": {
+            "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+            "paragraph_index": 753,
+            "confidence": "docx_structural_text"
+          },
+          "dades_originals": {
+            "code": "CA05",
+            "code_full": "IC10_0226_RA2_CA05",
+            "description": "Selecciona estratègies per a la realització de còpies de seguretat.",
+            "source": {
+              "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+              "paragraph_index": 753,
+              "confidence": "docx_structural_text"
+            }
+          }
+        },
+        "CA06": {
+          "codi": "CA06",
+          "codi_complet": "IC10_0226_RA2_CA06",
+          "descripcio": "Té en compte la freqüència i l'esquema de rotació.",
+          "font": {
+            "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+            "paragraph_index": 754,
+            "confidence": "docx_structural_text"
+          },
+          "dades_originals": {
+            "code": "CA06",
+            "code_full": "IC10_0226_RA2_CA06",
+            "description": "Té en compte la freqüència i l'esquema de rotació.",
+            "source": {
+              "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+              "paragraph_index": 754,
+              "confidence": "docx_structural_text"
+            }
+          }
+        },
+        "CA07": {
+          "codi": "CA07",
+          "codi_complet": "IC10_0226_RA2_CA07",
+          "descripcio": "Realitza còpies de seguretat amb diferents estratègies.",
+          "font": {
+            "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+            "paragraph_index": 755,
+            "confidence": "docx_structural_text"
+          },
+          "dades_originals": {
+            "code": "CA07",
+            "code_full": "IC10_0226_RA2_CA07",
+            "description": "Realitza còpies de seguretat amb diferents estratègies.",
+            "source": {
+              "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+              "paragraph_index": 755,
+              "confidence": "docx_structural_text"
+            }
+          }
+        },
+        "CA08": {
+          "codi": "CA08",
+          "codi_complet": "IC10_0226_RA2_CA08",
+          "descripcio": "Identifica les característiques dels mitjans d'emmagatzematge remots i extraïbles.",
+          "font": {
+            "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+            "paragraph_index": 756,
+            "confidence": "docx_structural_text"
+          },
+          "dades_originals": {
+            "code": "CA08",
+            "code_full": "IC10_0226_RA2_CA08",
+            "description": "Identifica les característiques dels mitjans d'emmagatzematge remots i extraïbles.",
+            "source": {
+              "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+              "paragraph_index": 756,
+              "confidence": "docx_structural_text"
+            }
+          }
+        },
+        "CA09": {
+          "codi": "CA09",
+          "codi_complet": "IC10_0226_RA2_CA09",
+          "descripcio": "Utilitza mitjans d'emmagatzematge remots i extraïbles.",
+          "font": {
+            "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+            "paragraph_index": 757,
+            "confidence": "docx_structural_text"
+          },
+          "dades_originals": {
+            "code": "CA09",
+            "code_full": "IC10_0226_RA2_CA09",
+            "description": "Utilitza mitjans d'emmagatzematge remots i extraïbles.",
+            "source": {
+              "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+              "paragraph_index": 757,
+              "confidence": "docx_structural_text"
+            }
+          }
+        },
+        "CA10": {
+          "codi": "CA10",
+          "codi_complet": "IC10_0226_RA2_CA10",
+          "descripcio": "Crea i restaura imatges de suport de sistemes en funcionament.",
+          "font": {
+            "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+            "paragraph_index": 758,
+            "confidence": "docx_structural_text"
+          },
+          "dades_originals": {
+            "code": "CA10",
+            "code_full": "IC10_0226_RA2_CA10",
+            "description": "Crea i restaura imatges de suport de sistemes en funcionament.",
+            "source": {
+              "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+              "paragraph_index": 758,
+              "confidence": "docx_structural_text"
+            }
+          }
+        }
+      }
+    },
+    "RA3": {
+      "ordre": 3,
+      "codi": "RA3",
+      "codi_complet": "IC10_0226_RA3",
+      "descripcio": "Aplica mecanismes de seguretat activa descrivint-ne les característiques i relacionant-les amb les necessitats d'ús del sistema informàtic.",
+      "descripcio_curta": "Aplica mecanismes de seguretat activa descrivint-ne les característiques i relac",
+      "font": {
+        "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+        "paragraph_index": 759,
+        "confidence": "docx_structural_text"
+      },
+      "criteris_avaluacio": {
+        "CA01": {
+          "codi": "CA01",
+          "codi_complet": "IC10_0226_RA3_CA01",
+          "descripcio": "Segueix plans de contingència per actuar davant fallades de seguretat.",
+          "font": {
+            "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+            "paragraph_index": 766,
+            "confidence": "docx_structural_text"
+          },
+          "dades_originals": {
+            "code": "CA01",
+            "code_full": "IC10_0226_RA3_CA01",
+            "description": "Segueix plans de contingència per actuar davant fallades de seguretat.",
+            "source": {
+              "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+              "paragraph_index": 766,
+              "confidence": "docx_structural_text"
+            }
+          }
+        },
+        "CA02": {
+          "codi": "CA02",
+          "codi_complet": "IC10_0226_RA3_CA02",
+          "descripcio": "Classifica els principals tipus de programari maliciós.",
+          "font": {
+            "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+            "paragraph_index": 767,
+            "confidence": "docx_structural_text"
+          },
+          "dades_originals": {
+            "code": "CA02",
+            "code_full": "IC10_0226_RA3_CA02",
+            "description": "Classifica els principals tipus de programari maliciós.",
+            "source": {
+              "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+              "paragraph_index": 767,
+              "confidence": "docx_structural_text"
+            }
+          }
+        },
+        "CA03": {
+          "codi": "CA03",
+          "codi_complet": "IC10_0226_RA3_CA03",
+          "descripcio": "Realitza actualitzacions periòdiques dels sistemes per a corregir possibles vulnerabilitats.",
+          "font": {
+            "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+            "paragraph_index": 768,
+            "confidence": "docx_structural_text"
+          },
+          "dades_originals": {
+            "code": "CA03",
+            "code_full": "IC10_0226_RA3_CA03",
+            "description": "Realitza actualitzacions periòdiques dels sistemes per a corregir possibles vulnerabilitats.",
+            "source": {
+              "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+              "paragraph_index": 768,
+              "confidence": "docx_structural_text"
+            }
+          }
+        },
+        "CA04": {
+          "codi": "CA04",
+          "codi_complet": "IC10_0226_RA3_CA04",
+          "descripcio": "Verifica l'origen i l'autenticitat de les aplicacions que s'instal·len en els sistemes.",
+          "font": {
+            "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+            "paragraph_index": 769,
+            "confidence": "docx_structural_text"
+          },
+          "dades_originals": {
+            "code": "CA04",
+            "code_full": "IC10_0226_RA3_CA04",
+            "description": "Verifica l'origen i l'autenticitat de les aplicacions que s'instal·len en els sistemes.",
+            "source": {
+              "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+              "paragraph_index": 769,
+              "confidence": "docx_structural_text"
+            }
+          }
+        },
+        "CA05": {
+          "codi": "CA05",
+          "codi_complet": "IC10_0226_RA3_CA05",
+          "descripcio": "Instal·la, prova i actualitza aplicacions específiques per a la detecció i eliminació de programari maliciós.",
+          "font": {
+            "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+            "paragraph_index": 770,
+            "confidence": "docx_structural_text"
+          },
+          "dades_originals": {
+            "code": "CA05",
+            "code_full": "IC10_0226_RA3_CA05",
+            "description": "Instal·la, prova i actualitza aplicacions específiques per a la detecció i eliminació de programari maliciós.",
+            "source": {
+              "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+              "paragraph_index": 770,
+              "confidence": "docx_structural_text"
+            }
+          }
+        },
+        "CA06": {
+          "codi": "CA06",
+          "codi_complet": "IC10_0226_RA3_CA06",
+          "descripcio": "Aplica tècniques de recuperació de dades.",
+          "font": {
+            "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+            "paragraph_index": 771,
+            "confidence": "docx_structural_text"
+          },
+          "dades_originals": {
+            "code": "CA06",
+            "code_full": "IC10_0226_RA3_CA06",
+            "description": "Aplica tècniques de recuperació de dades.",
+            "source": {
+              "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+              "paragraph_index": 771,
+              "confidence": "docx_structural_text"
+            }
+          }
+        }
+      }
+    },
+    "RA4": {
+      "ordre": 4,
+      "codi": "RA4",
+      "codi_complet": "IC10_0226_RA4",
+      "descripcio": "Assegura la privadesa de la informació transmesa en xarxes informàtiques descrivint vulnerabilitats i instal·lant programari específic.",
+      "descripcio_curta": "Assegura la privadesa de la informació transmesa en xarxes informàtiques descriv",
+      "font": {
+        "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+        "paragraph_index": 772,
+        "confidence": "docx_structural_text"
+      },
+      "criteris_avaluacio": {
+        "CA01": {
+          "codi": "CA01",
+          "codi_complet": "IC10_0226_RA4_CA01",
+          "descripcio": "Identifica la necessitat d'inventariar i controlar els serveis de xarxa.",
+          "font": {
+            "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+            "paragraph_index": 777,
+            "confidence": "docx_structural_text"
+          },
+          "dades_originals": {
+            "code": "CA01",
+            "code_full": "IC10_0226_RA4_CA01",
+            "description": "Identifica la necessitat d'inventariar i controlar els serveis de xarxa.",
+            "source": {
+              "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+              "paragraph_index": 777,
+              "confidence": "docx_structural_text"
+            }
+          }
+        },
+        "CA02": {
+          "codi": "CA02",
+          "codi_complet": "IC10_0226_RA4_CA02",
+          "descripcio": "Contrasta la incidència de les tècniques d'enginyeria social en els fraus informàtics i robatoris d'informació.",
+          "font": {
+            "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+            "paragraph_index": 778,
+            "confidence": "docx_structural_text"
+          },
+          "dades_originals": {
+            "code": "CA02",
+            "code_full": "IC10_0226_RA4_CA02",
+            "description": "Contrasta la incidència de les tècniques d'enginyeria social en els fraus informàtics i robatoris d'informació.",
+            "source": {
+              "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+              "paragraph_index": 778,
+              "confidence": "docx_structural_text"
+            }
+          }
+        },
+        "CA03": {
+          "codi": "CA03",
+          "codi_complet": "IC10_0226_RA4_CA03",
+          "descripcio": "Dedueix la importància de minimitzar el volum de trànsit generat per la publicitat i el correu brossa.",
+          "font": {
+            "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+            "paragraph_index": 779,
+            "confidence": "docx_structural_text"
+          },
+          "dades_originals": {
+            "code": "CA03",
+            "code_full": "IC10_0226_RA4_CA03",
+            "description": "Dedueix la importància de minimitzar el volum de trànsit generat per la publicitat i el correu brossa.",
+            "source": {
+              "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+              "paragraph_index": 779,
+              "confidence": "docx_structural_text"
+            }
+          }
+        },
+        "CA04": {
+          "codi": "CA04",
+          "codi_complet": "IC10_0226_RA4_CA04",
+          "descripcio": "Aplica mesures per evitar el monitoratge de xarxes cablejades.",
+          "font": {
+            "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+            "paragraph_index": 780,
+            "confidence": "docx_structural_text"
+          },
+          "dades_originals": {
+            "code": "CA04",
+            "code_full": "IC10_0226_RA4_CA04",
+            "description": "Aplica mesures per evitar el monitoratge de xarxes cablejades.",
+            "source": {
+              "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+              "paragraph_index": 780,
+              "confidence": "docx_structural_text"
+            }
+          }
+        },
+        "CA05": {
+          "codi": "CA05",
+          "codi_complet": "IC10_0226_RA4_CA05",
+          "descripcio": "Classifica i valora les propietats de seguretat dels protocols usats en xarxes sense fils.",
+          "font": {
+            "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+            "paragraph_index": 781,
+            "confidence": "docx_structural_text"
+          },
+          "dades_originals": {
+            "code": "CA05",
+            "code_full": "IC10_0226_RA4_CA05",
+            "description": "Classifica i valora les propietats de seguretat dels protocols usats en xarxes sense fils.",
+            "source": {
+              "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+              "paragraph_index": 781,
+              "confidence": "docx_structural_text"
+            }
+          }
+        },
+        "CA06": {
+          "codi": "CA06",
+          "codi_complet": "IC10_0226_RA4_CA06",
+          "descripcio": "Descriu sistemes d'identificació com la signatura electrònica, certificat digital, entre altres.",
+          "font": {
+            "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+            "paragraph_index": 782,
+            "confidence": "docx_structural_text"
+          },
+          "dades_originals": {
+            "code": "CA06",
+            "code_full": "IC10_0226_RA4_CA06",
+            "description": "Descriu sistemes d'identificació com la signatura electrònica, certificat digital, entre altres.",
+            "source": {
+              "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+              "paragraph_index": 782,
+              "confidence": "docx_structural_text"
+            }
+          }
+        },
+        "CA07": {
+          "codi": "CA07",
+          "codi_complet": "IC10_0226_RA4_CA07",
+          "descripcio": "Utilitza sistemes d'identificació com la signatura electrònica, certificat digital, entre altres.",
+          "font": {
+            "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+            "paragraph_index": 783,
+            "confidence": "docx_structural_text"
+          },
+          "dades_originals": {
+            "code": "CA07",
+            "code_full": "IC10_0226_RA4_CA07",
+            "description": "Utilitza sistemes d'identificació com la signatura electrònica, certificat digital, entre altres.",
+            "source": {
+              "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+              "paragraph_index": 783,
+              "confidence": "docx_structural_text"
+            }
+          }
+        },
+        "CA08": {
+          "codi": "CA08",
+          "codi_complet": "IC10_0226_RA4_CA08",
+          "descripcio": "Instal·la i configura un tallafocs en un equip o servidor.",
+          "font": {
+            "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+            "paragraph_index": 784,
+            "confidence": "docx_structural_text"
+          },
+          "dades_originals": {
+            "code": "CA08",
+            "code_full": "IC10_0226_RA4_CA08",
+            "description": "Instal·la i configura un tallafocs en un equip o servidor.",
+            "source": {
+              "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+              "paragraph_index": 784,
+              "confidence": "docx_structural_text"
+            }
+          }
+        }
+      }
+    },
+    "RA5": {
+      "ordre": 5,
+      "codi": "RA5",
+      "codi_complet": "IC10_0226_RA5",
+      "descripcio": "Reconeix la legislació i normativa sobre seguretat i protecció de dades analitzant-ne les repercussions de l’incompliment.",
+      "descripcio_curta": "Reconeix la legislació i normativa sobre seguretat i protecció de dades analitza",
+      "font": {
+        "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+        "paragraph_index": 785,
+        "confidence": "docx_structural_text"
+      },
+      "criteris_avaluacio": {
+        "CA01": {
+          "codi": "CA01",
+          "codi_complet": "IC10_0226_RA5_CA01",
+          "descripcio": "Descriu la legislació sobre protecció de dades de caràcter personal.",
+          "font": {
+            "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+            "paragraph_index": 790,
+            "confidence": "docx_structural_text"
+          },
+          "dades_originals": {
+            "code": "CA01",
+            "code_full": "IC10_0226_RA5_CA01",
+            "description": "Descriu la legislació sobre protecció de dades de caràcter personal.",
+            "source": {
+              "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+              "paragraph_index": 790,
+              "confidence": "docx_structural_text"
+            }
+          }
+        },
+        "CA02": {
+          "codi": "CA02",
+          "codi_complet": "IC10_0226_RA5_CA02",
+          "descripcio": "Determina la necessitat de controlar l'accés a la informació personal emmagatzemada.",
+          "font": {
+            "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+            "paragraph_index": 791,
+            "confidence": "docx_structural_text"
+          },
+          "dades_originals": {
+            "code": "CA02",
+            "code_full": "IC10_0226_RA5_CA02",
+            "description": "Determina la necessitat de controlar l'accés a la informació personal emmagatzemada.",
+            "source": {
+              "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+              "paragraph_index": 791,
+              "confidence": "docx_structural_text"
+            }
+          }
+        },
+        "CA03": {
+          "codi": "CA03",
+          "codi_complet": "IC10_0226_RA5_CA03",
+          "descripcio": "Identifica les figures legals que intervenen en el tractament i manteniment dels fitxers de dades.",
+          "font": {
+            "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+            "paragraph_index": 792,
+            "confidence": "docx_structural_text"
+          },
+          "dades_originals": {
+            "code": "CA03",
+            "code_full": "IC10_0226_RA5_CA03",
+            "description": "Identifica les figures legals que intervenen en el tractament i manteniment dels fitxers de dades.",
+            "source": {
+              "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+              "paragraph_index": 792,
+              "confidence": "docx_structural_text"
+            }
+          }
+        },
+        "CA04": {
+          "codi": "CA04",
+          "codi_complet": "IC10_0226_RA5_CA04",
+          "descripcio": "Contrasta l'obligació de posar a disposició de les persones les dades personals que els concerneixen.",
+          "font": {
+            "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+            "paragraph_index": 793,
+            "confidence": "docx_structural_text"
+          },
+          "dades_originals": {
+            "code": "CA04",
+            "code_full": "IC10_0226_RA5_CA04",
+            "description": "Contrasta l'obligació de posar a disposició de les persones les dades personals que els concerneixen.",
+            "source": {
+              "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+              "paragraph_index": 793,
+              "confidence": "docx_structural_text"
+            }
+          }
+        },
+        "CA05": {
+          "codi": "CA05",
+          "codi_complet": "IC10_0226_RA5_CA05",
+          "descripcio": "Descriu la legislació actual sobre els serveis de la societat de la informació i comerç electrònic.",
+          "font": {
+            "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+            "paragraph_index": 794,
+            "confidence": "docx_structural_text"
+          },
+          "dades_originals": {
+            "code": "CA05",
+            "code_full": "IC10_0226_RA5_CA05",
+            "description": "Descriu la legislació actual sobre els serveis de la societat de la informació i comerç electrònic.",
+            "source": {
+              "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+              "paragraph_index": 794,
+              "confidence": "docx_structural_text"
+            }
+          }
+        },
+        "CA06": {
+          "codi": "CA06",
+          "codi_complet": "IC10_0226_RA5_CA06",
+          "descripcio": "Contrasta les normes sobre gestió de seguretat de la informació.",
+          "font": {
+            "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+            "paragraph_index": 795,
+            "confidence": "docx_structural_text"
+          },
+          "dades_originals": {
+            "code": "CA06",
+            "code_full": "IC10_0226_RA5_CA06",
+            "description": "Contrasta les normes sobre gestió de seguretat de la informació.",
+            "source": {
+              "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+              "paragraph_index": 795,
+              "confidence": "docx_structural_text"
+            }
+          }
+        }
+      }
+    }
+  },
+  "metadata": {
+    "font": "docs/data",
+    "fitxer_origen": "ic10.json",
+    "estat": "generat",
+    "data_generacio": "2026-07-15T14:28:35.869249+00:00"
+  }
+}

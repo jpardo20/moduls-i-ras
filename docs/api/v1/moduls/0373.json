@@ -1,0 +1,1262 @@
+{
+  "api_version": "1.0",
+  "codi": "0373",
+  "nom": "Llenguatges de marques i sistemes de gestió d’informació",
+  "cicle": {
+    "codi": "ICB0",
+    "nom": "dam"
+  },
+  "hores": {
+    "total": 99
+  },
+  "empresa": {
+    "te_estada": true
+  },
+  "num_ra": 7,
+  "resultats_aprenentatge": {
+    "RA1": {
+      "ordre": 1,
+      "codi": "RA1",
+      "codi_complet": "ICB0_0373_RA1",
+      "descripcio": "Reconeix les característiques de llenguatges de marques analitzant i interpretant fragments de codi.",
+      "descripcio_curta": "Reconeix les característiques de llenguatges de marques analitzant i interpretan",
+      "font": {
+        "file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx",
+        "paragraph_index": 90,
+        "confidence": "docx_structural_text"
+      },
+      "criteris_avaluacio": {
+        "CA01": {
+          "codi": "CA01",
+          "codi_complet": "ICB0_0373_RA1_CA01",
+          "descripcio": "Identifica les característiques generals dels llenguatges de marques.",
+          "font": {
+            "file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx",
+            "paragraph_index": 92,
+            "confidence": "docx_structural_text"
+          },
+          "dades_originals": {
+            "code": "CA01",
+            "code_full": "ICB0_0373_RA1_CA01",
+            "description": "Identifica les característiques generals dels llenguatges de marques.",
+            "source": {
+              "file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx",
+              "paragraph_index": 92,
+              "confidence": "docx_structural_text"
+            }
+          }
+        },
+        "CA02": {
+          "codi": "CA02",
+          "codi_complet": "ICB0_0373_RA1_CA02",
+          "descripcio": "Reconeix els avantatges que proporcionen al tractament de la informació.",
+          "font": {
+            "file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx",
+            "paragraph_index": 93,
+            "confidence": "docx_structural_text"
+          },
+          "dades_originals": {
+            "code": "CA02",
+            "code_full": "ICB0_0373_RA1_CA02",
+            "description": "Reconeix els avantatges que proporcionen al tractament de la informació.",
+            "source": {
+              "file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx",
+              "paragraph_index": 93,
+              "confidence": "docx_structural_text"
+            }
+          }
+        },
+        "CA03": {
+          "codi": "CA03",
+          "codi_complet": "ICB0_0373_RA1_CA03",
+          "descripcio": "Classifica els llenguatges de marques i n’identifica els més rellevants.",
+          "font": {
+            "file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx",
+            "paragraph_index": 94,
+            "confidence": "docx_structural_text"
+          },
+          "dades_originals": {
+            "code": "CA03",
+            "code_full": "ICB0_0373_RA1_CA03",
+            "description": "Classifica els llenguatges de marques i n’identifica els més rellevants.",
+            "source": {
+              "file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx",
+              "paragraph_index": 94,
+              "confidence": "docx_structural_text"
+            }
+          }
+        },
+        "CA04": {
+          "codi": "CA04",
+          "codi_complet": "ICB0_0373_RA1_CA04",
+          "descripcio": "Diferencia els àmbits d'aplicació dels llenguatges de marques.",
+          "font": {
+            "file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx",
+            "paragraph_index": 95,
+            "confidence": "docx_structural_text"
+          },
+          "dades_originals": {
+            "code": "CA04",
+            "code_full": "ICB0_0373_RA1_CA04",
+            "description": "Diferencia els àmbits d'aplicació dels llenguatges de marques.",
+            "source": {
+              "file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx",
+              "paragraph_index": 95,
+              "confidence": "docx_structural_text"
+            }
+          }
+        },
+        "CA05": {
+          "codi": "CA05",
+          "codi_complet": "ICB0_0373_RA1_CA05",
+          "descripcio": "Reconeix la necessitat i els àmbits específics d'aplicació d'un llenguatge de marques de propòsit general.",
+          "font": {
+            "file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx",
+            "paragraph_index": 96,
+            "confidence": "docx_structural_text"
+          },
+          "dades_originals": {
+            "code": "CA05",
+            "code_full": "ICB0_0373_RA1_CA05",
+            "description": "Reconeix la necessitat i els àmbits específics d'aplicació d'un llenguatge de marques de propòsit general.",
+            "source": {
+              "file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx",
+              "paragraph_index": 96,
+              "confidence": "docx_structural_text"
+            }
+          }
+        },
+        "CA06": {
+          "codi": "CA06",
+          "codi_complet": "ICB0_0373_RA1_CA06",
+          "descripcio": "Analitza les característiques pròpies de diferents llenguatges de marques.",
+          "font": {
+            "file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx",
+            "paragraph_index": 97,
+            "confidence": "docx_structural_text"
+          },
+          "dades_originals": {
+            "code": "CA06",
+            "code_full": "ICB0_0373_RA1_CA06",
+            "description": "Analitza les característiques pròpies de diferents llenguatges de marques.",
+            "source": {
+              "file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx",
+              "paragraph_index": 97,
+              "confidence": "docx_structural_text"
+            }
+          }
+        },
+        "CA07": {
+          "codi": "CA07",
+          "codi_complet": "ICB0_0373_RA1_CA07",
+          "descripcio": "Identifica l'estructura d'un document i les regles sintàctiques.",
+          "font": {
+            "file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx",
+            "paragraph_index": 98,
+            "confidence": "docx_structural_text"
+          },
+          "dades_originals": {
+            "code": "CA07",
+            "code_full": "ICB0_0373_RA1_CA07",
+            "description": "Identifica l'estructura d'un document i les regles sintàctiques.",
+            "source": {
+              "file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx",
+              "paragraph_index": 98,
+              "confidence": "docx_structural_text"
+            }
+          }
+        },
+        "CA08": {
+          "codi": "CA08",
+          "codi_complet": "ICB0_0373_RA1_CA08",
+          "descripcio": "Contrasta la necessitat de crear documents ben formats i la influència en el processament.",
+          "font": {
+            "file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx",
+            "paragraph_index": 99,
+            "confidence": "docx_structural_text"
+          },
+          "dades_originals": {
+            "code": "CA08",
+            "code_full": "ICB0_0373_RA1_CA08",
+            "description": "Contrasta la necessitat de crear documents ben formats i la influència en el processament.",
+            "source": {
+              "file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx",
+              "paragraph_index": 99,
+              "confidence": "docx_structural_text"
+            }
+          }
+        },
+        "CA09": {
+          "codi": "CA09",
+          "codi_complet": "ICB0_0373_RA1_CA09",
+          "descripcio": "Identifica els avantatges que aporten els espais de noms.",
+          "font": {
+            "file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx",
+            "paragraph_index": 100,
+            "confidence": "docx_structural_text"
+          },
+          "dades_originals": {
+            "code": "CA09",
+            "code_full": "ICB0_0373_RA1_CA09",
+            "description": "Identifica els avantatges que aporten els espais de noms.",
+            "source": {
+              "file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx",
+              "paragraph_index": 100,
+              "confidence": "docx_structural_text"
+            }
+          }
+        }
+      }
+    },
+    "RA2": {
+      "ordre": 2,
+      "codi": "RA2",
+      "codi_complet": "ICB0_0373_RA2",
+      "descripcio": "Utilitza llenguatges de marques per a la transmissió i presentació de informació a través del web analitzant l'estructura dels documents i identificant-ne els elements.",
+      "descripcio_curta": "Utilitza llenguatges de marques per a la transmissió i presentació de informació",
+      "font": {
+        "file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx",
+        "paragraph_index": 101,
+        "confidence": "docx_structural_text"
+      },
+      "criteris_avaluacio": {
+        "CA01": {
+          "codi": "CA01",
+          "codi_complet": "ICB0_0373_RA2_CA01",
+          "descripcio": "Identifica i classifica els llenguatges de marques relacionats amb el web i les diferents versions i estàndards.",
+          "font": {
+            "file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx",
+            "paragraph_index": 103,
+            "confidence": "docx_structural_text"
+          },
+          "dades_originals": {
+            "code": "CA01",
+            "code_full": "ICB0_0373_RA2_CA01",
+            "description": "Identifica i classifica els llenguatges de marques relacionats amb el web i les diferents versions i estàndards.",
+            "source": {
+              "file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx",
+              "paragraph_index": 103,
+              "confidence": "docx_structural_text"
+            }
+          }
+        },
+        "CA02": {
+          "codi": "CA02",
+          "codi_complet": "ICB0_0373_RA2_CA02",
+          "descripcio": "Analitza l'estructura d'un document HTML i n’identifica les seccions que el componen.",
+          "font": {
+            "file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx",
+            "paragraph_index": 104,
+            "confidence": "docx_structural_text"
+          },
+          "dades_originals": {
+            "code": "CA02",
+            "code_full": "ICB0_0373_RA2_CA02",
+            "description": "Analitza l'estructura d'un document HTML i n’identifica les seccions que el componen.",
+            "source": {
+              "file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx",
+              "paragraph_index": 104,
+              "confidence": "docx_structural_text"
+            }
+          }
+        },
+        "CA03": {
+          "codi": "CA03",
+          "codi_complet": "ICB0_0373_RA2_CA03",
+          "descripcio": "Reconeix la funcionalitat de les principals etiquetes i els atributs del llenguatge HTML.",
+          "font": {
+            "file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx",
+            "paragraph_index": 105,
+            "confidence": "docx_structural_text"
+          },
+          "dades_originals": {
+            "code": "CA03",
+            "code_full": "ICB0_0373_RA2_CA03",
+            "description": "Reconeix la funcionalitat de les principals etiquetes i els atributs del llenguatge HTML.",
+            "source": {
+              "file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx",
+              "paragraph_index": 105,
+              "confidence": "docx_structural_text"
+            }
+          }
+        },
+        "CA04": {
+          "codi": "CA04",
+          "codi_complet": "ICB0_0373_RA2_CA04",
+          "descripcio": "Estableix les semblances i diferències entre les diferents versions d’HTML.",
+          "font": {
+            "file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx",
+            "paragraph_index": 106,
+            "confidence": "docx_structural_text"
+          },
+          "dades_originals": {
+            "code": "CA04",
+            "code_full": "ICB0_0373_RA2_CA04",
+            "description": "Estableix les semblances i diferències entre les diferents versions d’HTML.",
+            "source": {
+              "file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx",
+              "paragraph_index": 106,
+              "confidence": "docx_structural_text"
+            }
+          }
+        },
+        "CA05": {
+          "codi": "CA05",
+          "codi_complet": "ICB0_0373_RA2_CA05",
+          "descripcio": "Utilitza eines per crear documents web.",
+          "font": {
+            "file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx",
+            "paragraph_index": 107,
+            "confidence": "docx_structural_text"
+          },
+          "dades_originals": {
+            "code": "CA05",
+            "code_full": "ICB0_0373_RA2_CA05",
+            "description": "Utilitza eines per crear documents web.",
+            "source": {
+              "file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx",
+              "paragraph_index": 107,
+              "confidence": "docx_structural_text"
+            }
+          }
+        },
+        "CA06": {
+          "codi": "CA06",
+          "codi_complet": "ICB0_0373_RA2_CA06",
+          "descripcio": "Identifica els avantatges que aporta la utilització de fulls d'estil.",
+          "font": {
+            "file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx",
+            "paragraph_index": 108,
+            "confidence": "docx_structural_text"
+          },
+          "dades_originals": {
+            "code": "CA06",
+            "code_full": "ICB0_0373_RA2_CA06",
+            "description": "Identifica els avantatges que aporta la utilització de fulls d'estil.",
+            "source": {
+              "file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx",
+              "paragraph_index": 108,
+              "confidence": "docx_structural_text"
+            }
+          }
+        },
+        "CA07": {
+          "codi": "CA07",
+          "codi_complet": "ICB0_0373_RA2_CA07",
+          "descripcio": "Aplica fulls d'estil.",
+          "font": {
+            "file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx",
+            "paragraph_index": 109,
+            "confidence": "docx_structural_text"
+          },
+          "dades_originals": {
+            "code": "CA07",
+            "code_full": "ICB0_0373_RA2_CA07",
+            "description": "Aplica fulls d'estil.",
+            "source": {
+              "file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx",
+              "paragraph_index": 109,
+              "confidence": "docx_structural_text"
+            }
+          }
+        },
+        "CA08": {
+          "codi": "CA08",
+          "codi_complet": "ICB0_0373_RA2_CA08",
+          "descripcio": "Valida documents HTML i CSS.",
+          "font": {
+            "file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx",
+            "paragraph_index": 110,
+            "confidence": "docx_structural_text"
+          },
+          "dades_originals": {
+            "code": "CA08",
+            "code_full": "ICB0_0373_RA2_CA08",
+            "description": "Valida documents HTML i CSS.",
+            "source": {
+              "file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx",
+              "paragraph_index": 110,
+              "confidence": "docx_structural_text"
+            }
+          }
+        },
+        "CA09": {
+          "codi": "CA09",
+          "codi_complet": "ICB0_0373_RA2_CA09",
+          "descripcio": "Identifica les tecnologies en què es basa la sindicació de continguts.",
+          "font": {
+            "file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx",
+            "paragraph_index": 111,
+            "confidence": "docx_structural_text"
+          },
+          "dades_originals": {
+            "code": "CA09",
+            "code_full": "ICB0_0373_RA2_CA09",
+            "description": "Identifica les tecnologies en què es basa la sindicació de continguts.",
+            "source": {
+              "file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx",
+              "paragraph_index": 111,
+              "confidence": "docx_structural_text"
+            }
+          }
+        },
+        "CA10": {
+          "codi": "CA10",
+          "codi_complet": "ICB0_0373_RA2_CA10",
+          "descripcio": "Reconeix els àmbits d'aplicació de la sindicació de continguts.",
+          "font": {
+            "file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx",
+            "paragraph_index": 112,
+            "confidence": "docx_structural_text"
+          },
+          "dades_originals": {
+            "code": "CA10",
+            "code_full": "ICB0_0373_RA2_CA10",
+            "description": "Reconeix els àmbits d'aplicació de la sindicació de continguts.",
+            "source": {
+              "file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx",
+              "paragraph_index": 112,
+              "confidence": "docx_structural_text"
+            }
+          }
+        }
+      }
+    },
+    "RA3": {
+      "ordre": 3,
+      "codi": "RA3",
+      "codi_complet": "ICB0_0373_RA3",
+      "descripcio": "Accedeix i manipula documents web utilitzant llenguatges de guions de client.",
+      "descripcio_curta": "Accedeix i manipula documents web utilitzant llenguatges de guions de client.",
+      "font": {
+        "file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx",
+        "paragraph_index": 113,
+        "confidence": "docx_structural_text"
+      },
+      "criteris_avaluacio": {
+        "CA01": {
+          "codi": "CA01",
+          "codi_complet": "ICB0_0373_RA3_CA01",
+          "descripcio": "Identifica i classifica els llenguatges de guions de client relacionats amb el web i les diferents versions i estàndards.",
+          "font": {
+            "file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx",
+            "paragraph_index": 115,
+            "confidence": "docx_structural_text"
+          },
+          "dades_originals": {
+            "code": "CA01",
+            "code_full": "ICB0_0373_RA3_CA01",
+            "description": "Identifica i classifica els llenguatges de guions de client relacionats amb el web i les diferents versions i estàndards.",
+            "source": {
+              "file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx",
+              "paragraph_index": 115,
+              "confidence": "docx_structural_text"
+            }
+          }
+        },
+        "CA02": {
+          "codi": "CA02",
+          "codi_complet": "ICB0_0373_RA3_CA02",
+          "descripcio": "Identifica la sintaxi bàsica dels llenguatges de guions de client.",
+          "font": {
+            "file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx",
+            "paragraph_index": 116,
+            "confidence": "docx_structural_text"
+          },
+          "dades_originals": {
+            "code": "CA02",
+            "code_full": "ICB0_0373_RA3_CA02",
+            "description": "Identifica la sintaxi bàsica dels llenguatges de guions de client.",
+            "source": {
+              "file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx",
+              "paragraph_index": 116,
+              "confidence": "docx_structural_text"
+            }
+          }
+        },
+        "CA03": {
+          "codi": "CA03",
+          "codi_complet": "ICB0_0373_RA3_CA03",
+          "descripcio": "Utilitza mètodes per a la selecció i l'accés dels diferents elements d'un document web.",
+          "font": {
+            "file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx",
+            "paragraph_index": 117,
+            "confidence": "docx_structural_text"
+          },
+          "dades_originals": {
+            "code": "CA03",
+            "code_full": "ICB0_0373_RA3_CA03",
+            "description": "Utilitza mètodes per a la selecció i l'accés dels diferents elements d'un document web.",
+            "source": {
+              "file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx",
+              "paragraph_index": 117,
+              "confidence": "docx_structural_text"
+            }
+          }
+        },
+        "CA04": {
+          "codi": "CA04",
+          "codi_complet": "ICB0_0373_RA3_CA04",
+          "descripcio": "Crea i modifica elements de documents web.",
+          "font": {
+            "file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx",
+            "paragraph_index": 118,
+            "confidence": "docx_structural_text"
+          },
+          "dades_originals": {
+            "code": "CA04",
+            "code_full": "ICB0_0373_RA3_CA04",
+            "description": "Crea i modifica elements de documents web.",
+            "source": {
+              "file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx",
+              "paragraph_index": 118,
+              "confidence": "docx_structural_text"
+            }
+          }
+        },
+        "CA05": {
+          "codi": "CA05",
+          "codi_complet": "ICB0_0373_RA3_CA05",
+          "descripcio": "Elimina elements de documents web.",
+          "font": {
+            "file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx",
+            "paragraph_index": 119,
+            "confidence": "docx_structural_text"
+          },
+          "dades_originals": {
+            "code": "CA05",
+            "code_full": "ICB0_0373_RA3_CA05",
+            "description": "Elimina elements de documents web.",
+            "source": {
+              "file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx",
+              "paragraph_index": 119,
+              "confidence": "docx_structural_text"
+            }
+          }
+        },
+        "CA06": {
+          "codi": "CA06",
+          "codi_complet": "ICB0_0373_RA3_CA06",
+          "descripcio": "Realitza modificacions sobre els estils d'un document web.",
+          "font": {
+            "file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx",
+            "paragraph_index": 120,
+            "confidence": "docx_structural_text"
+          },
+          "dades_originals": {
+            "code": "CA06",
+            "code_full": "ICB0_0373_RA3_CA06",
+            "description": "Realitza modificacions sobre els estils d'un document web.",
+            "source": {
+              "file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx",
+              "paragraph_index": 120,
+              "confidence": "docx_structural_text"
+            }
+          }
+        }
+      }
+    },
+    "RA4": {
+      "ordre": 4,
+      "codi": "RA4",
+      "codi_complet": "ICB0_0373_RA4",
+      "descripcio": "Estableix mecanismes de validació de documents per a l'intercanvi d'informació utilitzant mètodes per definir-ne la sintaxi i l'estructura.",
+      "descripcio_curta": "Estableix mecanismes de validació de documents per a l'intercanvi d'informació u",
+      "font": {
+        "file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx",
+        "paragraph_index": 121,
+        "confidence": "docx_structural_text"
+      },
+      "criteris_avaluacio": {
+        "CA01": {
+          "codi": "CA01",
+          "codi_complet": "ICB0_0373_RA4_CA01",
+          "descripcio": "Estableix la necessitat de descriure la informació transmesa als documents i les seves regles.",
+          "font": {
+            "file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx",
+            "paragraph_index": 123,
+            "confidence": "docx_structural_text"
+          },
+          "dades_originals": {
+            "code": "CA01",
+            "code_full": "ICB0_0373_RA4_CA01",
+            "description": "Estableix la necessitat de descriure la informació transmesa als documents i les seves regles.",
+            "source": {
+              "file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx",
+              "paragraph_index": 123,
+              "confidence": "docx_structural_text"
+            }
+          }
+        },
+        "CA02": {
+          "codi": "CA02",
+          "codi_complet": "ICB0_0373_RA4_CA02",
+          "descripcio": "Identifica les tecnologies relacionades amb la definició de documents.",
+          "font": {
+            "file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx",
+            "paragraph_index": 124,
+            "confidence": "docx_structural_text"
+          },
+          "dades_originals": {
+            "code": "CA02",
+            "code_full": "ICB0_0373_RA4_CA02",
+            "description": "Identifica les tecnologies relacionades amb la definició de documents.",
+            "source": {
+              "file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx",
+              "paragraph_index": 124,
+              "confidence": "docx_structural_text"
+            }
+          }
+        },
+        "CA03": {
+          "codi": "CA03",
+          "codi_complet": "ICB0_0373_RA4_CA03",
+          "descripcio": "Analitza l'estructura i la sintaxi específica utilitzada en la descripció.",
+          "font": {
+            "file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx",
+            "paragraph_index": 125,
+            "confidence": "docx_structural_text"
+          },
+          "dades_originals": {
+            "code": "CA03",
+            "code_full": "ICB0_0373_RA4_CA03",
+            "description": "Analitza l'estructura i la sintaxi específica utilitzada en la descripció.",
+            "source": {
+              "file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx",
+              "paragraph_index": 125,
+              "confidence": "docx_structural_text"
+            }
+          }
+        },
+        "CA04": {
+          "codi": "CA04",
+          "codi_complet": "ICB0_0373_RA4_CA04",
+          "descripcio": "Crea descripcions de documents.",
+          "font": {
+            "file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx",
+            "paragraph_index": 126,
+            "confidence": "docx_structural_text"
+          },
+          "dades_originals": {
+            "code": "CA04",
+            "code_full": "ICB0_0373_RA4_CA04",
+            "description": "Crea descripcions de documents.",
+            "source": {
+              "file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx",
+              "paragraph_index": 126,
+              "confidence": "docx_structural_text"
+            }
+          }
+        },
+        "CA05": {
+          "codi": "CA05",
+          "codi_complet": "ICB0_0373_RA4_CA05",
+          "descripcio": "Utilitza descripcions en l'elaboració i la validació de documents.",
+          "font": {
+            "file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx",
+            "paragraph_index": 127,
+            "confidence": "docx_structural_text"
+          },
+          "dades_originals": {
+            "code": "CA05",
+            "code_full": "ICB0_0373_RA4_CA05",
+            "description": "Utilitza descripcions en l'elaboració i la validació de documents.",
+            "source": {
+              "file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx",
+              "paragraph_index": 127,
+              "confidence": "docx_structural_text"
+            }
+          }
+        },
+        "CA06": {
+          "codi": "CA06",
+          "codi_complet": "ICB0_0373_RA4_CA06",
+          "descripcio": "Associa les descripcions amb els documents.",
+          "font": {
+            "file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx",
+            "paragraph_index": 128,
+            "confidence": "docx_structural_text"
+          },
+          "dades_originals": {
+            "code": "CA06",
+            "code_full": "ICB0_0373_RA4_CA06",
+            "description": "Associa les descripcions amb els documents.",
+            "source": {
+              "file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx",
+              "paragraph_index": 128,
+              "confidence": "docx_structural_text"
+            }
+          }
+        },
+        "CA07": {
+          "codi": "CA07",
+          "codi_complet": "ICB0_0373_RA4_CA07",
+          "descripcio": "Utilitza eines específiques de validació.",
+          "font": {
+            "file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx",
+            "paragraph_index": 129,
+            "confidence": "docx_structural_text"
+          },
+          "dades_originals": {
+            "code": "CA07",
+            "code_full": "ICB0_0373_RA4_CA07",
+            "description": "Utilitza eines específiques de validació.",
+            "source": {
+              "file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx",
+              "paragraph_index": 129,
+              "confidence": "docx_structural_text"
+            }
+          }
+        }
+      }
+    },
+    "RA5": {
+      "ordre": 5,
+      "codi": "RA5",
+      "codi_complet": "ICB0_0373_RA5",
+      "descripcio": "Realitza conversions sobre documents per a l'intercanvi de informació utilitzant tècniques, llenguatges i eines de processament.",
+      "descripcio_curta": "Realitza conversions sobre documents per a l'intercanvi de informació utilitzant",
+      "font": {
+        "file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx",
+        "paragraph_index": 130,
+        "confidence": "docx_structural_text"
+      },
+      "criteris_avaluacio": {
+        "CA01": {
+          "codi": "CA01",
+          "codi_complet": "ICB0_0373_RA5_CA01",
+          "descripcio": "Identifica la necessitat de la conversió de documents per l'intercanvi de la informació.",
+          "font": {
+            "file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx",
+            "paragraph_index": 132,
+            "confidence": "docx_structural_text"
+          },
+          "dades_originals": {
+            "code": "CA01",
+            "code_full": "ICB0_0373_RA5_CA01",
+            "description": "Identifica la necessitat de la conversió de documents per l'intercanvi de la informació.",
+            "source": {
+              "file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx",
+              "paragraph_index": 132,
+              "confidence": "docx_structural_text"
+            }
+          }
+        },
+        "CA02": {
+          "codi": "CA02",
+          "codi_complet": "ICB0_0373_RA5_CA02",
+          "descripcio": "Estableix àmbits aplicables.",
+          "font": {
+            "file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx",
+            "paragraph_index": 133,
+            "confidence": "docx_structural_text"
+          },
+          "dades_originals": {
+            "code": "CA02",
+            "code_full": "ICB0_0373_RA5_CA02",
+            "description": "Estableix àmbits aplicables.",
+            "source": {
+              "file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx",
+              "paragraph_index": 133,
+              "confidence": "docx_structural_text"
+            }
+          }
+        },
+        "CA03": {
+          "codi": "CA03",
+          "codi_complet": "ICB0_0373_RA5_CA03",
+          "descripcio": "Analitza les tecnologies implicades i el mode de funcionament.",
+          "font": {
+            "file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx",
+            "paragraph_index": 134,
+            "confidence": "docx_structural_text"
+          },
+          "dades_originals": {
+            "code": "CA03",
+            "code_full": "ICB0_0373_RA5_CA03",
+            "description": "Analitza les tecnologies implicades i el mode de funcionament.",
+            "source": {
+              "file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx",
+              "paragraph_index": 134,
+              "confidence": "docx_structural_text"
+            }
+          }
+        },
+        "CA04": {
+          "codi": "CA04",
+          "codi_complet": "ICB0_0373_RA5_CA04",
+          "descripcio": "Descriu la sintaxi específica utilitzada a la conversió i adaptació de documents per a l'intercanvi d'informació.",
+          "font": {
+            "file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx",
+            "paragraph_index": 135,
+            "confidence": "docx_structural_text"
+          },
+          "dades_originals": {
+            "code": "CA04",
+            "code_full": "ICB0_0373_RA5_CA04",
+            "description": "Descriu la sintaxi específica utilitzada a la conversió i adaptació de documents per a l'intercanvi d'informació.",
+            "source": {
+              "file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx",
+              "paragraph_index": 135,
+              "confidence": "docx_structural_text"
+            }
+          }
+        },
+        "CA05": {
+          "codi": "CA05",
+          "codi_complet": "ICB0_0373_RA5_CA05",
+          "descripcio": "Crea especificacions de conversió.",
+          "font": {
+            "file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx",
+            "paragraph_index": 136,
+            "confidence": "docx_structural_text"
+          },
+          "dades_originals": {
+            "code": "CA05",
+            "code_full": "ICB0_0373_RA5_CA05",
+            "description": "Crea especificacions de conversió.",
+            "source": {
+              "file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx",
+              "paragraph_index": 136,
+              "confidence": "docx_structural_text"
+            }
+          }
+        },
+        "CA06": {
+          "codi": "CA06",
+          "codi_complet": "ICB0_0373_RA5_CA06",
+          "descripcio": "Identifica i caracteritza eines específiques relacionades amb la conversió de documents per a l'intercanvi d'informació.",
+          "font": {
+            "file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx",
+            "paragraph_index": 137,
+            "confidence": "docx_structural_text"
+          },
+          "dades_originals": {
+            "code": "CA06",
+            "code_full": "ICB0_0373_RA5_CA06",
+            "description": "Identifica i caracteritza eines específiques relacionades amb la conversió de documents per a l'intercanvi d'informació.",
+            "source": {
+              "file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx",
+              "paragraph_index": 137,
+              "confidence": "docx_structural_text"
+            }
+          }
+        },
+        "CA07": {
+          "codi": "CA07",
+          "codi_complet": "ICB0_0373_RA5_CA07",
+          "descripcio": "Realitza conversions sobre documents per a l'intercanvi d'informació.",
+          "font": {
+            "file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx",
+            "paragraph_index": 138,
+            "confidence": "docx_structural_text"
+          },
+          "dades_originals": {
+            "code": "CA07",
+            "code_full": "ICB0_0373_RA5_CA07",
+            "description": "Realitza conversions sobre documents per a l'intercanvi d'informació.",
+            "source": {
+              "file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx",
+              "paragraph_index": 138,
+              "confidence": "docx_structural_text"
+            }
+          }
+        }
+      }
+    },
+    "RA6": {
+      "ordre": 6,
+      "codi": "RA6",
+      "codi_complet": "ICB0_0373_RA6",
+      "descripcio": "Gestiona la informació en formats d'intercanvi de dades analitzant i utilitzant tecnologies d'emmagatzematge i llenguatges de consulta.",
+      "descripcio_curta": "Gestiona la informació en formats d'intercanvi de dades analitzant i utilitzant ",
+      "font": {
+        "file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx",
+        "paragraph_index": 139,
+        "confidence": "docx_structural_text"
+      },
+      "criteris_avaluacio": {
+        "CA01": {
+          "codi": "CA01",
+          "codi_complet": "ICB0_0373_RA6_CA01",
+          "descripcio": "Identifica els mètodes principals d'emmagatzematge de la informació utilitzats en documents d'intercanvi de dades.",
+          "font": {
+            "file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx",
+            "paragraph_index": 141,
+            "confidence": "docx_structural_text"
+          },
+          "dades_originals": {
+            "code": "CA01",
+            "code_full": "ICB0_0373_RA6_CA01",
+            "description": "Identifica els mètodes principals d'emmagatzematge de la informació utilitzats en documents d'intercanvi de dades.",
+            "source": {
+              "file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx",
+              "paragraph_index": 141,
+              "confidence": "docx_structural_text"
+            }
+          }
+        },
+        "CA02": {
+          "codi": "CA02",
+          "codi_complet": "ICB0_0373_RA6_CA02",
+          "descripcio": "Identifica els avantatges i els inconvenients d'emmagatzemar informació en formats d'intercanvi de dades.",
+          "font": {
+            "file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx",
+            "paragraph_index": 142,
+            "confidence": "docx_structural_text"
+          },
+          "dades_originals": {
+            "code": "CA02",
+            "code_full": "ICB0_0373_RA6_CA02",
+            "description": "Identifica els avantatges i els inconvenients d'emmagatzemar informació en formats d'intercanvi de dades.",
+            "source": {
+              "file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx",
+              "paragraph_index": 142,
+              "confidence": "docx_structural_text"
+            }
+          }
+        },
+        "CA03": {
+          "codi": "CA03",
+          "codi_complet": "ICB0_0373_RA6_CA03",
+          "descripcio": "Estableix tecnologies eficients d'emmagatzematge d'informació en funció de les característiques.",
+          "font": {
+            "file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx",
+            "paragraph_index": 143,
+            "confidence": "docx_structural_text"
+          },
+          "dades_originals": {
+            "code": "CA03",
+            "code_full": "ICB0_0373_RA6_CA03",
+            "description": "Estableix tecnologies eficients d'emmagatzematge d'informació en funció de les característiques.",
+            "source": {
+              "file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx",
+              "paragraph_index": 143,
+              "confidence": "docx_structural_text"
+            }
+          }
+        },
+        "CA04": {
+          "codi": "CA04",
+          "codi_complet": "ICB0_0373_RA6_CA04",
+          "descripcio": "Identifica llenguatges i eines per al tractament i emmagatzematge d'informació i la seva inclusió en documents d'intercanvi de dades.",
+          "font": {
+            "file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx",
+            "paragraph_index": 144,
+            "confidence": "docx_structural_text"
+          },
+          "dades_originals": {
+            "code": "CA04",
+            "code_full": "ICB0_0373_RA6_CA04",
+            "description": "Identifica llenguatges i eines per al tractament i emmagatzematge d'informació i la seva inclusió en documents d'intercanvi de dades.",
+            "source": {
+              "file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx",
+              "paragraph_index": 144,
+              "confidence": "docx_structural_text"
+            }
+          }
+        },
+        "CA05": {
+          "codi": "CA05",
+          "codi_complet": "ICB0_0373_RA6_CA05",
+          "descripcio": "Utilitza llenguatges de consulta i manipulació en documents d'intercanvi de dades.",
+          "font": {
+            "file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx",
+            "paragraph_index": 145,
+            "confidence": "docx_structural_text"
+          },
+          "dades_originals": {
+            "code": "CA05",
+            "code_full": "ICB0_0373_RA6_CA05",
+            "description": "Utilitza llenguatges de consulta i manipulació en documents d'intercanvi de dades.",
+            "source": {
+              "file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx",
+              "paragraph_index": 145,
+              "confidence": "docx_structural_text"
+            }
+          }
+        },
+        "CA06": {
+          "codi": "CA06",
+          "codi_complet": "ICB0_0373_RA6_CA06",
+          "descripcio": "Utilitza sistemes gestors de bases de dades relacionals en l'emmagatzematge d'informació en formats d'intercanvi de dades.",
+          "font": {
+            "file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx",
+            "paragraph_index": 146,
+            "confidence": "docx_structural_text"
+          },
+          "dades_originals": {
+            "code": "CA06",
+            "code_full": "ICB0_0373_RA6_CA06",
+            "description": "Utilitza sistemes gestors de bases de dades relacionals en l'emmagatzematge d'informació en formats d'intercanvi de dades.",
+            "source": {
+              "file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx",
+              "paragraph_index": 146,
+              "confidence": "docx_structural_text"
+            }
+          }
+        },
+        "CA07": {
+          "codi": "CA07",
+          "codi_complet": "ICB0_0373_RA6_CA07",
+          "descripcio": "Utilitza tècniques específiques per a crear documents d'intercanvi de dades a partir d'informació emmagatzemada en bases de dades relacionals.",
+          "font": {
+            "file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx",
+            "paragraph_index": 147,
+            "confidence": "docx_structural_text"
+          },
+          "dades_originals": {
+            "code": "CA07",
+            "code_full": "ICB0_0373_RA6_CA07",
+            "description": "Utilitza tècniques específiques per a crear documents d'intercanvi de dades a partir d'informació emmagatzemada en bases de dades relacionals.",
+            "source": {
+              "file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx",
+              "paragraph_index": 147,
+              "confidence": "docx_structural_text"
+            }
+          }
+        },
+        "CA08": {
+          "codi": "CA08",
+          "codi_complet": "ICB0_0373_RA6_CA08",
+          "descripcio": "Identifica les característiques dels sistemes.",
+          "font": {
+            "file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx",
+            "paragraph_index": 148,
+            "confidence": "docx_structural_text"
+          },
+          "dades_originals": {
+            "code": "CA08",
+            "code_full": "ICB0_0373_RA6_CA08",
+            "description": "Identifica les característiques dels sistemes.",
+            "source": {
+              "file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx",
+              "paragraph_index": 148,
+              "confidence": "docx_structural_text"
+            }
+          }
+        },
+        "CA09": {
+          "codi": "CA09",
+          "codi_complet": "ICB0_0373_RA6_CA09",
+          "descripcio": "Utilitza eines per gestionar la informació emmagatzemada en bases de dades natives.",
+          "font": {
+            "file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx",
+            "paragraph_index": 149,
+            "confidence": "docx_structural_text"
+          },
+          "dades_originals": {
+            "code": "CA09",
+            "code_full": "ICB0_0373_RA6_CA09",
+            "description": "Utilitza eines per gestionar la informació emmagatzemada en bases de dades natives.",
+            "source": {
+              "file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx",
+              "paragraph_index": 149,
+              "confidence": "docx_structural_text"
+            }
+          }
+        }
+      }
+    },
+    "RA7": {
+      "ordre": 7,
+      "codi": "RA7",
+      "codi_complet": "ICB0_0373_RA7",
+      "descripcio": "Efectua operacions amb sistemes empresarials de gestió d'informació realitzant tasques d'importació, integració, assegurament i extracció de la informació.",
+      "descripcio_curta": "Efectua operacions amb sistemes empresarials de gestió d'informació realitzant t",
+      "font": {
+        "file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx",
+        "paragraph_index": 150,
+        "confidence": "docx_structural_text"
+      },
+      "criteris_avaluacio": {
+        "CA01": {
+          "codi": "CA01",
+          "codi_complet": "ICB0_0373_RA7_CA01",
+          "descripcio": "Identifica els principals sistemes de gestió empresarial.",
+          "font": {
+            "file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx",
+            "paragraph_index": 152,
+            "confidence": "docx_structural_text"
+          },
+          "dades_originals": {
+            "code": "CA01",
+            "code_full": "ICB0_0373_RA7_CA01",
+            "description": "Identifica els principals sistemes de gestió empresarial.",
+            "source": {
+              "file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx",
+              "paragraph_index": 152,
+              "confidence": "docx_structural_text"
+            }
+          }
+        },
+        "CA02": {
+          "codi": "CA02",
+          "codi_complet": "ICB0_0373_RA7_CA02",
+          "descripcio": "Reconeix els avantatges dels sistemes de gestió d'informació empresarials.",
+          "font": {
+            "file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx",
+            "paragraph_index": 153,
+            "confidence": "docx_structural_text"
+          },
+          "dades_originals": {
+            "code": "CA02",
+            "code_full": "ICB0_0373_RA7_CA02",
+            "description": "Reconeix els avantatges dels sistemes de gestió d'informació empresarials.",
+            "source": {
+              "file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx",
+              "paragraph_index": 153,
+              "confidence": "docx_structural_text"
+            }
+          }
+        },
+        "CA03": {
+          "codi": "CA03",
+          "codi_complet": "ICB0_0373_RA7_CA03",
+          "descripcio": "Avalua les característiques de les aplicacions de gestió empresarial principals.",
+          "font": {
+            "file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx",
+            "paragraph_index": 154,
+            "confidence": "docx_structural_text"
+          },
+          "dades_originals": {
+            "code": "CA03",
+            "code_full": "ICB0_0373_RA7_CA03",
+            "description": "Avalua les característiques de les aplicacions de gestió empresarial principals.",
+            "source": {
+              "file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx",
+              "paragraph_index": 154,
+              "confidence": "docx_structural_text"
+            }
+          }
+        },
+        "CA04": {
+          "codi": "CA04",
+          "codi_complet": "ICB0_0373_RA7_CA04",
+          "descripcio": "Instal·la aplicacions de gestió de la informació empresarial.",
+          "font": {
+            "file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx",
+            "paragraph_index": 155,
+            "confidence": "docx_structural_text"
+          },
+          "dades_originals": {
+            "code": "CA04",
+            "code_full": "ICB0_0373_RA7_CA04",
+            "description": "Instal·la aplicacions de gestió de la informació empresarial.",
+            "source": {
+              "file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx",
+              "paragraph_index": 155,
+              "confidence": "docx_structural_text"
+            }
+          }
+        },
+        "CA05": {
+          "codi": "CA05",
+          "codi_complet": "ICB0_0373_RA7_CA05",
+          "descripcio": "Configura i s'han administrat les aplicacions.",
+          "font": {
+            "file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx",
+            "paragraph_index": 156,
+            "confidence": "docx_structural_text"
+          },
+          "dades_originals": {
+            "code": "CA05",
+            "code_full": "ICB0_0373_RA7_CA05",
+            "description": "Configura i s'han administrat les aplicacions.",
+            "source": {
+              "file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx",
+              "paragraph_index": 156,
+              "confidence": "docx_structural_text"
+            }
+          }
+        },
+        "CA06": {
+          "codi": "CA06",
+          "codi_complet": "ICB0_0373_RA7_CA06",
+          "descripcio": "Estableix i verifica mecanismes d'accés segur a la informació.",
+          "font": {
+            "file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx",
+            "paragraph_index": 157,
+            "confidence": "docx_structural_text"
+          },
+          "dades_originals": {
+            "code": "CA06",
+            "code_full": "ICB0_0373_RA7_CA06",
+            "description": "Estableix i verifica mecanismes d'accés segur a la informació.",
+            "source": {
+              "file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx",
+              "paragraph_index": 157,
+              "confidence": "docx_structural_text"
+            }
+          }
+        },
+        "CA07": {
+          "codi": "CA07",
+          "codi_complet": "ICB0_0373_RA7_CA07",
+          "descripcio": "Genera informes.",
+          "font": {
+            "file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx",
+            "paragraph_index": 158,
+            "confidence": "docx_structural_text"
+          },
+          "dades_originals": {
+            "code": "CA07",
+            "code_full": "ICB0_0373_RA7_CA07",
+            "description": "Genera informes.",
+            "source": {
+              "file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx",
+              "paragraph_index": 158,
+              "confidence": "docx_structural_text"
+            }
+          }
+        },
+        "CA08": {
+          "codi": "CA08",
+          "codi_complet": "ICB0_0373_RA7_CA08",
+          "descripcio": "Realitza procediments d'extracció d'informació per al tractament i la incorporació a diversos sistemes.",
+          "font": {
+            "file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx",
+            "paragraph_index": 159,
+            "confidence": "docx_structural_text"
+          },
+          "dades_originals": {
+            "code": "CA08",
+            "code_full": "ICB0_0373_RA7_CA08",
+            "description": "Realitza procediments d'extracció d'informació per al tractament i la incorporació a diversos sistemes.",
+            "source": {
+              "file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx",
+              "paragraph_index": 159,
+              "confidence": "docx_structural_text"
+            }
+          }
+        },
+        "CA09": {
+          "codi": "CA09",
+          "codi_complet": "ICB0_0373_RA7_CA09",
+          "descripcio": "Elabora documents relatius a l'explotació de l'aplicació.",
+          "font": {
+            "file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx",
+            "paragraph_index": 160,
+            "confidence": "docx_structural_text"
+          },
+          "dades_originals": {
+            "code": "CA09",
+            "code_full": "ICB0_0373_RA7_CA09",
+            "description": "Elabora documents relatius a l'explotació de l'aplicació.",
+            "source": {
+              "file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx",
+              "paragraph_index": 160,
+              "confidence": "docx_structural_text"
+            }
+          }
+        }
+      }
+    }
+  },
+  "metadata": {
+    "font": "docs/data",
+    "fitxer_origen": "icb0.json",
+    "estat": "generat",
+    "data_generacio": "2026-07-15T14:28:35.869249+00:00"
+  }
+}

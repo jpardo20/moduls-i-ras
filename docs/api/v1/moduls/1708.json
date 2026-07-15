@@ -1,0 +1,788 @@
+{
+  "api_version": "1.0",
+  "codi": "1708",
+  "nom": "Sostenibilitat Aplicada al Sistema Productiu",
+  "cicle": {
+    "codi": "ICB0",
+    "nom": "dam"
+  },
+  "hores": {
+    "total": 33
+  },
+  "empresa": {
+    "te_estada": false
+  },
+  "num_ra": 6,
+  "resultats_aprenentatge": {
+    "RA1": {
+      "ordre": 1,
+      "codi": "RA1",
+      "codi_complet": "ICB0_1708_RA1",
+      "descripcio": "Identifica els aspectes ambientals, socials i de governança (ASG) relatius a la sostenibilitat tenint en compte el concepte de desenvolupament sostenible i els marcs internacionals que contribueixen a la seva consecució.",
+      "descripcio_curta": "Identifica els aspectes ambientals, socials i de governança (ASG) relatius a la ",
+      "font": {
+        "file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx",
+        "paragraph_index": 1661,
+        "confidence": "docx_structural_text"
+      },
+      "criteris_avaluacio": {
+        "CA01": {
+          "codi": "CA01",
+          "codi_complet": "ICB0_1708_RA1_CA01",
+          "descripcio": "1.1 Descriu el concepte de sostenibilitat, establint els marcs internacionals associats al desenvolupament sostenible.",
+          "font": {
+            "file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx",
+            "paragraph_index": 1663,
+            "confidence": "docx_structural_text"
+          },
+          "dades_originals": {
+            "code": "CA01",
+            "code_full": "ICB0_1708_RA1_CA01",
+            "description": "1.1 Descriu el concepte de sostenibilitat, establint els marcs internacionals associats al desenvolupament sostenible.",
+            "source": {
+              "file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx",
+              "paragraph_index": 1663,
+              "confidence": "docx_structural_text"
+            }
+          }
+        },
+        "CA02": {
+          "codi": "CA02",
+          "codi_complet": "ICB0_1708_RA1_CA02",
+          "descripcio": "1.2 Identifica els assumptes ambientals, socials i de governança que influeixen en el desenvolupament sostenible de les organitzacions empresarials.",
+          "font": {
+            "file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx",
+            "paragraph_index": 1664,
+            "confidence": "docx_structural_text"
+          },
+          "dades_originals": {
+            "code": "CA02",
+            "code_full": "ICB0_1708_RA1_CA02",
+            "description": "1.2 Identifica els assumptes ambientals, socials i de governança que influeixen en el desenvolupament sostenible de les organitzacions empresarials.",
+            "source": {
+              "file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx",
+              "paragraph_index": 1664,
+              "confidence": "docx_structural_text"
+            }
+          }
+        },
+        "CA03": {
+          "codi": "CA03",
+          "codi_complet": "ICB0_1708_RA1_CA03",
+          "descripcio": "1.3 Relaciona els Objectius de Desenvolupament Sostenible (ODS) amb la seva importància per a la consecució de l'Agenda 2030.",
+          "font": {
+            "file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx",
+            "paragraph_index": 1665,
+            "confidence": "docx_structural_text"
+          },
+          "dades_originals": {
+            "code": "CA03",
+            "code_full": "ICB0_1708_RA1_CA03",
+            "description": "1.3 Relaciona els Objectius de Desenvolupament Sostenible (ODS) amb la seva importància per a la consecució de l'Agenda 2030.",
+            "source": {
+              "file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx",
+              "paragraph_index": 1665,
+              "confidence": "docx_structural_text"
+            }
+          }
+        },
+        "CA04": {
+          "codi": "CA04",
+          "codi_complet": "ICB0_1708_RA1_CA04",
+          "descripcio": "1.4 Analitza la importància d'identificar els aspectes ASG més rellevants per als grups d'interès de les organitzacions relacionant-los amb els riscos i oportunitats que suposen per a la pròpia organització.",
+          "font": {
+            "file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx",
+            "paragraph_index": 1666,
+            "confidence": "docx_structural_text"
+          },
+          "dades_originals": {
+            "code": "CA04",
+            "code_full": "ICB0_1708_RA1_CA04",
+            "description": "1.4 Analitza la importància d'identificar els aspectes ASG més rellevants per als grups d'interès de les organitzacions relacionant-los amb els riscos i oportunitats que suposen per a la pròpia organització.",
+            "source": {
+              "file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx",
+              "paragraph_index": 1666,
+              "confidence": "docx_structural_text"
+            }
+          }
+        },
+        "CA05": {
+          "codi": "CA05",
+          "codi_complet": "ICB0_1708_RA1_CA05",
+          "descripcio": "1.5 Identifica els principals estàndards de mètriques per a l'avaluació de l'acompliment en sostenibilitat i el seu paper en la rendició de comptes que marca la legislació vigent i les futures regulacions en desenvolupament.",
+          "font": {
+            "file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx",
+            "paragraph_index": 1667,
+            "confidence": "docx_structural_text"
+          },
+          "dades_originals": {
+            "code": "CA05",
+            "code_full": "ICB0_1708_RA1_CA05",
+            "description": "1.5 Identifica els principals estàndards de mètriques per a l'avaluació de l'acompliment en sostenibilitat i el seu paper en la rendició de comptes que marca la legislació vigent i les futures regulacions en desenvolupament.",
+            "source": {
+              "file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx",
+              "paragraph_index": 1667,
+              "confidence": "docx_structural_text"
+            }
+          }
+        },
+        "CA06": {
+          "codi": "CA06",
+          "codi_complet": "ICB0_1708_RA1_CA06",
+          "descripcio": "1.6 Descriu la inversió socialment responsable i el paper dels analistes, inversores, agències i índexs de sostenibilitat en el foment de la sostenibilitat.",
+          "font": {
+            "file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx",
+            "paragraph_index": 1668,
+            "confidence": "docx_structural_text"
+          },
+          "dades_originals": {
+            "code": "CA06",
+            "code_full": "ICB0_1708_RA1_CA06",
+            "description": "1.6 Descriu la inversió socialment responsable i el paper dels analistes, inversores, agències i índexs de sostenibilitat en el foment de la sostenibilitat.",
+            "source": {
+              "file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx",
+              "paragraph_index": 1668,
+              "confidence": "docx_structural_text"
+            }
+          }
+        }
+      }
+    },
+    "RA2": {
+      "ordre": 2,
+      "codi": "RA2",
+      "codi_complet": "ICB0_1708_RA2",
+      "descripcio": "Caracteritza els reptes ambientals i socials als quals s'enfronta la societat, descrivint els impactes sobre les persones i els sectors productius i proposant accions per a minimitzar-los.",
+      "descripcio_curta": "Caracteritza els reptes ambientals i socials als quals s'enfronta la societat, d",
+      "font": {
+        "file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx",
+        "paragraph_index": 1669,
+        "confidence": "docx_structural_text"
+      },
+      "criteris_avaluacio": {
+        "CA01": {
+          "codi": "CA01",
+          "codi_complet": "ICB0_1708_RA2_CA01",
+          "descripcio": "2.1 Identifica els principals reptes ambientals i socials.",
+          "font": {
+            "file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx",
+            "paragraph_index": 1671,
+            "confidence": "docx_structural_text"
+          },
+          "dades_originals": {
+            "code": "CA01",
+            "code_full": "ICB0_1708_RA2_CA01",
+            "description": "2.1 Identifica els principals reptes ambientals i socials.",
+            "source": {
+              "file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx",
+              "paragraph_index": 1671,
+              "confidence": "docx_structural_text"
+            }
+          }
+        },
+        "CA02": {
+          "codi": "CA02",
+          "codi_complet": "ICB0_1708_RA2_CA02",
+          "descripcio": "2.2 Relaciona els reptes ambientals i socials amb el desenvolupament de l'activitat econòmica.",
+          "font": {
+            "file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx",
+            "paragraph_index": 1672,
+            "confidence": "docx_structural_text"
+          },
+          "dades_originals": {
+            "code": "CA02",
+            "code_full": "ICB0_1708_RA2_CA02",
+            "description": "2.2 Relaciona els reptes ambientals i socials amb el desenvolupament de l'activitat econòmica.",
+            "source": {
+              "file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx",
+              "paragraph_index": 1672,
+              "confidence": "docx_structural_text"
+            }
+          }
+        },
+        "CA03": {
+          "codi": "CA03",
+          "codi_complet": "ICB0_1708_RA2_CA03",
+          "descripcio": "2.3 Analitza l'efecte dels impactes ambientals i socials sobre les persones i els sectors productius.",
+          "font": {
+            "file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx",
+            "paragraph_index": 1673,
+            "confidence": "docx_structural_text"
+          },
+          "dades_originals": {
+            "code": "CA03",
+            "code_full": "ICB0_1708_RA2_CA03",
+            "description": "2.3 Analitza l'efecte dels impactes ambientals i socials sobre les persones i els sectors productius.",
+            "source": {
+              "file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx",
+              "paragraph_index": 1673,
+              "confidence": "docx_structural_text"
+            }
+          }
+        },
+        "CA04": {
+          "codi": "CA04",
+          "codi_complet": "ICB0_1708_RA2_CA04",
+          "descripcio": "2.4 Identifica les mesures i accions encaminades a minimitzar els impactes ambientals i socials.",
+          "font": {
+            "file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx",
+            "paragraph_index": 1674,
+            "confidence": "docx_structural_text"
+          },
+          "dades_originals": {
+            "code": "CA04",
+            "code_full": "ICB0_1708_RA2_CA04",
+            "description": "2.4 Identifica les mesures i accions encaminades a minimitzar els impactes ambientals i socials.",
+            "source": {
+              "file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx",
+              "paragraph_index": 1674,
+              "confidence": "docx_structural_text"
+            }
+          }
+        },
+        "CA05": {
+          "codi": "CA05",
+          "codi_complet": "ICB0_1708_RA2_CA05",
+          "descripcio": "2.5 Analitza la importància d'establir aliances i treballar de manera transversal i coordinada per a abordar amb èxit els reptes ambientals i socials.",
+          "font": {
+            "file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx",
+            "paragraph_index": 1675,
+            "confidence": "docx_structural_text"
+          },
+          "dades_originals": {
+            "code": "CA05",
+            "code_full": "ICB0_1708_RA2_CA05",
+            "description": "2.5 Analitza la importància d'establir aliances i treballar de manera transversal i coordinada per a abordar amb èxit els reptes ambientals i socials.",
+            "source": {
+              "file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx",
+              "paragraph_index": 1675,
+              "confidence": "docx_structural_text"
+            }
+          }
+        }
+      }
+    },
+    "RA3": {
+      "ordre": 3,
+      "codi": "RA3",
+      "codi_complet": "ICB0_1708_RA3",
+      "descripcio": "Estableix l'aplicació de criteris de sostenibilitat en l'acompliment professional i personal, identificant els elements necessaris.",
+      "descripcio_curta": "Estableix l'aplicació de criteris de sostenibilitat en l'acompliment professiona",
+      "font": {
+        "file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx",
+        "paragraph_index": 1676,
+        "confidence": "docx_structural_text"
+      },
+      "criteris_avaluacio": {
+        "CA01": {
+          "codi": "CA01",
+          "codi_complet": "ICB0_1708_RA3_CA01",
+          "descripcio": "3.1 Identifica els ODS més rellevants per a l'activitat professional que realitza.",
+          "font": {
+            "file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx",
+            "paragraph_index": 1678,
+            "confidence": "docx_structural_text"
+          },
+          "dades_originals": {
+            "code": "CA01",
+            "code_full": "ICB0_1708_RA3_CA01",
+            "description": "3.1 Identifica els ODS més rellevants per a l'activitat professional que realitza.",
+            "source": {
+              "file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx",
+              "paragraph_index": 1678,
+              "confidence": "docx_structural_text"
+            }
+          }
+        },
+        "CA02": {
+          "codi": "CA02",
+          "codi_complet": "ICB0_1708_RA3_CA02",
+          "descripcio": "3.2 Analitza els riscos i oportunitats que representen els ODS.",
+          "font": {
+            "file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx",
+            "paragraph_index": 1679,
+            "confidence": "docx_structural_text"
+          },
+          "dades_originals": {
+            "code": "CA02",
+            "code_full": "ICB0_1708_RA3_CA02",
+            "description": "3.2 Analitza els riscos i oportunitats que representen els ODS.",
+            "source": {
+              "file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx",
+              "paragraph_index": 1679,
+              "confidence": "docx_structural_text"
+            }
+          }
+        },
+        "CA03": {
+          "codi": "CA03",
+          "codi_complet": "ICB0_1708_RA3_CA03",
+          "descripcio": "3.3 Identifica les accions necessàries per atendre alguns dels reptes ambientals i socials des de l'activitat professional i l'entorn personal.",
+          "font": {
+            "file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx",
+            "paragraph_index": 1680,
+            "confidence": "docx_structural_text"
+          },
+          "dades_originals": {
+            "code": "CA03",
+            "code_full": "ICB0_1708_RA3_CA03",
+            "description": "3.3 Identifica les accions necessàries per atendre alguns dels reptes ambientals i socials des de l'activitat professional i l'entorn personal.",
+            "source": {
+              "file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx",
+              "paragraph_index": 1680,
+              "confidence": "docx_structural_text"
+            }
+          }
+        }
+      }
+    },
+    "RA4": {
+      "ordre": 4,
+      "codi": "RA4",
+      "codi_complet": "ICB0_1708_RA4",
+      "descripcio": "Proposa productes i serveis responsables tenint en compte els principis de l’economia circular.",
+      "descripcio_curta": "Proposa productes i serveis responsables tenint en compte els principis de l’eco",
+      "font": {
+        "file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx",
+        "paragraph_index": 1681,
+        "confidence": "docx_structural_text"
+      },
+      "criteris_avaluacio": {
+        "CA01": {
+          "codi": "CA01",
+          "codi_complet": "ICB0_1708_RA4_CA01",
+          "descripcio": "4.1 Caracteritza el model de producció i consum actual.",
+          "font": {
+            "file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx",
+            "paragraph_index": 1683,
+            "confidence": "docx_structural_text"
+          },
+          "dades_originals": {
+            "code": "CA01",
+            "code_full": "ICB0_1708_RA4_CA01",
+            "description": "4.1 Caracteritza el model de producció i consum actual.",
+            "source": {
+              "file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx",
+              "paragraph_index": 1683,
+              "confidence": "docx_structural_text"
+            }
+          }
+        },
+        "CA02": {
+          "codi": "CA02",
+          "codi_complet": "ICB0_1708_RA4_CA02",
+          "descripcio": "4.2 Identifica els principis de l'economia verda i circular.",
+          "font": {
+            "file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx",
+            "paragraph_index": 1684,
+            "confidence": "docx_structural_text"
+          },
+          "dades_originals": {
+            "code": "CA02",
+            "code_full": "ICB0_1708_RA4_CA02",
+            "description": "4.2 Identifica els principis de l'economia verda i circular.",
+            "source": {
+              "file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx",
+              "paragraph_index": 1684,
+              "confidence": "docx_structural_text"
+            }
+          }
+        },
+        "CA03": {
+          "codi": "CA03",
+          "codi_complet": "ICB0_1708_RA4_CA03",
+          "descripcio": "4.3 Contrasta els beneficis de l'economia verda i circular enfront del model clàssic de producció.",
+          "font": {
+            "file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx",
+            "paragraph_index": 1685,
+            "confidence": "docx_structural_text"
+          },
+          "dades_originals": {
+            "code": "CA03",
+            "code_full": "ICB0_1708_RA4_CA03",
+            "description": "4.3 Contrasta els beneficis de l'economia verda i circular enfront del model clàssic de producció.",
+            "source": {
+              "file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx",
+              "paragraph_index": 1685,
+              "confidence": "docx_structural_text"
+            }
+          }
+        },
+        "CA04": {
+          "codi": "CA04",
+          "codi_complet": "ICB0_1708_RA4_CA04",
+          "descripcio": "4.4 Aplica principis d'ecodisseny.",
+          "font": {
+            "file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx",
+            "paragraph_index": 1686,
+            "confidence": "docx_structural_text"
+          },
+          "dades_originals": {
+            "code": "CA04",
+            "code_full": "ICB0_1708_RA4_CA04",
+            "description": "4.4 Aplica principis d'ecodisseny.",
+            "source": {
+              "file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx",
+              "paragraph_index": 1686,
+              "confidence": "docx_structural_text"
+            }
+          }
+        },
+        "CA05": {
+          "codi": "CA05",
+          "codi_complet": "ICB0_1708_RA4_CA05",
+          "descripcio": "4.5 Analitza el cicle de vida del producte.",
+          "font": {
+            "file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx",
+            "paragraph_index": 1687,
+            "confidence": "docx_structural_text"
+          },
+          "dades_originals": {
+            "code": "CA05",
+            "code_full": "ICB0_1708_RA4_CA05",
+            "description": "4.5 Analitza el cicle de vida del producte.",
+            "source": {
+              "file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx",
+              "paragraph_index": 1687,
+              "confidence": "docx_structural_text"
+            }
+          }
+        },
+        "CA06": {
+          "codi": "CA06",
+          "codi_complet": "ICB0_1708_RA4_CA06",
+          "descripcio": "4.6 Identifica els processos de producció i els criteris de sostenibilitat aplicats.",
+          "font": {
+            "file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx",
+            "paragraph_index": 1688,
+            "confidence": "docx_structural_text"
+          },
+          "dades_originals": {
+            "code": "CA06",
+            "code_full": "ICB0_1708_RA4_CA06",
+            "description": "4.6 Identifica els processos de producció i els criteris de sostenibilitat aplicats.",
+            "source": {
+              "file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx",
+              "paragraph_index": 1688,
+              "confidence": "docx_structural_text"
+            }
+          }
+        }
+      }
+    },
+    "RA5": {
+      "ordre": 5,
+      "codi": "RA5",
+      "codi_complet": "ICB0_1708_RA5",
+      "descripcio": "Realitza activitats sostenibles minimitzant l'impacte de les mateixes en el medi ambient.",
+      "descripcio_curta": "Realitza activitats sostenibles minimitzant l'impacte de les mateixes en el medi",
+      "font": {
+        "file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx",
+        "paragraph_index": 1689,
+        "confidence": "docx_structural_text"
+      },
+      "criteris_avaluacio": {
+        "CA01": {
+          "codi": "CA01",
+          "codi_complet": "ICB0_1708_RA5_CA01",
+          "descripcio": "5.1 Caracteritza el model de producció i consum actual.",
+          "font": {
+            "file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx",
+            "paragraph_index": 1691,
+            "confidence": "docx_structural_text"
+          },
+          "dades_originals": {
+            "code": "CA01",
+            "code_full": "ICB0_1708_RA5_CA01",
+            "description": "5.1 Caracteritza el model de producció i consum actual.",
+            "source": {
+              "file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx",
+              "paragraph_index": 1691,
+              "confidence": "docx_structural_text"
+            }
+          }
+        },
+        "CA02": {
+          "codi": "CA02",
+          "codi_complet": "ICB0_1708_RA5_CA02",
+          "descripcio": "5.2 Identifica els principis de l'economia verda i circular.",
+          "font": {
+            "file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx",
+            "paragraph_index": 1692,
+            "confidence": "docx_structural_text"
+          },
+          "dades_originals": {
+            "code": "CA02",
+            "code_full": "ICB0_1708_RA5_CA02",
+            "description": "5.2 Identifica els principis de l'economia verda i circular.",
+            "source": {
+              "file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx",
+              "paragraph_index": 1692,
+              "confidence": "docx_structural_text"
+            }
+          }
+        },
+        "CA03": {
+          "codi": "CA03",
+          "codi_complet": "ICB0_1708_RA5_CA03",
+          "descripcio": "5.3 Contrasta els beneficis de l'economia verda i circular enfront del model clàssic de producció.",
+          "font": {
+            "file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx",
+            "paragraph_index": 1693,
+            "confidence": "docx_structural_text"
+          },
+          "dades_originals": {
+            "code": "CA03",
+            "code_full": "ICB0_1708_RA5_CA03",
+            "description": "5.3 Contrasta els beneficis de l'economia verda i circular enfront del model clàssic de producció.",
+            "source": {
+              "file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx",
+              "paragraph_index": 1693,
+              "confidence": "docx_structural_text"
+            }
+          }
+        },
+        "CA04": {
+          "codi": "CA04",
+          "codi_complet": "ICB0_1708_RA5_CA04",
+          "descripcio": "5.4 Avalua l'impacte de les activitats personals i professionals.",
+          "font": {
+            "file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx",
+            "paragraph_index": 1694,
+            "confidence": "docx_structural_text"
+          },
+          "dades_originals": {
+            "code": "CA04",
+            "code_full": "ICB0_1708_RA5_CA04",
+            "description": "5.4 Avalua l'impacte de les activitats personals i professionals.",
+            "source": {
+              "file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx",
+              "paragraph_index": 1694,
+              "confidence": "docx_structural_text"
+            }
+          }
+        },
+        "CA05": {
+          "codi": "CA05",
+          "codi_complet": "ICB0_1708_RA5_CA05",
+          "descripcio": "5.5 Aplica principis d'ecodisseny.",
+          "font": {
+            "file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx",
+            "paragraph_index": 1695,
+            "confidence": "docx_structural_text"
+          },
+          "dades_originals": {
+            "code": "CA05",
+            "code_full": "ICB0_1708_RA5_CA05",
+            "description": "5.5 Aplica principis d'ecodisseny.",
+            "source": {
+              "file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx",
+              "paragraph_index": 1695,
+              "confidence": "docx_structural_text"
+            }
+          }
+        },
+        "CA06": {
+          "codi": "CA06",
+          "codi_complet": "ICB0_1708_RA5_CA06",
+          "descripcio": "5.6 Aplica estratègies sostenibles.",
+          "font": {
+            "file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx",
+            "paragraph_index": 1696,
+            "confidence": "docx_structural_text"
+          },
+          "dades_originals": {
+            "code": "CA06",
+            "code_full": "ICB0_1708_RA5_CA06",
+            "description": "5.6 Aplica estratègies sostenibles.",
+            "source": {
+              "file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx",
+              "paragraph_index": 1696,
+              "confidence": "docx_structural_text"
+            }
+          }
+        },
+        "CA07": {
+          "codi": "CA07",
+          "codi_complet": "ICB0_1708_RA5_CA07",
+          "descripcio": "5.7 Analitza el cicle de vida del producte.",
+          "font": {
+            "file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx",
+            "paragraph_index": 1697,
+            "confidence": "docx_structural_text"
+          },
+          "dades_originals": {
+            "code": "CA07",
+            "code_full": "ICB0_1708_RA5_CA07",
+            "description": "5.7 Analitza el cicle de vida del producte.",
+            "source": {
+              "file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx",
+              "paragraph_index": 1697,
+              "confidence": "docx_structural_text"
+            }
+          }
+        },
+        "CA08": {
+          "codi": "CA08",
+          "codi_complet": "ICB0_1708_RA5_CA08",
+          "descripcio": "5.8 Identifica els processos de producció i els criteris de sostenibilitat aplicats.",
+          "font": {
+            "file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx",
+            "paragraph_index": 1698,
+            "confidence": "docx_structural_text"
+          },
+          "dades_originals": {
+            "code": "CA08",
+            "code_full": "ICB0_1708_RA5_CA08",
+            "description": "5.8 Identifica els processos de producció i els criteris de sostenibilitat aplicats.",
+            "source": {
+              "file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx",
+              "paragraph_index": 1698,
+              "confidence": "docx_structural_text"
+            }
+          }
+        },
+        "CA09": {
+          "codi": "CA09",
+          "codi_complet": "ICB0_1708_RA5_CA09",
+          "descripcio": "5.9 Aplica la normativa ambiental.",
+          "font": {
+            "file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx",
+            "paragraph_index": 1699,
+            "confidence": "docx_structural_text"
+          },
+          "dades_originals": {
+            "code": "CA09",
+            "code_full": "ICB0_1708_RA5_CA09",
+            "description": "5.9 Aplica la normativa ambiental.",
+            "source": {
+              "file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx",
+              "paragraph_index": 1699,
+              "confidence": "docx_structural_text"
+            }
+          }
+        }
+      }
+    },
+    "RA6": {
+      "ordre": 6,
+      "codi": "RA6",
+      "codi_complet": "ICB0_1708_RA6",
+      "descripcio": "Analitza un pla de sostenibilitat d'una empresa del sector, identificant els seus grups d'interès, els aspectes ASG materials i justificant accions per a la seva gestió i mesurament.",
+      "descripcio_curta": "Analitza un pla de sostenibilitat d'una empresa del sector, identificant els seu",
+      "font": {
+        "file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx",
+        "paragraph_index": 1700,
+        "confidence": "docx_structural_text"
+      },
+      "criteris_avaluacio": {
+        "CA01": {
+          "codi": "CA01",
+          "codi_complet": "ICB0_1708_RA6_CA01",
+          "descripcio": "6.1 Identifica els principals grups d'interès de l'empresa.",
+          "font": {
+            "file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx",
+            "paragraph_index": 1702,
+            "confidence": "docx_structural_text"
+          },
+          "dades_originals": {
+            "code": "CA01",
+            "code_full": "ICB0_1708_RA6_CA01",
+            "description": "6.1 Identifica els principals grups d'interès de l'empresa.",
+            "source": {
+              "file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx",
+              "paragraph_index": 1702,
+              "confidence": "docx_structural_text"
+            }
+          }
+        },
+        "CA02": {
+          "codi": "CA02",
+          "codi_complet": "ICB0_1708_RA6_CA02",
+          "descripcio": "6.2 Analitza els aspectes ASG materials, les expectatives dels grups d'interès i la importància dels aspectes ASG en relació amb els objectius empresarials.",
+          "font": {
+            "file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx",
+            "paragraph_index": 1703,
+            "confidence": "docx_structural_text"
+          },
+          "dades_originals": {
+            "code": "CA02",
+            "code_full": "ICB0_1708_RA6_CA02",
+            "description": "6.2 Analitza els aspectes ASG materials, les expectatives dels grups d'interès i la importància dels aspectes ASG en relació amb els objectius empresarials.",
+            "source": {
+              "file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx",
+              "paragraph_index": 1703,
+              "confidence": "docx_structural_text"
+            }
+          }
+        },
+        "CA03": {
+          "codi": "CA03",
+          "codi_complet": "ICB0_1708_RA6_CA03",
+          "descripcio": "6.3 Defineix accions encaminades a minimitzar els impactes negatius i aprofitar les oportunitats que plantegen els principals aspectes ASG identificats.",
+          "font": {
+            "file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx",
+            "paragraph_index": 1704,
+            "confidence": "docx_structural_text"
+          },
+          "dades_originals": {
+            "code": "CA03",
+            "code_full": "ICB0_1708_RA6_CA03",
+            "description": "6.3 Defineix accions encaminades a minimitzar els impactes negatius i aprofitar les oportunitats que plantegen els principals aspectes ASG identificats.",
+            "source": {
+              "file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx",
+              "paragraph_index": 1704,
+              "confidence": "docx_structural_text"
+            }
+          }
+        },
+        "CA04": {
+          "codi": "CA04",
+          "codi_complet": "ICB0_1708_RA6_CA04",
+          "descripcio": "6.4 Determina les mètriques d'avaluació de l'acompliment de l'empresa d'acord amb els estàndards de sostenibilitat més àmpliament utilitzats.",
+          "font": {
+            "file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx",
+            "paragraph_index": 1705,
+            "confidence": "docx_structural_text"
+          },
+          "dades_originals": {
+            "code": "CA04",
+            "code_full": "ICB0_1708_RA6_CA04",
+            "description": "6.4 Determina les mètriques d'avaluació de l'acompliment de l'empresa d'acord amb els estàndards de sostenibilitat més àmpliament utilitzats.",
+            "source": {
+              "file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx",
+              "paragraph_index": 1705,
+              "confidence": "docx_structural_text"
+            }
+          }
+        },
+        "CA05": {
+          "codi": "CA05",
+          "codi_complet": "ICB0_1708_RA6_CA05",
+          "descripcio": "6.5 Elabora un informe de sostenibilitat amb el pla i els indicadors proposats.",
+          "font": {
+            "file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx",
+            "paragraph_index": 1706,
+            "confidence": "docx_structural_text"
+          },
+          "dades_originals": {
+            "code": "CA05",
+            "code_full": "ICB0_1708_RA6_CA05",
+            "description": "6.5 Elabora un informe de sostenibilitat amb el pla i els indicadors proposats.",
+            "source": {
+              "file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx",
+              "paragraph_index": 1706,
+              "confidence": "docx_structural_text"
+            }
+          }
+        }
+      }
+    }
+  },
+  "metadata": {
+    "font": "docs/data",
+    "fitxer_origen": "icb0.json",
+    "estat": "generat",
+    "data_generacio": "2026-07-15T14:28:35.869249+00:00"
+  }
+}

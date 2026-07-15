@@ -1,0 +1,125 @@
+{
+  "api_version": "1.0",
+  "codi": "IC10",
+  "nom": "smx",
+  "num_moduls": 14,
+  "moduls": [
+    {
+      "codi": "0221",
+      "nom": "Muntatge i manteniment d’equips",
+      "hores_total": 231,
+      "te_empresa": true,
+      "num_ra": 8,
+      "url": "../moduls/0221.json"
+    },
+    {
+      "codi": "0222",
+      "nom": "Sistemes operatius monolloc",
+      "hores_total": 132,
+      "te_empresa": true,
+      "num_ra": 5,
+      "url": "../moduls/0222.json"
+    },
+    {
+      "codi": "0223",
+      "nom": "Aplicacions ofimàtiques",
+      "hores_total": 198,
+      "te_empresa": true,
+      "num_ra": 9,
+      "url": "../moduls/0223.json"
+    },
+    {
+      "codi": "0224",
+      "nom": "Sistemes operatius en xarxa",
+      "hores_total": 198,
+      "te_empresa": true,
+      "num_ra": 6,
+      "url": "../moduls/0224.json"
+    },
+    {
+      "codi": "0225",
+      "nom": "Xarxes locals",
+      "hores_total": 198,
+      "te_empresa": true,
+      "num_ra": 6,
+      "url": "../moduls/0225.json"
+    },
+    {
+      "codi": "0226",
+      "nom": "Seguretat informàtica",
+      "hores_total": 132,
+      "te_empresa": true,
+      "num_ra": 5,
+      "url": "../moduls/0226.json"
+    },
+    {
+      "codi": "0227",
+      "nom": "Serveis de xarxa",
+      "hores_total": 198,
+      "te_empresa": false,
+      "num_ra": 8,
+      "url": "../moduls/0227.json"
+    },
+    {
+      "codi": "0228",
+      "nom": "Aplicacions web",
+      "hores_total": 119,
+      "te_empresa": false,
+      "num_ra": 5,
+      "url": "../moduls/0228.json"
+    },
+    {
+      "codi": "0156",
+      "nom": "Anglès Professional",
+      "hores_total": 66,
+      "te_empresa": false,
+      "num_ra": 5,
+      "url": "../moduls/0156.json"
+    },
+    {
+      "codi": "1664",
+      "nom": "Digitalització aplicada als sectors productius",
+      "hores_total": 33,
+      "te_empresa": true,
+      "num_ra": 5,
+      "url": "../moduls/1664.json"
+    },
+    {
+      "codi": "1708",
+      "nom": "Sostenibilitat Aplicada al Sistema Productiu",
+      "hores_total": 33,
+      "te_empresa": true,
+      "num_ra": 6,
+      "url": "../moduls/1708.json"
+    },
+    {
+      "codi": "1709",
+      "nom": "Itinerari personal per a l'ocupabilitat I",
+      "hores_total": 99,
+      "te_empresa": true,
+      "num_ra": 4,
+      "url": "../moduls/1709.json"
+    },
+    {
+      "codi": "1710",
+      "nom": "Itinerari personal per a l'ocupabilitat II",
+      "hores_total": 66,
+      "te_empresa": false,
+      "num_ra": 5,
+      "url": "../moduls/1710.json"
+    },
+    {
+      "codi": "1713",
+      "nom": "Projecte intermodular",
+      "hores_total": 198,
+      "te_empresa": false,
+      "num_ra": 5,
+      "url": "../moduls/1713.json"
+    }
+  ],
+  "metadata": {
+    "font": "docs/data/smx.json",
+    "estat": "generat",
+    "data_generacio": "2026-07-15T14:28:35.869249+00:00"
+  }
+}

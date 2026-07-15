@@ -1,0 +1,894 @@
+{
+  "api_version": "1.0",
+  "codi": "0228",
+  "nom": "Aplicacions web",
+  "cicle": {
+    "codi": "IC10",
+    "nom": "smx"
+  },
+  "hores": {
+    "total": 119
+  },
+  "empresa": {
+    "te_estada": false
+  },
+  "num_ra": 5,
+  "resultats_aprenentatge": {
+    "RA1": {
+      "ordre": 1,
+      "codi": "RA1",
+      "codi_complet": "IC10_0228_RA1",
+      "descripcio": "Instal·la gestors de continguts, identificant-ne les aplicacions i configurant-los segons requeriments.",
+      "descripcio_curta": "Instal·la gestors de continguts, identificant-ne les aplicacions i configurant-l",
+      "font": {
+        "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+        "paragraph_index": 969,
+        "confidence": "docx_structural_text"
+      },
+      "criteris_avaluacio": {
+        "CA01": {
+          "codi": "CA01",
+          "codi_complet": "IC10_0228_RA1_CA01",
+          "descripcio": "Identifica els requeriments necessaris per instal·lar gestors de continguts.",
+          "font": {
+            "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+            "paragraph_index": 971,
+            "confidence": "docx_structural_text"
+          },
+          "dades_originals": {
+            "code": "CA01",
+            "code_full": "IC10_0228_RA1_CA01",
+            "description": "Identifica els requeriments necessaris per instal·lar gestors de continguts.",
+            "source": {
+              "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+              "paragraph_index": 971,
+              "confidence": "docx_structural_text"
+            }
+          }
+        },
+        "CA02": {
+          "codi": "CA02",
+          "codi_complet": "IC10_0228_RA1_CA02",
+          "descripcio": "Gestiona usuaris amb rols diferents.",
+          "font": {
+            "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+            "paragraph_index": 972,
+            "confidence": "docx_structural_text"
+          },
+          "dades_originals": {
+            "code": "CA02",
+            "code_full": "IC10_0228_RA1_CA02",
+            "description": "Gestiona usuaris amb rols diferents.",
+            "source": {
+              "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+              "paragraph_index": 972,
+              "confidence": "docx_structural_text"
+            }
+          }
+        },
+        "CA03": {
+          "codi": "CA03",
+          "codi_complet": "IC10_0228_RA1_CA03",
+          "descripcio": "Personalitza la interfície del gestor de continguts.",
+          "font": {
+            "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+            "paragraph_index": 973,
+            "confidence": "docx_structural_text"
+          },
+          "dades_originals": {
+            "code": "CA03",
+            "code_full": "IC10_0228_RA1_CA03",
+            "description": "Personalitza la interfície del gestor de continguts.",
+            "source": {
+              "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+              "paragraph_index": 973,
+              "confidence": "docx_structural_text"
+            }
+          }
+        },
+        "CA04": {
+          "codi": "CA04",
+          "codi_complet": "IC10_0228_RA1_CA04",
+          "descripcio": "Realitza proves de funcionament.",
+          "font": {
+            "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+            "paragraph_index": 974,
+            "confidence": "docx_structural_text"
+          },
+          "dades_originals": {
+            "code": "CA04",
+            "code_full": "IC10_0228_RA1_CA04",
+            "description": "Realitza proves de funcionament.",
+            "source": {
+              "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+              "paragraph_index": 974,
+              "confidence": "docx_structural_text"
+            }
+          }
+        },
+        "CA05": {
+          "codi": "CA05",
+          "codi_complet": "IC10_0228_RA1_CA05",
+          "descripcio": "Realitza tasques d'actualització del gestor de continguts, especialment les de seguretat.",
+          "font": {
+            "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+            "paragraph_index": 975,
+            "confidence": "docx_structural_text"
+          },
+          "dades_originals": {
+            "code": "CA05",
+            "code_full": "IC10_0228_RA1_CA05",
+            "description": "Realitza tasques d'actualització del gestor de continguts, especialment les de seguretat.",
+            "source": {
+              "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+              "paragraph_index": 975,
+              "confidence": "docx_structural_text"
+            }
+          }
+        },
+        "CA06": {
+          "codi": "CA06",
+          "codi_complet": "IC10_0228_RA1_CA06",
+          "descripcio": "Instal·la i configura els mòduls i menús necessaris.",
+          "font": {
+            "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+            "paragraph_index": 976,
+            "confidence": "docx_structural_text"
+          },
+          "dades_originals": {
+            "code": "CA06",
+            "code_full": "IC10_0228_RA1_CA06",
+            "description": "Instal·la i configura els mòduls i menús necessaris.",
+            "source": {
+              "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+              "paragraph_index": 976,
+              "confidence": "docx_structural_text"
+            }
+          }
+        },
+        "CA07": {
+          "codi": "CA07",
+          "codi_complet": "IC10_0228_RA1_CA07",
+          "descripcio": "Activa i configura els mecanismes de seguretat proporcionats pel propi gestor de continguts.",
+          "font": {
+            "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+            "paragraph_index": 977,
+            "confidence": "docx_structural_text"
+          },
+          "dades_originals": {
+            "code": "CA07",
+            "code_full": "IC10_0228_RA1_CA07",
+            "description": "Activa i configura els mecanismes de seguretat proporcionats pel propi gestor de continguts.",
+            "source": {
+              "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+              "paragraph_index": 977,
+              "confidence": "docx_structural_text"
+            }
+          }
+        },
+        "CA08": {
+          "codi": "CA08",
+          "codi_complet": "IC10_0228_RA1_CA08",
+          "descripcio": "Habilita fòrums i estableix regles d'accés.",
+          "font": {
+            "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+            "paragraph_index": 978,
+            "confidence": "docx_structural_text"
+          },
+          "dades_originals": {
+            "code": "CA08",
+            "code_full": "IC10_0228_RA1_CA08",
+            "description": "Habilita fòrums i estableix regles d'accés.",
+            "source": {
+              "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+              "paragraph_index": 978,
+              "confidence": "docx_structural_text"
+            }
+          }
+        },
+        "CA09": {
+          "codi": "CA09",
+          "codi_complet": "IC10_0228_RA1_CA09",
+          "descripcio": "Realitza proves de funcionament.",
+          "font": {
+            "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+            "paragraph_index": 979,
+            "confidence": "docx_structural_text"
+          },
+          "dades_originals": {
+            "code": "CA09",
+            "code_full": "IC10_0228_RA1_CA09",
+            "description": "Realitza proves de funcionament.",
+            "source": {
+              "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+              "paragraph_index": 979,
+              "confidence": "docx_structural_text"
+            }
+          }
+        },
+        "CA10": {
+          "codi": "CA10",
+          "codi_complet": "IC10_0228_RA1_CA10",
+          "descripcio": "Realitza còpies de seguretat dels continguts del gestor.",
+          "font": {
+            "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+            "paragraph_index": 980,
+            "confidence": "docx_structural_text"
+          },
+          "dades_originals": {
+            "code": "CA10",
+            "code_full": "IC10_0228_RA1_CA10",
+            "description": "Realitza còpies de seguretat dels continguts del gestor.",
+            "source": {
+              "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+              "paragraph_index": 980,
+              "confidence": "docx_structural_text"
+            }
+          }
+        }
+      }
+    },
+    "RA2": {
+      "ordre": 2,
+      "codi": "RA2",
+      "codi_complet": "IC10_0228_RA2",
+      "descripcio": "Instal·la sistemes de gestió d'aprenentatge a distància, descrivint-ne l'estructura del lloc i la jerarquia de directoris generada.",
+      "descripcio_curta": "Instal·la sistemes de gestió d'aprenentatge a distància, descrivint-ne l'estruct",
+      "font": {
+        "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+        "paragraph_index": 981,
+        "confidence": "docx_structural_text"
+      },
+      "criteris_avaluacio": {
+        "CA01": {
+          "codi": "CA01",
+          "codi_complet": "IC10_0228_RA2_CA01",
+          "descripcio": "Reconeix l'estructura del lloc i la jerarquia de directoris generada.",
+          "font": {
+            "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+            "paragraph_index": 985,
+            "confidence": "docx_structural_text"
+          },
+          "dades_originals": {
+            "code": "CA01",
+            "code_full": "IC10_0228_RA2_CA01",
+            "description": "Reconeix l'estructura del lloc i la jerarquia de directoris generada.",
+            "source": {
+              "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+              "paragraph_index": 985,
+              "confidence": "docx_structural_text"
+            }
+          }
+        },
+        "CA02": {
+          "codi": "CA02",
+          "codi_complet": "IC10_0228_RA2_CA02",
+          "descripcio": "Realitza modificacions en l'estètica o aspecte del lloc.",
+          "font": {
+            "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+            "paragraph_index": 986,
+            "confidence": "docx_structural_text"
+          },
+          "dades_originals": {
+            "code": "CA02",
+            "code_full": "IC10_0228_RA2_CA02",
+            "description": "Realitza modificacions en l'estètica o aspecte del lloc.",
+            "source": {
+              "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+              "paragraph_index": 986,
+              "confidence": "docx_structural_text"
+            }
+          }
+        },
+        "CA03": {
+          "codi": "CA03",
+          "codi_complet": "IC10_0228_RA2_CA03",
+          "descripcio": "Manipula i genera perfils personalitzats.",
+          "font": {
+            "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+            "paragraph_index": 987,
+            "confidence": "docx_structural_text"
+          },
+          "dades_originals": {
+            "code": "CA03",
+            "code_full": "IC10_0228_RA2_CA03",
+            "description": "Manipula i genera perfils personalitzats.",
+            "source": {
+              "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+              "paragraph_index": 987,
+              "confidence": "docx_structural_text"
+            }
+          }
+        },
+        "CA04": {
+          "codi": "CA04",
+          "codi_complet": "IC10_0228_RA2_CA04",
+          "descripcio": "Comprova la funcionalitat de les comunicacions mitjançant fòrums, consultes, entre d’altres.",
+          "font": {
+            "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+            "paragraph_index": 988,
+            "confidence": "docx_structural_text"
+          },
+          "dades_originals": {
+            "code": "CA04",
+            "code_full": "IC10_0228_RA2_CA04",
+            "description": "Comprova la funcionalitat de les comunicacions mitjançant fòrums, consultes, entre d’altres.",
+            "source": {
+              "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+              "paragraph_index": 988,
+              "confidence": "docx_structural_text"
+            }
+          }
+        },
+        "CA05": {
+          "codi": "CA05",
+          "codi_complet": "IC10_0228_RA2_CA05",
+          "descripcio": "Importa i exporta continguts en diferents formats.",
+          "font": {
+            "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+            "paragraph_index": 989,
+            "confidence": "docx_structural_text"
+          },
+          "dades_originals": {
+            "code": "CA05",
+            "code_full": "IC10_0228_RA2_CA05",
+            "description": "Importa i exporta continguts en diferents formats.",
+            "source": {
+              "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+              "paragraph_index": 989,
+              "confidence": "docx_structural_text"
+            }
+          }
+        },
+        "CA06": {
+          "codi": "CA06",
+          "codi_complet": "IC10_0228_RA2_CA06",
+          "descripcio": "Realitza còpies de seguretat i restauracions.",
+          "font": {
+            "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+            "paragraph_index": 990,
+            "confidence": "docx_structural_text"
+          },
+          "dades_originals": {
+            "code": "CA06",
+            "code_full": "IC10_0228_RA2_CA06",
+            "description": "Realitza còpies de seguretat i restauracions.",
+            "source": {
+              "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+              "paragraph_index": 990,
+              "confidence": "docx_structural_text"
+            }
+          }
+        },
+        "CA07": {
+          "codi": "CA07",
+          "codi_complet": "IC10_0228_RA2_CA07",
+          "descripcio": "Realitza informes d'accés i utilització del lloc.",
+          "font": {
+            "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+            "paragraph_index": 991,
+            "confidence": "docx_structural_text"
+          },
+          "dades_originals": {
+            "code": "CA07",
+            "code_full": "IC10_0228_RA2_CA07",
+            "description": "Realitza informes d'accés i utilització del lloc.",
+            "source": {
+              "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+              "paragraph_index": 991,
+              "confidence": "docx_structural_text"
+            }
+          }
+        },
+        "CA08": {
+          "codi": "CA08",
+          "codi_complet": "IC10_0228_RA2_CA08",
+          "descripcio": "Comprova la seguretat del lloc.",
+          "font": {
+            "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+            "paragraph_index": 992,
+            "confidence": "docx_structural_text"
+          },
+          "dades_originals": {
+            "code": "CA08",
+            "code_full": "IC10_0228_RA2_CA08",
+            "description": "Comprova la seguretat del lloc.",
+            "source": {
+              "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+              "paragraph_index": 992,
+              "confidence": "docx_structural_text"
+            }
+          }
+        }
+      }
+    },
+    "RA3": {
+      "ordre": 3,
+      "codi": "RA3",
+      "codi_complet": "IC10_0228_RA3",
+      "descripcio": "Instal·la serveis de gestió d'arxius web, identificant-ne les aplicacions i verificant-ne la integritat.",
+      "descripcio_curta": "Instal·la serveis de gestió d'arxius web, identificant-ne les aplicacions i veri",
+      "font": {
+        "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+        "paragraph_index": 993,
+        "confidence": "docx_structural_text"
+      },
+      "criteris_avaluacio": {
+        "CA01": {
+          "codi": "CA01",
+          "codi_complet": "IC10_0228_RA3_CA01",
+          "descripcio": "Estableix la utilitat d'un servei de gestió d'arxius web.",
+          "font": {
+            "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+            "paragraph_index": 1000,
+            "confidence": "docx_structural_text"
+          },
+          "dades_originals": {
+            "code": "CA01",
+            "code_full": "IC10_0228_RA3_CA01",
+            "description": "Estableix la utilitat d'un servei de gestió d'arxius web.",
+            "source": {
+              "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+              "paragraph_index": 1000,
+              "confidence": "docx_structural_text"
+            }
+          }
+        },
+        "CA02": {
+          "codi": "CA02",
+          "codi_complet": "IC10_0228_RA3_CA02",
+          "descripcio": "Descriu diferents aplicacions de gestió d'arxius web.",
+          "font": {
+            "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+            "paragraph_index": 1001,
+            "confidence": "docx_structural_text"
+          },
+          "dades_originals": {
+            "code": "CA02",
+            "code_full": "IC10_0228_RA3_CA02",
+            "description": "Descriu diferents aplicacions de gestió d'arxius web.",
+            "source": {
+              "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+              "paragraph_index": 1001,
+              "confidence": "docx_structural_text"
+            }
+          }
+        },
+        "CA03": {
+          "codi": "CA03",
+          "codi_complet": "IC10_0228_RA3_CA03",
+          "descripcio": "Instal·la i adapta una eina de gestió d'arxius web.",
+          "font": {
+            "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+            "paragraph_index": 1002,
+            "confidence": "docx_structural_text"
+          },
+          "dades_originals": {
+            "code": "CA03",
+            "code_full": "IC10_0228_RA3_CA03",
+            "description": "Instal·la i adapta una eina de gestió d'arxius web.",
+            "source": {
+              "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+              "paragraph_index": 1002,
+              "confidence": "docx_structural_text"
+            }
+          }
+        },
+        "CA04": {
+          "codi": "CA04",
+          "codi_complet": "IC10_0228_RA3_CA04",
+          "descripcio": "Crea i classifica comptes d'usuari en funció dels seus permisos.",
+          "font": {
+            "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+            "paragraph_index": 1003,
+            "confidence": "docx_structural_text"
+          },
+          "dades_originals": {
+            "code": "CA04",
+            "code_full": "IC10_0228_RA3_CA04",
+            "description": "Crea i classifica comptes d'usuari en funció dels seus permisos.",
+            "source": {
+              "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+              "paragraph_index": 1003,
+              "confidence": "docx_structural_text"
+            }
+          }
+        },
+        "CA05": {
+          "codi": "CA05",
+          "codi_complet": "IC10_0228_RA3_CA05",
+          "descripcio": "Gestiona arxius i directoris.",
+          "font": {
+            "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+            "paragraph_index": 1004,
+            "confidence": "docx_structural_text"
+          },
+          "dades_originals": {
+            "code": "CA05",
+            "code_full": "IC10_0228_RA3_CA05",
+            "description": "Gestiona arxius i directoris.",
+            "source": {
+              "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+              "paragraph_index": 1004,
+              "confidence": "docx_structural_text"
+            }
+          }
+        },
+        "CA06": {
+          "codi": "CA06",
+          "codi_complet": "IC10_0228_RA3_CA06",
+          "descripcio": "Utilitza arxius d'informació addicional.",
+          "font": {
+            "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+            "paragraph_index": 1005,
+            "confidence": "docx_structural_text"
+          },
+          "dades_originals": {
+            "code": "CA06",
+            "code_full": "IC10_0228_RA3_CA06",
+            "description": "Utilitza arxius d'informació addicional.",
+            "source": {
+              "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+              "paragraph_index": 1005,
+              "confidence": "docx_structural_text"
+            }
+          }
+        },
+        "CA07": {
+          "codi": "CA07",
+          "codi_complet": "IC10_0228_RA3_CA07",
+          "descripcio": "Aplica criteris d'indexació sobre els arxius i directoris.",
+          "font": {
+            "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+            "paragraph_index": 1006,
+            "confidence": "docx_structural_text"
+          },
+          "dades_originals": {
+            "code": "CA07",
+            "code_full": "IC10_0228_RA3_CA07",
+            "description": "Aplica criteris d'indexació sobre els arxius i directoris.",
+            "source": {
+              "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+              "paragraph_index": 1006,
+              "confidence": "docx_structural_text"
+            }
+          }
+        },
+        "CA08": {
+          "codi": "CA08",
+          "codi_complet": "IC10_0228_RA3_CA08",
+          "descripcio": "Comprova la seguretat del gestor d'arxius.",
+          "font": {
+            "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+            "paragraph_index": 1007,
+            "confidence": "docx_structural_text"
+          },
+          "dades_originals": {
+            "code": "CA08",
+            "code_full": "IC10_0228_RA3_CA08",
+            "description": "Comprova la seguretat del gestor d'arxius.",
+            "source": {
+              "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+              "paragraph_index": 1007,
+              "confidence": "docx_structural_text"
+            }
+          }
+        }
+      }
+    },
+    "RA4": {
+      "ordre": 4,
+      "codi": "RA4",
+      "codi_complet": "IC10_0228_RA4",
+      "descripcio": "Instal·la aplicacions d'ofimàtica web, descrivint-ne les característiques i entorns d'ús.",
+      "descripcio_curta": "Instal·la aplicacions d'ofimàtica web, descrivint-ne les característiques i ento",
+      "font": {
+        "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+        "paragraph_index": 1008,
+        "confidence": "docx_structural_text"
+      },
+      "criteris_avaluacio": {
+        "CA01": {
+          "codi": "CA01",
+          "codi_complet": "IC10_0228_RA4_CA01",
+          "descripcio": "Estableix la utilitat de les aplicacions d'ofimàtica web.",
+          "font": {
+            "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+            "paragraph_index": 1013,
+            "confidence": "docx_structural_text"
+          },
+          "dades_originals": {
+            "code": "CA01",
+            "code_full": "IC10_0228_RA4_CA01",
+            "description": "Estableix la utilitat de les aplicacions d'ofimàtica web.",
+            "source": {
+              "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+              "paragraph_index": 1013,
+              "confidence": "docx_structural_text"
+            }
+          }
+        },
+        "CA02": {
+          "codi": "CA02",
+          "codi_complet": "IC10_0228_RA4_CA02",
+          "descripcio": "Descriu diferents aplicacions d'ofimàtica web (processador de textos, full de càlcul, entre altres).",
+          "font": {
+            "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+            "paragraph_index": 1014,
+            "confidence": "docx_structural_text"
+          },
+          "dades_originals": {
+            "code": "CA02",
+            "code_full": "IC10_0228_RA4_CA02",
+            "description": "Descriu diferents aplicacions d'ofimàtica web (processador de textos, full de càlcul, entre altres).",
+            "source": {
+              "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+              "paragraph_index": 1014,
+              "confidence": "docx_structural_text"
+            }
+          }
+        },
+        "CA03": {
+          "codi": "CA03",
+          "codi_complet": "IC10_0228_RA4_CA03",
+          "descripcio": "Instal·la aplicacions d'ofimàtica web.",
+          "font": {
+            "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+            "paragraph_index": 1015,
+            "confidence": "docx_structural_text"
+          },
+          "dades_originals": {
+            "code": "CA03",
+            "code_full": "IC10_0228_RA4_CA03",
+            "description": "Instal·la aplicacions d'ofimàtica web.",
+            "source": {
+              "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+              "paragraph_index": 1015,
+              "confidence": "docx_structural_text"
+            }
+          }
+        },
+        "CA04": {
+          "codi": "CA04",
+          "codi_complet": "IC10_0228_RA4_CA04",
+          "descripcio": "Gestiona els comptes d'usuari.",
+          "font": {
+            "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+            "paragraph_index": 1016,
+            "confidence": "docx_structural_text"
+          },
+          "dades_originals": {
+            "code": "CA04",
+            "code_full": "IC10_0228_RA4_CA04",
+            "description": "Gestiona els comptes d'usuari.",
+            "source": {
+              "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+              "paragraph_index": 1016,
+              "confidence": "docx_structural_text"
+            }
+          }
+        },
+        "CA05": {
+          "codi": "CA05",
+          "codi_complet": "IC10_0228_RA4_CA05",
+          "descripcio": "Aplica criteris de seguretat en l'accés dels usuaris.",
+          "font": {
+            "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+            "paragraph_index": 1017,
+            "confidence": "docx_structural_text"
+          },
+          "dades_originals": {
+            "code": "CA05",
+            "code_full": "IC10_0228_RA4_CA05",
+            "description": "Aplica criteris de seguretat en l'accés dels usuaris.",
+            "source": {
+              "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+              "paragraph_index": 1017,
+              "confidence": "docx_structural_text"
+            }
+          }
+        },
+        "CA06": {
+          "codi": "CA06",
+          "codi_complet": "IC10_0228_RA4_CA06",
+          "descripcio": "Reconeix les prestacions específiques de cadascuna de les aplicacions instal·lades.",
+          "font": {
+            "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+            "paragraph_index": 1018,
+            "confidence": "docx_structural_text"
+          },
+          "dades_originals": {
+            "code": "CA06",
+            "code_full": "IC10_0228_RA4_CA06",
+            "description": "Reconeix les prestacions específiques de cadascuna de les aplicacions instal·lades.",
+            "source": {
+              "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+              "paragraph_index": 1018,
+              "confidence": "docx_structural_text"
+            }
+          }
+        },
+        "CA07": {
+          "codi": "CA07",
+          "codi_complet": "IC10_0228_RA4_CA07",
+          "descripcio": "Utilitza les aplicacions de forma col·laborativa.",
+          "font": {
+            "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+            "paragraph_index": 1019,
+            "confidence": "docx_structural_text"
+          },
+          "dades_originals": {
+            "code": "CA07",
+            "code_full": "IC10_0228_RA4_CA07",
+            "description": "Utilitza les aplicacions de forma col·laborativa.",
+            "source": {
+              "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+              "paragraph_index": 1019,
+              "confidence": "docx_structural_text"
+            }
+          }
+        }
+      }
+    },
+    "RA5": {
+      "ordre": 5,
+      "codi": "RA5",
+      "codi_complet": "IC10_0228_RA5",
+      "descripcio": "Instal·la aplicacions web d'escriptori, descrivint-ne les característiques i entorns d'ús.",
+      "descripcio_curta": "Instal·la aplicacions web d'escriptori, descrivint-ne les característiques i ent",
+      "font": {
+        "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+        "paragraph_index": 1020,
+        "confidence": "docx_structural_text"
+      },
+      "criteris_avaluacio": {
+        "CA01": {
+          "codi": "CA01",
+          "codi_complet": "IC10_0228_RA5_CA01",
+          "descripcio": "Descriu diferents aplicacions web d'escriptori.",
+          "font": {
+            "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+            "paragraph_index": 1025,
+            "confidence": "docx_structural_text"
+          },
+          "dades_originals": {
+            "code": "CA01",
+            "code_full": "IC10_0228_RA5_CA01",
+            "description": "Descriu diferents aplicacions web d'escriptori.",
+            "source": {
+              "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+              "paragraph_index": 1025,
+              "confidence": "docx_structural_text"
+            }
+          }
+        },
+        "CA02": {
+          "codi": "CA02",
+          "codi_complet": "IC10_0228_RA5_CA02",
+          "descripcio": "Instal·la aplicacions per a proveir d'accés web al servei de correu electrònic.",
+          "font": {
+            "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+            "paragraph_index": 1026,
+            "confidence": "docx_structural_text"
+          },
+          "dades_originals": {
+            "code": "CA02",
+            "code_full": "IC10_0228_RA5_CA02",
+            "description": "Instal·la aplicacions per a proveir d'accés web al servei de correu electrònic.",
+            "source": {
+              "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+              "paragraph_index": 1026,
+              "confidence": "docx_structural_text"
+            }
+          }
+        },
+        "CA03": {
+          "codi": "CA03",
+          "codi_complet": "IC10_0228_RA5_CA03",
+          "descripcio": "Configura les aplicacions per a integrar-les amb un servidor de correu.",
+          "font": {
+            "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+            "paragraph_index": 1027,
+            "confidence": "docx_structural_text"
+          },
+          "dades_originals": {
+            "code": "CA03",
+            "code_full": "IC10_0228_RA5_CA03",
+            "description": "Configura les aplicacions per a integrar-les amb un servidor de correu.",
+            "source": {
+              "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+              "paragraph_index": 1027,
+              "confidence": "docx_structural_text"
+            }
+          }
+        },
+        "CA04": {
+          "codi": "CA04",
+          "codi_complet": "IC10_0228_RA5_CA04",
+          "descripcio": "Gestiona els comptes d'usuari.",
+          "font": {
+            "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+            "paragraph_index": 1028,
+            "confidence": "docx_structural_text"
+          },
+          "dades_originals": {
+            "code": "CA04",
+            "code_full": "IC10_0228_RA5_CA04",
+            "description": "Gestiona els comptes d'usuari.",
+            "source": {
+              "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+              "paragraph_index": 1028,
+              "confidence": "docx_structural_text"
+            }
+          }
+        },
+        "CA05": {
+          "codi": "CA05",
+          "codi_complet": "IC10_0228_RA5_CA05",
+          "descripcio": "Verifica l'accés al correu electrònic.",
+          "font": {
+            "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+            "paragraph_index": 1029,
+            "confidence": "docx_structural_text"
+          },
+          "dades_originals": {
+            "code": "CA05",
+            "code_full": "IC10_0228_RA5_CA05",
+            "description": "Verifica l'accés al correu electrònic.",
+            "source": {
+              "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+              "paragraph_index": 1029,
+              "confidence": "docx_structural_text"
+            }
+          }
+        },
+        "CA06": {
+          "codi": "CA06",
+          "codi_complet": "IC10_0228_RA5_CA06",
+          "descripcio": "Instal·la aplicacions de calendari web.",
+          "font": {
+            "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+            "paragraph_index": 1030,
+            "confidence": "docx_structural_text"
+          },
+          "dades_originals": {
+            "code": "CA06",
+            "code_full": "IC10_0228_RA5_CA06",
+            "description": "Instal·la aplicacions de calendari web.",
+            "source": {
+              "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+              "paragraph_index": 1030,
+              "confidence": "docx_structural_text"
+            }
+          }
+        },
+        "CA07": {
+          "codi": "CA07",
+          "codi_complet": "IC10_0228_RA5_CA07",
+          "descripcio": "Reconeix les prestacions específiques de les aplicacions instal·lades (cites, tasques, entre altres).",
+          "font": {
+            "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+            "paragraph_index": 1031,
+            "confidence": "docx_structural_text"
+          },
+          "dades_originals": {
+            "code": "CA07",
+            "code_full": "IC10_0228_RA5_CA07",
+            "description": "Reconeix les prestacions específiques de les aplicacions instal·lades (cites, tasques, entre altres).",
+            "source": {
+              "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+              "paragraph_index": 1031,
+              "confidence": "docx_structural_text"
+            }
+          }
+        }
+      }
+    }
+  },
+  "metadata": {
+    "font": "docs/data",
+    "fitxer_origen": "ic10.json",
+    "estat": "generat",
+    "data_generacio": "2026-07-15T14:28:35.869249+00:00"
+  }
+}

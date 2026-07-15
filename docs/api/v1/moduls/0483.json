@@ -1,0 +1,1202 @@
+{
+  "api_version": "1.0",
+  "codi": "0483",
+  "nom": "Sistemes informàtics",
+  "cicle": {
+    "codi": "ICB0",
+    "nom": "dam"
+  },
+  "hores": {
+    "total": 165
+  },
+  "empresa": {
+    "te_estada": true
+  },
+  "num_ra": 7,
+  "resultats_aprenentatge": {
+    "RA1": {
+      "ordre": 1,
+      "codi": "RA1",
+      "codi_complet": "ICB0_0483_RA1",
+      "descripcio": "Avalua sistemes informàtics, identificant els seus components i característiques",
+      "descripcio_curta": "Avalua sistemes informàtics, identificant els seus components i característiques",
+      "font": {
+        "file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx",
+        "paragraph_index": 223,
+        "confidence": "docx_structural_text"
+      },
+      "criteris_avaluacio": {
+        "CA01": {
+          "codi": "CA01",
+          "codi_complet": "ICB0_0483_RA1_CA01",
+          "descripcio": "Reconeix els components físics d'un sistema informàtic i els seus mecanismes d'interconnexió.",
+          "font": {
+            "file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx",
+            "paragraph_index": 225,
+            "confidence": "docx_structural_text"
+          },
+          "dades_originals": {
+            "code": "CA01",
+            "code_full": "ICB0_0483_RA1_CA01",
+            "description": "Reconeix els components físics d'un sistema informàtic i els seus mecanismes d'interconnexió.",
+            "source": {
+              "file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx",
+              "paragraph_index": 225,
+              "confidence": "docx_structural_text"
+            }
+          }
+        },
+        "CA02": {
+          "codi": "CA02",
+          "codi_complet": "ICB0_0483_RA1_CA02",
+          "descripcio": "Classifica els tipus de memòries, assenyalant les seves característiques i identificant les seves prestacions i la funció que desenvolupen en el conjunt del sistema.",
+          "font": {
+            "file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx",
+            "paragraph_index": 226,
+            "confidence": "docx_structural_text"
+          },
+          "dades_originals": {
+            "code": "CA02",
+            "code_full": "ICB0_0483_RA1_CA02",
+            "description": "Classifica els tipus de memòries, assenyalant les seves característiques i identificant les seves prestacions i la funció que desenvolupen en el conjunt del sistema.",
+            "source": {
+              "file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx",
+              "paragraph_index": 226,
+              "confidence": "docx_structural_text"
+            }
+          }
+        },
+        "CA03": {
+          "codi": "CA03",
+          "codi_complet": "ICB0_0483_RA1_CA03",
+          "descripcio": "Verifica el procés de posada en marxa d'un equip.",
+          "font": {
+            "file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx",
+            "paragraph_index": 227,
+            "confidence": "docx_structural_text"
+          },
+          "dades_originals": {
+            "code": "CA03",
+            "code_full": "ICB0_0483_RA1_CA03",
+            "description": "Verifica el procés de posada en marxa d'un equip.",
+            "source": {
+              "file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx",
+              "paragraph_index": 227,
+              "confidence": "docx_structural_text"
+            }
+          }
+        },
+        "CA04": {
+          "codi": "CA04",
+          "codi_complet": "ICB0_0483_RA1_CA04",
+          "descripcio": "Classifica, instal·lat i configurat diferents tipus de dispositius perifèrics.",
+          "font": {
+            "file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx",
+            "paragraph_index": 228,
+            "confidence": "docx_structural_text"
+          },
+          "dades_originals": {
+            "code": "CA04",
+            "code_full": "ICB0_0483_RA1_CA04",
+            "description": "Classifica, instal·lat i configurat diferents tipus de dispositius perifèrics.",
+            "source": {
+              "file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx",
+              "paragraph_index": 228,
+              "confidence": "docx_structural_text"
+            }
+          }
+        },
+        "CA05": {
+          "codi": "CA05",
+          "codi_complet": "ICB0_0483_RA1_CA05",
+          "descripcio": "Identifica els tipus de xarxes i sistemes de comunicació.",
+          "font": {
+            "file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx",
+            "paragraph_index": 229,
+            "confidence": "docx_structural_text"
+          },
+          "dades_originals": {
+            "code": "CA05",
+            "code_full": "ICB0_0483_RA1_CA05",
+            "description": "Identifica els tipus de xarxes i sistemes de comunicació.",
+            "source": {
+              "file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx",
+              "paragraph_index": 229,
+              "confidence": "docx_structural_text"
+            }
+          }
+        },
+        "CA06": {
+          "codi": "CA06",
+          "codi_complet": "ICB0_0483_RA1_CA06",
+          "descripcio": "Identifica els components d'una xarxa informàtica.",
+          "font": {
+            "file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx",
+            "paragraph_index": 230,
+            "confidence": "docx_structural_text"
+          },
+          "dades_originals": {
+            "code": "CA06",
+            "code_full": "ICB0_0483_RA1_CA06",
+            "description": "Identifica els components d'una xarxa informàtica.",
+            "source": {
+              "file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx",
+              "paragraph_index": 230,
+              "confidence": "docx_structural_text"
+            }
+          }
+        },
+        "CA07": {
+          "codi": "CA07",
+          "codi_complet": "ICB0_0483_RA1_CA07",
+          "descripcio": "Interpreta mapes físics i lògics d'una xarxa informàtica.",
+          "font": {
+            "file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx",
+            "paragraph_index": 231,
+            "confidence": "docx_structural_text"
+          },
+          "dades_originals": {
+            "code": "CA07",
+            "code_full": "ICB0_0483_RA1_CA07",
+            "description": "Interpreta mapes físics i lògics d'una xarxa informàtica.",
+            "source": {
+              "file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx",
+              "paragraph_index": 231,
+              "confidence": "docx_structural_text"
+            }
+          }
+        },
+        "CA08": {
+          "codi": "CA08",
+          "codi_complet": "ICB0_0483_RA1_CA08",
+          "descripcio": "Reconeix les normes de seguretat i prevenció de riscos laborals en l'ús dels sistemes informàtics.",
+          "font": {
+            "file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx",
+            "paragraph_index": 232,
+            "confidence": "docx_structural_text"
+          },
+          "dades_originals": {
+            "code": "CA08",
+            "code_full": "ICB0_0483_RA1_CA08",
+            "description": "Reconeix les normes de seguretat i prevenció de riscos laborals en l'ús dels sistemes informàtics.",
+            "source": {
+              "file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx",
+              "paragraph_index": 232,
+              "confidence": "docx_structural_text"
+            }
+          }
+        }
+      }
+    },
+    "RA2": {
+      "ordre": 2,
+      "codi": "RA2",
+      "codi_complet": "ICB0_0483_RA2",
+      "descripcio": "Instal·la sistemes operatius planificant el procés i interpretant documentació tècnica.",
+      "descripcio_curta": "Instal·la sistemes operatius planificant el procés i interpretant documentació t",
+      "font": {
+        "file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx",
+        "paragraph_index": 233,
+        "confidence": "docx_structural_text"
+      },
+      "criteris_avaluacio": {
+        "CA01": {
+          "codi": "CA01",
+          "codi_complet": "ICB0_0483_RA2_CA01",
+          "descripcio": "Identifica els elements funcionals d'un sistema informàtic.",
+          "font": {
+            "file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx",
+            "paragraph_index": 235,
+            "confidence": "docx_structural_text"
+          },
+          "dades_originals": {
+            "code": "CA01",
+            "code_full": "ICB0_0483_RA2_CA01",
+            "description": "Identifica els elements funcionals d'un sistema informàtic.",
+            "source": {
+              "file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx",
+              "paragraph_index": 235,
+              "confidence": "docx_structural_text"
+            }
+          }
+        },
+        "CA02": {
+          "codi": "CA02",
+          "codi_complet": "ICB0_0483_RA2_CA02",
+          "descripcio": "Analitza les característiques, funcions i arquitectura d'un sistema operatiu.",
+          "font": {
+            "file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx",
+            "paragraph_index": 236,
+            "confidence": "docx_structural_text"
+          },
+          "dades_originals": {
+            "code": "CA02",
+            "code_full": "ICB0_0483_RA2_CA02",
+            "description": "Analitza les característiques, funcions i arquitectura d'un sistema operatiu.",
+            "source": {
+              "file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx",
+              "paragraph_index": 236,
+              "confidence": "docx_structural_text"
+            }
+          }
+        },
+        "CA03": {
+          "codi": "CA03",
+          "codi_complet": "ICB0_0483_RA2_CA03",
+          "descripcio": "Compara sistemes operatius segons els seus requisits, característiques, camps d'aplicació i llicències d'ús.",
+          "font": {
+            "file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx",
+            "paragraph_index": 237,
+            "confidence": "docx_structural_text"
+          },
+          "dades_originals": {
+            "code": "CA03",
+            "code_full": "ICB0_0483_RA2_CA03",
+            "description": "Compara sistemes operatius segons els seus requisits, característiques, camps d'aplicació i llicències d'ús.",
+            "source": {
+              "file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx",
+              "paragraph_index": 237,
+              "confidence": "docx_structural_text"
+            }
+          }
+        },
+        "CA04": {
+          "codi": "CA04",
+          "codi_complet": "ICB0_0483_RA2_CA04",
+          "descripcio": "Planifica el procés d'instal·lació de sistemes operatius.",
+          "font": {
+            "file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx",
+            "paragraph_index": 238,
+            "confidence": "docx_structural_text"
+          },
+          "dades_originals": {
+            "code": "CA04",
+            "code_full": "ICB0_0483_RA2_CA04",
+            "description": "Planifica el procés d'instal·lació de sistemes operatius.",
+            "source": {
+              "file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx",
+              "paragraph_index": 238,
+              "confidence": "docx_structural_text"
+            }
+          }
+        },
+        "CA05": {
+          "codi": "CA05",
+          "codi_complet": "ICB0_0483_RA2_CA05",
+          "descripcio": "Instal·la i actualitza sistemes operatius lliures i propietaris.",
+          "font": {
+            "file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx",
+            "paragraph_index": 239,
+            "confidence": "docx_structural_text"
+          },
+          "dades_originals": {
+            "code": "CA05",
+            "code_full": "ICB0_0483_RA2_CA05",
+            "description": "Instal·la i actualitza sistemes operatius lliures i propietaris.",
+            "source": {
+              "file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx",
+              "paragraph_index": 239,
+              "confidence": "docx_structural_text"
+            }
+          }
+        },
+        "CA06": {
+          "codi": "CA06",
+          "codi_complet": "ICB0_0483_RA2_CA06",
+          "descripcio": "Aplica tècniques d'actualització i recuperació del sistema.",
+          "font": {
+            "file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx",
+            "paragraph_index": 240,
+            "confidence": "docx_structural_text"
+          },
+          "dades_originals": {
+            "code": "CA06",
+            "code_full": "ICB0_0483_RA2_CA06",
+            "description": "Aplica tècniques d'actualització i recuperació del sistema.",
+            "source": {
+              "file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx",
+              "paragraph_index": 240,
+              "confidence": "docx_structural_text"
+            }
+          }
+        },
+        "CA07": {
+          "codi": "CA07",
+          "codi_complet": "ICB0_0483_RA2_CA07",
+          "descripcio": "Utilitza tecnologies de virtualització per a instal·lar i provar sistemes operatius.",
+          "font": {
+            "file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx",
+            "paragraph_index": 241,
+            "confidence": "docx_structural_text"
+          },
+          "dades_originals": {
+            "code": "CA07",
+            "code_full": "ICB0_0483_RA2_CA07",
+            "description": "Utilitza tecnologies de virtualització per a instal·lar i provar sistemes operatius.",
+            "source": {
+              "file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx",
+              "paragraph_index": 241,
+              "confidence": "docx_structural_text"
+            }
+          }
+        },
+        "CA08": {
+          "codi": "CA08",
+          "codi_complet": "ICB0_0483_RA2_CA08",
+          "descripcio": "Instal·la, desinstal·la i actualitza aplicacions.",
+          "font": {
+            "file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx",
+            "paragraph_index": 242,
+            "confidence": "docx_structural_text"
+          },
+          "dades_originals": {
+            "code": "CA08",
+            "code_full": "ICB0_0483_RA2_CA08",
+            "description": "Instal·la, desinstal·la i actualitza aplicacions.",
+            "source": {
+              "file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx",
+              "paragraph_index": 242,
+              "confidence": "docx_structural_text"
+            }
+          }
+        },
+        "CA09": {
+          "codi": "CA09",
+          "codi_complet": "ICB0_0483_RA2_CA09",
+          "descripcio": "Documenta els processos realitzats.",
+          "font": {
+            "file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx",
+            "paragraph_index": 243,
+            "confidence": "docx_structural_text"
+          },
+          "dades_originals": {
+            "code": "CA09",
+            "code_full": "ICB0_0483_RA2_CA09",
+            "description": "Documenta els processos realitzats.",
+            "source": {
+              "file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx",
+              "paragraph_index": 243,
+              "confidence": "docx_structural_text"
+            }
+          }
+        }
+      }
+    },
+    "RA3": {
+      "ordre": 3,
+      "codi": "RA3",
+      "codi_complet": "ICB0_0483_RA3",
+      "descripcio": "Gestiona la informació del sistema identificant les estructures d'emmagatzematge i aplicant mesures per assegurar la integritat de les dades.",
+      "descripcio_curta": "Gestiona la informació del sistema identificant les estructures d'emmagatzematge",
+      "font": {
+        "file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx",
+        "paragraph_index": 244,
+        "confidence": "docx_structural_text"
+      },
+      "criteris_avaluacio": {
+        "CA01": {
+          "codi": "CA01",
+          "codi_complet": "ICB0_0483_RA3_CA01",
+          "descripcio": "Compara sistemes de fitxers.",
+          "font": {
+            "file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx",
+            "paragraph_index": 246,
+            "confidence": "docx_structural_text"
+          },
+          "dades_originals": {
+            "code": "CA01",
+            "code_full": "ICB0_0483_RA3_CA01",
+            "description": "Compara sistemes de fitxers.",
+            "source": {
+              "file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx",
+              "paragraph_index": 246,
+              "confidence": "docx_structural_text"
+            }
+          }
+        },
+        "CA02": {
+          "codi": "CA02",
+          "codi_complet": "ICB0_0483_RA3_CA02",
+          "descripcio": "Identifica l'estructura i funció dels directoris del sistema operatiu.",
+          "font": {
+            "file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx",
+            "paragraph_index": 247,
+            "confidence": "docx_structural_text"
+          },
+          "dades_originals": {
+            "code": "CA02",
+            "code_full": "ICB0_0483_RA3_CA02",
+            "description": "Identifica l'estructura i funció dels directoris del sistema operatiu.",
+            "source": {
+              "file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx",
+              "paragraph_index": 247,
+              "confidence": "docx_structural_text"
+            }
+          }
+        },
+        "CA03": {
+          "codi": "CA03",
+          "codi_complet": "ICB0_0483_RA3_CA03",
+          "descripcio": "Utilitza eines en entorn gràfic i comandes per localitzar informació en el sistema de fitxers.",
+          "font": {
+            "file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx",
+            "paragraph_index": 248,
+            "confidence": "docx_structural_text"
+          },
+          "dades_originals": {
+            "code": "CA03",
+            "code_full": "ICB0_0483_RA3_CA03",
+            "description": "Utilitza eines en entorn gràfic i comandes per localitzar informació en el sistema de fitxers.",
+            "source": {
+              "file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx",
+              "paragraph_index": 248,
+              "confidence": "docx_structural_text"
+            }
+          }
+        },
+        "CA04": {
+          "codi": "CA04",
+          "codi_complet": "ICB0_0483_RA3_CA04",
+          "descripcio": "Crea diferents tipus de particions i unitats lògiques.",
+          "font": {
+            "file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx",
+            "paragraph_index": 249,
+            "confidence": "docx_structural_text"
+          },
+          "dades_originals": {
+            "code": "CA04",
+            "code_full": "ICB0_0483_RA3_CA04",
+            "description": "Crea diferents tipus de particions i unitats lògiques.",
+            "source": {
+              "file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx",
+              "paragraph_index": 249,
+              "confidence": "docx_structural_text"
+            }
+          }
+        },
+        "CA05": {
+          "codi": "CA05",
+          "codi_complet": "ICB0_0483_RA3_CA05",
+          "descripcio": "Realitza i restaura còpies de seguretat.",
+          "font": {
+            "file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx",
+            "paragraph_index": 250,
+            "confidence": "docx_structural_text"
+          },
+          "dades_originals": {
+            "code": "CA05",
+            "code_full": "ICB0_0483_RA3_CA05",
+            "description": "Realitza i restaura còpies de seguretat.",
+            "source": {
+              "file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx",
+              "paragraph_index": 250,
+              "confidence": "docx_structural_text"
+            }
+          }
+        },
+        "CA06": {
+          "codi": "CA06",
+          "codi_complet": "ICB0_0483_RA3_CA06",
+          "descripcio": "Planifica i automatitza tasques.",
+          "font": {
+            "file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx",
+            "paragraph_index": 251,
+            "confidence": "docx_structural_text"
+          },
+          "dades_originals": {
+            "code": "CA06",
+            "code_full": "ICB0_0483_RA3_CA06",
+            "description": "Planifica i automatitza tasques.",
+            "source": {
+              "file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx",
+              "paragraph_index": 251,
+              "confidence": "docx_structural_text"
+            }
+          }
+        },
+        "CA07": {
+          "codi": "CA07",
+          "codi_complet": "ICB0_0483_RA3_CA07",
+          "descripcio": "Instal·la i avalua utilitats relacionades amb la gestió d'informació.",
+          "font": {
+            "file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx",
+            "paragraph_index": 252,
+            "confidence": "docx_structural_text"
+          },
+          "dades_originals": {
+            "code": "CA07",
+            "code_full": "ICB0_0483_RA3_CA07",
+            "description": "Instal·la i avalua utilitats relacionades amb la gestió d'informació.",
+            "source": {
+              "file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx",
+              "paragraph_index": 252,
+              "confidence": "docx_structural_text"
+            }
+          }
+        }
+      }
+    },
+    "RA4": {
+      "ordre": 4,
+      "codi": "RA4",
+      "codi_complet": "ICB0_0483_RA4",
+      "descripcio": "Gestiona sistemes operatius utilitzant comandes i eines gràfiques i avaluant les necessitats del sistema.",
+      "descripcio_curta": "Gestiona sistemes operatius utilitzant comandes i eines gràfiques i avaluant les",
+      "font": {
+        "file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx",
+        "paragraph_index": 253,
+        "confidence": "docx_structural_text"
+      },
+      "criteris_avaluacio": {
+        "CA01": {
+          "codi": "CA01",
+          "codi_complet": "ICB0_0483_RA4_CA01",
+          "descripcio": "Configura comptes d'usuaris locals i grups.",
+          "font": {
+            "file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx",
+            "paragraph_index": 255,
+            "confidence": "docx_structural_text"
+          },
+          "dades_originals": {
+            "code": "CA01",
+            "code_full": "ICB0_0483_RA4_CA01",
+            "description": "Configura comptes d'usuaris locals i grups.",
+            "source": {
+              "file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx",
+              "paragraph_index": 255,
+              "confidence": "docx_structural_text"
+            }
+          }
+        },
+        "CA02": {
+          "codi": "CA02",
+          "codi_complet": "ICB0_0483_RA4_CA02",
+          "descripcio": "Assegura l'accés al sistema mitjançant l'ús de directives de compte i les directives de contrasenyes.",
+          "font": {
+            "file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx",
+            "paragraph_index": 256,
+            "confidence": "docx_structural_text"
+          },
+          "dades_originals": {
+            "code": "CA02",
+            "code_full": "ICB0_0483_RA4_CA02",
+            "description": "Assegura l'accés al sistema mitjançant l'ús de directives de compte i les directives de contrasenyes.",
+            "source": {
+              "file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx",
+              "paragraph_index": 256,
+              "confidence": "docx_structural_text"
+            }
+          }
+        },
+        "CA03": {
+          "codi": "CA03",
+          "codi_complet": "ICB0_0483_RA4_CA03",
+          "descripcio": "Identifica, engega i atura serveis i processos.",
+          "font": {
+            "file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx",
+            "paragraph_index": 257,
+            "confidence": "docx_structural_text"
+          },
+          "dades_originals": {
+            "code": "CA03",
+            "code_full": "ICB0_0483_RA4_CA03",
+            "description": "Identifica, engega i atura serveis i processos.",
+            "source": {
+              "file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx",
+              "paragraph_index": 257,
+              "confidence": "docx_structural_text"
+            }
+          }
+        },
+        "CA04": {
+          "codi": "CA04",
+          "codi_complet": "ICB0_0483_RA4_CA04",
+          "descripcio": "Protegeix l'accés a la informació mitjançant l'ús de permisos locals i les llistes de control d'accés.",
+          "font": {
+            "file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx",
+            "paragraph_index": 258,
+            "confidence": "docx_structural_text"
+          },
+          "dades_originals": {
+            "code": "CA04",
+            "code_full": "ICB0_0483_RA4_CA04",
+            "description": "Protegeix l'accés a la informació mitjançant l'ús de permisos locals i les llistes de control d'accés.",
+            "source": {
+              "file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx",
+              "paragraph_index": 258,
+              "confidence": "docx_structural_text"
+            }
+          }
+        },
+        "CA05": {
+          "codi": "CA05",
+          "codi_complet": "ICB0_0483_RA4_CA05",
+          "descripcio": "Utilitza comandes per dur a terme les tasques bàsiques de configuració i administració del sistema.",
+          "font": {
+            "file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx",
+            "paragraph_index": 259,
+            "confidence": "docx_structural_text"
+          },
+          "dades_originals": {
+            "code": "CA05",
+            "code_full": "ICB0_0483_RA4_CA05",
+            "description": "Utilitza comandes per dur a terme les tasques bàsiques de configuració i administració del sistema.",
+            "source": {
+              "file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx",
+              "paragraph_index": 259,
+              "confidence": "docx_structural_text"
+            }
+          }
+        },
+        "CA06": {
+          "codi": "CA06",
+          "codi_complet": "ICB0_0483_RA4_CA06",
+          "descripcio": "Monitoritza el sistema.",
+          "font": {
+            "file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx",
+            "paragraph_index": 260,
+            "confidence": "docx_structural_text"
+          },
+          "dades_originals": {
+            "code": "CA06",
+            "code_full": "ICB0_0483_RA4_CA06",
+            "description": "Monitoritza el sistema.",
+            "source": {
+              "file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx",
+              "paragraph_index": 260,
+              "confidence": "docx_structural_text"
+            }
+          }
+        },
+        "CA07": {
+          "codi": "CA07",
+          "codi_complet": "ICB0_0483_RA4_CA07",
+          "descripcio": "Instal·la i avalua utilitats per al manteniment i optimització del sistema.",
+          "font": {
+            "file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx",
+            "paragraph_index": 261,
+            "confidence": "docx_structural_text"
+          },
+          "dades_originals": {
+            "code": "CA07",
+            "code_full": "ICB0_0483_RA4_CA07",
+            "description": "Instal·la i avalua utilitats per al manteniment i optimització del sistema.",
+            "source": {
+              "file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx",
+              "paragraph_index": 261,
+              "confidence": "docx_structural_text"
+            }
+          }
+        },
+        "CA08": {
+          "codi": "CA08",
+          "codi_complet": "ICB0_0483_RA4_CA08",
+          "descripcio": "Avalua les necessitats del sistema informàtic en relació amb el desenvolupament d'aplicacions.",
+          "font": {
+            "file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx",
+            "paragraph_index": 262,
+            "confidence": "docx_structural_text"
+          },
+          "dades_originals": {
+            "code": "CA08",
+            "code_full": "ICB0_0483_RA4_CA08",
+            "description": "Avalua les necessitats del sistema informàtic en relació amb el desenvolupament d'aplicacions.",
+            "source": {
+              "file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx",
+              "paragraph_index": 262,
+              "confidence": "docx_structural_text"
+            }
+          }
+        }
+      }
+    },
+    "RA5": {
+      "ordre": 5,
+      "codi": "RA5",
+      "codi_complet": "ICB0_0483_RA5",
+      "descripcio": "Interconnecta sistemes en xarxa configurant dispositius i protocols.",
+      "descripcio_curta": "Interconnecta sistemes en xarxa configurant dispositius i protocols.",
+      "font": {
+        "file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx",
+        "paragraph_index": 263,
+        "confidence": "docx_structural_text"
+      },
+      "criteris_avaluacio": {
+        "CA01": {
+          "codi": "CA01",
+          "codi_complet": "ICB0_0483_RA5_CA01",
+          "descripcio": "Configura el protocol TCP/IP.",
+          "font": {
+            "file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx",
+            "paragraph_index": 265,
+            "confidence": "docx_structural_text"
+          },
+          "dades_originals": {
+            "code": "CA01",
+            "code_full": "ICB0_0483_RA5_CA01",
+            "description": "Configura el protocol TCP/IP.",
+            "source": {
+              "file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx",
+              "paragraph_index": 265,
+              "confidence": "docx_structural_text"
+            }
+          }
+        },
+        "CA02": {
+          "codi": "CA02",
+          "codi_complet": "ICB0_0483_RA5_CA02",
+          "descripcio": "Configura xarxes d'àrea local cablejades.",
+          "font": {
+            "file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx",
+            "paragraph_index": 266,
+            "confidence": "docx_structural_text"
+          },
+          "dades_originals": {
+            "code": "CA02",
+            "code_full": "ICB0_0483_RA5_CA02",
+            "description": "Configura xarxes d'àrea local cablejades.",
+            "source": {
+              "file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx",
+              "paragraph_index": 266,
+              "confidence": "docx_structural_text"
+            }
+          }
+        },
+        "CA03": {
+          "codi": "CA03",
+          "codi_complet": "ICB0_0483_RA5_CA03",
+          "descripcio": "Configura xarxes d'àrea local sense fil.",
+          "font": {
+            "file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx",
+            "paragraph_index": 267,
+            "confidence": "docx_structural_text"
+          },
+          "dades_originals": {
+            "code": "CA03",
+            "code_full": "ICB0_0483_RA5_CA03",
+            "description": "Configura xarxes d'àrea local sense fil.",
+            "source": {
+              "file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx",
+              "paragraph_index": 267,
+              "confidence": "docx_structural_text"
+            }
+          }
+        },
+        "CA04": {
+          "codi": "CA04",
+          "codi_complet": "ICB0_0483_RA5_CA04",
+          "descripcio": "Utilitza dispositius d'interconnexió de xarxes.",
+          "font": {
+            "file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx",
+            "paragraph_index": 268,
+            "confidence": "docx_structural_text"
+          },
+          "dades_originals": {
+            "code": "CA04",
+            "code_full": "ICB0_0483_RA5_CA04",
+            "description": "Utilitza dispositius d'interconnexió de xarxes.",
+            "source": {
+              "file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx",
+              "paragraph_index": 268,
+              "confidence": "docx_structural_text"
+            }
+          }
+        },
+        "CA05": {
+          "codi": "CA05",
+          "codi_complet": "ICB0_0483_RA5_CA05",
+          "descripcio": "Configura l'accés a les xarxes d'àrea extensa.",
+          "font": {
+            "file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx",
+            "paragraph_index": 269,
+            "confidence": "docx_structural_text"
+          },
+          "dades_originals": {
+            "code": "CA05",
+            "code_full": "ICB0_0483_RA5_CA05",
+            "description": "Configura l'accés a les xarxes d'àrea extensa.",
+            "source": {
+              "file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx",
+              "paragraph_index": 269,
+              "confidence": "docx_structural_text"
+            }
+          }
+        },
+        "CA06": {
+          "codi": "CA06",
+          "codi_complet": "ICB0_0483_RA5_CA06",
+          "descripcio": "Gestiona ports de comunicacions.",
+          "font": {
+            "file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx",
+            "paragraph_index": 270,
+            "confidence": "docx_structural_text"
+          },
+          "dades_originals": {
+            "code": "CA06",
+            "code_full": "ICB0_0483_RA5_CA06",
+            "description": "Gestiona ports de comunicacions.",
+            "source": {
+              "file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx",
+              "paragraph_index": 270,
+              "confidence": "docx_structural_text"
+            }
+          }
+        },
+        "CA07": {
+          "codi": "CA07",
+          "codi_complet": "ICB0_0483_RA5_CA07",
+          "descripcio": "Verifica el funcionament de la xarxa mitjançant l'ús de comandes i eines bàsiques.",
+          "font": {
+            "file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx",
+            "paragraph_index": 271,
+            "confidence": "docx_structural_text"
+          },
+          "dades_originals": {
+            "code": "CA07",
+            "code_full": "ICB0_0483_RA5_CA07",
+            "description": "Verifica el funcionament de la xarxa mitjançant l'ús de comandes i eines bàsiques.",
+            "source": {
+              "file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx",
+              "paragraph_index": 271,
+              "confidence": "docx_structural_text"
+            }
+          }
+        },
+        "CA08": {
+          "codi": "CA08",
+          "codi_complet": "ICB0_0483_RA5_CA08",
+          "descripcio": "Aplica protocols segurs de comunicacions.",
+          "font": {
+            "file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx",
+            "paragraph_index": 272,
+            "confidence": "docx_structural_text"
+          },
+          "dades_originals": {
+            "code": "CA08",
+            "code_full": "ICB0_0483_RA5_CA08",
+            "description": "Aplica protocols segurs de comunicacions.",
+            "source": {
+              "file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx",
+              "paragraph_index": 272,
+              "confidence": "docx_structural_text"
+            }
+          }
+        }
+      }
+    },
+    "RA6": {
+      "ordre": 6,
+      "codi": "RA6",
+      "codi_complet": "ICB0_0483_RA6",
+      "descripcio": "Treballa amb sistemes en xarxa gestionant-ne els recursos i identificant les restriccions de seguretat existents.",
+      "descripcio_curta": "Treballa amb sistemes en xarxa gestionant-ne els recursos i identificant les res",
+      "font": {
+        "file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx",
+        "paragraph_index": 273,
+        "confidence": "docx_structural_text"
+      },
+      "criteris_avaluacio": {
+        "CA01": {
+          "codi": "CA01",
+          "codi_complet": "ICB0_0483_RA6_CA01",
+          "descripcio": "Configura l'accés a recursos locals i recursos de xarxa.",
+          "font": {
+            "file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx",
+            "paragraph_index": 275,
+            "confidence": "docx_structural_text"
+          },
+          "dades_originals": {
+            "code": "CA01",
+            "code_full": "ICB0_0483_RA6_CA01",
+            "description": "Configura l'accés a recursos locals i recursos de xarxa.",
+            "source": {
+              "file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx",
+              "paragraph_index": 275,
+              "confidence": "docx_structural_text"
+            }
+          }
+        },
+        "CA02": {
+          "codi": "CA02",
+          "codi_complet": "ICB0_0483_RA6_CA02",
+          "descripcio": "Identifica i configura els drets d'usuari i les directives de seguretat.",
+          "font": {
+            "file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx",
+            "paragraph_index": 276,
+            "confidence": "docx_structural_text"
+          },
+          "dades_originals": {
+            "code": "CA02",
+            "code_full": "ICB0_0483_RA6_CA02",
+            "description": "Identifica i configura els drets d'usuari i les directives de seguretat.",
+            "source": {
+              "file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx",
+              "paragraph_index": 276,
+              "confidence": "docx_structural_text"
+            }
+          }
+        },
+        "CA03": {
+          "codi": "CA03",
+          "codi_complet": "ICB0_0483_RA6_CA03",
+          "descripcio": "Explota servidors de fitxers, servidors d'impressió i servidors d'aplicacions.",
+          "font": {
+            "file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx",
+            "paragraph_index": 277,
+            "confidence": "docx_structural_text"
+          },
+          "dades_originals": {
+            "code": "CA03",
+            "code_full": "ICB0_0483_RA6_CA03",
+            "description": "Explota servidors de fitxers, servidors d'impressió i servidors d'aplicacions.",
+            "source": {
+              "file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx",
+              "paragraph_index": 277,
+              "confidence": "docx_structural_text"
+            }
+          }
+        },
+        "CA04": {
+          "codi": "CA04",
+          "codi_complet": "ICB0_0483_RA6_CA04",
+          "descripcio": "Accedeix als servidors utilitzant tècniques de connexió remota.",
+          "font": {
+            "file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx",
+            "paragraph_index": 278,
+            "confidence": "docx_structural_text"
+          },
+          "dades_originals": {
+            "code": "CA04",
+            "code_full": "ICB0_0483_RA6_CA04",
+            "description": "Accedeix als servidors utilitzant tècniques de connexió remota.",
+            "source": {
+              "file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx",
+              "paragraph_index": 278,
+              "confidence": "docx_structural_text"
+            }
+          }
+        },
+        "CA05": {
+          "codi": "CA05",
+          "codi_complet": "ICB0_0483_RA6_CA05",
+          "descripcio": "Avalua la necessitat de protegir els recursos i el sistema.",
+          "font": {
+            "file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx",
+            "paragraph_index": 279,
+            "confidence": "docx_structural_text"
+          },
+          "dades_originals": {
+            "code": "CA05",
+            "code_full": "ICB0_0483_RA6_CA05",
+            "description": "Avalua la necessitat de protegir els recursos i el sistema.",
+            "source": {
+              "file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx",
+              "paragraph_index": 279,
+              "confidence": "docx_structural_text"
+            }
+          }
+        },
+        "CA06": {
+          "codi": "CA06",
+          "codi_complet": "ICB0_0483_RA6_CA06",
+          "descripcio": "Instal·la i avalua utilitats de seguretat bàsica.",
+          "font": {
+            "file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx",
+            "paragraph_index": 280,
+            "confidence": "docx_structural_text"
+          },
+          "dades_originals": {
+            "code": "CA06",
+            "code_full": "ICB0_0483_RA6_CA06",
+            "description": "Instal·la i avalua utilitats de seguretat bàsica.",
+            "source": {
+              "file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx",
+              "paragraph_index": 280,
+              "confidence": "docx_structural_text"
+            }
+          }
+        },
+        "CA07": {
+          "codi": "CA07",
+          "codi_complet": "ICB0_0483_RA6_CA07",
+          "descripcio": "Configura i explota dominis.",
+          "font": {
+            "file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx",
+            "paragraph_index": 281,
+            "confidence": "docx_structural_text"
+          },
+          "dades_originals": {
+            "code": "CA07",
+            "code_full": "ICB0_0483_RA6_CA07",
+            "description": "Configura i explota dominis.",
+            "source": {
+              "file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx",
+              "paragraph_index": 281,
+              "confidence": "docx_structural_text"
+            }
+          }
+        }
+      }
+    },
+    "RA7": {
+      "ordre": 7,
+      "codi": "RA7",
+      "codi_complet": "ICB0_0483_RA7",
+      "descripcio": "Elabora documentació valorant i utilitzant aplicacions informàtiques de propòsit general.",
+      "descripcio_curta": "Elabora documentació valorant i utilitzant aplicacions informàtiques de propòsit",
+      "font": {
+        "file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx",
+        "paragraph_index": 282,
+        "confidence": "docx_structural_text"
+      },
+      "criteris_avaluacio": {
+        "CA01": {
+          "codi": "CA01",
+          "codi_complet": "ICB0_0483_RA7_CA01",
+          "descripcio": "Classifica programari en funció de la llicència i el propòsit.",
+          "font": {
+            "file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx",
+            "paragraph_index": 284,
+            "confidence": "docx_structural_text"
+          },
+          "dades_originals": {
+            "code": "CA01",
+            "code_full": "ICB0_0483_RA7_CA01",
+            "description": "Classifica programari en funció de la llicència i el propòsit.",
+            "source": {
+              "file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx",
+              "paragraph_index": 284,
+              "confidence": "docx_structural_text"
+            }
+          }
+        },
+        "CA02": {
+          "codi": "CA02",
+          "codi_complet": "ICB0_0483_RA7_CA02",
+          "descripcio": "Analitza les necessitats específiques de programari associades a l'ús de sistemes informàtics a diferents entorns productius.",
+          "font": {
+            "file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx",
+            "paragraph_index": 285,
+            "confidence": "docx_structural_text"
+          },
+          "dades_originals": {
+            "code": "CA02",
+            "code_full": "ICB0_0483_RA7_CA02",
+            "description": "Analitza les necessitats específiques de programari associades a l'ús de sistemes informàtics a diferents entorns productius.",
+            "source": {
+              "file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx",
+              "paragraph_index": 285,
+              "confidence": "docx_structural_text"
+            }
+          }
+        },
+        "CA03": {
+          "codi": "CA03",
+          "codi_complet": "ICB0_0483_RA7_CA03",
+          "descripcio": "Duu a terme tasques de documentació mitjançant l'ús d’eines ofimàtiques i de treball col·laboratiu.",
+          "font": {
+            "file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx",
+            "paragraph_index": 286,
+            "confidence": "docx_structural_text"
+          },
+          "dades_originals": {
+            "code": "CA03",
+            "code_full": "ICB0_0483_RA7_CA03",
+            "description": "Duu a terme tasques de documentació mitjançant l'ús d’eines ofimàtiques i de treball col·laboratiu.",
+            "source": {
+              "file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx",
+              "paragraph_index": 286,
+              "confidence": "docx_structural_text"
+            }
+          }
+        },
+        "CA04": {
+          "codi": "CA04",
+          "codi_complet": "ICB0_0483_RA7_CA04",
+          "descripcio": "Utilitza sistemes de correu i missatgeria electrònica.",
+          "font": {
+            "file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx",
+            "paragraph_index": 287,
+            "confidence": "docx_structural_text"
+          },
+          "dades_originals": {
+            "code": "CA04",
+            "code_full": "ICB0_0483_RA7_CA04",
+            "description": "Utilitza sistemes de correu i missatgeria electrònica.",
+            "source": {
+              "file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx",
+              "paragraph_index": 287,
+              "confidence": "docx_structural_text"
+            }
+          }
+        },
+        "CA05": {
+          "codi": "CA05",
+          "codi_complet": "ICB0_0483_RA7_CA05",
+          "descripcio": "Utilitza els serveis de transferència de fitxers.",
+          "font": {
+            "file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx",
+            "paragraph_index": 288,
+            "confidence": "docx_structural_text"
+          },
+          "dades_originals": {
+            "code": "CA05",
+            "code_full": "ICB0_0483_RA7_CA05",
+            "description": "Utilitza els serveis de transferència de fitxers.",
+            "source": {
+              "file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx",
+              "paragraph_index": 288,
+              "confidence": "docx_structural_text"
+            }
+          }
+        },
+        "CA06": {
+          "codi": "CA06",
+          "codi_complet": "ICB0_0483_RA7_CA06",
+          "descripcio": "Utilitza mètodes de cerca de documentació tècnica mitjançant l’ús de serveis d'Internet.",
+          "font": {
+            "file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx",
+            "paragraph_index": 289,
+            "confidence": "docx_structural_text"
+          },
+          "dades_originals": {
+            "code": "CA06",
+            "code_full": "ICB0_0483_RA7_CA06",
+            "description": "Utilitza mètodes de cerca de documentació tècnica mitjançant l’ús de serveis d'Internet.",
+            "source": {
+              "file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx",
+              "paragraph_index": 289,
+              "confidence": "docx_structural_text"
+            }
+          }
+        },
+        "CA07": {
+          "codi": "CA07",
+          "codi_complet": "ICB0_0483_RA7_CA07",
+          "descripcio": "Utilitza eines de propòsit general.",
+          "font": {
+            "file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx",
+            "paragraph_index": 290,
+            "confidence": "docx_structural_text"
+          },
+          "dades_originals": {
+            "code": "CA07",
+            "code_full": "ICB0_0483_RA7_CA07",
+            "description": "Utilitza eines de propòsit general.",
+            "source": {
+              "file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx",
+              "paragraph_index": 290,
+              "confidence": "docx_structural_text"
+            }
+          }
+        }
+      }
+    }
+  },
+  "metadata": {
+    "font": "docs/data",
+    "fitxer_origen": "icb0.json",
+    "estat": "generat",
+    "data_generacio": "2026-07-15T14:28:35.869249+00:00"
+  }
+}

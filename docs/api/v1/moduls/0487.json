@@ -1,0 +1,1028 @@
+{
+  "api_version": "1.0",
+  "codi": "0487",
+  "nom": "Entorns de desenvolupament",
+  "cicle": {
+    "codi": "ICB0",
+    "nom": "dam"
+  },
+  "hores": {
+    "total": 99
+  },
+  "empresa": {
+    "te_estada": true
+  },
+  "num_ra": 6,
+  "resultats_aprenentatge": {
+    "RA1": {
+      "ordre": 1,
+      "codi": "RA1",
+      "codi_complet": "ICB0_0487_RA1",
+      "descripcio": "Reconeix els elements i les eines que intervenen en el desenvolupament d'un programa informàtic, analitzant-ne les característiques i les fases en què actuen fins a arribar a la posada en funcionament.",
+      "descripcio_curta": "Reconeix els elements i les eines que intervenen en el desenvolupament d'un prog",
+      "font": {
+        "file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx",
+        "paragraph_index": 833,
+        "confidence": "docx_structural_text"
+      },
+      "criteris_avaluacio": {
+        "CA01": {
+          "codi": "CA01",
+          "codi_complet": "ICB0_0487_RA1_CA01",
+          "descripcio": "Reconeix la relació dels programes amb els components del sistema informàtic: memòria, processador, perifèrics, entre d'altres.",
+          "font": {
+            "file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx",
+            "paragraph_index": 835,
+            "confidence": "docx_structural_text"
+          },
+          "dades_originals": {
+            "code": "CA01",
+            "code_full": "ICB0_0487_RA1_CA01",
+            "description": "Reconeix la relació dels programes amb els components del sistema informàtic: memòria, processador, perifèrics, entre d'altres.",
+            "source": {
+              "file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx",
+              "paragraph_index": 835,
+              "confidence": "docx_structural_text"
+            }
+          }
+        },
+        "CA02": {
+          "codi": "CA02",
+          "codi_complet": "ICB0_0487_RA1_CA02",
+          "descripcio": "Identifica les fases de desenvolupament d'una aplicació informàtica.",
+          "font": {
+            "file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx",
+            "paragraph_index": 836,
+            "confidence": "docx_structural_text"
+          },
+          "dades_originals": {
+            "code": "CA02",
+            "code_full": "ICB0_0487_RA1_CA02",
+            "description": "Identifica les fases de desenvolupament d'una aplicació informàtica.",
+            "source": {
+              "file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx",
+              "paragraph_index": 836,
+              "confidence": "docx_structural_text"
+            }
+          }
+        },
+        "CA03": {
+          "codi": "CA03",
+          "codi_complet": "ICB0_0487_RA1_CA03",
+          "descripcio": "Diferencia els conceptes de codi font, objecte i executable.",
+          "font": {
+            "file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx",
+            "paragraph_index": 837,
+            "confidence": "docx_structural_text"
+          },
+          "dades_originals": {
+            "code": "CA03",
+            "code_full": "ICB0_0487_RA1_CA03",
+            "description": "Diferencia els conceptes de codi font, objecte i executable.",
+            "source": {
+              "file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx",
+              "paragraph_index": 837,
+              "confidence": "docx_structural_text"
+            }
+          }
+        },
+        "CA04": {
+          "codi": "CA04",
+          "codi_complet": "ICB0_0487_RA1_CA04",
+          "descripcio": "Reconeix les característiques de la generació de codi intermedi per a la seva execució a màquines virtuals.",
+          "font": {
+            "file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx",
+            "paragraph_index": 838,
+            "confidence": "docx_structural_text"
+          },
+          "dades_originals": {
+            "code": "CA04",
+            "code_full": "ICB0_0487_RA1_CA04",
+            "description": "Reconeix les característiques de la generació de codi intermedi per a la seva execució a màquines virtuals.",
+            "source": {
+              "file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx",
+              "paragraph_index": 838,
+              "confidence": "docx_structural_text"
+            }
+          }
+        },
+        "CA05": {
+          "codi": "CA05",
+          "codi_complet": "ICB0_0487_RA1_CA05",
+          "descripcio": "Classifica els llenguatges de programació, identificant-ne les característiques.",
+          "font": {
+            "file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx",
+            "paragraph_index": 839,
+            "confidence": "docx_structural_text"
+          },
+          "dades_originals": {
+            "code": "CA05",
+            "code_full": "ICB0_0487_RA1_CA05",
+            "description": "Classifica els llenguatges de programació, identificant-ne les característiques.",
+            "source": {
+              "file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx",
+              "paragraph_index": 839,
+              "confidence": "docx_structural_text"
+            }
+          }
+        },
+        "CA06": {
+          "codi": "CA06",
+          "codi_complet": "ICB0_0487_RA1_CA06",
+          "descripcio": "Avalua la funcionalitat que ofereixen les eines utilitzades en el desenvolupament de programari.",
+          "font": {
+            "file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx",
+            "paragraph_index": 840,
+            "confidence": "docx_structural_text"
+          },
+          "dades_originals": {
+            "code": "CA06",
+            "code_full": "ICB0_0487_RA1_CA06",
+            "description": "Avalua la funcionalitat que ofereixen les eines utilitzades en el desenvolupament de programari.",
+            "source": {
+              "file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx",
+              "paragraph_index": 840,
+              "confidence": "docx_structural_text"
+            }
+          }
+        },
+        "CA07": {
+          "codi": "CA07",
+          "codi_complet": "ICB0_0487_RA1_CA07",
+          "descripcio": "Identifica les característiques i els escenaris d'ús de les metodologies àgils de desenvolupament de programari.",
+          "font": {
+            "file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx",
+            "paragraph_index": 841,
+            "confidence": "docx_structural_text"
+          },
+          "dades_originals": {
+            "code": "CA07",
+            "code_full": "ICB0_0487_RA1_CA07",
+            "description": "Identifica les característiques i els escenaris d'ús de les metodologies àgils de desenvolupament de programari.",
+            "source": {
+              "file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx",
+              "paragraph_index": 841,
+              "confidence": "docx_structural_text"
+            }
+          }
+        }
+      }
+    },
+    "RA2": {
+      "ordre": 2,
+      "codi": "RA2",
+      "codi_complet": "ICB0_0487_RA2",
+      "descripcio": "Avalua entorns integrats de desenvolupament analitzant-ne les característiques per editar codi font i generar executables.",
+      "descripcio_curta": "Avalua entorns integrats de desenvolupament analitzant-ne les característiques p",
+      "font": {
+        "file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx",
+        "paragraph_index": 842,
+        "confidence": "docx_structural_text"
+      },
+      "criteris_avaluacio": {
+        "CA01": {
+          "codi": "CA01",
+          "codi_complet": "ICB0_0487_RA2_CA01",
+          "descripcio": "Instal·la entorns de desenvolupament, propietaris i lliures.",
+          "font": {
+            "file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx",
+            "paragraph_index": 844,
+            "confidence": "docx_structural_text"
+          },
+          "dades_originals": {
+            "code": "CA01",
+            "code_full": "ICB0_0487_RA2_CA01",
+            "description": "Instal·la entorns de desenvolupament, propietaris i lliures.",
+            "source": {
+              "file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx",
+              "paragraph_index": 844,
+              "confidence": "docx_structural_text"
+            }
+          }
+        },
+        "CA02": {
+          "codi": "CA02",
+          "codi_complet": "ICB0_0487_RA2_CA02",
+          "descripcio": "Afegeix i elimina mòduls a l'entorn de desenvolupament.",
+          "font": {
+            "file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx",
+            "paragraph_index": 845,
+            "confidence": "docx_structural_text"
+          },
+          "dades_originals": {
+            "code": "CA02",
+            "code_full": "ICB0_0487_RA2_CA02",
+            "description": "Afegeix i elimina mòduls a l'entorn de desenvolupament.",
+            "source": {
+              "file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx",
+              "paragraph_index": 845,
+              "confidence": "docx_structural_text"
+            }
+          }
+        },
+        "CA03": {
+          "codi": "CA03",
+          "codi_complet": "ICB0_0487_RA2_CA03",
+          "descripcio": "Personalitza i automatitza l'entorn de desenvolupament.",
+          "font": {
+            "file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx",
+            "paragraph_index": 846,
+            "confidence": "docx_structural_text"
+          },
+          "dades_originals": {
+            "code": "CA03",
+            "code_full": "ICB0_0487_RA2_CA03",
+            "description": "Personalitza i automatitza l'entorn de desenvolupament.",
+            "source": {
+              "file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx",
+              "paragraph_index": 846,
+              "confidence": "docx_structural_text"
+            }
+          }
+        },
+        "CA04": {
+          "codi": "CA04",
+          "codi_complet": "ICB0_0487_RA2_CA04",
+          "descripcio": "Configura el sistema d'actualització de l'entorn de desenvolupament.",
+          "font": {
+            "file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx",
+            "paragraph_index": 847,
+            "confidence": "docx_structural_text"
+          },
+          "dades_originals": {
+            "code": "CA04",
+            "code_full": "ICB0_0487_RA2_CA04",
+            "description": "Configura el sistema d'actualització de l'entorn de desenvolupament.",
+            "source": {
+              "file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx",
+              "paragraph_index": 847,
+              "confidence": "docx_structural_text"
+            }
+          }
+        },
+        "CA05": {
+          "codi": "CA05",
+          "codi_complet": "ICB0_0487_RA2_CA05",
+          "descripcio": "Genera executables a partir de codi font de diferents llenguatges en un mateix entorn de desenvolupament.",
+          "font": {
+            "file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx",
+            "paragraph_index": 848,
+            "confidence": "docx_structural_text"
+          },
+          "dades_originals": {
+            "code": "CA05",
+            "code_full": "ICB0_0487_RA2_CA05",
+            "description": "Genera executables a partir de codi font de diferents llenguatges en un mateix entorn de desenvolupament.",
+            "source": {
+              "file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx",
+              "paragraph_index": 848,
+              "confidence": "docx_structural_text"
+            }
+          }
+        },
+        "CA06": {
+          "codi": "CA06",
+          "codi_complet": "ICB0_0487_RA2_CA06",
+          "descripcio": "Genera executables a partir d'un mateix codi font amb diversos entorns de desenvolupament.",
+          "font": {
+            "file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx",
+            "paragraph_index": 849,
+            "confidence": "docx_structural_text"
+          },
+          "dades_originals": {
+            "code": "CA06",
+            "code_full": "ICB0_0487_RA2_CA06",
+            "description": "Genera executables a partir d'un mateix codi font amb diversos entorns de desenvolupament.",
+            "source": {
+              "file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx",
+              "paragraph_index": 849,
+              "confidence": "docx_structural_text"
+            }
+          }
+        },
+        "CA07": {
+          "codi": "CA07",
+          "codi_complet": "ICB0_0487_RA2_CA07",
+          "descripcio": "Identifica les característiques comunes i específiques de diversos entorns de desenvolupament.",
+          "font": {
+            "file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx",
+            "paragraph_index": 850,
+            "confidence": "docx_structural_text"
+          },
+          "dades_originals": {
+            "code": "CA07",
+            "code_full": "ICB0_0487_RA2_CA07",
+            "description": "Identifica les característiques comunes i específiques de diversos entorns de desenvolupament.",
+            "source": {
+              "file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx",
+              "paragraph_index": 850,
+              "confidence": "docx_structural_text"
+            }
+          }
+        }
+      }
+    },
+    "RA3": {
+      "ordre": 3,
+      "codi": "RA3",
+      "codi_complet": "ICB0_0487_RA3",
+      "descripcio": "Verifica el funcionament de programes dissenyant i realitzant proves.",
+      "descripcio_curta": "Verifica el funcionament de programes dissenyant i realitzant proves.",
+      "font": {
+        "file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx",
+        "paragraph_index": 851,
+        "confidence": "docx_structural_text"
+      },
+      "criteris_avaluacio": {
+        "CA01": {
+          "codi": "CA01",
+          "codi_complet": "ICB0_0487_RA3_CA01",
+          "descripcio": "Identifica els diferents tipus de proves.",
+          "font": {
+            "file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx",
+            "paragraph_index": 853,
+            "confidence": "docx_structural_text"
+          },
+          "dades_originals": {
+            "code": "CA01",
+            "code_full": "ICB0_0487_RA3_CA01",
+            "description": "Identifica els diferents tipus de proves.",
+            "source": {
+              "file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx",
+              "paragraph_index": 853,
+              "confidence": "docx_structural_text"
+            }
+          }
+        },
+        "CA02": {
+          "codi": "CA02",
+          "codi_complet": "ICB0_0487_RA3_CA02",
+          "descripcio": "Defineix casos de prova.",
+          "font": {
+            "file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx",
+            "paragraph_index": 854,
+            "confidence": "docx_structural_text"
+          },
+          "dades_originals": {
+            "code": "CA02",
+            "code_full": "ICB0_0487_RA3_CA02",
+            "description": "Defineix casos de prova.",
+            "source": {
+              "file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx",
+              "paragraph_index": 854,
+              "confidence": "docx_structural_text"
+            }
+          }
+        },
+        "CA03": {
+          "codi": "CA03",
+          "codi_complet": "ICB0_0487_RA3_CA03",
+          "descripcio": "Identifica les eines de depuració i de prova d'aplicacions ofertes per l'entorn de desenvolupament.",
+          "font": {
+            "file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx",
+            "paragraph_index": 855,
+            "confidence": "docx_structural_text"
+          },
+          "dades_originals": {
+            "code": "CA03",
+            "code_full": "ICB0_0487_RA3_CA03",
+            "description": "Identifica les eines de depuració i de prova d'aplicacions ofertes per l'entorn de desenvolupament.",
+            "source": {
+              "file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx",
+              "paragraph_index": 855,
+              "confidence": "docx_structural_text"
+            }
+          }
+        },
+        "CA04": {
+          "codi": "CA04",
+          "codi_complet": "ICB0_0487_RA3_CA04",
+          "descripcio": "Utilitza eines de depuració per definir punts de ruptura i seguiment.",
+          "font": {
+            "file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx",
+            "paragraph_index": 856,
+            "confidence": "docx_structural_text"
+          },
+          "dades_originals": {
+            "code": "CA04",
+            "code_full": "ICB0_0487_RA3_CA04",
+            "description": "Utilitza eines de depuració per definir punts de ruptura i seguiment.",
+            "source": {
+              "file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx",
+              "paragraph_index": 856,
+              "confidence": "docx_structural_text"
+            }
+          }
+        },
+        "CA05": {
+          "codi": "CA05",
+          "codi_complet": "ICB0_0487_RA3_CA05",
+          "descripcio": "Utilitza les eines de depuració per examinar i modificar el comportament d'un programa en temps d'execució.",
+          "font": {
+            "file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx",
+            "paragraph_index": 857,
+            "confidence": "docx_structural_text"
+          },
+          "dades_originals": {
+            "code": "CA05",
+            "code_full": "ICB0_0487_RA3_CA05",
+            "description": "Utilitza les eines de depuració per examinar i modificar el comportament d'un programa en temps d'execució.",
+            "source": {
+              "file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx",
+              "paragraph_index": 857,
+              "confidence": "docx_structural_text"
+            }
+          }
+        },
+        "CA06": {
+          "codi": "CA06",
+          "codi_complet": "ICB0_0487_RA3_CA06",
+          "descripcio": "Realitza proves unitàries de classes i funcions.",
+          "font": {
+            "file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx",
+            "paragraph_index": 858,
+            "confidence": "docx_structural_text"
+          },
+          "dades_originals": {
+            "code": "CA06",
+            "code_full": "ICB0_0487_RA3_CA06",
+            "description": "Realitza proves unitàries de classes i funcions.",
+            "source": {
+              "file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx",
+              "paragraph_index": 858,
+              "confidence": "docx_structural_text"
+            }
+          }
+        },
+        "CA07": {
+          "codi": "CA07",
+          "codi_complet": "ICB0_0487_RA3_CA07",
+          "descripcio": "Implementa proves automàtiques.",
+          "font": {
+            "file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx",
+            "paragraph_index": 859,
+            "confidence": "docx_structural_text"
+          },
+          "dades_originals": {
+            "code": "CA07",
+            "code_full": "ICB0_0487_RA3_CA07",
+            "description": "Implementa proves automàtiques.",
+            "source": {
+              "file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx",
+              "paragraph_index": 859,
+              "confidence": "docx_structural_text"
+            }
+          }
+        },
+        "CA08": {
+          "codi": "CA08",
+          "codi_complet": "ICB0_0487_RA3_CA08",
+          "descripcio": "Documenta les incidències detectades.",
+          "font": {
+            "file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx",
+            "paragraph_index": 860,
+            "confidence": "docx_structural_text"
+          },
+          "dades_originals": {
+            "code": "CA08",
+            "code_full": "ICB0_0487_RA3_CA08",
+            "description": "Documenta les incidències detectades.",
+            "source": {
+              "file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx",
+              "paragraph_index": 860,
+              "confidence": "docx_structural_text"
+            }
+          }
+        },
+        "CA09": {
+          "codi": "CA09",
+          "codi_complet": "ICB0_0487_RA3_CA09",
+          "descripcio": "Utilitza dobles de prova per aïllar els components durant les proves.",
+          "font": {
+            "file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx",
+            "paragraph_index": 861,
+            "confidence": "docx_structural_text"
+          },
+          "dades_originals": {
+            "code": "CA09",
+            "code_full": "ICB0_0487_RA3_CA09",
+            "description": "Utilitza dobles de prova per aïllar els components durant les proves.",
+            "source": {
+              "file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx",
+              "paragraph_index": 861,
+              "confidence": "docx_structural_text"
+            }
+          }
+        }
+      }
+    },
+    "RA4": {
+      "ordre": 4,
+      "codi": "RA4",
+      "codi_complet": "ICB0_0487_RA4",
+      "descripcio": "Optimitza codi utilitzant les eines disponibles a l'entorn de desenvolupament.",
+      "descripcio_curta": "Optimitza codi utilitzant les eines disponibles a l'entorn de desenvolupament.",
+      "font": {
+        "file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx",
+        "paragraph_index": 862,
+        "confidence": "docx_structural_text"
+      },
+      "criteris_avaluacio": {
+        "CA01": {
+          "codi": "CA01",
+          "codi_complet": "ICB0_0487_RA4_CA01",
+          "descripcio": "Identifica els patrons de refactorització més usuals.",
+          "font": {
+            "file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx",
+            "paragraph_index": 864,
+            "confidence": "docx_structural_text"
+          },
+          "dades_originals": {
+            "code": "CA01",
+            "code_full": "ICB0_0487_RA4_CA01",
+            "description": "Identifica els patrons de refactorització més usuals.",
+            "source": {
+              "file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx",
+              "paragraph_index": 864,
+              "confidence": "docx_structural_text"
+            }
+          }
+        },
+        "CA02": {
+          "codi": "CA02",
+          "codi_complet": "ICB0_0487_RA4_CA02",
+          "descripcio": "Elabora les proves associades a la refactorització.",
+          "font": {
+            "file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx",
+            "paragraph_index": 865,
+            "confidence": "docx_structural_text"
+          },
+          "dades_originals": {
+            "code": "CA02",
+            "code_full": "ICB0_0487_RA4_CA02",
+            "description": "Elabora les proves associades a la refactorització.",
+            "source": {
+              "file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx",
+              "paragraph_index": 865,
+              "confidence": "docx_structural_text"
+            }
+          }
+        },
+        "CA03": {
+          "codi": "CA03",
+          "codi_complet": "ICB0_0487_RA4_CA03",
+          "descripcio": "Revisa el codi font usant un analitzador de codi.",
+          "font": {
+            "file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx",
+            "paragraph_index": 866,
+            "confidence": "docx_structural_text"
+          },
+          "dades_originals": {
+            "code": "CA03",
+            "code_full": "ICB0_0487_RA4_CA03",
+            "description": "Revisa el codi font usant un analitzador de codi.",
+            "source": {
+              "file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx",
+              "paragraph_index": 866,
+              "confidence": "docx_structural_text"
+            }
+          }
+        },
+        "CA04": {
+          "codi": "CA04",
+          "codi_complet": "ICB0_0487_RA4_CA04",
+          "descripcio": "Identifica les possibilitats de configuració d'un analitzador de codi.",
+          "font": {
+            "file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx",
+            "paragraph_index": 867,
+            "confidence": "docx_structural_text"
+          },
+          "dades_originals": {
+            "code": "CA04",
+            "code_full": "ICB0_0487_RA4_CA04",
+            "description": "Identifica les possibilitats de configuració d'un analitzador de codi.",
+            "source": {
+              "file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx",
+              "paragraph_index": 867,
+              "confidence": "docx_structural_text"
+            }
+          }
+        },
+        "CA05": {
+          "codi": "CA05",
+          "codi_complet": "ICB0_0487_RA4_CA05",
+          "descripcio": "Aplica patrons de refactorització amb les eines que proporciona l'entorn de desenvolupament.",
+          "font": {
+            "file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx",
+            "paragraph_index": 868,
+            "confidence": "docx_structural_text"
+          },
+          "dades_originals": {
+            "code": "CA05",
+            "code_full": "ICB0_0487_RA4_CA05",
+            "description": "Aplica patrons de refactorització amb les eines que proporciona l'entorn de desenvolupament.",
+            "source": {
+              "file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx",
+              "paragraph_index": 868,
+              "confidence": "docx_structural_text"
+            }
+          }
+        },
+        "CA06": {
+          "codi": "CA06",
+          "codi_complet": "ICB0_0487_RA4_CA06",
+          "descripcio": "Realitza el control de versions integrat a l'entorn de desenvolupament.",
+          "font": {
+            "file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx",
+            "paragraph_index": 869,
+            "confidence": "docx_structural_text"
+          },
+          "dades_originals": {
+            "code": "CA06",
+            "code_full": "ICB0_0487_RA4_CA06",
+            "description": "Realitza el control de versions integrat a l'entorn de desenvolupament.",
+            "source": {
+              "file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx",
+              "paragraph_index": 869,
+              "confidence": "docx_structural_text"
+            }
+          }
+        },
+        "CA07": {
+          "codi": "CA07",
+          "codi_complet": "ICB0_0487_RA4_CA07",
+          "descripcio": "Fa servir eines de l'entorn de desenvolupament per documentar les classes.",
+          "font": {
+            "file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx",
+            "paragraph_index": 870,
+            "confidence": "docx_structural_text"
+          },
+          "dades_originals": {
+            "code": "CA07",
+            "code_full": "ICB0_0487_RA4_CA07",
+            "description": "Fa servir eines de l'entorn de desenvolupament per documentar les classes.",
+            "source": {
+              "file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx",
+              "paragraph_index": 870,
+              "confidence": "docx_structural_text"
+            }
+          }
+        },
+        "CA08": {
+          "codi": "CA08",
+          "codi_complet": "ICB0_0487_RA4_CA08",
+          "descripcio": "Utilitza repositoris remots per al desenvolupament de codi col·laboratiu.",
+          "font": {
+            "file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx",
+            "paragraph_index": 871,
+            "confidence": "docx_structural_text"
+          },
+          "dades_originals": {
+            "code": "CA08",
+            "code_full": "ICB0_0487_RA4_CA08",
+            "description": "Utilitza repositoris remots per al desenvolupament de codi col·laboratiu.",
+            "source": {
+              "file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx",
+              "paragraph_index": 871,
+              "confidence": "docx_structural_text"
+            }
+          }
+        },
+        "CA09": {
+          "codi": "CA09",
+          "codi_complet": "ICB0_0487_RA4_CA09",
+          "descripcio": "Utilitza eines per a la integració contínua del codi.",
+          "font": {
+            "file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx",
+            "paragraph_index": 872,
+            "confidence": "docx_structural_text"
+          },
+          "dades_originals": {
+            "code": "CA09",
+            "code_full": "ICB0_0487_RA4_CA09",
+            "description": "Utilitza eines per a la integració contínua del codi.",
+            "source": {
+              "file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx",
+              "paragraph_index": 872,
+              "confidence": "docx_structural_text"
+            }
+          }
+        }
+      }
+    },
+    "RA5": {
+      "ordre": 5,
+      "codi": "RA5",
+      "codi_complet": "ICB0_0487_RA5",
+      "descripcio": "Genera diagrames de classes valorant-ne la importància en el desenvolupament d'aplicacions i emprant eines específiques.",
+      "descripcio_curta": "Genera diagrames de classes valorant-ne la importància en el desenvolupament d'a",
+      "font": {
+        "file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx",
+        "paragraph_index": 873,
+        "confidence": "docx_structural_text"
+      },
+      "criteris_avaluacio": {
+        "CA01": {
+          "codi": "CA01",
+          "codi_complet": "ICB0_0487_RA5_CA01",
+          "descripcio": "Identifica els conceptes bàsics de la programació orientada a objectes.",
+          "font": {
+            "file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx",
+            "paragraph_index": 875,
+            "confidence": "docx_structural_text"
+          },
+          "dades_originals": {
+            "code": "CA01",
+            "code_full": "ICB0_0487_RA5_CA01",
+            "description": "Identifica els conceptes bàsics de la programació orientada a objectes.",
+            "source": {
+              "file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx",
+              "paragraph_index": 875,
+              "confidence": "docx_structural_text"
+            }
+          }
+        },
+        "CA02": {
+          "codi": "CA02",
+          "codi_complet": "ICB0_0487_RA5_CA02",
+          "descripcio": "Fa servir eines per a l'elaboració de diagrames de classes.",
+          "font": {
+            "file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx",
+            "paragraph_index": 876,
+            "confidence": "docx_structural_text"
+          },
+          "dades_originals": {
+            "code": "CA02",
+            "code_full": "ICB0_0487_RA5_CA02",
+            "description": "Fa servir eines per a l'elaboració de diagrames de classes.",
+            "source": {
+              "file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx",
+              "paragraph_index": 876,
+              "confidence": "docx_structural_text"
+            }
+          }
+        },
+        "CA03": {
+          "codi": "CA03",
+          "codi_complet": "ICB0_0487_RA5_CA03",
+          "descripcio": "Interpreta el significat de diagrames de classes.",
+          "font": {
+            "file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx",
+            "paragraph_index": 877,
+            "confidence": "docx_structural_text"
+          },
+          "dades_originals": {
+            "code": "CA03",
+            "code_full": "ICB0_0487_RA5_CA03",
+            "description": "Interpreta el significat de diagrames de classes.",
+            "source": {
+              "file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx",
+              "paragraph_index": 877,
+              "confidence": "docx_structural_text"
+            }
+          }
+        },
+        "CA04": {
+          "codi": "CA04",
+          "codi_complet": "ICB0_0487_RA5_CA04",
+          "descripcio": "Traça diagrames de classes a partir de les seves especificacions.",
+          "font": {
+            "file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx",
+            "paragraph_index": 878,
+            "confidence": "docx_structural_text"
+          },
+          "dades_originals": {
+            "code": "CA04",
+            "code_full": "ICB0_0487_RA5_CA04",
+            "description": "Traça diagrames de classes a partir de les seves especificacions.",
+            "source": {
+              "file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx",
+              "paragraph_index": 878,
+              "confidence": "docx_structural_text"
+            }
+          }
+        },
+        "CA05": {
+          "codi": "CA05",
+          "codi_complet": "ICB0_0487_RA5_CA05",
+          "descripcio": "Genera codi a partir d'un diagrama de classes.",
+          "font": {
+            "file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx",
+            "paragraph_index": 879,
+            "confidence": "docx_structural_text"
+          },
+          "dades_originals": {
+            "code": "CA05",
+            "code_full": "ICB0_0487_RA5_CA05",
+            "description": "Genera codi a partir d'un diagrama de classes.",
+            "source": {
+              "file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx",
+              "paragraph_index": 879,
+              "confidence": "docx_structural_text"
+            }
+          }
+        },
+        "CA06": {
+          "codi": "CA06",
+          "codi_complet": "ICB0_0487_RA5_CA06",
+          "descripcio": "Genera un diagrama de classes mitjançant enginyeria inversa.",
+          "font": {
+            "file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx",
+            "paragraph_index": 880,
+            "confidence": "docx_structural_text"
+          },
+          "dades_originals": {
+            "code": "CA06",
+            "code_full": "ICB0_0487_RA5_CA06",
+            "description": "Genera un diagrama de classes mitjançant enginyeria inversa.",
+            "source": {
+              "file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx",
+              "paragraph_index": 880,
+              "confidence": "docx_structural_text"
+            }
+          }
+        }
+      }
+    },
+    "RA6": {
+      "ordre": 6,
+      "codi": "RA6",
+      "codi_complet": "ICB0_0487_RA6",
+      "descripcio": "Genera diagrames de comportament valorant-ne la importància en el desenvolupament d'aplicacions i emprant eines específiques.",
+      "descripcio_curta": "Genera diagrames de comportament valorant-ne la importància en el desenvolupamen",
+      "font": {
+        "file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx",
+        "paragraph_index": 881,
+        "confidence": "docx_structural_text"
+      },
+      "criteris_avaluacio": {
+        "CA01": {
+          "codi": "CA01",
+          "codi_complet": "ICB0_0487_RA6_CA01",
+          "descripcio": "Identifica els diferents tipus de diagrames de comportament.",
+          "font": {
+            "file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx",
+            "paragraph_index": 883,
+            "confidence": "docx_structural_text"
+          },
+          "dades_originals": {
+            "code": "CA01",
+            "code_full": "ICB0_0487_RA6_CA01",
+            "description": "Identifica els diferents tipus de diagrames de comportament.",
+            "source": {
+              "file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx",
+              "paragraph_index": 883,
+              "confidence": "docx_structural_text"
+            }
+          }
+        },
+        "CA02": {
+          "codi": "CA02",
+          "codi_complet": "ICB0_0487_RA6_CA02",
+          "descripcio": "Reconeix el significat dels diagrames de casos d'ús.",
+          "font": {
+            "file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx",
+            "paragraph_index": 884,
+            "confidence": "docx_structural_text"
+          },
+          "dades_originals": {
+            "code": "CA02",
+            "code_full": "ICB0_0487_RA6_CA02",
+            "description": "Reconeix el significat dels diagrames de casos d'ús.",
+            "source": {
+              "file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx",
+              "paragraph_index": 884,
+              "confidence": "docx_structural_text"
+            }
+          }
+        },
+        "CA03": {
+          "codi": "CA03",
+          "codi_complet": "ICB0_0487_RA6_CA03",
+          "descripcio": "Interpreta diagrames d'interacció.",
+          "font": {
+            "file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx",
+            "paragraph_index": 885,
+            "confidence": "docx_structural_text"
+          },
+          "dades_originals": {
+            "code": "CA03",
+            "code_full": "ICB0_0487_RA6_CA03",
+            "description": "Interpreta diagrames d'interacció.",
+            "source": {
+              "file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx",
+              "paragraph_index": 885,
+              "confidence": "docx_structural_text"
+            }
+          }
+        },
+        "CA04": {
+          "codi": "CA04",
+          "codi_complet": "ICB0_0487_RA6_CA04",
+          "descripcio": "Fa diagrames d'interacció senzills.",
+          "font": {
+            "file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx",
+            "paragraph_index": 886,
+            "confidence": "docx_structural_text"
+          },
+          "dades_originals": {
+            "code": "CA04",
+            "code_full": "ICB0_0487_RA6_CA04",
+            "description": "Fa diagrames d'interacció senzills.",
+            "source": {
+              "file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx",
+              "paragraph_index": 886,
+              "confidence": "docx_structural_text"
+            }
+          }
+        },
+        "CA05": {
+          "codi": "CA05",
+          "codi_complet": "ICB0_0487_RA6_CA05",
+          "descripcio": "Interpreta el significat de diagrames d'activitats.",
+          "font": {
+            "file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx",
+            "paragraph_index": 887,
+            "confidence": "docx_structural_text"
+          },
+          "dades_originals": {
+            "code": "CA05",
+            "code_full": "ICB0_0487_RA6_CA05",
+            "description": "Interpreta el significat de diagrames d'activitats.",
+            "source": {
+              "file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx",
+              "paragraph_index": 887,
+              "confidence": "docx_structural_text"
+            }
+          }
+        },
+        "CA06": {
+          "codi": "CA06",
+          "codi_complet": "ICB0_0487_RA6_CA06",
+          "descripcio": "Elabora diagrames d'activitats senzilles.",
+          "font": {
+            "file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx",
+            "paragraph_index": 888,
+            "confidence": "docx_structural_text"
+          },
+          "dades_originals": {
+            "code": "CA06",
+            "code_full": "ICB0_0487_RA6_CA06",
+            "description": "Elabora diagrames d'activitats senzilles.",
+            "source": {
+              "file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx",
+              "paragraph_index": 888,
+              "confidence": "docx_structural_text"
+            }
+          }
+        },
+        "CA07": {
+          "codi": "CA07",
+          "codi_complet": "ICB0_0487_RA6_CA07",
+          "descripcio": "Interpreta diagrames d'estats.",
+          "font": {
+            "file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx",
+            "paragraph_index": 889,
+            "confidence": "docx_structural_text"
+          },
+          "dades_originals": {
+            "code": "CA07",
+            "code_full": "ICB0_0487_RA6_CA07",
+            "description": "Interpreta diagrames d'estats.",
+            "source": {
+              "file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx",
+              "paragraph_index": 889,
+              "confidence": "docx_structural_text"
+            }
+          }
+        },
+        "CA08": {
+          "codi": "CA08",
+          "codi_complet": "ICB0_0487_RA6_CA08",
+          "descripcio": "Planteja diagrames d'estats senzills.",
+          "font": {
+            "file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx",
+            "paragraph_index": 890,
+            "confidence": "docx_structural_text"
+          },
+          "dades_originals": {
+            "code": "CA08",
+            "code_full": "ICB0_0487_RA6_CA08",
+            "description": "Planteja diagrames d'estats senzills.",
+            "source": {
+              "file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx",
+              "paragraph_index": 890,
+              "confidence": "docx_structural_text"
+            }
+          }
+        }
+      }
+    }
+  },
+  "metadata": {
+    "font": "docs/data",
+    "fitxer_origen": "icb0.json",
+    "estat": "generat",
+    "data_generacio": "2026-07-15T14:28:35.869249+00:00"
+  }
+}

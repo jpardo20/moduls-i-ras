@@ -1,0 +1,1128 @@
+{
+  "api_version": "1.0",
+  "codi": "0225",
+  "nom": "Xarxes locals",
+  "cicle": {
+    "codi": "IC10",
+    "nom": "smx"
+  },
+  "hores": {
+    "total": 198
+  },
+  "empresa": {
+    "te_estada": true
+  },
+  "num_ra": 6,
+  "resultats_aprenentatge": {
+    "RA1": {
+      "ordre": 1,
+      "codi": "RA1",
+      "codi_complet": "IC10_0225_RA1",
+      "descripcio": "Reconeix l'estructura de xarxes locals cablejades analitzant-ne les característiques d'entorns d'aplicació i descrivint-ne la funcionalitat dels seus components.",
+      "descripcio_curta": "Reconeix l'estructura de xarxes locals cablejades analitzant-ne les característi",
+      "font": {
+        "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+        "paragraph_index": 610,
+        "confidence": "docx_structural_text"
+      },
+      "criteris_avaluacio": {
+        "CA01": {
+          "codi": "CA01",
+          "codi_complet": "IC10_0225_RA1_CA01",
+          "descripcio": "Descriu els principis de funcionament de les xarxes locals.",
+          "font": {
+            "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+            "paragraph_index": 612,
+            "confidence": "docx_structural_text"
+          },
+          "dades_originals": {
+            "code": "CA01",
+            "code_full": "IC10_0225_RA1_CA01",
+            "description": "Descriu els principis de funcionament de les xarxes locals.",
+            "source": {
+              "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+              "paragraph_index": 612,
+              "confidence": "docx_structural_text"
+            }
+          }
+        },
+        "CA02": {
+          "codi": "CA02",
+          "codi_complet": "IC10_0225_RA1_CA02",
+          "descripcio": "Identifica els diferents tipus de xarxes.",
+          "font": {
+            "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+            "paragraph_index": 613,
+            "confidence": "docx_structural_text"
+          },
+          "dades_originals": {
+            "code": "CA02",
+            "code_full": "IC10_0225_RA1_CA02",
+            "description": "Identifica els diferents tipus de xarxes.",
+            "source": {
+              "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+              "paragraph_index": 613,
+              "confidence": "docx_structural_text"
+            }
+          }
+        },
+        "CA03": {
+          "codi": "CA03",
+          "codi_complet": "IC10_0225_RA1_CA03",
+          "descripcio": "Descriu els elements de la xarxa local i la seva funció.",
+          "font": {
+            "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+            "paragraph_index": 614,
+            "confidence": "docx_structural_text"
+          },
+          "dades_originals": {
+            "code": "CA03",
+            "code_full": "IC10_0225_RA1_CA03",
+            "description": "Descriu els elements de la xarxa local i la seva funció.",
+            "source": {
+              "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+              "paragraph_index": 614,
+              "confidence": "docx_structural_text"
+            }
+          }
+        },
+        "CA04": {
+          "codi": "CA04",
+          "codi_complet": "IC10_0225_RA1_CA04",
+          "descripcio": "Identifica i classifica els mitjans de transmissió.",
+          "font": {
+            "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+            "paragraph_index": 615,
+            "confidence": "docx_structural_text"
+          },
+          "dades_originals": {
+            "code": "CA04",
+            "code_full": "IC10_0225_RA1_CA04",
+            "description": "Identifica i classifica els mitjans de transmissió.",
+            "source": {
+              "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+              "paragraph_index": 615,
+              "confidence": "docx_structural_text"
+            }
+          }
+        },
+        "CA05": {
+          "codi": "CA05",
+          "codi_complet": "IC10_0225_RA1_CA05",
+          "descripcio": "Reconeix el mapa físic de la xarxa local.",
+          "font": {
+            "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+            "paragraph_index": 616,
+            "confidence": "docx_structural_text"
+          },
+          "dades_originals": {
+            "code": "CA05",
+            "code_full": "IC10_0225_RA1_CA05",
+            "description": "Reconeix el mapa físic de la xarxa local.",
+            "source": {
+              "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+              "paragraph_index": 616,
+              "confidence": "docx_structural_text"
+            }
+          }
+        },
+        "CA06": {
+          "codi": "CA06",
+          "codi_complet": "IC10_0225_RA1_CA06",
+          "descripcio": "Utilitza aplicacions per representar el mapa físic de la xarxa local.",
+          "font": {
+            "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+            "paragraph_index": 617,
+            "confidence": "docx_structural_text"
+          },
+          "dades_originals": {
+            "code": "CA06",
+            "code_full": "IC10_0225_RA1_CA06",
+            "description": "Utilitza aplicacions per representar el mapa físic de la xarxa local.",
+            "source": {
+              "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+              "paragraph_index": 617,
+              "confidence": "docx_structural_text"
+            }
+          }
+        },
+        "CA07": {
+          "codi": "CA07",
+          "codi_complet": "IC10_0225_RA1_CA07",
+          "descripcio": "Reconeix les diferents topologies de xarxa.",
+          "font": {
+            "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+            "paragraph_index": 618,
+            "confidence": "docx_structural_text"
+          },
+          "dades_originals": {
+            "code": "CA07",
+            "code_full": "IC10_0225_RA1_CA07",
+            "description": "Reconeix les diferents topologies de xarxa.",
+            "source": {
+              "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+              "paragraph_index": 618,
+              "confidence": "docx_structural_text"
+            }
+          }
+        },
+        "CA08": {
+          "codi": "CA08",
+          "codi_complet": "IC10_0225_RA1_CA08",
+          "descripcio": "Identifica estructures alternatives.",
+          "font": {
+            "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+            "paragraph_index": 619,
+            "confidence": "docx_structural_text"
+          },
+          "dades_originals": {
+            "code": "CA08",
+            "code_full": "IC10_0225_RA1_CA08",
+            "description": "Identifica estructures alternatives.",
+            "source": {
+              "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+              "paragraph_index": 619,
+              "confidence": "docx_structural_text"
+            }
+          }
+        }
+      }
+    },
+    "RA2": {
+      "ordre": 2,
+      "codi": "RA2",
+      "codi_complet": "IC10_0225_RA2",
+      "descripcio": "Desplega el cablejat d'una xarxa local interpretant-ne especificacions i aplicant-hi tècniques de muntatge.",
+      "descripcio_curta": "Desplega el cablejat d'una xarxa local interpretant-ne especificacions i aplican",
+      "font": {
+        "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+        "paragraph_index": 620,
+        "confidence": "docx_structural_text"
+      },
+      "criteris_avaluacio": {
+        "CA01": {
+          "codi": "CA01",
+          "codi_complet": "IC10_0225_RA2_CA01",
+          "descripcio": "Reconeix els principis funcionals de les xarxes locals.",
+          "font": {
+            "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+            "paragraph_index": 624,
+            "confidence": "docx_structural_text"
+          },
+          "dades_originals": {
+            "code": "CA01",
+            "code_full": "IC10_0225_RA2_CA01",
+            "description": "Reconeix els principis funcionals de les xarxes locals.",
+            "source": {
+              "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+              "paragraph_index": 624,
+              "confidence": "docx_structural_text"
+            }
+          }
+        },
+        "CA02": {
+          "codi": "CA02",
+          "codi_complet": "IC10_0225_RA2_CA02",
+          "descripcio": "Identifica els diferents tipus de xarxes.",
+          "font": {
+            "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+            "paragraph_index": 625,
+            "confidence": "docx_structural_text"
+          },
+          "dades_originals": {
+            "code": "CA02",
+            "code_full": "IC10_0225_RA2_CA02",
+            "description": "Identifica els diferents tipus de xarxes.",
+            "source": {
+              "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+              "paragraph_index": 625,
+              "confidence": "docx_structural_text"
+            }
+          }
+        },
+        "CA03": {
+          "codi": "CA03",
+          "codi_complet": "IC10_0225_RA2_CA03",
+          "descripcio": "Diferencia els mitjans de transmissió.",
+          "font": {
+            "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+            "paragraph_index": 626,
+            "confidence": "docx_structural_text"
+          },
+          "dades_originals": {
+            "code": "CA03",
+            "code_full": "IC10_0225_RA2_CA03",
+            "description": "Diferencia els mitjans de transmissió.",
+            "source": {
+              "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+              "paragraph_index": 626,
+              "confidence": "docx_structural_text"
+            }
+          }
+        },
+        "CA04": {
+          "codi": "CA04",
+          "codi_complet": "IC10_0225_RA2_CA04",
+          "descripcio": "Reconeix els detalls del cablejat de la instal·lació i el seu desplegament (categoria del cablejat, espais pels quals discorre, suport per a les canalitzacions, entre altres).",
+          "font": {
+            "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+            "paragraph_index": 627,
+            "confidence": "docx_structural_text"
+          },
+          "dades_originals": {
+            "code": "CA04",
+            "code_full": "IC10_0225_RA2_CA04",
+            "description": "Reconeix els detalls del cablejat de la instal·lació i el seu desplegament (categoria del cablejat, espais pels quals discorre, suport per a les canalitzacions, entre altres).",
+            "source": {
+              "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+              "paragraph_index": 627,
+              "confidence": "docx_structural_text"
+            }
+          }
+        },
+        "CA05": {
+          "codi": "CA05",
+          "codi_complet": "IC10_0225_RA2_CA05",
+          "descripcio": "Selecciona i munta les canalitzacions i tubs.",
+          "font": {
+            "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+            "paragraph_index": 628,
+            "confidence": "docx_structural_text"
+          },
+          "dades_originals": {
+            "code": "CA05",
+            "code_full": "IC10_0225_RA2_CA05",
+            "description": "Selecciona i munta les canalitzacions i tubs.",
+            "source": {
+              "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+              "paragraph_index": 628,
+              "confidence": "docx_structural_text"
+            }
+          }
+        },
+        "CA06": {
+          "codi": "CA06",
+          "codi_complet": "IC10_0225_RA2_CA06",
+          "descripcio": "Munta els armaris de comunicacions i els seus accessoris.",
+          "font": {
+            "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+            "paragraph_index": 629,
+            "confidence": "docx_structural_text"
+          },
+          "dades_originals": {
+            "code": "CA06",
+            "code_full": "IC10_0225_RA2_CA06",
+            "description": "Munta els armaris de comunicacions i els seus accessoris.",
+            "source": {
+              "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+              "paragraph_index": 629,
+              "confidence": "docx_structural_text"
+            }
+          }
+        },
+        "CA07": {
+          "codi": "CA07",
+          "codi_complet": "IC10_0225_RA2_CA07",
+          "descripcio": "Munta i estableix connexió les preses d'usuari i panells de connexions.",
+          "font": {
+            "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+            "paragraph_index": 630,
+            "confidence": "docx_structural_text"
+          },
+          "dades_originals": {
+            "code": "CA07",
+            "code_full": "IC10_0225_RA2_CA07",
+            "description": "Munta i estableix connexió les preses d'usuari i panells de connexions.",
+            "source": {
+              "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+              "paragraph_index": 630,
+              "confidence": "docx_structural_text"
+            }
+          }
+        },
+        "CA08": {
+          "codi": "CA08",
+          "codi_complet": "IC10_0225_RA2_CA08",
+          "descripcio": "Prova les línies de comunicació entre les preses d'usuari i panells de connexions.",
+          "font": {
+            "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+            "paragraph_index": 631,
+            "confidence": "docx_structural_text"
+          },
+          "dades_originals": {
+            "code": "CA08",
+            "code_full": "IC10_0225_RA2_CA08",
+            "description": "Prova les línies de comunicació entre les preses d'usuari i panells de connexions.",
+            "source": {
+              "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+              "paragraph_index": 631,
+              "confidence": "docx_structural_text"
+            }
+          }
+        },
+        "CA09": {
+          "codi": "CA09",
+          "codi_complet": "IC10_0225_RA2_CA09",
+          "descripcio": "Etiqueta els cables i preses d'usuari.",
+          "font": {
+            "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+            "paragraph_index": 632,
+            "confidence": "docx_structural_text"
+          },
+          "dades_originals": {
+            "code": "CA09",
+            "code_full": "IC10_0225_RA2_CA09",
+            "description": "Etiqueta els cables i preses d'usuari.",
+            "source": {
+              "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+              "paragraph_index": 632,
+              "confidence": "docx_structural_text"
+            }
+          }
+        },
+        "CA10": {
+          "codi": "CA10",
+          "codi_complet": "IC10_0225_RA2_CA10",
+          "descripcio": "Treballa amb la qualitat i seguretat requerides.",
+          "font": {
+            "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+            "paragraph_index": 633,
+            "confidence": "docx_structural_text"
+          },
+          "dades_originals": {
+            "code": "CA10",
+            "code_full": "IC10_0225_RA2_CA10",
+            "description": "Treballa amb la qualitat i seguretat requerides.",
+            "source": {
+              "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+              "paragraph_index": 633,
+              "confidence": "docx_structural_text"
+            }
+          }
+        }
+      }
+    },
+    "RA3": {
+      "ordre": 3,
+      "codi": "RA3",
+      "codi_complet": "IC10_0225_RA3",
+      "descripcio": "Interconnecta equips en xarxes locals cablejades descrivint estàndards de cablejat i aplicant tècniques de muntatge de connectors.",
+      "descripcio_curta": "Interconnecta equips en xarxes locals cablejades descrivint estàndards de cablej",
+      "font": {
+        "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+        "paragraph_index": 634,
+        "confidence": "docx_structural_text"
+      },
+      "criteris_avaluacio": {
+        "CA01": {
+          "codi": "CA01",
+          "codi_complet": "IC10_0225_RA3_CA01",
+          "descripcio": "Interpreta el pla de muntatge lògic de la xarxa.",
+          "font": {
+            "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+            "paragraph_index": 641,
+            "confidence": "docx_structural_text"
+          },
+          "dades_originals": {
+            "code": "CA01",
+            "code_full": "IC10_0225_RA3_CA01",
+            "description": "Interpreta el pla de muntatge lògic de la xarxa.",
+            "source": {
+              "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+              "paragraph_index": 641,
+              "confidence": "docx_structural_text"
+            }
+          }
+        },
+        "CA02": {
+          "codi": "CA02",
+          "codi_complet": "IC10_0225_RA3_CA02",
+          "descripcio": "Munta els adaptadors de xarxa en els equips.",
+          "font": {
+            "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+            "paragraph_index": 642,
+            "confidence": "docx_structural_text"
+          },
+          "dades_originals": {
+            "code": "CA02",
+            "code_full": "IC10_0225_RA3_CA02",
+            "description": "Munta els adaptadors de xarxa en els equips.",
+            "source": {
+              "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+              "paragraph_index": 642,
+              "confidence": "docx_structural_text"
+            }
+          }
+        },
+        "CA03": {
+          "codi": "CA03",
+          "codi_complet": "IC10_0225_RA3_CA03",
+          "descripcio": "Munta connectors sobre cables (coure i fibra) de xarxa.",
+          "font": {
+            "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+            "paragraph_index": 643,
+            "confidence": "docx_structural_text"
+          },
+          "dades_originals": {
+            "code": "CA03",
+            "code_full": "IC10_0225_RA3_CA03",
+            "description": "Munta connectors sobre cables (coure i fibra) de xarxa.",
+            "source": {
+              "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+              "paragraph_index": 643,
+              "confidence": "docx_structural_text"
+            }
+          }
+        },
+        "CA04": {
+          "codi": "CA04",
+          "codi_complet": "IC10_0225_RA3_CA04",
+          "descripcio": "Munta els equips de commutació en els armaris de comunicacions.",
+          "font": {
+            "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+            "paragraph_index": 644,
+            "confidence": "docx_structural_text"
+          },
+          "dades_originals": {
+            "code": "CA04",
+            "code_full": "IC10_0225_RA3_CA04",
+            "description": "Munta els equips de commutació en els armaris de comunicacions.",
+            "source": {
+              "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+              "paragraph_index": 644,
+              "confidence": "docx_structural_text"
+            }
+          }
+        },
+        "CA05": {
+          "codi": "CA05",
+          "codi_complet": "IC10_0225_RA3_CA05",
+          "descripcio": "Connecta els equips de commutació als panells de connexions.",
+          "font": {
+            "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+            "paragraph_index": 645,
+            "confidence": "docx_structural_text"
+          },
+          "dades_originals": {
+            "code": "CA05",
+            "code_full": "IC10_0225_RA3_CA05",
+            "description": "Connecta els equips de commutació als panells de connexions.",
+            "source": {
+              "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+              "paragraph_index": 645,
+              "confidence": "docx_structural_text"
+            }
+          }
+        },
+        "CA06": {
+          "codi": "CA06",
+          "codi_complet": "IC10_0225_RA3_CA06",
+          "descripcio": "Verifica la connectivitat de la instal·lació.",
+          "font": {
+            "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+            "paragraph_index": 646,
+            "confidence": "docx_structural_text"
+          },
+          "dades_originals": {
+            "code": "CA06",
+            "code_full": "IC10_0225_RA3_CA06",
+            "description": "Verifica la connectivitat de la instal·lació.",
+            "source": {
+              "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+              "paragraph_index": 646,
+              "confidence": "docx_structural_text"
+            }
+          }
+        },
+        "CA07": {
+          "codi": "CA07",
+          "codi_complet": "IC10_0225_RA3_CA07",
+          "descripcio": "Treballa amb la qualitat requerida.",
+          "font": {
+            "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+            "paragraph_index": 647,
+            "confidence": "docx_structural_text"
+          },
+          "dades_originals": {
+            "code": "CA07",
+            "code_full": "IC10_0225_RA3_CA07",
+            "description": "Treballa amb la qualitat requerida.",
+            "source": {
+              "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+              "paragraph_index": 647,
+              "confidence": "docx_structural_text"
+            }
+          }
+        }
+      }
+    },
+    "RA4": {
+      "ordre": 4,
+      "codi": "RA4",
+      "codi_complet": "IC10_0225_RA4",
+      "descripcio": "Instal·la equips en xarxa, descrivint les seves prestacions i aplicant tècniques de muntatge.",
+      "descripcio_curta": "Instal·la equips en xarxa, descrivint les seves prestacions i aplicant tècniques",
+      "font": {
+        "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+        "paragraph_index": 648,
+        "confidence": "docx_structural_text"
+      },
+      "criteris_avaluacio": {
+        "CA01": {
+          "codi": "CA01",
+          "codi_complet": "IC10_0225_RA4_CA01",
+          "descripcio": "Identifica les característiques funcionals de les xarxes sense fils.",
+          "font": {
+            "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+            "paragraph_index": 653,
+            "confidence": "docx_structural_text"
+          },
+          "dades_originals": {
+            "code": "CA01",
+            "code_full": "IC10_0225_RA4_CA01",
+            "description": "Identifica les característiques funcionals de les xarxes sense fils.",
+            "source": {
+              "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+              "paragraph_index": 653,
+              "confidence": "docx_structural_text"
+            }
+          }
+        },
+        "CA02": {
+          "codi": "CA02",
+          "codi_complet": "IC10_0225_RA4_CA02",
+          "descripcio": "Identifica els modes de funcionament de les xarxes sense fils.",
+          "font": {
+            "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+            "paragraph_index": 654,
+            "confidence": "docx_structural_text"
+          },
+          "dades_originals": {
+            "code": "CA02",
+            "code_full": "IC10_0225_RA4_CA02",
+            "description": "Identifica els modes de funcionament de les xarxes sense fils.",
+            "source": {
+              "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+              "paragraph_index": 654,
+              "confidence": "docx_structural_text"
+            }
+          }
+        },
+        "CA03": {
+          "codi": "CA03",
+          "codi_complet": "IC10_0225_RA4_CA03",
+          "descripcio": "Instal·la adaptadors i punts d'accés sense fil.",
+          "font": {
+            "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+            "paragraph_index": 655,
+            "confidence": "docx_structural_text"
+          },
+          "dades_originals": {
+            "code": "CA03",
+            "code_full": "IC10_0225_RA4_CA03",
+            "description": "Instal·la adaptadors i punts d'accés sense fil.",
+            "source": {
+              "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+              "paragraph_index": 655,
+              "confidence": "docx_structural_text"
+            }
+          }
+        },
+        "CA04": {
+          "codi": "CA04",
+          "codi_complet": "IC10_0225_RA4_CA04",
+          "descripcio": "Configura els modes de funcionament i els paràmetres bàsics.",
+          "font": {
+            "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+            "paragraph_index": 656,
+            "confidence": "docx_structural_text"
+          },
+          "dades_originals": {
+            "code": "CA04",
+            "code_full": "IC10_0225_RA4_CA04",
+            "description": "Configura els modes de funcionament i els paràmetres bàsics.",
+            "source": {
+              "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+              "paragraph_index": 656,
+              "confidence": "docx_structural_text"
+            }
+          }
+        },
+        "CA05": {
+          "codi": "CA05",
+          "codi_complet": "IC10_0225_RA4_CA05",
+          "descripcio": "Comprova la connectivitat entre diversos dispositius i adaptadors sense fils.",
+          "font": {
+            "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+            "paragraph_index": 657,
+            "confidence": "docx_structural_text"
+          },
+          "dades_originals": {
+            "code": "CA05",
+            "code_full": "IC10_0225_RA4_CA05",
+            "description": "Comprova la connectivitat entre diversos dispositius i adaptadors sense fils.",
+            "source": {
+              "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+              "paragraph_index": 657,
+              "confidence": "docx_structural_text"
+            }
+          }
+        },
+        "CA06": {
+          "codi": "CA06",
+          "codi_complet": "IC10_0225_RA4_CA06",
+          "descripcio": "Instal·la el programari corresponent.",
+          "font": {
+            "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+            "paragraph_index": 658,
+            "confidence": "docx_structural_text"
+          },
+          "dades_originals": {
+            "code": "CA06",
+            "code_full": "IC10_0225_RA4_CA06",
+            "description": "Instal·la el programari corresponent.",
+            "source": {
+              "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+              "paragraph_index": 658,
+              "confidence": "docx_structural_text"
+            }
+          }
+        },
+        "CA07": {
+          "codi": "CA07",
+          "codi_complet": "IC10_0225_RA4_CA07",
+          "descripcio": "Identifica els protocols.",
+          "font": {
+            "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+            "paragraph_index": 659,
+            "confidence": "docx_structural_text"
+          },
+          "dades_originals": {
+            "code": "CA07",
+            "code_full": "IC10_0225_RA4_CA07",
+            "description": "Identifica els protocols.",
+            "source": {
+              "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+              "paragraph_index": 659,
+              "confidence": "docx_structural_text"
+            }
+          }
+        },
+        "CA08": {
+          "codi": "CA08",
+          "codi_complet": "IC10_0225_RA4_CA08",
+          "descripcio": "Configura els paràmetres bàsics.",
+          "font": {
+            "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+            "paragraph_index": 660,
+            "confidence": "docx_structural_text"
+          },
+          "dades_originals": {
+            "code": "CA08",
+            "code_full": "IC10_0225_RA4_CA08",
+            "description": "Configura els paràmetres bàsics.",
+            "source": {
+              "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+              "paragraph_index": 660,
+              "confidence": "docx_structural_text"
+            }
+          }
+        },
+        "CA09": {
+          "codi": "CA09",
+          "codi_complet": "IC10_0225_RA4_CA09",
+          "descripcio": "Aplica mecanismes bàsics de seguretat.",
+          "font": {
+            "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+            "paragraph_index": 661,
+            "confidence": "docx_structural_text"
+          },
+          "dades_originals": {
+            "code": "CA09",
+            "code_full": "IC10_0225_RA4_CA09",
+            "description": "Aplica mecanismes bàsics de seguretat.",
+            "source": {
+              "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+              "paragraph_index": 661,
+              "confidence": "docx_structural_text"
+            }
+          }
+        },
+        "CA10": {
+          "codi": "CA10",
+          "codi_complet": "IC10_0225_RA4_CA10",
+          "descripcio": "Crea i configura VLANS.",
+          "font": {
+            "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+            "paragraph_index": 662,
+            "confidence": "docx_structural_text"
+          },
+          "dades_originals": {
+            "code": "CA10",
+            "code_full": "IC10_0225_RA4_CA10",
+            "description": "Crea i configura VLANS.",
+            "source": {
+              "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+              "paragraph_index": 662,
+              "confidence": "docx_structural_text"
+            }
+          }
+        }
+      }
+    },
+    "RA5": {
+      "ordre": 5,
+      "codi": "RA5",
+      "codi_complet": "IC10_0225_RA5",
+      "descripcio": "Manté una xarxa local interpretant recomanacions dels fabricants de maquinari o programari i establint la relació entre disfuncions i les seves causes.",
+      "descripcio_curta": "Manté una xarxa local interpretant recomanacions dels fabricants de maquinari o ",
+      "font": {
+        "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+        "paragraph_index": 663,
+        "confidence": "docx_structural_text"
+      },
+      "criteris_avaluacio": {
+        "CA01": {
+          "codi": "CA01",
+          "codi_complet": "IC10_0225_RA5_CA01",
+          "descripcio": "Identifica incidències i comportaments anòmals.",
+          "font": {
+            "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+            "paragraph_index": 668,
+            "confidence": "docx_structural_text"
+          },
+          "dades_originals": {
+            "code": "CA01",
+            "code_full": "IC10_0225_RA5_CA01",
+            "description": "Identifica incidències i comportaments anòmals.",
+            "source": {
+              "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+              "paragraph_index": 668,
+              "confidence": "docx_structural_text"
+            }
+          }
+        },
+        "CA02": {
+          "codi": "CA02",
+          "codi_complet": "IC10_0225_RA5_CA02",
+          "descripcio": "Identifica si la disfunció és deguda al maquinari o al programari.",
+          "font": {
+            "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+            "paragraph_index": 669,
+            "confidence": "docx_structural_text"
+          },
+          "dades_originals": {
+            "code": "CA02",
+            "code_full": "IC10_0225_RA5_CA02",
+            "description": "Identifica si la disfunció és deguda al maquinari o al programari.",
+            "source": {
+              "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+              "paragraph_index": 669,
+              "confidence": "docx_structural_text"
+            }
+          }
+        },
+        "CA03": {
+          "codi": "CA03",
+          "codi_complet": "IC10_0225_RA5_CA03",
+          "descripcio": "Monitora els senyals visuals dels dispositius d'interconnexió.",
+          "font": {
+            "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+            "paragraph_index": 670,
+            "confidence": "docx_structural_text"
+          },
+          "dades_originals": {
+            "code": "CA03",
+            "code_full": "IC10_0225_RA5_CA03",
+            "description": "Monitora els senyals visuals dels dispositius d'interconnexió.",
+            "source": {
+              "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+              "paragraph_index": 670,
+              "confidence": "docx_structural_text"
+            }
+          }
+        },
+        "CA04": {
+          "codi": "CA04",
+          "codi_complet": "IC10_0225_RA5_CA04",
+          "descripcio": "Verifica els protocols de comunicacions.",
+          "font": {
+            "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+            "paragraph_index": 671,
+            "confidence": "docx_structural_text"
+          },
+          "dades_originals": {
+            "code": "CA04",
+            "code_full": "IC10_0225_RA5_CA04",
+            "description": "Verifica els protocols de comunicacions.",
+            "source": {
+              "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+              "paragraph_index": 671,
+              "confidence": "docx_structural_text"
+            }
+          }
+        },
+        "CA05": {
+          "codi": "CA05",
+          "codi_complet": "IC10_0225_RA5_CA05",
+          "descripcio": "Localitza la causa de la disfunció.",
+          "font": {
+            "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+            "paragraph_index": 672,
+            "confidence": "docx_structural_text"
+          },
+          "dades_originals": {
+            "code": "CA05",
+            "code_full": "IC10_0225_RA5_CA05",
+            "description": "Localitza la causa de la disfunció.",
+            "source": {
+              "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+              "paragraph_index": 672,
+              "confidence": "docx_structural_text"
+            }
+          }
+        },
+        "CA06": {
+          "codi": "CA06",
+          "codi_complet": "IC10_0225_RA5_CA06",
+          "descripcio": "Restitueix el funcionament substituint equips o elements.",
+          "font": {
+            "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+            "paragraph_index": 673,
+            "confidence": "docx_structural_text"
+          },
+          "dades_originals": {
+            "code": "CA06",
+            "code_full": "IC10_0225_RA5_CA06",
+            "description": "Restitueix el funcionament substituint equips o elements.",
+            "source": {
+              "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+              "paragraph_index": 673,
+              "confidence": "docx_structural_text"
+            }
+          }
+        },
+        "CA07": {
+          "codi": "CA07",
+          "codi_complet": "IC10_0225_RA5_CA07",
+          "descripcio": "Soluciona les disfuncions programari 0 (configurant o reinstal·lant).",
+          "font": {
+            "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+            "paragraph_index": 674,
+            "confidence": "docx_structural_text"
+          },
+          "dades_originals": {
+            "code": "CA07",
+            "code_full": "IC10_0225_RA5_CA07",
+            "description": "Soluciona les disfuncions programari 0 (configurant o reinstal·lant).",
+            "source": {
+              "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+              "paragraph_index": 674,
+              "confidence": "docx_structural_text"
+            }
+          }
+        },
+        "CA08": {
+          "codi": "CA08",
+          "codi_complet": "IC10_0225_RA5_CA08",
+          "descripcio": "Elabora un informe d'incidències.",
+          "font": {
+            "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+            "paragraph_index": 675,
+            "confidence": "docx_structural_text"
+          },
+          "dades_originals": {
+            "code": "CA08",
+            "code_full": "IC10_0225_RA5_CA08",
+            "description": "Elabora un informe d'incidències.",
+            "source": {
+              "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+              "paragraph_index": 675,
+              "confidence": "docx_structural_text"
+            }
+          }
+        }
+      }
+    },
+    "RA6": {
+      "ordre": 6,
+      "codi": "RA6",
+      "codi_complet": "IC10_0225_RA6",
+      "descripcio": "Compleix les normes de prevenció de riscos laborals i de protecció ambiental, identificant els riscos associats, les mesures i equips per a prevenir-los.",
+      "descripcio_curta": "Compleix les normes de prevenció de riscos laborals i de protecció ambiental, id",
+      "font": {
+        "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+        "paragraph_index": 676,
+        "confidence": "docx_structural_text"
+      },
+      "criteris_avaluacio": {
+        "CA01": {
+          "codi": "CA01",
+          "codi_complet": "IC10_0225_RA6_CA01",
+          "descripcio": "Identifica els riscos i el nivell de perillositat que suposa la manipulació dels materials, eines, útils, màquines i mitjans de transport.",
+          "font": {
+            "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+            "paragraph_index": 681,
+            "confidence": "docx_structural_text"
+          },
+          "dades_originals": {
+            "code": "CA01",
+            "code_full": "IC10_0225_RA6_CA01",
+            "description": "Identifica els riscos i el nivell de perillositat que suposa la manipulació dels materials, eines, útils, màquines i mitjans de transport.",
+            "source": {
+              "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+              "paragraph_index": 681,
+              "confidence": "docx_structural_text"
+            }
+          }
+        },
+        "CA02": {
+          "codi": "CA02",
+          "codi_complet": "IC10_0225_RA6_CA02",
+          "descripcio": "Opera les màquines respectant les normes de seguretat.",
+          "font": {
+            "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+            "paragraph_index": 682,
+            "confidence": "docx_structural_text"
+          },
+          "dades_originals": {
+            "code": "CA02",
+            "code_full": "IC10_0225_RA6_CA02",
+            "description": "Opera les màquines respectant les normes de seguretat.",
+            "source": {
+              "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+              "paragraph_index": 682,
+              "confidence": "docx_structural_text"
+            }
+          }
+        },
+        "CA03": {
+          "codi": "CA03",
+          "codi_complet": "IC10_0225_RA6_CA03",
+          "descripcio": "Identifica les causes més freqüents d'accidents en la manipulació de materials, eines, màquines de tall i conformat, entre altres.",
+          "font": {
+            "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+            "paragraph_index": 683,
+            "confidence": "docx_structural_text"
+          },
+          "dades_originals": {
+            "code": "CA03",
+            "code_full": "IC10_0225_RA6_CA03",
+            "description": "Identifica les causes més freqüents d'accidents en la manipulació de materials, eines, màquines de tall i conformat, entre altres.",
+            "source": {
+              "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+              "paragraph_index": 683,
+              "confidence": "docx_structural_text"
+            }
+          }
+        },
+        "CA04": {
+          "codi": "CA04",
+          "codi_complet": "IC10_0225_RA6_CA04",
+          "descripcio": "Descriu els elements de seguretat (proteccions, alarmes, passos d'emergència, entre altres) de les màquines i els equips de protecció individual (calçat, protecció ocular, indumentària, entre altres) que s'han d'emprar en les operacions de muntatge i manteniment.",
+          "font": {
+            "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+            "paragraph_index": 684,
+            "confidence": "docx_structural_text"
+          },
+          "dades_originals": {
+            "code": "CA04",
+            "code_full": "IC10_0225_RA6_CA04",
+            "description": "Descriu els elements de seguretat (proteccions, alarmes, passos d'emergència, entre altres) de les màquines i els equips de protecció individual (calçat, protecció ocular, indumentària, entre altres) que s'han d'emprar en les operacions de muntatge i manteniment.",
+            "source": {
+              "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+              "paragraph_index": 684,
+              "confidence": "docx_structural_text"
+            }
+          }
+        },
+        "CA05": {
+          "codi": "CA05",
+          "codi_complet": "IC10_0225_RA6_CA05",
+          "descripcio": "Relaciona la manipulació de materials, eines i màquines amb les mesures de seguretat i protecció personal requerides.",
+          "font": {
+            "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+            "paragraph_index": 685,
+            "confidence": "docx_structural_text"
+          },
+          "dades_originals": {
+            "code": "CA05",
+            "code_full": "IC10_0225_RA6_CA05",
+            "description": "Relaciona la manipulació de materials, eines i màquines amb les mesures de seguretat i protecció personal requerides.",
+            "source": {
+              "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+              "paragraph_index": 685,
+              "confidence": "docx_structural_text"
+            }
+          }
+        },
+        "CA06": {
+          "codi": "CA06",
+          "codi_complet": "IC10_0225_RA6_CA06",
+          "descripcio": "Identifica les possibles fonts de contaminació de l'entorn ambiental.",
+          "font": {
+            "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+            "paragraph_index": 686,
+            "confidence": "docx_structural_text"
+          },
+          "dades_originals": {
+            "code": "CA06",
+            "code_full": "IC10_0225_RA6_CA06",
+            "description": "Identifica les possibles fonts de contaminació de l'entorn ambiental.",
+            "source": {
+              "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+              "paragraph_index": 686,
+              "confidence": "docx_structural_text"
+            }
+          }
+        },
+        "CA07": {
+          "codi": "CA07",
+          "codi_complet": "IC10_0225_RA6_CA07",
+          "descripcio": "Classifica els residus generats per a la seva retirada selectiva.",
+          "font": {
+            "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+            "paragraph_index": 687,
+            "confidence": "docx_structural_text"
+          },
+          "dades_originals": {
+            "code": "CA07",
+            "code_full": "IC10_0225_RA6_CA07",
+            "description": "Classifica els residus generats per a la seva retirada selectiva.",
+            "source": {
+              "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+              "paragraph_index": 687,
+              "confidence": "docx_structural_text"
+            }
+          }
+        },
+        "CA08": {
+          "codi": "CA08",
+          "codi_complet": "IC10_0225_RA6_CA08",
+          "descripcio": "Valora l'ordre i la neteja d'instal·lacions i equips com a primer factor de prevenció de riscos.",
+          "font": {
+            "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+            "paragraph_index": 688,
+            "confidence": "docx_structural_text"
+          },
+          "dades_originals": {
+            "code": "CA08",
+            "code_full": "IC10_0225_RA6_CA08",
+            "description": "Valora l'ordre i la neteja d'instal·lacions i equips com a primer factor de prevenció de riscos.",
+            "source": {
+              "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+              "paragraph_index": 688,
+              "confidence": "docx_structural_text"
+            }
+          }
+        }
+      }
+    }
+  },
+  "metadata": {
+    "font": "docs/data",
+    "fitxer_origen": "ic10.json",
+    "estat": "generat",
+    "data_generacio": "2026-07-15T14:28:35.869249+00:00"
+  }
+}

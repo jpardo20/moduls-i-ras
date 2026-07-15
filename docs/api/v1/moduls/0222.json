@@ -1,0 +1,914 @@
+{
+  "api_version": "1.0",
+  "codi": "0222",
+  "nom": "Sistemes operatius monolloc",
+  "cicle": {
+    "codi": "IC10",
+    "nom": "smx"
+  },
+  "hores": {
+    "total": 132
+  },
+  "empresa": {
+    "te_estada": true
+  },
+  "num_ra": 5,
+  "resultats_aprenentatge": {
+    "RA1": {
+      "ordre": 1,
+      "codi": "RA1",
+      "codi_complet": "IC10_0222_RA1",
+      "descripcio": "Reconeix les característiques dels sistemes operatius, descrivint-ne els tipus i aplicacions.",
+      "descripcio_curta": "Reconeix les característiques dels sistemes operatius, descrivint-ne els tipus i",
+      "font": {
+        "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+        "paragraph_index": 211,
+        "confidence": "docx_structural_text"
+      },
+      "criteris_avaluacio": {
+        "CA01": {
+          "codi": "CA01",
+          "codi_complet": "IC10_0222_RA1_CA01",
+          "descripcio": "Identifica i descriu els elements funcionals d'un sistema informàtic.",
+          "font": {
+            "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+            "paragraph_index": 213,
+            "confidence": "docx_structural_text"
+          },
+          "dades_originals": {
+            "code": "CA01",
+            "code_full": "IC10_0222_RA1_CA01",
+            "description": "Identifica i descriu els elements funcionals d'un sistema informàtic.",
+            "source": {
+              "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+              "paragraph_index": 213,
+              "confidence": "docx_structural_text"
+            }
+          }
+        },
+        "CA02": {
+          "codi": "CA02",
+          "codi_complet": "IC10_0222_RA1_CA02",
+          "descripcio": "Codifica i relaciona la informació en els diferents sistemes de representació.",
+          "font": {
+            "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+            "paragraph_index": 214,
+            "confidence": "docx_structural_text"
+          },
+          "dades_originals": {
+            "code": "CA02",
+            "code_full": "IC10_0222_RA1_CA02",
+            "description": "Codifica i relaciona la informació en els diferents sistemes de representació.",
+            "source": {
+              "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+              "paragraph_index": 214,
+              "confidence": "docx_structural_text"
+            }
+          }
+        },
+        "CA03": {
+          "codi": "CA03",
+          "codi_complet": "IC10_0222_RA1_CA03",
+          "descripcio": "Identifica els processos i els seus estats.",
+          "font": {
+            "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+            "paragraph_index": 215,
+            "confidence": "docx_structural_text"
+          },
+          "dades_originals": {
+            "code": "CA03",
+            "code_full": "IC10_0222_RA1_CA03",
+            "description": "Identifica els processos i els seus estats.",
+            "source": {
+              "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+              "paragraph_index": 215,
+              "confidence": "docx_structural_text"
+            }
+          }
+        },
+        "CA04": {
+          "codi": "CA04",
+          "codi_complet": "IC10_0222_RA1_CA04",
+          "descripcio": "Descriu l'estructura i organització del sistema d'arxius.",
+          "font": {
+            "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+            "paragraph_index": 216,
+            "confidence": "docx_structural_text"
+          },
+          "dades_originals": {
+            "code": "CA04",
+            "code_full": "IC10_0222_RA1_CA04",
+            "description": "Descriu l'estructura i organització del sistema d'arxius.",
+            "source": {
+              "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+              "paragraph_index": 216,
+              "confidence": "docx_structural_text"
+            }
+          }
+        },
+        "CA05": {
+          "codi": "CA05",
+          "codi_complet": "IC10_0222_RA1_CA05",
+          "descripcio": "Distingeix els atributs d'un arxiu i un directori.",
+          "font": {
+            "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+            "paragraph_index": 217,
+            "confidence": "docx_structural_text"
+          },
+          "dades_originals": {
+            "code": "CA05",
+            "code_full": "IC10_0222_RA1_CA05",
+            "description": "Distingeix els atributs d'un arxiu i un directori.",
+            "source": {
+              "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+              "paragraph_index": 217,
+              "confidence": "docx_structural_text"
+            }
+          }
+        },
+        "CA06": {
+          "codi": "CA06",
+          "codi_complet": "IC10_0222_RA1_CA06",
+          "descripcio": "Reconeix els permisos d'arxius i directoris.",
+          "font": {
+            "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+            "paragraph_index": 218,
+            "confidence": "docx_structural_text"
+          },
+          "dades_originals": {
+            "code": "CA06",
+            "code_full": "IC10_0222_RA1_CA06",
+            "description": "Reconeix els permisos d'arxius i directoris.",
+            "source": {
+              "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+              "paragraph_index": 218,
+              "confidence": "docx_structural_text"
+            }
+          }
+        },
+        "CA07": {
+          "codi": "CA07",
+          "codi_complet": "IC10_0222_RA1_CA07",
+          "descripcio": "Constata la utilitat dels sistemes transaccionals i les seves repercussions en seleccionar un sistema d'arxius.",
+          "font": {
+            "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+            "paragraph_index": 219,
+            "confidence": "docx_structural_text"
+          },
+          "dades_originals": {
+            "code": "CA07",
+            "code_full": "IC10_0222_RA1_CA07",
+            "description": "Constata la utilitat dels sistemes transaccionals i les seves repercussions en seleccionar un sistema d'arxius.",
+            "source": {
+              "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+              "paragraph_index": 219,
+              "confidence": "docx_structural_text"
+            }
+          }
+        }
+      }
+    },
+    "RA2": {
+      "ordre": 2,
+      "codi": "RA2",
+      "codi_complet": "IC10_0222_RA2",
+      "descripcio": "Instal·la sistemes operatius, relacionant-ne les característiques amb el maquinari de l'equip i el programari d'aplicació.",
+      "descripcio_curta": "Instal·la sistemes operatius, relacionant-ne les característiques amb el maquina",
+      "font": {
+        "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+        "paragraph_index": 220,
+        "confidence": "docx_structural_text"
+      },
+      "criteris_avaluacio": {
+        "CA01": {
+          "codi": "CA01",
+          "codi_complet": "IC10_0222_RA2_CA01",
+          "descripcio": "Analitza les funcions del sistema operatiu.",
+          "font": {
+            "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+            "paragraph_index": 224,
+            "confidence": "docx_structural_text"
+          },
+          "dades_originals": {
+            "code": "CA01",
+            "code_full": "IC10_0222_RA2_CA01",
+            "description": "Analitza les funcions del sistema operatiu.",
+            "source": {
+              "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+              "paragraph_index": 224,
+              "confidence": "docx_structural_text"
+            }
+          }
+        },
+        "CA02": {
+          "codi": "CA02",
+          "codi_complet": "IC10_0222_RA2_CA02",
+          "descripcio": "Descriu l'arquitectura del sistema operatiu.",
+          "font": {
+            "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+            "paragraph_index": 225,
+            "confidence": "docx_structural_text"
+          },
+          "dades_originals": {
+            "code": "CA02",
+            "code_full": "IC10_0222_RA2_CA02",
+            "description": "Descriu l'arquitectura del sistema operatiu.",
+            "source": {
+              "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+              "paragraph_index": 225,
+              "confidence": "docx_structural_text"
+            }
+          }
+        },
+        "CA03": {
+          "codi": "CA03",
+          "codi_complet": "IC10_0222_RA2_CA03",
+          "descripcio": "Verifica la idoneïtat del maquinari.",
+          "font": {
+            "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+            "paragraph_index": 226,
+            "confidence": "docx_structural_text"
+          },
+          "dades_originals": {
+            "code": "CA03",
+            "code_full": "IC10_0222_RA2_CA03",
+            "description": "Verifica la idoneïtat del maquinari.",
+            "source": {
+              "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+              "paragraph_index": 226,
+              "confidence": "docx_structural_text"
+            }
+          }
+        },
+        "CA04": {
+          "codi": "CA04",
+          "codi_complet": "IC10_0222_RA2_CA04",
+          "descripcio": "Selecciona el sistema operatiu.",
+          "font": {
+            "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+            "paragraph_index": 227,
+            "confidence": "docx_structural_text"
+          },
+          "dades_originals": {
+            "code": "CA04",
+            "code_full": "IC10_0222_RA2_CA04",
+            "description": "Selecciona el sistema operatiu.",
+            "source": {
+              "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+              "paragraph_index": 227,
+              "confidence": "docx_structural_text"
+            }
+          }
+        },
+        "CA05": {
+          "codi": "CA05",
+          "codi_complet": "IC10_0222_RA2_CA05",
+          "descripcio": "Elabora un pla d'instal·lació.",
+          "font": {
+            "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+            "paragraph_index": 228,
+            "confidence": "docx_structural_text"
+          },
+          "dades_originals": {
+            "code": "CA05",
+            "code_full": "IC10_0222_RA2_CA05",
+            "description": "Elabora un pla d'instal·lació.",
+            "source": {
+              "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+              "paragraph_index": 228,
+              "confidence": "docx_structural_text"
+            }
+          }
+        },
+        "CA06": {
+          "codi": "CA06",
+          "codi_complet": "IC10_0222_RA2_CA06",
+          "descripcio": "Configura paràmetres bàsics de la instal·lació.",
+          "font": {
+            "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+            "paragraph_index": 229,
+            "confidence": "docx_structural_text"
+          },
+          "dades_originals": {
+            "code": "CA06",
+            "code_full": "IC10_0222_RA2_CA06",
+            "description": "Configura paràmetres bàsics de la instal·lació.",
+            "source": {
+              "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+              "paragraph_index": 229,
+              "confidence": "docx_structural_text"
+            }
+          }
+        },
+        "CA07": {
+          "codi": "CA07",
+          "codi_complet": "IC10_0222_RA2_CA07",
+          "descripcio": "Configura un gestor d'arrencada.",
+          "font": {
+            "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+            "paragraph_index": 230,
+            "confidence": "docx_structural_text"
+          },
+          "dades_originals": {
+            "code": "CA07",
+            "code_full": "IC10_0222_RA2_CA07",
+            "description": "Configura un gestor d'arrencada.",
+            "source": {
+              "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+              "paragraph_index": 230,
+              "confidence": "docx_structural_text"
+            }
+          }
+        },
+        "CA08": {
+          "codi": "CA08",
+          "codi_complet": "IC10_0222_RA2_CA08",
+          "descripcio": "Descriu les incidències de la instal·lació.",
+          "font": {
+            "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+            "paragraph_index": 231,
+            "confidence": "docx_structural_text"
+          },
+          "dades_originals": {
+            "code": "CA08",
+            "code_full": "IC10_0222_RA2_CA08",
+            "description": "Descriu les incidències de la instal·lació.",
+            "source": {
+              "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+              "paragraph_index": 231,
+              "confidence": "docx_structural_text"
+            }
+          }
+        },
+        "CA09": {
+          "codi": "CA09",
+          "codi_complet": "IC10_0222_RA2_CA09",
+          "descripcio": "Respecta les normes d'utilització del programari (llicències).",
+          "font": {
+            "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+            "paragraph_index": 232,
+            "confidence": "docx_structural_text"
+          },
+          "dades_originals": {
+            "code": "CA09",
+            "code_full": "IC10_0222_RA2_CA09",
+            "description": "Respecta les normes d'utilització del programari (llicències).",
+            "source": {
+              "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+              "paragraph_index": 232,
+              "confidence": "docx_structural_text"
+            }
+          }
+        },
+        "CA10": {
+          "codi": "CA10",
+          "codi_complet": "IC10_0222_RA2_CA10",
+          "descripcio": "Actualitza el sistema operatiu.",
+          "font": {
+            "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+            "paragraph_index": 233,
+            "confidence": "docx_structural_text"
+          },
+          "dades_originals": {
+            "code": "CA10",
+            "code_full": "IC10_0222_RA2_CA10",
+            "description": "Actualitza el sistema operatiu.",
+            "source": {
+              "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+              "paragraph_index": 233,
+              "confidence": "docx_structural_text"
+            }
+          }
+        }
+      }
+    },
+    "RA3": {
+      "ordre": 3,
+      "codi": "RA3",
+      "codi_complet": "IC10_0222_RA3",
+      "descripcio": "Realitza tasques bàsiques de configuració de sistemes operatius, interpretant-ne requeriments i descrivint-ne els procediments seguits.",
+      "descripcio_curta": "Realitza tasques bàsiques de configuració de sistemes operatius, interpretant-ne",
+      "font": {
+        "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+        "paragraph_index": 234,
+        "confidence": "docx_structural_text"
+      },
+      "criteris_avaluacio": {
+        "CA01": {
+          "codi": "CA01",
+          "codi_complet": "IC10_0222_RA3_CA01",
+          "descripcio": "Diferencia les interfícies d'usuari segons les seves propietats",
+          "font": {
+            "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+            "paragraph_index": 241,
+            "confidence": "docx_structural_text"
+          },
+          "dades_originals": {
+            "code": "CA01",
+            "code_full": "IC10_0222_RA3_CA01",
+            "description": "Diferencia les interfícies d'usuari segons les seves propietats",
+            "source": {
+              "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+              "paragraph_index": 241,
+              "confidence": "docx_structural_text"
+            }
+          }
+        },
+        "CA02": {
+          "codi": "CA02",
+          "codi_complet": "IC10_0222_RA3_CA02",
+          "descripcio": "Aplica preferències en la configuració de l'entorn personal.",
+          "font": {
+            "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+            "paragraph_index": 242,
+            "confidence": "docx_structural_text"
+          },
+          "dades_originals": {
+            "code": "CA02",
+            "code_full": "IC10_0222_RA3_CA02",
+            "description": "Aplica preferències en la configuració de l'entorn personal.",
+            "source": {
+              "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+              "paragraph_index": 242,
+              "confidence": "docx_structural_text"
+            }
+          }
+        },
+        "CA03": {
+          "codi": "CA03",
+          "codi_complet": "IC10_0222_RA3_CA03",
+          "descripcio": "Gestiona els sistemes d'arxius específics.",
+          "font": {
+            "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+            "paragraph_index": 243,
+            "confidence": "docx_structural_text"
+          },
+          "dades_originals": {
+            "code": "CA03",
+            "code_full": "IC10_0222_RA3_CA03",
+            "description": "Gestiona els sistemes d'arxius específics.",
+            "source": {
+              "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+              "paragraph_index": 243,
+              "confidence": "docx_structural_text"
+            }
+          }
+        },
+        "CA04": {
+          "codi": "CA04",
+          "codi_complet": "IC10_0222_RA3_CA04",
+          "descripcio": "Aplica mètodes per a la recuperació del sistema operatiu.",
+          "font": {
+            "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+            "paragraph_index": 244,
+            "confidence": "docx_structural_text"
+          },
+          "dades_originals": {
+            "code": "CA04",
+            "code_full": "IC10_0222_RA3_CA04",
+            "description": "Aplica mètodes per a la recuperació del sistema operatiu.",
+            "source": {
+              "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+              "paragraph_index": 244,
+              "confidence": "docx_structural_text"
+            }
+          }
+        },
+        "CA05": {
+          "codi": "CA05",
+          "codi_complet": "IC10_0222_RA3_CA05",
+          "descripcio": "Realitza la configuració per a l'actualització del sistema operatiu.",
+          "font": {
+            "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+            "paragraph_index": 245,
+            "confidence": "docx_structural_text"
+          },
+          "dades_originals": {
+            "code": "CA05",
+            "code_full": "IC10_0222_RA3_CA05",
+            "description": "Realitza la configuració per a l'actualització del sistema operatiu.",
+            "source": {
+              "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+              "paragraph_index": 245,
+              "confidence": "docx_structural_text"
+            }
+          }
+        },
+        "CA06": {
+          "codi": "CA06",
+          "codi_complet": "IC10_0222_RA3_CA06",
+          "descripcio": "Realitza operacions d'instal·lació/desinstal·lació d'utilitats.",
+          "font": {
+            "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+            "paragraph_index": 246,
+            "confidence": "docx_structural_text"
+          },
+          "dades_originals": {
+            "code": "CA06",
+            "code_full": "IC10_0222_RA3_CA06",
+            "description": "Realitza operacions d'instal·lació/desinstal·lació d'utilitats.",
+            "source": {
+              "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+              "paragraph_index": 246,
+              "confidence": "docx_structural_text"
+            }
+          }
+        },
+        "CA07": {
+          "codi": "CA07",
+          "codi_complet": "IC10_0222_RA3_CA07",
+          "descripcio": "Utilitza els assistents de configuració del sistema (accés a xarxes, dispositius, entre d’altres).",
+          "font": {
+            "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+            "paragraph_index": 247,
+            "confidence": "docx_structural_text"
+          },
+          "dades_originals": {
+            "code": "CA07",
+            "code_full": "IC10_0222_RA3_CA07",
+            "description": "Utilitza els assistents de configuració del sistema (accés a xarxes, dispositius, entre d’altres).",
+            "source": {
+              "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+              "paragraph_index": 247,
+              "confidence": "docx_structural_text"
+            }
+          }
+        },
+        "CA08": {
+          "codi": "CA08",
+          "codi_complet": "IC10_0222_RA3_CA08",
+          "descripcio": "Executa operacions per a l'automatització de tasques del sistema",
+          "font": {
+            "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+            "paragraph_index": 248,
+            "confidence": "docx_structural_text"
+          },
+          "dades_originals": {
+            "code": "CA08",
+            "code_full": "IC10_0222_RA3_CA08",
+            "description": "Executa operacions per a l'automatització de tasques del sistema",
+            "source": {
+              "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+              "paragraph_index": 248,
+              "confidence": "docx_structural_text"
+            }
+          }
+        }
+      }
+    },
+    "RA4": {
+      "ordre": 4,
+      "codi": "RA4",
+      "codi_complet": "IC10_0222_RA4",
+      "descripcio": "Realitza operacions bàsiques d'administració de sistemes operatius, interpretant requeriments i optimitzant el sistema per al seu ús.",
+      "descripcio_curta": "Realitza operacions bàsiques d'administració de sistemes operatius, interpretant",
+      "font": {
+        "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+        "paragraph_index": 249,
+        "confidence": "docx_structural_text"
+      },
+      "criteris_avaluacio": {
+        "CA01": {
+          "codi": "CA01",
+          "codi_complet": "IC10_0222_RA4_CA01",
+          "descripcio": "Configura perfils d'usuari i grup.",
+          "font": {
+            "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+            "paragraph_index": 254,
+            "confidence": "docx_structural_text"
+          },
+          "dades_originals": {
+            "code": "CA01",
+            "code_full": "IC10_0222_RA4_CA01",
+            "description": "Configura perfils d'usuari i grup.",
+            "source": {
+              "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+              "paragraph_index": 254,
+              "confidence": "docx_structural_text"
+            }
+          }
+        },
+        "CA02": {
+          "codi": "CA02",
+          "codi_complet": "IC10_0222_RA4_CA02",
+          "descripcio": "Utilitza eines gràfiques per a descriure l'organització dels arxius del sistema.",
+          "font": {
+            "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+            "paragraph_index": 255,
+            "confidence": "docx_structural_text"
+          },
+          "dades_originals": {
+            "code": "CA02",
+            "code_full": "IC10_0222_RA4_CA02",
+            "description": "Utilitza eines gràfiques per a descriure l'organització dels arxius del sistema.",
+            "source": {
+              "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+              "paragraph_index": 255,
+              "confidence": "docx_structural_text"
+            }
+          }
+        },
+        "CA03": {
+          "codi": "CA03",
+          "codi_complet": "IC10_0222_RA4_CA03",
+          "descripcio": "Actua sobre els processos de l'usuari en funció de les necessitats puntuals.",
+          "font": {
+            "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+            "paragraph_index": 256,
+            "confidence": "docx_structural_text"
+          },
+          "dades_originals": {
+            "code": "CA03",
+            "code_full": "IC10_0222_RA4_CA03",
+            "description": "Actua sobre els processos de l'usuari en funció de les necessitats puntuals.",
+            "source": {
+              "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+              "paragraph_index": 256,
+              "confidence": "docx_structural_text"
+            }
+          }
+        },
+        "CA04": {
+          "codi": "CA04",
+          "codi_complet": "IC10_0222_RA4_CA04",
+          "descripcio": "Actua sobre els serveis del sistema en funció de les necessitats puntuals.",
+          "font": {
+            "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+            "paragraph_index": 257,
+            "confidence": "docx_structural_text"
+          },
+          "dades_originals": {
+            "code": "CA04",
+            "code_full": "IC10_0222_RA4_CA04",
+            "description": "Actua sobre els serveis del sistema en funció de les necessitats puntuals.",
+            "source": {
+              "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+              "paragraph_index": 257,
+              "confidence": "docx_structural_text"
+            }
+          }
+        },
+        "CA05": {
+          "codi": "CA05",
+          "codi_complet": "IC10_0222_RA4_CA05",
+          "descripcio": "Aplica criteris per a l'optimització de la memòria disponible.",
+          "font": {
+            "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+            "paragraph_index": 258,
+            "confidence": "docx_structural_text"
+          },
+          "dades_originals": {
+            "code": "CA05",
+            "code_full": "IC10_0222_RA4_CA05",
+            "description": "Aplica criteris per a l'optimització de la memòria disponible.",
+            "source": {
+              "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+              "paragraph_index": 258,
+              "confidence": "docx_structural_text"
+            }
+          }
+        },
+        "CA06": {
+          "codi": "CA06",
+          "codi_complet": "IC10_0222_RA4_CA06",
+          "descripcio": "Analitza l'activitat del sistema a partir de les traces generades pel propi sistema.",
+          "font": {
+            "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+            "paragraph_index": 259,
+            "confidence": "docx_structural_text"
+          },
+          "dades_originals": {
+            "code": "CA06",
+            "code_full": "IC10_0222_RA4_CA06",
+            "description": "Analitza l'activitat del sistema a partir de les traces generades pel propi sistema.",
+            "source": {
+              "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+              "paragraph_index": 259,
+              "confidence": "docx_structural_text"
+            }
+          }
+        },
+        "CA07": {
+          "codi": "CA07",
+          "codi_complet": "IC10_0222_RA4_CA07",
+          "descripcio": "Optimitza el funcionament dels dispositius d'emmagatzematge.",
+          "font": {
+            "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+            "paragraph_index": 260,
+            "confidence": "docx_structural_text"
+          },
+          "dades_originals": {
+            "code": "CA07",
+            "code_full": "IC10_0222_RA4_CA07",
+            "description": "Optimitza el funcionament dels dispositius d'emmagatzematge.",
+            "source": {
+              "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+              "paragraph_index": 260,
+              "confidence": "docx_structural_text"
+            }
+          }
+        },
+        "CA08": {
+          "codi": "CA08",
+          "codi_complet": "IC10_0222_RA4_CA08",
+          "descripcio": "Reconeix i configura els recursos compartibles del sistema.",
+          "font": {
+            "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+            "paragraph_index": 261,
+            "confidence": "docx_structural_text"
+          },
+          "dades_originals": {
+            "code": "CA08",
+            "code_full": "IC10_0222_RA4_CA08",
+            "description": "Reconeix i configura els recursos compartibles del sistema.",
+            "source": {
+              "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+              "paragraph_index": 261,
+              "confidence": "docx_structural_text"
+            }
+          }
+        },
+        "CA09": {
+          "codi": "CA09",
+          "codi_complet": "IC10_0222_RA4_CA09",
+          "descripcio": "Interpreta la informació de configuració del sistema operatiu.",
+          "font": {
+            "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+            "paragraph_index": 262,
+            "confidence": "docx_structural_text"
+          },
+          "dades_originals": {
+            "code": "CA09",
+            "code_full": "IC10_0222_RA4_CA09",
+            "description": "Interpreta la informació de configuració del sistema operatiu.",
+            "source": {
+              "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+              "paragraph_index": 262,
+              "confidence": "docx_structural_text"
+            }
+          }
+        }
+      }
+    },
+    "RA5": {
+      "ordre": 5,
+      "codi": "RA5",
+      "codi_complet": "IC10_0222_RA5",
+      "descripcio": "Crea màquines virtuals identificant-ne el camp d'aplicació i instal·lant-hi programari específic.",
+      "descripcio_curta": "Crea màquines virtuals identificant-ne el camp d'aplicació i instal·lant-hi prog",
+      "font": {
+        "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+        "paragraph_index": 263,
+        "confidence": "docx_structural_text"
+      },
+      "criteris_avaluacio": {
+        "CA01": {
+          "codi": "CA01",
+          "codi_complet": "IC10_0222_RA5_CA01",
+          "descripcio": "Diferencia entre màquina real i màquina virtual.",
+          "font": {
+            "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+            "paragraph_index": 268,
+            "confidence": "docx_structural_text"
+          },
+          "dades_originals": {
+            "code": "CA01",
+            "code_full": "IC10_0222_RA5_CA01",
+            "description": "Diferencia entre màquina real i màquina virtual.",
+            "source": {
+              "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+              "paragraph_index": 268,
+              "confidence": "docx_structural_text"
+            }
+          }
+        },
+        "CA02": {
+          "codi": "CA02",
+          "codi_complet": "IC10_0222_RA5_CA02",
+          "descripcio": "Estableix els avantatges i inconvenients de la utilització de màquines virtuals.",
+          "font": {
+            "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+            "paragraph_index": 269,
+            "confidence": "docx_structural_text"
+          },
+          "dades_originals": {
+            "code": "CA02",
+            "code_full": "IC10_0222_RA5_CA02",
+            "description": "Estableix els avantatges i inconvenients de la utilització de màquines virtuals.",
+            "source": {
+              "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+              "paragraph_index": 269,
+              "confidence": "docx_structural_text"
+            }
+          }
+        },
+        "CA03": {
+          "codi": "CA03",
+          "codi_complet": "IC10_0222_RA5_CA03",
+          "descripcio": "Instal·la el programari lliure i propietari per a la creació de màquines virtuals.",
+          "font": {
+            "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+            "paragraph_index": 270,
+            "confidence": "docx_structural_text"
+          },
+          "dades_originals": {
+            "code": "CA03",
+            "code_full": "IC10_0222_RA5_CA03",
+            "description": "Instal·la el programari lliure i propietari per a la creació de màquines virtuals.",
+            "source": {
+              "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+              "paragraph_index": 270,
+              "confidence": "docx_structural_text"
+            }
+          }
+        },
+        "CA04": {
+          "codi": "CA04",
+          "codi_complet": "IC10_0222_RA5_CA04",
+          "descripcio": "Crea màquines virtuals a partir de sistemes operatius lliures i propietaris.",
+          "font": {
+            "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+            "paragraph_index": 271,
+            "confidence": "docx_structural_text"
+          },
+          "dades_originals": {
+            "code": "CA04",
+            "code_full": "IC10_0222_RA5_CA04",
+            "description": "Crea màquines virtuals a partir de sistemes operatius lliures i propietaris.",
+            "source": {
+              "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+              "paragraph_index": 271,
+              "confidence": "docx_structural_text"
+            }
+          }
+        },
+        "CA05": {
+          "codi": "CA05",
+          "codi_complet": "IC10_0222_RA5_CA05",
+          "descripcio": "Configura màquines virtuals.",
+          "font": {
+            "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+            "paragraph_index": 272,
+            "confidence": "docx_structural_text"
+          },
+          "dades_originals": {
+            "code": "CA05",
+            "code_full": "IC10_0222_RA5_CA05",
+            "description": "Configura màquines virtuals.",
+            "source": {
+              "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+              "paragraph_index": 272,
+              "confidence": "docx_structural_text"
+            }
+          }
+        },
+        "CA06": {
+          "codi": "CA06",
+          "codi_complet": "IC10_0222_RA5_CA06",
+          "descripcio": "Relaciona la màquina virtual amb el sistema operatiu amfitrió.",
+          "font": {
+            "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+            "paragraph_index": 273,
+            "confidence": "docx_structural_text"
+          },
+          "dades_originals": {
+            "code": "CA06",
+            "code_full": "IC10_0222_RA5_CA06",
+            "description": "Relaciona la màquina virtual amb el sistema operatiu amfitrió.",
+            "source": {
+              "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+              "paragraph_index": 273,
+              "confidence": "docx_structural_text"
+            }
+          }
+        },
+        "CA07": {
+          "codi": "CA07",
+          "codi_complet": "IC10_0222_RA5_CA07",
+          "descripcio": "Realitza proves de rendiment del sistema.",
+          "font": {
+            "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+            "paragraph_index": 274,
+            "confidence": "docx_structural_text"
+          },
+          "dades_originals": {
+            "code": "CA07",
+            "code_full": "IC10_0222_RA5_CA07",
+            "description": "Realitza proves de rendiment del sistema.",
+            "source": {
+              "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+              "paragraph_index": 274,
+              "confidence": "docx_structural_text"
+            }
+          }
+        }
+      }
+    }
+  },
+  "metadata": {
+    "font": "docs/data",
+    "fitxer_origen": "ic10.json",
+    "estat": "generat",
+    "data_generacio": "2026-07-15T14:28:35.869249+00:00"
+  }
+}

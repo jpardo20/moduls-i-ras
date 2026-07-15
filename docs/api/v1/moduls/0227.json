@@ -1,0 +1,1396 @@
+{
+  "api_version": "1.0",
+  "codi": "0227",
+  "nom": "Serveis de xarxa",
+  "cicle": {
+    "codi": "IC10",
+    "nom": "smx"
+  },
+  "hores": {
+    "total": 198
+  },
+  "empresa": {
+    "te_estada": false
+  },
+  "num_ra": 8,
+  "resultats_aprenentatge": {
+    "RA1": {
+      "ordre": 1,
+      "codi": "RA1",
+      "codi_complet": "IC10_0227_RA1",
+      "descripcio": "Instal·la serveis de configuració dinàmica, descrivint-ne les característiques i aplicacions.",
+      "descripcio_curta": "Instal·la serveis de configuració dinàmica, descrivint-ne les característiques i",
+      "font": {
+        "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+        "paragraph_index": 833,
+        "confidence": "docx_structural_text"
+      },
+      "criteris_avaluacio": {
+        "CA01": {
+          "codi": "CA01",
+          "codi_complet": "IC10_0227_RA1_CA01",
+          "descripcio": "Reconeix el funcionament dels mecanismes automatitzats de configuració dels paràmetres de xarxa.",
+          "font": {
+            "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+            "paragraph_index": 835,
+            "confidence": "docx_structural_text"
+          },
+          "dades_originals": {
+            "code": "CA01",
+            "code_full": "IC10_0227_RA1_CA01",
+            "description": "Reconeix el funcionament dels mecanismes automatitzats de configuració dels paràmetres de xarxa.",
+            "source": {
+              "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+              "paragraph_index": 835,
+              "confidence": "docx_structural_text"
+            }
+          }
+        },
+        "CA02": {
+          "codi": "CA02",
+          "codi_complet": "IC10_0227_RA1_CA02",
+          "descripcio": "Identifica els avantatges que proporcionen.",
+          "font": {
+            "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+            "paragraph_index": 836,
+            "confidence": "docx_structural_text"
+          },
+          "dades_originals": {
+            "code": "CA02",
+            "code_full": "IC10_0227_RA1_CA02",
+            "description": "Identifica els avantatges que proporcionen.",
+            "source": {
+              "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+              "paragraph_index": 836,
+              "confidence": "docx_structural_text"
+            }
+          }
+        },
+        "CA03": {
+          "codi": "CA03",
+          "codi_complet": "IC10_0227_RA1_CA03",
+          "descripcio": "Il·lustra els procediments i pautes que intervenen en una sol·licitud de configuració dels paràmetres de xarxa.",
+          "font": {
+            "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+            "paragraph_index": 837,
+            "confidence": "docx_structural_text"
+          },
+          "dades_originals": {
+            "code": "CA03",
+            "code_full": "IC10_0227_RA1_CA03",
+            "description": "Il·lustra els procediments i pautes que intervenen en una sol·licitud de configuració dels paràmetres de xarxa.",
+            "source": {
+              "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+              "paragraph_index": 837,
+              "confidence": "docx_structural_text"
+            }
+          }
+        },
+        "CA04": {
+          "codi": "CA04",
+          "codi_complet": "IC10_0227_RA1_CA04",
+          "descripcio": "Instal·la un servei de configuració dinàmica dels paràmetres de xarxa.",
+          "font": {
+            "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+            "paragraph_index": 838,
+            "confidence": "docx_structural_text"
+          },
+          "dades_originals": {
+            "code": "CA04",
+            "code_full": "IC10_0227_RA1_CA04",
+            "description": "Instal·la un servei de configuració dinàmica dels paràmetres de xarxa.",
+            "source": {
+              "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+              "paragraph_index": 838,
+              "confidence": "docx_structural_text"
+            }
+          }
+        },
+        "CA05": {
+          "codi": "CA05",
+          "codi_complet": "IC10_0227_RA1_CA05",
+          "descripcio": "Prepara el servei per a assignar la configuració bàsica als sistemes d'una xarxa local.",
+          "font": {
+            "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+            "paragraph_index": 839,
+            "confidence": "docx_structural_text"
+          },
+          "dades_originals": {
+            "code": "CA05",
+            "code_full": "IC10_0227_RA1_CA05",
+            "description": "Prepara el servei per a assignar la configuració bàsica als sistemes d'una xarxa local.",
+            "source": {
+              "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+              "paragraph_index": 839,
+              "confidence": "docx_structural_text"
+            }
+          }
+        },
+        "CA06": {
+          "codi": "CA06",
+          "codi_complet": "IC10_0227_RA1_CA06",
+          "descripcio": "Realitza assignacions dinàmiques i estàtiques.",
+          "font": {
+            "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+            "paragraph_index": 840,
+            "confidence": "docx_structural_text"
+          },
+          "dades_originals": {
+            "code": "CA06",
+            "code_full": "IC10_0227_RA1_CA06",
+            "description": "Realitza assignacions dinàmiques i estàtiques.",
+            "source": {
+              "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+              "paragraph_index": 840,
+              "confidence": "docx_structural_text"
+            }
+          }
+        },
+        "CA07": {
+          "codi": "CA07",
+          "codi_complet": "IC10_0227_RA1_CA07",
+          "descripcio": "Integra en el servei opcions addicionals de configuració.",
+          "font": {
+            "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+            "paragraph_index": 841,
+            "confidence": "docx_structural_text"
+          },
+          "dades_originals": {
+            "code": "CA07",
+            "code_full": "IC10_0227_RA1_CA07",
+            "description": "Integra en el servei opcions addicionals de configuració.",
+            "source": {
+              "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+              "paragraph_index": 841,
+              "confidence": "docx_structural_text"
+            }
+          }
+        },
+        "CA08": {
+          "codi": "CA08",
+          "codi_complet": "IC10_0227_RA1_CA08",
+          "descripcio": "Verifica la correcta assignació dels paràmetres.",
+          "font": {
+            "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+            "paragraph_index": 842,
+            "confidence": "docx_structural_text"
+          },
+          "dades_originals": {
+            "code": "CA08",
+            "code_full": "IC10_0227_RA1_CA08",
+            "description": "Verifica la correcta assignació dels paràmetres.",
+            "source": {
+              "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+              "paragraph_index": 842,
+              "confidence": "docx_structural_text"
+            }
+          }
+        }
+      }
+    },
+    "RA2": {
+      "ordre": 2,
+      "codi": "RA2",
+      "codi_complet": "IC10_0227_RA2",
+      "descripcio": "Instal·la serveis de resolució de noms, descrivint-ne les característiques i aplicacions.",
+      "descripcio_curta": "Instal·la serveis de resolució de noms, descrivint-ne les característiques i apl",
+      "font": {
+        "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+        "paragraph_index": 843,
+        "confidence": "docx_structural_text"
+      },
+      "criteris_avaluacio": {
+        "CA01": {
+          "codi": "CA01",
+          "codi_complet": "IC10_0227_RA2_CA01",
+          "descripcio": "Identifica i descriu escenaris en els quals sorgeix la necessitat d'un servei de resolució de noms.",
+          "font": {
+            "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+            "paragraph_index": 847,
+            "confidence": "docx_structural_text"
+          },
+          "dades_originals": {
+            "code": "CA01",
+            "code_full": "IC10_0227_RA2_CA01",
+            "description": "Identifica i descriu escenaris en els quals sorgeix la necessitat d'un servei de resolució de noms.",
+            "source": {
+              "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+              "paragraph_index": 847,
+              "confidence": "docx_structural_text"
+            }
+          }
+        },
+        "CA02": {
+          "codi": "CA02",
+          "codi_complet": "IC10_0227_RA2_CA02",
+          "descripcio": "Classifica els principals mecanismes de resolució de noms.",
+          "font": {
+            "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+            "paragraph_index": 848,
+            "confidence": "docx_structural_text"
+          },
+          "dades_originals": {
+            "code": "CA02",
+            "code_full": "IC10_0227_RA2_CA02",
+            "description": "Classifica els principals mecanismes de resolució de noms.",
+            "source": {
+              "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+              "paragraph_index": 848,
+              "confidence": "docx_structural_text"
+            }
+          }
+        },
+        "CA03": {
+          "codi": "CA03",
+          "codi_complet": "IC10_0227_RA2_CA03",
+          "descripcio": "Descriu l'estructura, nomenclatura i funcionalitat dels sistemes de noms jeràrquics.",
+          "font": {
+            "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+            "paragraph_index": 849,
+            "confidence": "docx_structural_text"
+          },
+          "dades_originals": {
+            "code": "CA03",
+            "code_full": "IC10_0227_RA2_CA03",
+            "description": "Descriu l'estructura, nomenclatura i funcionalitat dels sistemes de noms jeràrquics.",
+            "source": {
+              "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+              "paragraph_index": 849,
+              "confidence": "docx_structural_text"
+            }
+          }
+        },
+        "CA04": {
+          "codi": "CA04",
+          "codi_complet": "IC10_0227_RA2_CA04",
+          "descripcio": "Instal·la un servei jeràrquic de resolució de noms.",
+          "font": {
+            "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+            "paragraph_index": 850,
+            "confidence": "docx_structural_text"
+          },
+          "dades_originals": {
+            "code": "CA04",
+            "code_full": "IC10_0227_RA2_CA04",
+            "description": "Instal·la un servei jeràrquic de resolució de noms.",
+            "source": {
+              "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+              "paragraph_index": 850,
+              "confidence": "docx_structural_text"
+            }
+          }
+        },
+        "CA05": {
+          "codi": "CA05",
+          "codi_complet": "IC10_0227_RA2_CA05",
+          "descripcio": "Prepara el servei per a emmagatzemar les respostes procedents de servidors de xarxes públiques i servir-les als equips de la xarxa local.",
+          "font": {
+            "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+            "paragraph_index": 851,
+            "confidence": "docx_structural_text"
+          },
+          "dades_originals": {
+            "code": "CA05",
+            "code_full": "IC10_0227_RA2_CA05",
+            "description": "Prepara el servei per a emmagatzemar les respostes procedents de servidors de xarxes públiques i servir-les als equips de la xarxa local.",
+            "source": {
+              "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+              "paragraph_index": 851,
+              "confidence": "docx_structural_text"
+            }
+          }
+        },
+        "CA06": {
+          "codi": "CA06",
+          "codi_complet": "IC10_0227_RA2_CA06",
+          "descripcio": "Afegeix registres de noms corresponents a una zona nova, amb opcions relatives a servidors de correu i àlies.",
+          "font": {
+            "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+            "paragraph_index": 852,
+            "confidence": "docx_structural_text"
+          },
+          "dades_originals": {
+            "code": "CA06",
+            "code_full": "IC10_0227_RA2_CA06",
+            "description": "Afegeix registres de noms corresponents a una zona nova, amb opcions relatives a servidors de correu i àlies.",
+            "source": {
+              "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+              "paragraph_index": 852,
+              "confidence": "docx_structural_text"
+            }
+          }
+        },
+        "CA07": {
+          "codi": "CA07",
+          "codi_complet": "IC10_0227_RA2_CA07",
+          "descripcio": "Treballa en grup per realitzar transferències de zona entre dos o més servidors.",
+          "font": {
+            "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+            "paragraph_index": 853,
+            "confidence": "docx_structural_text"
+          },
+          "dades_originals": {
+            "code": "CA07",
+            "code_full": "IC10_0227_RA2_CA07",
+            "description": "Treballa en grup per realitzar transferències de zona entre dos o més servidors.",
+            "source": {
+              "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+              "paragraph_index": 853,
+              "confidence": "docx_structural_text"
+            }
+          }
+        },
+        "CA08": {
+          "codi": "CA08",
+          "codi_complet": "IC10_0227_RA2_CA08",
+          "descripcio": "Comprova el funcionament correcte del servidor.",
+          "font": {
+            "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+            "paragraph_index": 854,
+            "confidence": "docx_structural_text"
+          },
+          "dades_originals": {
+            "code": "CA08",
+            "code_full": "IC10_0227_RA2_CA08",
+            "description": "Comprova el funcionament correcte del servidor.",
+            "source": {
+              "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+              "paragraph_index": 854,
+              "confidence": "docx_structural_text"
+            }
+          }
+        }
+      }
+    },
+    "RA3": {
+      "ordre": 3,
+      "codi": "RA3",
+      "codi_complet": "IC10_0227_RA3",
+      "descripcio": "Instal·la serveis de transferència de fitxers, descrivint-ne les característiques i aplicacions.",
+      "descripcio_curta": "Instal·la serveis de transferència de fitxers, descrivint-ne les característique",
+      "font": {
+        "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+        "paragraph_index": 855,
+        "confidence": "docx_structural_text"
+      },
+      "criteris_avaluacio": {
+        "CA01": {
+          "codi": "CA01",
+          "codi_complet": "IC10_0227_RA3_CA01",
+          "descripcio": "Estableix la utilitat i mode d'operació del servei de transferència de fitxers.",
+          "font": {
+            "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+            "paragraph_index": 858,
+            "confidence": "docx_structural_text"
+          },
+          "dades_originals": {
+            "code": "CA01",
+            "code_full": "IC10_0227_RA3_CA01",
+            "description": "Estableix la utilitat i mode d'operació del servei de transferència de fitxers.",
+            "source": {
+              "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+              "paragraph_index": 858,
+              "confidence": "docx_structural_text"
+            }
+          }
+        },
+        "CA02": {
+          "codi": "CA02",
+          "codi_complet": "IC10_0227_RA3_CA02",
+          "descripcio": "Instal·la un servei de transferència de fitxers.",
+          "font": {
+            "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+            "paragraph_index": 859,
+            "confidence": "docx_structural_text"
+          },
+          "dades_originals": {
+            "code": "CA02",
+            "code_full": "IC10_0227_RA3_CA02",
+            "description": "Instal·la un servei de transferència de fitxers.",
+            "source": {
+              "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+              "paragraph_index": 859,
+              "confidence": "docx_structural_text"
+            }
+          }
+        },
+        "CA03": {
+          "codi": "CA03",
+          "codi_complet": "IC10_0227_RA3_CA03",
+          "descripcio": "Crea usuaris i grups per a accés remot al servidor.",
+          "font": {
+            "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+            "paragraph_index": 860,
+            "confidence": "docx_structural_text"
+          },
+          "dades_originals": {
+            "code": "CA03",
+            "code_full": "IC10_0227_RA3_CA03",
+            "description": "Crea usuaris i grups per a accés remot al servidor.",
+            "source": {
+              "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+              "paragraph_index": 860,
+              "confidence": "docx_structural_text"
+            }
+          }
+        },
+        "CA04": {
+          "codi": "CA04",
+          "codi_complet": "IC10_0227_RA3_CA04",
+          "descripcio": "Configura l'accés anònim.",
+          "font": {
+            "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+            "paragraph_index": 861,
+            "confidence": "docx_structural_text"
+          },
+          "dades_originals": {
+            "code": "CA04",
+            "code_full": "IC10_0227_RA3_CA04",
+            "description": "Configura l'accés anònim.",
+            "source": {
+              "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+              "paragraph_index": 861,
+              "confidence": "docx_structural_text"
+            }
+          }
+        },
+        "CA05": {
+          "codi": "CA05",
+          "codi_complet": "IC10_0227_RA3_CA05",
+          "descripcio": "Estableix límits en els diferents modes d'accés.",
+          "font": {
+            "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+            "paragraph_index": 862,
+            "confidence": "docx_structural_text"
+          },
+          "dades_originals": {
+            "code": "CA05",
+            "code_full": "IC10_0227_RA3_CA05",
+            "description": "Estableix límits en els diferents modes d'accés.",
+            "source": {
+              "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+              "paragraph_index": 862,
+              "confidence": "docx_structural_text"
+            }
+          }
+        },
+        "CA06": {
+          "codi": "CA06",
+          "codi_complet": "IC10_0227_RA3_CA06",
+          "descripcio": "Comprova l'accés al servidor, tant en mode actiu com en mode passiu.",
+          "font": {
+            "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+            "paragraph_index": 863,
+            "confidence": "docx_structural_text"
+          },
+          "dades_originals": {
+            "code": "CA06",
+            "code_full": "IC10_0227_RA3_CA06",
+            "description": "Comprova l'accés al servidor, tant en mode actiu com en mode passiu.",
+            "source": {
+              "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+              "paragraph_index": 863,
+              "confidence": "docx_structural_text"
+            }
+          }
+        },
+        "CA07": {
+          "codi": "CA07",
+          "codi_complet": "IC10_0227_RA3_CA07",
+          "descripcio": "Realitza proves amb clients en línia de comandes i en mode gràfic.",
+          "font": {
+            "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+            "paragraph_index": 864,
+            "confidence": "docx_structural_text"
+          },
+          "dades_originals": {
+            "code": "CA07",
+            "code_full": "IC10_0227_RA3_CA07",
+            "description": "Realitza proves amb clients en línia de comandes i en mode gràfic.",
+            "source": {
+              "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+              "paragraph_index": 864,
+              "confidence": "docx_structural_text"
+            }
+          }
+        }
+      }
+    },
+    "RA4": {
+      "ordre": 4,
+      "codi": "RA4",
+      "codi_complet": "IC10_0227_RA4",
+      "descripcio": "Gestiona servidors de correu electrònic identificant-ne requeriments d'utilització i aplicant-hi criteris de configuració.",
+      "descripcio_curta": "Gestiona servidors de correu electrònic identificant-ne requeriments d'utilitzac",
+      "font": {
+        "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+        "paragraph_index": 865,
+        "confidence": "docx_structural_text"
+      },
+      "criteris_avaluacio": {
+        "CA01": {
+          "codi": "CA01",
+          "codi_complet": "IC10_0227_RA4_CA01",
+          "descripcio": "Descriu els diferents protocols que intervenen en l'enviament i recollida del correu electrònic.",
+          "font": {
+            "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+            "paragraph_index": 872,
+            "confidence": "docx_structural_text"
+          },
+          "dades_originals": {
+            "code": "CA01",
+            "code_full": "IC10_0227_RA4_CA01",
+            "description": "Descriu els diferents protocols que intervenen en l'enviament i recollida del correu electrònic.",
+            "source": {
+              "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+              "paragraph_index": 872,
+              "confidence": "docx_structural_text"
+            }
+          }
+        },
+        "CA02": {
+          "codi": "CA02",
+          "codi_complet": "IC10_0227_RA4_CA02",
+          "descripcio": "Instal·la un servidor de correu electrònic.",
+          "font": {
+            "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+            "paragraph_index": 873,
+            "confidence": "docx_structural_text"
+          },
+          "dades_originals": {
+            "code": "CA02",
+            "code_full": "IC10_0227_RA4_CA02",
+            "description": "Instal·la un servidor de correu electrònic.",
+            "source": {
+              "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+              "paragraph_index": 873,
+              "confidence": "docx_structural_text"
+            }
+          }
+        },
+        "CA03": {
+          "codi": "CA03",
+          "codi_complet": "IC10_0227_RA4_CA03",
+          "descripcio": "Crea comptes d'usuari i verificat l'accés d'aquestes.",
+          "font": {
+            "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+            "paragraph_index": 874,
+            "confidence": "docx_structural_text"
+          },
+          "dades_originals": {
+            "code": "CA03",
+            "code_full": "IC10_0227_RA4_CA03",
+            "description": "Crea comptes d'usuari i verificat l'accés d'aquestes.",
+            "source": {
+              "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+              "paragraph_index": 874,
+              "confidence": "docx_structural_text"
+            }
+          }
+        },
+        "CA04": {
+          "codi": "CA04",
+          "codi_complet": "IC10_0227_RA4_CA04",
+          "descripcio": "Defineix àlies per als comptes de correu.",
+          "font": {
+            "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+            "paragraph_index": 875,
+            "confidence": "docx_structural_text"
+          },
+          "dades_originals": {
+            "code": "CA04",
+            "code_full": "IC10_0227_RA4_CA04",
+            "description": "Defineix àlies per als comptes de correu.",
+            "source": {
+              "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+              "paragraph_index": 875,
+              "confidence": "docx_structural_text"
+            }
+          }
+        },
+        "CA05": {
+          "codi": "CA05",
+          "codi_complet": "IC10_0227_RA4_CA05",
+          "descripcio": "Aplica mètodes per impedir usos indeguts del servidor de correu electrònic.",
+          "font": {
+            "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+            "paragraph_index": 876,
+            "confidence": "docx_structural_text"
+          },
+          "dades_originals": {
+            "code": "CA05",
+            "code_full": "IC10_0227_RA4_CA05",
+            "description": "Aplica mètodes per impedir usos indeguts del servidor de correu electrònic.",
+            "source": {
+              "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+              "paragraph_index": 876,
+              "confidence": "docx_structural_text"
+            }
+          }
+        },
+        "CA06": {
+          "codi": "CA06",
+          "codi_complet": "IC10_0227_RA4_CA06",
+          "descripcio": "Instal·la serveis per permetre la recollida remota del correu existent en les bústies d'usuari.",
+          "font": {
+            "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+            "paragraph_index": 877,
+            "confidence": "docx_structural_text"
+          },
+          "dades_originals": {
+            "code": "CA06",
+            "code_full": "IC10_0227_RA4_CA06",
+            "description": "Instal·la serveis per permetre la recollida remota del correu existent en les bústies d'usuari.",
+            "source": {
+              "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+              "paragraph_index": 877,
+              "confidence": "docx_structural_text"
+            }
+          }
+        },
+        "CA07": {
+          "codi": "CA07",
+          "codi_complet": "IC10_0227_RA4_CA07",
+          "descripcio": "Utilitza clients de correu electrònic per enviar i rebre correu.",
+          "font": {
+            "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+            "paragraph_index": 878,
+            "confidence": "docx_structural_text"
+          },
+          "dades_originals": {
+            "code": "CA07",
+            "code_full": "IC10_0227_RA4_CA07",
+            "description": "Utilitza clients de correu electrònic per enviar i rebre correu.",
+            "source": {
+              "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+              "paragraph_index": 878,
+              "confidence": "docx_structural_text"
+            }
+          }
+        }
+      }
+    },
+    "RA5": {
+      "ordre": 5,
+      "codi": "RA5",
+      "codi_complet": "IC10_0227_RA5",
+      "descripcio": "Gestiona servidors web identificant-ne requeriments d'utilització i aplicant-hi criteris de configuració.",
+      "descripcio_curta": "Gestiona servidors web identificant-ne requeriments d'utilització i aplicant-hi ",
+      "font": {
+        "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+        "paragraph_index": 879,
+        "confidence": "docx_structural_text"
+      },
+      "criteris_avaluacio": {
+        "CA01": {
+          "codi": "CA01",
+          "codi_complet": "IC10_0227_RA5_CA01",
+          "descripcio": "Descriu els fonaments i protocols en què es basa el funcionament d'un servidor web.",
+          "font": {
+            "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+            "paragraph_index": 883,
+            "confidence": "docx_structural_text"
+          },
+          "dades_originals": {
+            "code": "CA01",
+            "code_full": "IC10_0227_RA5_CA01",
+            "description": "Descriu els fonaments i protocols en què es basa el funcionament d'un servidor web.",
+            "source": {
+              "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+              "paragraph_index": 883,
+              "confidence": "docx_structural_text"
+            }
+          }
+        },
+        "CA02": {
+          "codi": "CA02",
+          "codi_complet": "IC10_0227_RA5_CA02",
+          "descripcio": "Instal·la un servidor web.",
+          "font": {
+            "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+            "paragraph_index": 884,
+            "confidence": "docx_structural_text"
+          },
+          "dades_originals": {
+            "code": "CA02",
+            "code_full": "IC10_0227_RA5_CA02",
+            "description": "Instal·la un servidor web.",
+            "source": {
+              "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+              "paragraph_index": 884,
+              "confidence": "docx_structural_text"
+            }
+          }
+        },
+        "CA03": {
+          "codi": "CA03",
+          "codi_complet": "IC10_0227_RA5_CA03",
+          "descripcio": "Crea llocs virtuals.",
+          "font": {
+            "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+            "paragraph_index": 885,
+            "confidence": "docx_structural_text"
+          },
+          "dades_originals": {
+            "code": "CA03",
+            "code_full": "IC10_0227_RA5_CA03",
+            "description": "Crea llocs virtuals.",
+            "source": {
+              "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+              "paragraph_index": 885,
+              "confidence": "docx_structural_text"
+            }
+          }
+        },
+        "CA04": {
+          "codi": "CA04",
+          "codi_complet": "IC10_0227_RA5_CA04",
+          "descripcio": "Verifica les possibilitats existents per a discriminar el lloc de destinació del trànsit entrant al servidor.",
+          "font": {
+            "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+            "paragraph_index": 886,
+            "confidence": "docx_structural_text"
+          },
+          "dades_originals": {
+            "code": "CA04",
+            "code_full": "IC10_0227_RA5_CA04",
+            "description": "Verifica les possibilitats existents per a discriminar el lloc de destinació del trànsit entrant al servidor.",
+            "source": {
+              "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+              "paragraph_index": 886,
+              "confidence": "docx_structural_text"
+            }
+          }
+        },
+        "CA05": {
+          "codi": "CA05",
+          "codi_complet": "IC10_0227_RA5_CA05",
+          "descripcio": "Configura la seguretat del servidor.",
+          "font": {
+            "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+            "paragraph_index": 887,
+            "confidence": "docx_structural_text"
+          },
+          "dades_originals": {
+            "code": "CA05",
+            "code_full": "IC10_0227_RA5_CA05",
+            "description": "Configura la seguretat del servidor.",
+            "source": {
+              "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+              "paragraph_index": 887,
+              "confidence": "docx_structural_text"
+            }
+          }
+        },
+        "CA06": {
+          "codi": "CA06",
+          "codi_complet": "IC10_0227_RA5_CA06",
+          "descripcio": "Comprova l'accés dels usuaris al servidor.",
+          "font": {
+            "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+            "paragraph_index": 888,
+            "confidence": "docx_structural_text"
+          },
+          "dades_originals": {
+            "code": "CA06",
+            "code_full": "IC10_0227_RA5_CA06",
+            "description": "Comprova l'accés dels usuaris al servidor.",
+            "source": {
+              "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+              "paragraph_index": 888,
+              "confidence": "docx_structural_text"
+            }
+          }
+        },
+        "CA07": {
+          "codi": "CA07",
+          "codi_complet": "IC10_0227_RA5_CA07",
+          "descripcio": "Diferencia i prova l'execució de codi al servidor i en el client.",
+          "font": {
+            "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+            "paragraph_index": 889,
+            "confidence": "docx_structural_text"
+          },
+          "dades_originals": {
+            "code": "CA07",
+            "code_full": "IC10_0227_RA5_CA07",
+            "description": "Diferencia i prova l'execució de codi al servidor i en el client.",
+            "source": {
+              "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+              "paragraph_index": 889,
+              "confidence": "docx_structural_text"
+            }
+          }
+        },
+        "CA08": {
+          "codi": "CA08",
+          "codi_complet": "IC10_0227_RA5_CA08",
+          "descripcio": "Instal·la mòduls sobre el servidor.",
+          "font": {
+            "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+            "paragraph_index": 890,
+            "confidence": "docx_structural_text"
+          },
+          "dades_originals": {
+            "code": "CA08",
+            "code_full": "IC10_0227_RA5_CA08",
+            "description": "Instal·la mòduls sobre el servidor.",
+            "source": {
+              "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+              "paragraph_index": 890,
+              "confidence": "docx_structural_text"
+            }
+          }
+        },
+        "CA09": {
+          "codi": "CA09",
+          "codi_complet": "IC10_0227_RA5_CA09",
+          "descripcio": "Estableix mecanismes per assegurar les comunicacions entre el client i el servidor.",
+          "font": {
+            "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+            "paragraph_index": 891,
+            "confidence": "docx_structural_text"
+          },
+          "dades_originals": {
+            "code": "CA09",
+            "code_full": "IC10_0227_RA5_CA09",
+            "description": "Estableix mecanismes per assegurar les comunicacions entre el client i el servidor.",
+            "source": {
+              "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+              "paragraph_index": 891,
+              "confidence": "docx_structural_text"
+            }
+          }
+        }
+      }
+    },
+    "RA6": {
+      "ordre": 6,
+      "codi": "RA6",
+      "codi_complet": "IC10_0227_RA6",
+      "descripcio": "Gestiona mètodes d'accés remot descrivint-ne les característiques i instal·lant-hi els serveis corresponents.",
+      "descripcio_curta": "Gestiona mètodes d'accés remot descrivint-ne les característiques i instal·lant-",
+      "font": {
+        "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+        "paragraph_index": 892,
+        "confidence": "docx_structural_text"
+      },
+      "criteris_avaluacio": {
+        "CA01": {
+          "codi": "CA01",
+          "codi_complet": "IC10_0227_RA6_CA01",
+          "descripcio": "Descriu mètodes d'accés i administració remota de sistemes.",
+          "font": {
+            "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+            "paragraph_index": 896,
+            "confidence": "docx_structural_text"
+          },
+          "dades_originals": {
+            "code": "CA01",
+            "code_full": "IC10_0227_RA6_CA01",
+            "description": "Descriu mètodes d'accés i administració remota de sistemes.",
+            "source": {
+              "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+              "paragraph_index": 896,
+              "confidence": "docx_structural_text"
+            }
+          }
+        },
+        "CA02": {
+          "codi": "CA02",
+          "codi_complet": "IC10_0227_RA6_CA02",
+          "descripcio": "Instal·la un servei d'accés remot en línia de comandaments.",
+          "font": {
+            "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+            "paragraph_index": 897,
+            "confidence": "docx_structural_text"
+          },
+          "dades_originals": {
+            "code": "CA02",
+            "code_full": "IC10_0227_RA6_CA02",
+            "description": "Instal·la un servei d'accés remot en línia de comandaments.",
+            "source": {
+              "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+              "paragraph_index": 897,
+              "confidence": "docx_structural_text"
+            }
+          }
+        },
+        "CA03": {
+          "codi": "CA03",
+          "codi_complet": "IC10_0227_RA6_CA03",
+          "descripcio": "Instal·la un servei d'accés remot en mode gràfic.",
+          "font": {
+            "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+            "paragraph_index": 898,
+            "confidence": "docx_structural_text"
+          },
+          "dades_originals": {
+            "code": "CA03",
+            "code_full": "IC10_0227_RA6_CA03",
+            "description": "Instal·la un servei d'accés remot en mode gràfic.",
+            "source": {
+              "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+              "paragraph_index": 898,
+              "confidence": "docx_structural_text"
+            }
+          }
+        },
+        "CA04": {
+          "codi": "CA04",
+          "codi_complet": "IC10_0227_RA6_CA04",
+          "descripcio": "Comprova el funcionament d’ambdós mètodes.",
+          "font": {
+            "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+            "paragraph_index": 899,
+            "confidence": "docx_structural_text"
+          },
+          "dades_originals": {
+            "code": "CA04",
+            "code_full": "IC10_0227_RA6_CA04",
+            "description": "Comprova el funcionament d’ambdós mètodes.",
+            "source": {
+              "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+              "paragraph_index": 899,
+              "confidence": "docx_structural_text"
+            }
+          }
+        },
+        "CA05": {
+          "codi": "CA05",
+          "codi_complet": "IC10_0227_RA6_CA05",
+          "descripcio": "Identifica els principals avantatges i deficiències de cadascun.",
+          "font": {
+            "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+            "paragraph_index": 900,
+            "confidence": "docx_structural_text"
+          },
+          "dades_originals": {
+            "code": "CA05",
+            "code_full": "IC10_0227_RA6_CA05",
+            "description": "Identifica els principals avantatges i deficiències de cadascun.",
+            "source": {
+              "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+              "paragraph_index": 900,
+              "confidence": "docx_structural_text"
+            }
+          }
+        },
+        "CA06": {
+          "codi": "CA06",
+          "codi_complet": "IC10_0227_RA6_CA06",
+          "descripcio": "Realitza proves d'accés remot entre sistemes de diferent naturalesa.",
+          "font": {
+            "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+            "paragraph_index": 901,
+            "confidence": "docx_structural_text"
+          },
+          "dades_originals": {
+            "code": "CA06",
+            "code_full": "IC10_0227_RA6_CA06",
+            "description": "Realitza proves d'accés remot entre sistemes de diferent naturalesa.",
+            "source": {
+              "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+              "paragraph_index": 901,
+              "confidence": "docx_structural_text"
+            }
+          }
+        },
+        "CA07": {
+          "codi": "CA07",
+          "codi_complet": "IC10_0227_RA6_CA07",
+          "descripcio": "Realitzat proves d'administració remota entre sistemes de diferent naturalesa.",
+          "font": {
+            "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+            "paragraph_index": 902,
+            "confidence": "docx_structural_text"
+          },
+          "dades_originals": {
+            "code": "CA07",
+            "code_full": "IC10_0227_RA6_CA07",
+            "description": "Realitzat proves d'administració remota entre sistemes de diferent naturalesa.",
+            "source": {
+              "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+              "paragraph_index": 902,
+              "confidence": "docx_structural_text"
+            }
+          }
+        }
+      }
+    },
+    "RA7": {
+      "ordre": 7,
+      "codi": "RA7",
+      "codi_complet": "IC10_0227_RA7",
+      "descripcio": "Desplega xarxes sense fils segures justificant la configuració triada i descrivint els procediments d'implantació.",
+      "descripcio_curta": "Desplega xarxes sense fils segures justificant la configuració triada i descrivi",
+      "font": {
+        "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+        "paragraph_index": 903,
+        "confidence": "docx_structural_text"
+      },
+      "criteris_avaluacio": {
+        "CA01": {
+          "codi": "CA01",
+          "codi_complet": "IC10_0227_RA7_CA01",
+          "descripcio": "Instal·la un punt d'accés sense fil dins d'una xarxa local.",
+          "font": {
+            "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+            "paragraph_index": 907,
+            "confidence": "docx_structural_text"
+          },
+          "dades_originals": {
+            "code": "CA01",
+            "code_full": "IC10_0227_RA7_CA01",
+            "description": "Instal·la un punt d'accés sense fil dins d'una xarxa local.",
+            "source": {
+              "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+              "paragraph_index": 907,
+              "confidence": "docx_structural_text"
+            }
+          }
+        },
+        "CA02": {
+          "codi": "CA02",
+          "codi_complet": "IC10_0227_RA7_CA02",
+          "descripcio": "Reconeix els protocols, modes de funcionament i principals paràmetres de configuració del punt d'accés.",
+          "font": {
+            "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+            "paragraph_index": 908,
+            "confidence": "docx_structural_text"
+          },
+          "dades_originals": {
+            "code": "CA02",
+            "code_full": "IC10_0227_RA7_CA02",
+            "description": "Reconeix els protocols, modes de funcionament i principals paràmetres de configuració del punt d'accés.",
+            "source": {
+              "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+              "paragraph_index": 908,
+              "confidence": "docx_structural_text"
+            }
+          }
+        },
+        "CA03": {
+          "codi": "CA03",
+          "codi_complet": "IC10_0227_RA7_CA03",
+          "descripcio": "Selecciona la configuració més idònia sobre diferents escenaris de prova.",
+          "font": {
+            "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+            "paragraph_index": 909,
+            "confidence": "docx_structural_text"
+          },
+          "dades_originals": {
+            "code": "CA03",
+            "code_full": "IC10_0227_RA7_CA03",
+            "description": "Selecciona la configuració més idònia sobre diferents escenaris de prova.",
+            "source": {
+              "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+              "paragraph_index": 909,
+              "confidence": "docx_structural_text"
+            }
+          }
+        },
+        "CA04": {
+          "codi": "CA04",
+          "codi_complet": "IC10_0227_RA7_CA04",
+          "descripcio": "Estableix un mecanisme adequat de seguretat per a les comunicacions sense fils.",
+          "font": {
+            "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+            "paragraph_index": 910,
+            "confidence": "docx_structural_text"
+          },
+          "dades_originals": {
+            "code": "CA04",
+            "code_full": "IC10_0227_RA7_CA04",
+            "description": "Estableix un mecanisme adequat de seguretat per a les comunicacions sense fils.",
+            "source": {
+              "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+              "paragraph_index": 910,
+              "confidence": "docx_structural_text"
+            }
+          }
+        },
+        "CA05": {
+          "codi": "CA05",
+          "codi_complet": "IC10_0227_RA7_CA05",
+          "descripcio": "Usa diversos tipus de dispositius i adaptadors sense fils per a comprovar la cobertura.",
+          "font": {
+            "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+            "paragraph_index": 911,
+            "confidence": "docx_structural_text"
+          },
+          "dades_originals": {
+            "code": "CA05",
+            "code_full": "IC10_0227_RA7_CA05",
+            "description": "Usa diversos tipus de dispositius i adaptadors sense fils per a comprovar la cobertura.",
+            "source": {
+              "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+              "paragraph_index": 911,
+              "confidence": "docx_structural_text"
+            }
+          }
+        },
+        "CA06": {
+          "codi": "CA06",
+          "codi_complet": "IC10_0227_RA7_CA06",
+          "descripcio": "Instal·la un encaminador sense fil amb connexió a xarxa pública i serveis sense fils de xarxa local.",
+          "font": {
+            "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+            "paragraph_index": 912,
+            "confidence": "docx_structural_text"
+          },
+          "dades_originals": {
+            "code": "CA06",
+            "code_full": "IC10_0227_RA7_CA06",
+            "description": "Instal·la un encaminador sense fil amb connexió a xarxa pública i serveis sense fils de xarxa local.",
+            "source": {
+              "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+              "paragraph_index": 912,
+              "confidence": "docx_structural_text"
+            }
+          }
+        },
+        "CA07": {
+          "codi": "CA07",
+          "codi_complet": "IC10_0227_RA7_CA07",
+          "descripcio": "Configura i prova l’encaminador des dels ordinadors de la xarxa local.",
+          "font": {
+            "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+            "paragraph_index": 913,
+            "confidence": "docx_structural_text"
+          },
+          "dades_originals": {
+            "code": "CA07",
+            "code_full": "IC10_0227_RA7_CA07",
+            "description": "Configura i prova l’encaminador des dels ordinadors de la xarxa local.",
+            "source": {
+              "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+              "paragraph_index": 913,
+              "confidence": "docx_structural_text"
+            }
+          }
+        }
+      }
+    },
+    "RA8": {
+      "ordre": 8,
+      "codi": "RA8",
+      "codi_complet": "IC10_0227_RA8",
+      "descripcio": "Estableix l'accés des de xarxes locals a xarxes públiques identificant possibles escenaris i aplicant programari específic.",
+      "descripcio_curta": "Estableix l'accés des de xarxes locals a xarxes públiques identificant possibles",
+      "font": {
+        "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+        "paragraph_index": 914,
+        "confidence": "docx_structural_text"
+      },
+      "criteris_avaluacio": {
+        "CA01": {
+          "codi": "CA01",
+          "codi_complet": "IC10_0227_RA8_CA01",
+          "descripcio": "Instal·la i configura el maquinari d'un sistema amb accés a una xarxa privada local i a una xarxa pública.",
+          "font": {
+            "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+            "paragraph_index": 918,
+            "confidence": "docx_structural_text"
+          },
+          "dades_originals": {
+            "code": "CA01",
+            "code_full": "IC10_0227_RA8_CA01",
+            "description": "Instal·la i configura el maquinari d'un sistema amb accés a una xarxa privada local i a una xarxa pública.",
+            "source": {
+              "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+              "paragraph_index": 918,
+              "confidence": "docx_structural_text"
+            }
+          }
+        },
+        "CA02": {
+          "codi": "CA02",
+          "codi_complet": "IC10_0227_RA8_CA02",
+          "descripcio": "Instal·la una aplicació que actuï de passarel·la entre la xarxa privada local i la xarxa pública.",
+          "font": {
+            "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+            "paragraph_index": 919,
+            "confidence": "docx_structural_text"
+          },
+          "dades_originals": {
+            "code": "CA02",
+            "code_full": "IC10_0227_RA8_CA02",
+            "description": "Instal·la una aplicació que actuï de passarel·la entre la xarxa privada local i la xarxa pública.",
+            "source": {
+              "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+              "paragraph_index": 919,
+              "confidence": "docx_structural_text"
+            }
+          }
+        },
+        "CA03": {
+          "codi": "CA03",
+          "codi_complet": "IC10_0227_RA8_CA03",
+          "descripcio": "Reconeix i diferencia les principals característiques i possibilitats de l'aplicació seleccionada.",
+          "font": {
+            "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+            "paragraph_index": 920,
+            "confidence": "docx_structural_text"
+          },
+          "dades_originals": {
+            "code": "CA03",
+            "code_full": "IC10_0227_RA8_CA03",
+            "description": "Reconeix i diferencia les principals característiques i possibilitats de l'aplicació seleccionada.",
+            "source": {
+              "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+              "paragraph_index": 920,
+              "confidence": "docx_structural_text"
+            }
+          }
+        },
+        "CA04": {
+          "codi": "CA04",
+          "codi_complet": "IC10_0227_RA8_CA04",
+          "descripcio": "Configura els sistemes de la xarxa privada local per a accedir a la xarxa pública a través de la passarel·la.",
+          "font": {
+            "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+            "paragraph_index": 921,
+            "confidence": "docx_structural_text"
+          },
+          "dades_originals": {
+            "code": "CA04",
+            "code_full": "IC10_0227_RA8_CA04",
+            "description": "Configura els sistemes de la xarxa privada local per a accedir a la xarxa pública a través de la passarel·la.",
+            "source": {
+              "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+              "paragraph_index": 921,
+              "confidence": "docx_structural_text"
+            }
+          }
+        },
+        "CA05": {
+          "codi": "CA05",
+          "codi_complet": "IC10_0227_RA8_CA05",
+          "descripcio": "Estableix els procediments de control d'accés per a assegurar el trànsit que es transmet a través de la passarel·la.",
+          "font": {
+            "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+            "paragraph_index": 922,
+            "confidence": "docx_structural_text"
+          },
+          "dades_originals": {
+            "code": "CA05",
+            "code_full": "IC10_0227_RA8_CA05",
+            "description": "Estableix els procediments de control d'accés per a assegurar el trànsit que es transmet a través de la passarel·la.",
+            "source": {
+              "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+              "paragraph_index": 922,
+              "confidence": "docx_structural_text"
+            }
+          }
+        },
+        "CA06": {
+          "codi": "CA06",
+          "codi_complet": "IC10_0227_RA8_CA06",
+          "descripcio": "Implementa mecanismes per a accelerar les comunicacions entre la xarxa privada local i la pública.",
+          "font": {
+            "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+            "paragraph_index": 923,
+            "confidence": "docx_structural_text"
+          },
+          "dades_originals": {
+            "code": "CA06",
+            "code_full": "IC10_0227_RA8_CA06",
+            "description": "Implementa mecanismes per a accelerar les comunicacions entre la xarxa privada local i la pública.",
+            "source": {
+              "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+              "paragraph_index": 923,
+              "confidence": "docx_structural_text"
+            }
+          }
+        },
+        "CA07": {
+          "codi": "CA07",
+          "codi_complet": "IC10_0227_RA8_CA07",
+          "descripcio": "Identifica els possibles escenaris d'aplicació d'aquest tipus de mecanismes.",
+          "font": {
+            "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+            "paragraph_index": 924,
+            "confidence": "docx_structural_text"
+          },
+          "dades_originals": {
+            "code": "CA07",
+            "code_full": "IC10_0227_RA8_CA07",
+            "description": "Identifica els possibles escenaris d'aplicació d'aquest tipus de mecanismes.",
+            "source": {
+              "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+              "paragraph_index": 924,
+              "confidence": "docx_structural_text"
+            }
+          }
+        },
+        "CA08": {
+          "codi": "CA08",
+          "codi_complet": "IC10_0227_RA8_CA08",
+          "descripcio": "Estableix un mecanisme que permeti reenviar trànsit de xarxa entre dues o més interfícies d'un mateix sistema.",
+          "font": {
+            "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+            "paragraph_index": 925,
+            "confidence": "docx_structural_text"
+          },
+          "dades_originals": {
+            "code": "CA08",
+            "code_full": "IC10_0227_RA8_CA08",
+            "description": "Estableix un mecanisme que permeti reenviar trànsit de xarxa entre dues o més interfícies d'un mateix sistema.",
+            "source": {
+              "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+              "paragraph_index": 925,
+              "confidence": "docx_structural_text"
+            }
+          }
+        },
+        "CA09": {
+          "codi": "CA09",
+          "codi_complet": "IC10_0227_RA8_CA09",
+          "descripcio": "Comprova l'accés a una xarxa determinada des dels sistemes connectats a una altra xarxa diferent.",
+          "font": {
+            "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+            "paragraph_index": 926,
+            "confidence": "docx_structural_text"
+          },
+          "dades_originals": {
+            "code": "CA09",
+            "code_full": "IC10_0227_RA8_CA09",
+            "description": "Comprova l'accés a una xarxa determinada des dels sistemes connectats a una altra xarxa diferent.",
+            "source": {
+              "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+              "paragraph_index": 926,
+              "confidence": "docx_structural_text"
+            }
+          }
+        },
+        "CA10": {
+          "codi": "CA10",
+          "codi_complet": "IC10_0227_RA8_CA10",
+          "descripcio": "Implanta i verifica la configuració per a accedir des d'una xarxa pública a un servei localitzat en una màquina d'una xarxa privada local.",
+          "font": {
+            "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+            "paragraph_index": 927,
+            "confidence": "docx_structural_text"
+          },
+          "dades_originals": {
+            "code": "CA10",
+            "code_full": "IC10_0227_RA8_CA10",
+            "description": "Implanta i verifica la configuració per a accedir des d'una xarxa pública a un servei localitzat en una màquina d'una xarxa privada local.",
+            "source": {
+              "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+              "paragraph_index": 927,
+              "confidence": "docx_structural_text"
+            }
+          }
+        }
+      }
+    }
+  },
+  "metadata": {
+    "font": "docs/data",
+    "fitxer_origen": "ic10.json",
+    "estat": "generat",
+    "data_generacio": "2026-07-15T14:28:35.869249+00:00"
+  }
+}

@@ -1,0 +1,1336 @@
+{
+  "api_version": "1.0",
+  "codi": "0221",
+  "nom": "Muntatge i manteniment d’equips",
+  "cicle": {
+    "codi": "IC10",
+    "nom": "smx"
+  },
+  "hores": {
+    "total": 231
+  },
+  "empresa": {
+    "te_estada": true
+  },
+  "num_ra": 8,
+  "resultats_aprenentatge": {
+    "RA1": {
+      "ordre": 1,
+      "codi": "RA1",
+      "codi_complet": "IC10_0221_RA1",
+      "descripcio": "Selecciona els components d’integració d’un equip microinformàtic estàndard, descrivint-ne les funcions i comparant-ne les prestacions de diferents fabricants.",
+      "descripcio_curta": "Selecciona els components d’integració d’un equip microinformàtic estàndard, des",
+      "font": {
+        "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+        "paragraph_index": 65,
+        "confidence": "docx_structural_text"
+      },
+      "criteris_avaluacio": {
+        "CA01": {
+          "codi": "CA01",
+          "codi_complet": "IC10_0221_RA1_CA01",
+          "descripcio": "Descriu els blocs que componen un equip microinformàtic i les seves funcions.",
+          "font": {
+            "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+            "paragraph_index": 67,
+            "confidence": "docx_structural_text"
+          },
+          "dades_originals": {
+            "code": "CA01",
+            "code_full": "IC10_0221_RA1_CA01",
+            "description": "Descriu els blocs que componen un equip microinformàtic i les seves funcions.",
+            "source": {
+              "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+              "paragraph_index": 67,
+              "confidence": "docx_structural_text"
+            }
+          }
+        },
+        "CA02": {
+          "codi": "CA02",
+          "codi_complet": "IC10_0221_RA1_CA02",
+          "descripcio": "Reconeix l'arquitectura de busos.",
+          "font": {
+            "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+            "paragraph_index": 68,
+            "confidence": "docx_structural_text"
+          },
+          "dades_originals": {
+            "code": "CA02",
+            "code_full": "IC10_0221_RA1_CA02",
+            "description": "Reconeix l'arquitectura de busos.",
+            "source": {
+              "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+              "paragraph_index": 68,
+              "confidence": "docx_structural_text"
+            }
+          }
+        },
+        "CA03": {
+          "codi": "CA03",
+          "codi_complet": "IC10_0221_RA1_CA03",
+          "descripcio": "Descriu les característiques dels tipus de microprocessadors (freqüència, tensions, potència, sòcols, entre altres).",
+          "font": {
+            "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+            "paragraph_index": 69,
+            "confidence": "docx_structural_text"
+          },
+          "dades_originals": {
+            "code": "CA03",
+            "code_full": "IC10_0221_RA1_CA03",
+            "description": "Descriu les característiques dels tipus de microprocessadors (freqüència, tensions, potència, sòcols, entre altres).",
+            "source": {
+              "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+              "paragraph_index": 69,
+              "confidence": "docx_structural_text"
+            }
+          }
+        },
+        "CA04": {
+          "codi": "CA04",
+          "codi_complet": "IC10_0221_RA1_CA04",
+          "descripcio": "Descriu la funció dels dissipadors i ventiladors.",
+          "font": {
+            "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+            "paragraph_index": 70,
+            "confidence": "docx_structural_text"
+          },
+          "dades_originals": {
+            "code": "CA04",
+            "code_full": "IC10_0221_RA1_CA04",
+            "description": "Descriu la funció dels dissipadors i ventiladors.",
+            "source": {
+              "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+              "paragraph_index": 70,
+              "confidence": "docx_structural_text"
+            }
+          }
+        },
+        "CA05": {
+          "codi": "CA05",
+          "codi_complet": "IC10_0221_RA1_CA05",
+          "descripcio": "Descriu les característiques i utilitats més importants de la configuració de la placa base.",
+          "font": {
+            "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+            "paragraph_index": 71,
+            "confidence": "docx_structural_text"
+          },
+          "dades_originals": {
+            "code": "CA05",
+            "code_full": "IC10_0221_RA1_CA05",
+            "description": "Descriu les característiques i utilitats més importants de la configuració de la placa base.",
+            "source": {
+              "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+              "paragraph_index": 71,
+              "confidence": "docx_structural_text"
+            }
+          }
+        },
+        "CA06": {
+          "codi": "CA06",
+          "codi_complet": "IC10_0221_RA1_CA06",
+          "descripcio": "Avalua tipus de xassís per a la placa base i la resta de components.",
+          "font": {
+            "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+            "paragraph_index": 72,
+            "confidence": "docx_structural_text"
+          },
+          "dades_originals": {
+            "code": "CA06",
+            "code_full": "IC10_0221_RA1_CA06",
+            "description": "Avalua tipus de xassís per a la placa base i la resta de components.",
+            "source": {
+              "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+              "paragraph_index": 72,
+              "confidence": "docx_structural_text"
+            }
+          }
+        },
+        "CA07": {
+          "codi": "CA07",
+          "codi_complet": "IC10_0221_RA1_CA07",
+          "descripcio": "Identifica i manipula els components bàsics (mòduls de memòria, discos fixos i els seus controladors, suports de memòries auxiliars, entre d’altres).",
+          "font": {
+            "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+            "paragraph_index": 73,
+            "confidence": "docx_structural_text"
+          },
+          "dades_originals": {
+            "code": "CA07",
+            "code_full": "IC10_0221_RA1_CA07",
+            "description": "Identifica i manipula els components bàsics (mòduls de memòria, discos fixos i els seus controladors, suports de memòries auxiliars, entre d’altres).",
+            "source": {
+              "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+              "paragraph_index": 73,
+              "confidence": "docx_structural_text"
+            }
+          }
+        },
+        "CA08": {
+          "codi": "CA08",
+          "codi_complet": "IC10_0221_RA1_CA08",
+          "descripcio": "Analitza la funció de l'adaptador gràfic i el monitor.",
+          "font": {
+            "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+            "paragraph_index": 74,
+            "confidence": "docx_structural_text"
+          },
+          "dades_originals": {
+            "code": "CA08",
+            "code_full": "IC10_0221_RA1_CA08",
+            "description": "Analitza la funció de l'adaptador gràfic i el monitor.",
+            "source": {
+              "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+              "paragraph_index": 74,
+              "confidence": "docx_structural_text"
+            }
+          }
+        },
+        "CA09": {
+          "codi": "CA09",
+          "codi_complet": "IC10_0221_RA1_CA09",
+          "descripcio": "Identifica i manipula diferents adaptadors (gràfics, LAN, mòdems, entre altres).",
+          "font": {
+            "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+            "paragraph_index": 75,
+            "confidence": "docx_structural_text"
+          },
+          "dades_originals": {
+            "code": "CA09",
+            "code_full": "IC10_0221_RA1_CA09",
+            "description": "Identifica i manipula diferents adaptadors (gràfics, LAN, mòdems, entre altres).",
+            "source": {
+              "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+              "paragraph_index": 75,
+              "confidence": "docx_structural_text"
+            }
+          }
+        },
+        "CA10": {
+          "codi": "CA10",
+          "codi_complet": "IC10_0221_RA1_CA10",
+          "descripcio": "Identifica els elements que acompanyen a un component d'integració (documentació, controladors, cables i utilitats, entre d’altres)",
+          "font": {
+            "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+            "paragraph_index": 76,
+            "confidence": "docx_structural_text"
+          },
+          "dades_originals": {
+            "code": "CA10",
+            "code_full": "IC10_0221_RA1_CA10",
+            "description": "Identifica els elements que acompanyen a un component d'integració (documentació, controladors, cables i utilitats, entre d’altres)",
+            "source": {
+              "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+              "paragraph_index": 76,
+              "confidence": "docx_structural_text"
+            }
+          }
+        }
+      }
+    },
+    "RA2": {
+      "ordre": 2,
+      "codi": "RA2",
+      "codi_complet": "IC10_0221_RA2",
+      "descripcio": "Acobla un equip microinformàtic, interpretant-ne els plans i instruccions del fabricant, i aplicant-hi tècniques de muntatge.",
+      "descripcio_curta": "Acobla un equip microinformàtic, interpretant-ne els plans i instruccions del fa",
+      "font": {
+        "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+        "paragraph_index": 77,
+        "confidence": "docx_structural_text"
+      },
+      "criteris_avaluacio": {
+        "CA01": {
+          "codi": "CA01",
+          "codi_complet": "IC10_0221_RA2_CA01",
+          "descripcio": "Selecciona les eines i estris necessaris per a l'acoblat d'equips microinformàtics.",
+          "font": {
+            "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+            "paragraph_index": 82,
+            "confidence": "docx_structural_text"
+          },
+          "dades_originals": {
+            "code": "CA01",
+            "code_full": "IC10_0221_RA2_CA01",
+            "description": "Selecciona les eines i estris necessaris per a l'acoblat d'equips microinformàtics.",
+            "source": {
+              "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+              "paragraph_index": 82,
+              "confidence": "docx_structural_text"
+            }
+          }
+        },
+        "CA02": {
+          "codi": "CA02",
+          "codi_complet": "IC10_0221_RA2_CA02",
+          "descripcio": "Interpreta la documentació tècnica de tots els components a acoblar.",
+          "font": {
+            "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+            "paragraph_index": 83,
+            "confidence": "docx_structural_text"
+          },
+          "dades_originals": {
+            "code": "CA02",
+            "code_full": "IC10_0221_RA2_CA02",
+            "description": "Interpreta la documentació tècnica de tots els components a acoblar.",
+            "source": {
+              "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+              "paragraph_index": 83,
+              "confidence": "docx_structural_text"
+            }
+          }
+        },
+        "CA03": {
+          "codi": "CA03",
+          "codi_complet": "IC10_0221_RA2_CA03",
+          "descripcio": "Determina el sistema d'obertura / tancament del xassís i els diferents sistemes de fixació per a acoblar-desacoblar els elements de l'equip.",
+          "font": {
+            "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+            "paragraph_index": 84,
+            "confidence": "docx_structural_text"
+          },
+          "dades_originals": {
+            "code": "CA03",
+            "code_full": "IC10_0221_RA2_CA03",
+            "description": "Determina el sistema d'obertura / tancament del xassís i els diferents sistemes de fixació per a acoblar-desacoblar els elements de l'equip.",
+            "source": {
+              "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+              "paragraph_index": 84,
+              "confidence": "docx_structural_text"
+            }
+          }
+        },
+        "CA04": {
+          "codi": "CA04",
+          "codi_complet": "IC10_0221_RA2_CA04",
+          "descripcio": "Acobla diferents conjunts de placa base, microprocessador i elements de refrigeració en diferents models de xassos, segons les especificacions donades.",
+          "font": {
+            "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+            "paragraph_index": 85,
+            "confidence": "docx_structural_text"
+          },
+          "dades_originals": {
+            "code": "CA04",
+            "code_full": "IC10_0221_RA2_CA04",
+            "description": "Acobla diferents conjunts de placa base, microprocessador i elements de refrigeració en diferents models de xassos, segons les especificacions donades.",
+            "source": {
+              "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+              "paragraph_index": 85,
+              "confidence": "docx_structural_text"
+            }
+          }
+        },
+        "CA05": {
+          "codi": "CA05",
+          "codi_complet": "IC10_0221_RA2_CA05",
+          "descripcio": "Acobla els mòduls de memòria RAM, els discos fixos, les unitats de lectura / enregistrament en suports de memòria auxiliar i altres components.",
+          "font": {
+            "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+            "paragraph_index": 86,
+            "confidence": "docx_structural_text"
+          },
+          "dades_originals": {
+            "code": "CA05",
+            "code_full": "IC10_0221_RA2_CA05",
+            "description": "Acobla els mòduls de memòria RAM, els discos fixos, les unitats de lectura / enregistrament en suports de memòria auxiliar i altres components.",
+            "source": {
+              "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+              "paragraph_index": 86,
+              "confidence": "docx_structural_text"
+            }
+          }
+        },
+        "CA06": {
+          "codi": "CA06",
+          "codi_complet": "IC10_0221_RA2_CA06",
+          "descripcio": "Configura paràmetres bàsics del conjunt accedint a la configuració de la placa base.",
+          "font": {
+            "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+            "paragraph_index": 87,
+            "confidence": "docx_structural_text"
+          },
+          "dades_originals": {
+            "code": "CA06",
+            "code_full": "IC10_0221_RA2_CA06",
+            "description": "Configura paràmetres bàsics del conjunt accedint a la configuració de la placa base.",
+            "source": {
+              "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+              "paragraph_index": 87,
+              "confidence": "docx_structural_text"
+            }
+          }
+        },
+        "CA07": {
+          "codi": "CA07",
+          "codi_complet": "IC10_0221_RA2_CA07",
+          "descripcio": "Executa utilitats de revisió i diagnòstic per verificar les prestacions del conjunt acoblat.",
+          "font": {
+            "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+            "paragraph_index": 88,
+            "confidence": "docx_structural_text"
+          },
+          "dades_originals": {
+            "code": "CA07",
+            "code_full": "IC10_0221_RA2_CA07",
+            "description": "Executa utilitats de revisió i diagnòstic per verificar les prestacions del conjunt acoblat.",
+            "source": {
+              "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+              "paragraph_index": 88,
+              "confidence": "docx_structural_text"
+            }
+          }
+        },
+        "CA08": {
+          "codi": "CA08",
+          "codi_complet": "IC10_0221_RA2_CA08",
+          "descripcio": "Realitza un informe de muntatge.",
+          "font": {
+            "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+            "paragraph_index": 89,
+            "confidence": "docx_structural_text"
+          },
+          "dades_originals": {
+            "code": "CA08",
+            "code_full": "IC10_0221_RA2_CA08",
+            "description": "Realitza un informe de muntatge.",
+            "source": {
+              "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+              "paragraph_index": 89,
+              "confidence": "docx_structural_text"
+            }
+          }
+        }
+      }
+    },
+    "RA3": {
+      "ordre": 3,
+      "codi": "RA3",
+      "codi_complet": "IC10_0221_RA3",
+      "descripcio": "Mesura paràmetres elèctrics, identificant el tipus de senyal i relacionant-la amb les seves unitats característiques.",
+      "descripcio_curta": "Mesura paràmetres elèctrics, identificant el tipus de senyal i relacionant-la am",
+      "font": {
+        "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+        "paragraph_index": 91,
+        "confidence": "docx_structural_text"
+      },
+      "criteris_avaluacio": {
+        "CA01": {
+          "codi": "CA01",
+          "codi_complet": "IC10_0221_RA3_CA01",
+          "descripcio": "Identifica el tipus de senyal a mesurar amb l'aparell corresponent.",
+          "font": {
+            "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+            "paragraph_index": 95,
+            "confidence": "docx_structural_text"
+          },
+          "dades_originals": {
+            "code": "CA01",
+            "code_full": "IC10_0221_RA3_CA01",
+            "description": "Identifica el tipus de senyal a mesurar amb l'aparell corresponent.",
+            "source": {
+              "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+              "paragraph_index": 95,
+              "confidence": "docx_structural_text"
+            }
+          }
+        },
+        "CA02": {
+          "codi": "CA02",
+          "codi_complet": "IC10_0221_RA3_CA02",
+          "descripcio": "Selecciona la magnitud, el rang de mesura i connecta l’aparell segons la magnitud a mesurar.",
+          "font": {
+            "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+            "paragraph_index": 96,
+            "confidence": "docx_structural_text"
+          },
+          "dades_originals": {
+            "code": "CA02",
+            "code_full": "IC10_0221_RA3_CA02",
+            "description": "Selecciona la magnitud, el rang de mesura i connecta l’aparell segons la magnitud a mesurar.",
+            "source": {
+              "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+              "paragraph_index": 96,
+              "confidence": "docx_structural_text"
+            }
+          }
+        },
+        "CA03": {
+          "codi": "CA03",
+          "codi_complet": "IC10_0221_RA3_CA03",
+          "descripcio": "Relaciona la mesura obtinguda amb els valors típics.",
+          "font": {
+            "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+            "paragraph_index": 97,
+            "confidence": "docx_structural_text"
+          },
+          "dades_originals": {
+            "code": "CA03",
+            "code_full": "IC10_0221_RA3_CA03",
+            "description": "Relaciona la mesura obtinguda amb els valors típics.",
+            "source": {
+              "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+              "paragraph_index": 97,
+              "confidence": "docx_structural_text"
+            }
+          }
+        },
+        "CA04": {
+          "codi": "CA04",
+          "codi_complet": "IC10_0221_RA3_CA04",
+          "descripcio": "Identifica els blocs d’una font d’alimentació (FA) per a un ordinador personal.",
+          "font": {
+            "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+            "paragraph_index": 98,
+            "confidence": "docx_structural_text"
+          },
+          "dades_originals": {
+            "code": "CA04",
+            "code_full": "IC10_0221_RA3_CA04",
+            "description": "Identifica els blocs d’una font d’alimentació (FA) per a un ordinador personal.",
+            "source": {
+              "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+              "paragraph_index": 98,
+              "confidence": "docx_structural_text"
+            }
+          }
+        },
+        "CA05": {
+          "codi": "CA05",
+          "codi_complet": "IC10_0221_RA3_CA05",
+          "descripcio": "Enumera les tensions proporcionades per una FA típica.",
+          "font": {
+            "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+            "paragraph_index": 99,
+            "confidence": "docx_structural_text"
+          },
+          "dades_originals": {
+            "code": "CA05",
+            "code_full": "IC10_0221_RA3_CA05",
+            "description": "Enumera les tensions proporcionades per una FA típica.",
+            "source": {
+              "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+              "paragraph_index": 99,
+              "confidence": "docx_structural_text"
+            }
+          }
+        },
+        "CA06": {
+          "codi": "CA06",
+          "codi_complet": "IC10_0221_RA3_CA06",
+          "descripcio": "Mesura les tensions en FA típiques d’ordinadors personals.",
+          "font": {
+            "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+            "paragraph_index": 100,
+            "confidence": "docx_structural_text"
+          },
+          "dades_originals": {
+            "code": "CA06",
+            "code_full": "IC10_0221_RA3_CA06",
+            "description": "Mesura les tensions en FA típiques d’ordinadors personals.",
+            "source": {
+              "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+              "paragraph_index": 100,
+              "confidence": "docx_structural_text"
+            }
+          }
+        },
+        "CA07": {
+          "codi": "CA07",
+          "codi_complet": "IC10_0221_RA3_CA07",
+          "descripcio": "Identifica els blocs d’un sistema d’alimentació ininterrompuda.",
+          "font": {
+            "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+            "paragraph_index": 101,
+            "confidence": "docx_structural_text"
+          },
+          "dades_originals": {
+            "code": "CA07",
+            "code_full": "IC10_0221_RA3_CA07",
+            "description": "Identifica els blocs d’un sistema d’alimentació ininterrompuda.",
+            "source": {
+              "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+              "paragraph_index": 101,
+              "confidence": "docx_structural_text"
+            }
+          }
+        },
+        "CA08": {
+          "codi": "CA08",
+          "codi_complet": "IC10_0221_RA3_CA08",
+          "descripcio": "Mesura els senyals en els punts significatius d’un sistema d’alimentació ininterrompuda o SAI.",
+          "font": {
+            "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+            "paragraph_index": 102,
+            "confidence": "docx_structural_text"
+          },
+          "dades_originals": {
+            "code": "CA08",
+            "code_full": "IC10_0221_RA3_CA08",
+            "description": "Mesura els senyals en els punts significatius d’un sistema d’alimentació ininterrompuda o SAI.",
+            "source": {
+              "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+              "paragraph_index": 102,
+              "confidence": "docx_structural_text"
+            }
+          }
+        }
+      }
+    },
+    "RA4": {
+      "ordre": 4,
+      "codi": "RA4",
+      "codi_complet": "IC10_0221_RA4",
+      "descripcio": "Manté equips informàtics interpretant les recomanacions dels fabricants i relacionant les disfuncions amb les seves causes.",
+      "descripcio_curta": "Manté equips informàtics interpretant les recomanacions dels fabricants i relaci",
+      "font": {
+        "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+        "paragraph_index": 103,
+        "confidence": "docx_structural_text"
+      },
+      "criteris_avaluacio": {
+        "CA01": {
+          "codi": "CA01",
+          "codi_complet": "IC10_0221_RA4_CA01",
+          "descripcio": "Reconeix els senyals acústics i/o visuals que avisen de problemes al maquinari d'un equip.",
+          "font": {
+            "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+            "paragraph_index": 107,
+            "confidence": "docx_structural_text"
+          },
+          "dades_originals": {
+            "code": "CA01",
+            "code_full": "IC10_0221_RA4_CA01",
+            "description": "Reconeix els senyals acústics i/o visuals que avisen de problemes al maquinari d'un equip.",
+            "source": {
+              "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+              "paragraph_index": 107,
+              "confidence": "docx_structural_text"
+            }
+          }
+        },
+        "CA02": {
+          "codi": "CA02",
+          "codi_complet": "IC10_0221_RA4_CA02",
+          "descripcio": "Identifica i resol les avaries produïdes per sobreescalfament del microprocessador.",
+          "font": {
+            "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+            "paragraph_index": 108,
+            "confidence": "docx_structural_text"
+          },
+          "dades_originals": {
+            "code": "CA02",
+            "code_full": "IC10_0221_RA4_CA02",
+            "description": "Identifica i resol les avaries produïdes per sobreescalfament del microprocessador.",
+            "source": {
+              "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+              "paragraph_index": 108,
+              "confidence": "docx_structural_text"
+            }
+          }
+        },
+        "CA03": {
+          "codi": "CA03",
+          "codi_complet": "IC10_0221_RA4_CA03",
+          "descripcio": "Identifica i resol avaries típiques d'un equip microinformàtic (mala connexió de components, incompatibilitats, problemes en discos fixos, brutícia, entre d’altres).",
+          "font": {
+            "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+            "paragraph_index": 109,
+            "confidence": "docx_structural_text"
+          },
+          "dades_originals": {
+            "code": "CA03",
+            "code_full": "IC10_0221_RA4_CA03",
+            "description": "Identifica i resol avaries típiques d'un equip microinformàtic (mala connexió de components, incompatibilitats, problemes en discos fixos, brutícia, entre d’altres).",
+            "source": {
+              "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+              "paragraph_index": 109,
+              "confidence": "docx_structural_text"
+            }
+          }
+        },
+        "CA04": {
+          "codi": "CA04",
+          "codi_complet": "IC10_0221_RA4_CA04",
+          "descripcio": "Substitueix components deteriorats.",
+          "font": {
+            "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+            "paragraph_index": 110,
+            "confidence": "docx_structural_text"
+          },
+          "dades_originals": {
+            "code": "CA04",
+            "code_full": "IC10_0221_RA4_CA04",
+            "description": "Substitueix components deteriorats.",
+            "source": {
+              "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+              "paragraph_index": 110,
+              "confidence": "docx_structural_text"
+            }
+          }
+        },
+        "CA05": {
+          "codi": "CA05",
+          "codi_complet": "IC10_0221_RA4_CA05",
+          "descripcio": "Verifica la compatibilitat dels components substituïts.",
+          "font": {
+            "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+            "paragraph_index": 111,
+            "confidence": "docx_structural_text"
+          },
+          "dades_originals": {
+            "code": "CA05",
+            "code_full": "IC10_0221_RA4_CA05",
+            "description": "Verifica la compatibilitat dels components substituïts.",
+            "source": {
+              "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+              "paragraph_index": 111,
+              "confidence": "docx_structural_text"
+            }
+          }
+        },
+        "CA06": {
+          "codi": "CA06",
+          "codi_complet": "IC10_0221_RA4_CA06",
+          "descripcio": "Realitza actualitzacions i ampliacions de components.",
+          "font": {
+            "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+            "paragraph_index": 112,
+            "confidence": "docx_structural_text"
+          },
+          "dades_originals": {
+            "code": "CA06",
+            "code_full": "IC10_0221_RA4_CA06",
+            "description": "Realitza actualitzacions i ampliacions de components.",
+            "source": {
+              "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+              "paragraph_index": 112,
+              "confidence": "docx_structural_text"
+            }
+          }
+        },
+        "CA07": {
+          "codi": "CA07",
+          "codi_complet": "IC10_0221_RA4_CA07",
+          "descripcio": "Elabora informes d'avaria (reparació o ampliació).",
+          "font": {
+            "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+            "paragraph_index": 113,
+            "confidence": "docx_structural_text"
+          },
+          "dades_originals": {
+            "code": "CA07",
+            "code_full": "IC10_0221_RA4_CA07",
+            "description": "Elabora informes d'avaria (reparació o ampliació).",
+            "source": {
+              "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+              "paragraph_index": 113,
+              "confidence": "docx_structural_text"
+            }
+          }
+        }
+      }
+    },
+    "RA5": {
+      "ordre": 5,
+      "codi": "RA5",
+      "codi_complet": "IC10_0221_RA5",
+      "descripcio": "Instal·la programari en un equip informàtic utilitzant una imatge emmagatzemada en un suport de memòria i justificant el procediment a seguir.",
+      "descripcio_curta": "Instal·la programari en un equip informàtic utilitzant una imatge emmagatzemada ",
+      "font": {
+        "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+        "paragraph_index": 114,
+        "confidence": "docx_structural_text"
+      },
+      "criteris_avaluacio": {
+        "CA01": {
+          "codi": "CA01",
+          "codi_complet": "IC10_0221_RA5_CA01",
+          "descripcio": "Reconeix la diferència entre una instal·lació estàndard i una preinstal·lació de programari.",
+          "font": {
+            "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+            "paragraph_index": 118,
+            "confidence": "docx_structural_text"
+          },
+          "dades_originals": {
+            "code": "CA01",
+            "code_full": "IC10_0221_RA5_CA01",
+            "description": "Reconeix la diferència entre una instal·lació estàndard i una preinstal·lació de programari.",
+            "source": {
+              "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+              "paragraph_index": 118,
+              "confidence": "docx_structural_text"
+            }
+          }
+        },
+        "CA02": {
+          "codi": "CA02",
+          "codi_complet": "IC10_0221_RA5_CA02",
+          "descripcio": "Identifica i prova les diferents seqüències d'arrencada configurables en la placa base.",
+          "font": {
+            "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+            "paragraph_index": 119,
+            "confidence": "docx_structural_text"
+          },
+          "dades_originals": {
+            "code": "CA02",
+            "code_full": "IC10_0221_RA5_CA02",
+            "description": "Identifica i prova les diferents seqüències d'arrencada configurables en la placa base.",
+            "source": {
+              "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+              "paragraph_index": 119,
+              "confidence": "docx_structural_text"
+            }
+          }
+        },
+        "CA03": {
+          "codi": "CA03",
+          "codi_complet": "IC10_0221_RA5_CA03",
+          "descripcio": "Inicialitza equips des de diferents suports de memòria auxiliar.",
+          "font": {
+            "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+            "paragraph_index": 120,
+            "confidence": "docx_structural_text"
+          },
+          "dades_originals": {
+            "code": "CA03",
+            "code_full": "IC10_0221_RA5_CA03",
+            "description": "Inicialitza equips des de diferents suports de memòria auxiliar.",
+            "source": {
+              "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+              "paragraph_index": 120,
+              "confidence": "docx_structural_text"
+            }
+          }
+        },
+        "CA04": {
+          "codi": "CA04",
+          "codi_complet": "IC10_0221_RA5_CA04",
+          "descripcio": "Realitza imatges d'una preinstal·lació de programari.",
+          "font": {
+            "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+            "paragraph_index": 121,
+            "confidence": "docx_structural_text"
+          },
+          "dades_originals": {
+            "code": "CA04",
+            "code_full": "IC10_0221_RA5_CA04",
+            "description": "Realitza imatges d'una preinstal·lació de programari.",
+            "source": {
+              "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+              "paragraph_index": 121,
+              "confidence": "docx_structural_text"
+            }
+          }
+        },
+        "CA05": {
+          "codi": "CA05",
+          "codi_complet": "IC10_0221_RA5_CA05",
+          "descripcio": "Restaura imatges sobre el disc fix des de diferents suports.",
+          "font": {
+            "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+            "paragraph_index": 122,
+            "confidence": "docx_structural_text"
+          },
+          "dades_originals": {
+            "code": "CA05",
+            "code_full": "IC10_0221_RA5_CA05",
+            "description": "Restaura imatges sobre el disc fix des de diferents suports.",
+            "source": {
+              "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+              "paragraph_index": 122,
+              "confidence": "docx_structural_text"
+            }
+          }
+        },
+        "CA06": {
+          "codi": "CA06",
+          "codi_complet": "IC10_0221_RA5_CA06",
+          "descripcio": "Descriu les utilitats per a la creació d'imatges de partició/disc.",
+          "font": {
+            "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+            "paragraph_index": 123,
+            "confidence": "docx_structural_text"
+          },
+          "dades_originals": {
+            "code": "CA06",
+            "code_full": "IC10_0221_RA5_CA06",
+            "description": "Descriu les utilitats per a la creació d'imatges de partició/disc.",
+            "source": {
+              "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+              "paragraph_index": 123,
+              "confidence": "docx_structural_text"
+            }
+          }
+        }
+      }
+    },
+    "RA6": {
+      "ordre": 6,
+      "codi": "RA6",
+      "codi_complet": "IC10_0221_RA6",
+      "descripcio": "Reconeix noves tendències en l’acoblament d’equips microinformàtics descrivint-ne els avantatges i adaptant-les a les característiques d’ús dels equips.",
+      "descripcio_curta": "Reconeix noves tendències en l’acoblament d’equips microinformàtics descrivint-n",
+      "font": {
+        "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+        "paragraph_index": 125,
+        "confidence": "docx_structural_text"
+      },
+      "criteris_avaluacio": {
+        "CA01": {
+          "codi": "CA01",
+          "codi_complet": "IC10_0221_RA6_CA01",
+          "descripcio": "Reconeix les noves possibilitats per a donar forma al conjunt xassís-placa base.",
+          "font": {
+            "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+            "paragraph_index": 129,
+            "confidence": "docx_structural_text"
+          },
+          "dades_originals": {
+            "code": "CA01",
+            "code_full": "IC10_0221_RA6_CA01",
+            "description": "Reconeix les noves possibilitats per a donar forma al conjunt xassís-placa base.",
+            "source": {
+              "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+              "paragraph_index": 129,
+              "confidence": "docx_structural_text"
+            }
+          }
+        },
+        "CA02": {
+          "codi": "CA02",
+          "codi_complet": "IC10_0221_RA6_CA02",
+          "descripcio": "Descriu les prestacions i característiques d'algunes de les plataformes semiencaixades (barebones) més representatives del moment.",
+          "font": {
+            "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+            "paragraph_index": 130,
+            "confidence": "docx_structural_text"
+          },
+          "dades_originals": {
+            "code": "CA02",
+            "code_full": "IC10_0221_RA6_CA02",
+            "description": "Descriu les prestacions i característiques d'algunes de les plataformes semiencaixades (barebones) més representatives del moment.",
+            "source": {
+              "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+              "paragraph_index": 130,
+              "confidence": "docx_structural_text"
+            }
+          }
+        },
+        "CA03": {
+          "codi": "CA03",
+          "codi_complet": "IC10_0221_RA6_CA03",
+          "descripcio": "Descriu les característiques dels ordinadors d'entreteniment multimèdia (HTPC), els xassissos i components específics empleats en el seu assemblatge.",
+          "font": {
+            "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+            "paragraph_index": 131,
+            "confidence": "docx_structural_text"
+          },
+          "dades_originals": {
+            "code": "CA03",
+            "code_full": "IC10_0221_RA6_CA03",
+            "description": "Descriu les característiques dels ordinadors d'entreteniment multimèdia (HTPC), els xassissos i components específics empleats en el seu assemblatge.",
+            "source": {
+              "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+              "paragraph_index": 131,
+              "confidence": "docx_structural_text"
+            }
+          }
+        },
+        "CA04": {
+          "codi": "CA04",
+          "codi_complet": "IC10_0221_RA6_CA04",
+          "descripcio": "Descriu les característiques diferencials que demanden els equips informàtics utilitzats en altres camps d'aplicació específics.",
+          "font": {
+            "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+            "paragraph_index": 132,
+            "confidence": "docx_structural_text"
+          },
+          "dades_originals": {
+            "code": "CA04",
+            "code_full": "IC10_0221_RA6_CA04",
+            "description": "Descriu les característiques diferencials que demanden els equips informàtics utilitzats en altres camps d'aplicació específics.",
+            "source": {
+              "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+              "paragraph_index": 132,
+              "confidence": "docx_structural_text"
+            }
+          }
+        },
+        "CA05": {
+          "codi": "CA05",
+          "codi_complet": "IC10_0221_RA6_CA05",
+          "descripcio": "Avalua la presència de la informàtica mòbil com a mercat emergent, amb una alta demanda en equips i dispositius amb característiques específiques: mòbils, PDA, navegadors, entre d’altres.",
+          "font": {
+            "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+            "paragraph_index": 133,
+            "confidence": "docx_structural_text"
+          },
+          "dades_originals": {
+            "code": "CA05",
+            "code_full": "IC10_0221_RA6_CA05",
+            "description": "Avalua la presència de la informàtica mòbil com a mercat emergent, amb una alta demanda en equips i dispositius amb característiques específiques: mòbils, PDA, navegadors, entre d’altres.",
+            "source": {
+              "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+              "paragraph_index": 133,
+              "confidence": "docx_structural_text"
+            }
+          }
+        },
+        "CA06": {
+          "codi": "CA06",
+          "codi_complet": "IC10_0221_RA6_CA06",
+          "descripcio": "Avalua la presència del modding com a corrent alternatiu a assemblatge d'equips microinformàtics.",
+          "font": {
+            "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+            "paragraph_index": 134,
+            "confidence": "docx_structural_text"
+          },
+          "dades_originals": {
+            "code": "CA06",
+            "code_full": "IC10_0221_RA6_CA06",
+            "description": "Avalua la presència del modding com a corrent alternatiu a assemblatge d'equips microinformàtics.",
+            "source": {
+              "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+              "paragraph_index": 134,
+              "confidence": "docx_structural_text"
+            }
+          }
+        }
+      }
+    },
+    "RA7": {
+      "ordre": 7,
+      "codi": "RA7",
+      "codi_complet": "IC10_0221_RA7",
+      "descripcio": "Manté perifèrics, interpretant-ne les recomanacions dels fabricants d'equips i relacionant-ne disfuncions amb les seves causes.",
+      "descripcio_curta": "Manté perifèrics, interpretant-ne les recomanacions dels fabricants d'equips i r",
+      "font": {
+        "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+        "paragraph_index": 135,
+        "confidence": "docx_structural_text"
+      },
+      "criteris_avaluacio": {
+        "CA01": {
+          "codi": "CA01",
+          "codi_complet": "IC10_0221_RA7_CA01",
+          "descripcio": "Identifica i soluciona problemes mecànics en perifèrics d'impressió estàndard.",
+          "font": {
+            "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+            "paragraph_index": 139,
+            "confidence": "docx_structural_text"
+          },
+          "dades_originals": {
+            "code": "CA01",
+            "code_full": "IC10_0221_RA7_CA01",
+            "description": "Identifica i soluciona problemes mecànics en perifèrics d'impressió estàndard.",
+            "source": {
+              "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+              "paragraph_index": 139,
+              "confidence": "docx_structural_text"
+            }
+          }
+        },
+        "CA02": {
+          "codi": "CA02",
+          "codi_complet": "IC10_0221_RA7_CA02",
+          "descripcio": "Substitueix consumibles en perifèrics d'impressió estàndard.",
+          "font": {
+            "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+            "paragraph_index": 140,
+            "confidence": "docx_structural_text"
+          },
+          "dades_originals": {
+            "code": "CA02",
+            "code_full": "IC10_0221_RA7_CA02",
+            "description": "Substitueix consumibles en perifèrics d'impressió estàndard.",
+            "source": {
+              "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+              "paragraph_index": 140,
+              "confidence": "docx_structural_text"
+            }
+          }
+        },
+        "CA03": {
+          "codi": "CA03",
+          "codi_complet": "IC10_0221_RA7_CA03",
+          "descripcio": "Identifica i soluciona problemes mecànics en perifèrics d'entrada.",
+          "font": {
+            "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+            "paragraph_index": 141,
+            "confidence": "docx_structural_text"
+          },
+          "dades_originals": {
+            "code": "CA03",
+            "code_full": "IC10_0221_RA7_CA03",
+            "description": "Identifica i soluciona problemes mecànics en perifèrics d'entrada.",
+            "source": {
+              "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+              "paragraph_index": 141,
+              "confidence": "docx_structural_text"
+            }
+          }
+        },
+        "CA04": {
+          "codi": "CA04",
+          "codi_complet": "IC10_0221_RA7_CA04",
+          "descripcio": "Associa les característiques i prestacions dels perifèrics de captura d'imatges digitals, fixes i en moviment amb les seves possibles aplicacions.",
+          "font": {
+            "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+            "paragraph_index": 142,
+            "confidence": "docx_structural_text"
+          },
+          "dades_originals": {
+            "code": "CA04",
+            "code_full": "IC10_0221_RA7_CA04",
+            "description": "Associa les característiques i prestacions dels perifèrics de captura d'imatges digitals, fixes i en moviment amb les seves possibles aplicacions.",
+            "source": {
+              "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+              "paragraph_index": 142,
+              "confidence": "docx_structural_text"
+            }
+          }
+        },
+        "CA05": {
+          "codi": "CA05",
+          "codi_complet": "IC10_0221_RA7_CA05",
+          "descripcio": "Associa les característiques i prestacions d'altres perifèrics multimèdia amb les seves possibles aplicacions.",
+          "font": {
+            "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+            "paragraph_index": 143,
+            "confidence": "docx_structural_text"
+          },
+          "dades_originals": {
+            "code": "CA05",
+            "code_full": "IC10_0221_RA7_CA05",
+            "description": "Associa les característiques i prestacions d'altres perifèrics multimèdia amb les seves possibles aplicacions.",
+            "source": {
+              "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+              "paragraph_index": 143,
+              "confidence": "docx_structural_text"
+            }
+          }
+        },
+        "CA06": {
+          "codi": "CA06",
+          "codi_complet": "IC10_0221_RA7_CA06",
+          "descripcio": "Reconeix els usos i àmbits d'aplicació d'equips de fotocòpies, impressió digital professional i filmació.",
+          "font": {
+            "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+            "paragraph_index": 144,
+            "confidence": "docx_structural_text"
+          },
+          "dades_originals": {
+            "code": "CA06",
+            "code_full": "IC10_0221_RA7_CA06",
+            "description": "Reconeix els usos i àmbits d'aplicació d'equips de fotocòpies, impressió digital professional i filmació.",
+            "source": {
+              "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+              "paragraph_index": 144,
+              "confidence": "docx_structural_text"
+            }
+          }
+        },
+        "CA07": {
+          "codi": "CA07",
+          "codi_complet": "IC10_0221_RA7_CA07",
+          "descripcio": "Aplica tècniques de manteniment preventiu als perifèrics.",
+          "font": {
+            "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+            "paragraph_index": 145,
+            "confidence": "docx_structural_text"
+          },
+          "dades_originals": {
+            "code": "CA07",
+            "code_full": "IC10_0221_RA7_CA07",
+            "description": "Aplica tècniques de manteniment preventiu als perifèrics.",
+            "source": {
+              "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+              "paragraph_index": 145,
+              "confidence": "docx_structural_text"
+            }
+          }
+        }
+      }
+    },
+    "RA8": {
+      "ordre": 8,
+      "codi": "RA8",
+      "codi_complet": "IC10_0221_RA8",
+      "descripcio": "Compleix les normes de prevenció de riscos laborals i de protecció ambiental, identificant-ne els riscos associats, les mesures i equips per a prevenir-los.",
+      "descripcio_curta": "Compleix les normes de prevenció de riscos laborals i de protecció ambiental, id",
+      "font": {
+        "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+        "paragraph_index": 146,
+        "confidence": "docx_structural_text"
+      },
+      "criteris_avaluacio": {
+        "CA01": {
+          "codi": "CA01",
+          "codi_complet": "IC10_0221_RA8_CA01",
+          "descripcio": "Identifica els riscos i el nivell de perillositat que suposa la manipulació dels materials, eines, útils, màquines i mitjans de transport.",
+          "font": {
+            "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+            "paragraph_index": 150,
+            "confidence": "docx_structural_text"
+          },
+          "dades_originals": {
+            "code": "CA01",
+            "code_full": "IC10_0221_RA8_CA01",
+            "description": "Identifica els riscos i el nivell de perillositat que suposa la manipulació dels materials, eines, útils, màquines i mitjans de transport.",
+            "source": {
+              "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+              "paragraph_index": 150,
+              "confidence": "docx_structural_text"
+            }
+          }
+        },
+        "CA02": {
+          "codi": "CA02",
+          "codi_complet": "IC10_0221_RA8_CA02",
+          "descripcio": "Opera les màquines respectant les normes de seguretat.",
+          "font": {
+            "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+            "paragraph_index": 151,
+            "confidence": "docx_structural_text"
+          },
+          "dades_originals": {
+            "code": "CA02",
+            "code_full": "IC10_0221_RA8_CA02",
+            "description": "Opera les màquines respectant les normes de seguretat.",
+            "source": {
+              "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+              "paragraph_index": 151,
+              "confidence": "docx_structural_text"
+            }
+          }
+        },
+        "CA03": {
+          "codi": "CA03",
+          "codi_complet": "IC10_0221_RA8_CA03",
+          "descripcio": "Identifica les causes més freqüents d'accidents en la manipulació de materials, eines, màquines de tall i conformat, entre d’altres.",
+          "font": {
+            "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+            "paragraph_index": 152,
+            "confidence": "docx_structural_text"
+          },
+          "dades_originals": {
+            "code": "CA03",
+            "code_full": "IC10_0221_RA8_CA03",
+            "description": "Identifica les causes més freqüents d'accidents en la manipulació de materials, eines, màquines de tall i conformat, entre d’altres.",
+            "source": {
+              "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+              "paragraph_index": 152,
+              "confidence": "docx_structural_text"
+            }
+          }
+        },
+        "CA04": {
+          "codi": "CA04",
+          "codi_complet": "IC10_0221_RA8_CA04",
+          "descripcio": "Descriu els elements de seguretat (proteccions, alarmes, passos d'emergència, entre d’altres) de les màquines i els equips de protecció individual (calçat, protecció ocular, indumentària, entre d’altres) que s'han d'utilitzar en les diferents operacions de muntatge i manteniment.",
+          "font": {
+            "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+            "paragraph_index": 153,
+            "confidence": "docx_structural_text"
+          },
+          "dades_originals": {
+            "code": "CA04",
+            "code_full": "IC10_0221_RA8_CA04",
+            "description": "Descriu els elements de seguretat (proteccions, alarmes, passos d'emergència, entre d’altres) de les màquines i els equips de protecció individual (calçat, protecció ocular, indumentària, entre d’altres) que s'han d'utilitzar en les diferents operacions de muntatge i manteniment.",
+            "source": {
+              "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+              "paragraph_index": 153,
+              "confidence": "docx_structural_text"
+            }
+          }
+        },
+        "CA05": {
+          "codi": "CA05",
+          "codi_complet": "IC10_0221_RA8_CA05",
+          "descripcio": "Relaciona la manipulació de materials, eines i màquines amb les mesures de seguretat i protecció personal requerides.",
+          "font": {
+            "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+            "paragraph_index": 154,
+            "confidence": "docx_structural_text"
+          },
+          "dades_originals": {
+            "code": "CA05",
+            "code_full": "IC10_0221_RA8_CA05",
+            "description": "Relaciona la manipulació de materials, eines i màquines amb les mesures de seguretat i protecció personal requerides.",
+            "source": {
+              "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+              "paragraph_index": 154,
+              "confidence": "docx_structural_text"
+            }
+          }
+        },
+        "CA06": {
+          "codi": "CA06",
+          "codi_complet": "IC10_0221_RA8_CA06",
+          "descripcio": "Identifica les possibles fonts de contaminació de l'entorn ambiental.",
+          "font": {
+            "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+            "paragraph_index": 155,
+            "confidence": "docx_structural_text"
+          },
+          "dades_originals": {
+            "code": "CA06",
+            "code_full": "IC10_0221_RA8_CA06",
+            "description": "Identifica les possibles fonts de contaminació de l'entorn ambiental.",
+            "source": {
+              "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+              "paragraph_index": 155,
+              "confidence": "docx_structural_text"
+            }
+          }
+        },
+        "CA07": {
+          "codi": "CA07",
+          "codi_complet": "IC10_0221_RA8_CA07",
+          "descripcio": "Classifica els residus generats per a la seva retirada selectiva.",
+          "font": {
+            "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+            "paragraph_index": 156,
+            "confidence": "docx_structural_text"
+          },
+          "dades_originals": {
+            "code": "CA07",
+            "code_full": "IC10_0221_RA8_CA07",
+            "description": "Classifica els residus generats per a la seva retirada selectiva.",
+            "source": {
+              "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+              "paragraph_index": 156,
+              "confidence": "docx_structural_text"
+            }
+          }
+        },
+        "CA08": {
+          "codi": "CA08",
+          "codi_complet": "IC10_0221_RA8_CA08",
+          "descripcio": "Valora l'ordre i la netedat d'instal·lacions i equips com a primer factor de prevenció de riscos.",
+          "font": {
+            "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+            "paragraph_index": 157,
+            "confidence": "docx_structural_text"
+          },
+          "dades_originals": {
+            "code": "CA08",
+            "code_full": "IC10_0221_RA8_CA08",
+            "description": "Valora l'ordre i la netedat d'instal·lacions i equips com a primer factor de prevenció de riscos.",
+            "source": {
+              "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+              "paragraph_index": 157,
+              "confidence": "docx_structural_text"
+            }
+          }
+        }
+      }
+    }
+  },
+  "metadata": {
+    "font": "docs/data",
+    "fitxer_origen": "ic10.json",
+    "estat": "generat",
+    "data_generacio": "2026-07-15T14:28:35.869249+00:00"
+  }
+}

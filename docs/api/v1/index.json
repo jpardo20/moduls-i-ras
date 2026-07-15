@@ -1,0 +1,213 @@
+{
+  "api_version": "1.0",
+  "projecte": "moduls-i-ras",
+  "descripcio": "API estàtica de consulta de mòduls professionals, resultats d'aprenentatge i criteris d'avaluació.",
+  "base_path": "docs/api/v1",
+  "cicles": {
+    "IC10": {
+      "nom": "smx",
+      "num_moduls": 14,
+      "url": "cicles/ic10.json"
+    },
+    "ICB0": {
+      "nom": "dam",
+      "num_moduls": 16,
+      "url": "cicles/icb0.json"
+    }
+  },
+  "moduls": {
+    "0221": {
+      "nom": "Muntatge i manteniment d’equips",
+      "hores_total": 231,
+      "te_empresa": true,
+      "num_ra": 8,
+      "url": "moduls/0221.json"
+    },
+    "0222": {
+      "nom": "Sistemes operatius monolloc",
+      "hores_total": 132,
+      "te_empresa": true,
+      "num_ra": 5,
+      "url": "moduls/0222.json"
+    },
+    "0223": {
+      "nom": "Aplicacions ofimàtiques",
+      "hores_total": 198,
+      "te_empresa": true,
+      "num_ra": 9,
+      "url": "moduls/0223.json"
+    },
+    "0224": {
+      "nom": "Sistemes operatius en xarxa",
+      "hores_total": 198,
+      "te_empresa": true,
+      "num_ra": 6,
+      "url": "moduls/0224.json"
+    },
+    "0225": {
+      "nom": "Xarxes locals",
+      "hores_total": 198,
+      "te_empresa": true,
+      "num_ra": 6,
+      "url": "moduls/0225.json"
+    },
+    "0226": {
+      "nom": "Seguretat informàtica",
+      "hores_total": 132,
+      "te_empresa": true,
+      "num_ra": 5,
+      "url": "moduls/0226.json"
+    },
+    "0227": {
+      "nom": "Serveis de xarxa",
+      "hores_total": 198,
+      "te_empresa": false,
+      "num_ra": 8,
+      "url": "moduls/0227.json"
+    },
+    "0228": {
+      "nom": "Aplicacions web",
+      "hores_total": 119,
+      "te_empresa": false,
+      "num_ra": 5,
+      "url": "moduls/0228.json"
+    },
+    "0156": {
+      "nom": "Anglès Professional",
+      "hores_total": 66,
+      "te_empresa": false,
+      "num_ra": 5,
+      "url": "moduls/0156.json"
+    },
+    "1664": {
+      "nom": "Digitalització aplicada als sectors productius",
+      "hores_total": 33,
+      "te_empresa": true,
+      "num_ra": 5,
+      "url": "moduls/1664.json"
+    },
+    "1708": {
+      "nom": "Sostenibilitat Aplicada al Sistema Productiu",
+      "hores_total": 33,
+      "te_empresa": false,
+      "num_ra": 6,
+      "url": "moduls/1708.json"
+    },
+    "1709": {
+      "nom": "Itinerari personal per a l'ocupabilitat I",
+      "hores_total": 99,
+      "te_empresa": false,
+      "num_ra": 4,
+      "url": "moduls/1709.json"
+    },
+    "1710": {
+      "nom": "Itinerari personal per a l'ocupabilitat II",
+      "hores_total": 66,
+      "te_empresa": false,
+      "num_ra": 5,
+      "url": "moduls/1710.json"
+    },
+    "1713": {
+      "nom": "Projecte intermodular",
+      "hores_total": 198,
+      "te_empresa": false,
+      "num_ra": 5,
+      "url": "moduls/1713.json"
+    },
+    "0373": {
+      "nom": "Llenguatges de marques i sistemes de gestió d’informació",
+      "hores_total": 99,
+      "te_empresa": true,
+      "num_ra": 7,
+      "url": "moduls/0373.json"
+    },
+    "0483": {
+      "nom": "Sistemes informàtics",
+      "hores_total": 165,
+      "te_empresa": true,
+      "num_ra": 7,
+      "url": "moduls/0483.json"
+    },
+    "0484": {
+      "nom": "Bases de dades",
+      "hores_total": 198,
+      "te_empresa": true,
+      "num_ra": 7,
+      "url": "moduls/0484.json"
+    },
+    "0485": {
+      "nom": "Programació",
+      "hores_total": 264,
+      "te_empresa": true,
+      "num_ra": 9,
+      "url": "moduls/0485.json"
+    },
+    "0486": {
+      "nom": "Accés a dades",
+      "hores_total": 132,
+      "te_empresa": true,
+      "num_ra": 6,
+      "url": "moduls/0486.json"
+    },
+    "0487": {
+      "nom": "Entorns de desenvolupament",
+      "hores_total": 99,
+      "te_empresa": true,
+      "num_ra": 6,
+      "url": "moduls/0487.json"
+    },
+    "0488": {
+      "nom": "Desenvolupament d’interfícies",
+      "hores_total": 119,
+      "te_empresa": true,
+      "num_ra": 8,
+      "url": "moduls/0488.json"
+    },
+    "0489": {
+      "nom": "Programació multimèdia i dispositius mòbils",
+      "hores_total": 132,
+      "te_empresa": true,
+      "num_ra": 5,
+      "url": "moduls/0489.json"
+    },
+    "0490": {
+      "nom": "Programació de serveis i processos",
+      "hores_total": 99,
+      "te_empresa": true,
+      "num_ra": 5,
+      "url": "moduls/0490.json"
+    },
+    "0491": {
+      "nom": "Sistemes de gestió empresarial",
+      "hores_total": 99,
+      "te_empresa": true,
+      "num_ra": 5,
+      "url": "moduls/0491.json"
+    },
+    "0179": {
+      "nom": "Anglès professional",
+      "hores_total": 66,
+      "te_empresa": false,
+      "num_ra": 5,
+      "url": "moduls/0179.json"
+    },
+    "1665": {
+      "nom": "Digitalització aplicada als sectors productius",
+      "hores_total": 33,
+      "te_empresa": false,
+      "num_ra": 6,
+      "url": "moduls/1665.json"
+    },
+    "0492": {
+      "nom": "Projecte intermodular de desenvolupament d'aplicacions multiplataforma",
+      "hores_total": 198,
+      "te_empresa": false,
+      "num_ra": 4,
+      "url": "moduls/0492.json"
+    }
+  },
+  "metadata": {
+    "estat": "generat",
+    "data_generacio": "2026-07-15T14:28:35.869249+00:00"
+  }
+}

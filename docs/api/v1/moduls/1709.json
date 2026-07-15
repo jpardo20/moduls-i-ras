@@ -1,0 +1,900 @@
+{
+  "api_version": "1.0",
+  "codi": "1709",
+  "nom": "Itinerari personal per a l'ocupabilitat I",
+  "cicle": {
+    "codi": "ICB0",
+    "nom": "dam"
+  },
+  "hores": {
+    "total": 99
+  },
+  "empresa": {
+    "te_estada": false
+  },
+  "num_ra": 4,
+  "resultats_aprenentatge": {
+    "RA1": {
+      "ordre": 1,
+      "codi": "RA1",
+      "codi_complet": "ICB0_1709_RA1",
+      "descripcio": "Distingeix les característiques del sector productiu i defineix els llocs de treball, relacionant-los amb les competències professionals expressades en el títol.",
+      "descripcio_curta": "Distingeix les característiques del sector productiu i defineix els llocs de tre",
+      "font": {
+        "file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx",
+        "paragraph_index": 1743,
+        "confidence": "docx_structural_text"
+      },
+      "criteris_avaluacio": {
+        "CA01": {
+          "codi": "CA01",
+          "codi_complet": "ICB0_1709_RA1_CA01",
+          "descripcio": "1.1 Analitza les principals oportunitats d'ocupació i d'inserció laboral en el sector professional, identificant les possibilitats d'ocupació i analitzant els requeriments actuals per al perfil professional.",
+          "font": {
+            "file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx",
+            "paragraph_index": 1745,
+            "confidence": "docx_structural_text"
+          },
+          "dades_originals": {
+            "code": "CA01",
+            "code_full": "ICB0_1709_RA1_CA01",
+            "description": "1.1 Analitza les principals oportunitats d'ocupació i d'inserció laboral en el sector professional, identificant les possibilitats d'ocupació i analitzant els requeriments actuals per al perfil professional.",
+            "source": {
+              "file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx",
+              "paragraph_index": 1745,
+              "confidence": "docx_structural_text"
+            }
+          }
+        },
+        "CA02": {
+          "codi": "CA02",
+          "codi_complet": "ICB0_1709_RA1_CA02",
+          "descripcio": "1.2 Compara els diferents requeriments exigits pel mercat laboral amb les exigències per al treball en la funció pública i els relaciona amb el sector privat.",
+          "font": {
+            "file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx",
+            "paragraph_index": 1746,
+            "confidence": "docx_structural_text"
+          },
+          "dades_originals": {
+            "code": "CA02",
+            "code_full": "ICB0_1709_RA1_CA02",
+            "description": "1.2 Compara els diferents requeriments exigits pel mercat laboral amb les exigències per al treball en la funció pública i els relaciona amb el sector privat.",
+            "source": {
+              "file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx",
+              "paragraph_index": 1746,
+              "confidence": "docx_structural_text"
+            }
+          }
+        },
+        "CA03": {
+          "codi": "CA03",
+          "codi_complet": "ICB0_1709_RA1_CA03",
+          "descripcio": "1.3 Reflexiona sobre les actituds i aptituds requerides actualment per a l'activitat professional relacionades amb el títol, així com les competències personals i socials més rellevants per al sector, identificant la seva zona de desenvolupament pròxim.",
+          "font": {
+            "file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx",
+            "paragraph_index": 1747,
+            "confidence": "docx_structural_text"
+          },
+          "dades_originals": {
+            "code": "CA03",
+            "code_full": "ICB0_1709_RA1_CA03",
+            "description": "1.3 Reflexiona sobre les actituds i aptituds requerides actualment per a l'activitat professional relacionades amb el títol, així com les competències personals i socials més rellevants per al sector, identificant la seva zona de desenvolupament pròxim.",
+            "source": {
+              "file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx",
+              "paragraph_index": 1747,
+              "confidence": "docx_structural_text"
+            }
+          }
+        }
+      }
+    },
+    "RA2": {
+      "ordre": 2,
+      "codi": "RA2",
+      "codi_complet": "ICB0_1709_RA2",
+      "descripcio": "Assoleix les competències necessàries per a l'obtenció del títol de Tècnic Bàsic en Prevenció de Riscos Laborals.",
+      "descripcio_curta": "Assoleix les competències necessàries per a l'obtenció del títol de Tècnic Bàsic",
+      "font": {
+        "file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx",
+        "paragraph_index": 1748,
+        "confidence": "docx_structural_text"
+      },
+      "criteris_avaluacio": {
+        "CA01": {
+          "codi": "CA01",
+          "codi_complet": "ICB0_1709_RA2_CA01",
+          "descripcio": "2.1 Valora la importància de la cultura preventiva en tots els àmbits i activitats de l'empresa o organisme equiparat relacionant les condicions laborals amb la salut de la persona treballadora, identificant i classificant els factors de risc en l'activitat i els danys derivats, especialment les situacions de risc més habituals en els entorns de treball del sector professional relacionat amb el títol",
+          "font": {
+            "file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx",
+            "paragraph_index": 1750,
+            "confidence": "docx_structural_text"
+          },
+          "dades_originals": {
+            "code": "CA01",
+            "code_full": "ICB0_1709_RA2_CA01",
+            "description": "2.1 Valora la importància de la cultura preventiva en tots els àmbits i activitats de l'empresa o organisme equiparat relacionant les condicions laborals amb la salut de la persona treballadora, identificant i classificant els factors de risc en l'activitat i els danys derivats, especialment les situacions de risc més habituals en els entorns de treball del sector professional relacionat amb el títol",
+            "source": {
+              "file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx",
+              "paragraph_index": 1750,
+              "confidence": "docx_structural_text"
+            }
+          }
+        },
+        "CA02": {
+          "codi": "CA02",
+          "codi_complet": "ICB0_1709_RA2_CA02",
+          "descripcio": "2.2 Classifica i descriu els tipus de danys professionals, amb especial referència a accidents de treball i malalties professionals, relacionats amb el perfil professional del títol.",
+          "font": {
+            "file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx",
+            "paragraph_index": 1751,
+            "confidence": "docx_structural_text"
+          },
+          "dades_originals": {
+            "code": "CA02",
+            "code_full": "ICB0_1709_RA2_CA02",
+            "description": "2.2 Classifica i descriu els tipus de danys professionals, amb especial referència a accidents de treball i malalties professionals, relacionats amb el perfil professional del títol.",
+            "source": {
+              "file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx",
+              "paragraph_index": 1751,
+              "confidence": "docx_structural_text"
+            }
+          }
+        },
+        "CA03": {
+          "codi": "CA03",
+          "codi_complet": "ICB0_1709_RA2_CA03",
+          "descripcio": "2.3 Determina l'avaluació de riscos en l'empresa o organisme equiparat i defineix les tècniques de prevenció i de protecció que s’han d'aplicar per a evitar els danys a l'origen i minimitzar les seves conseqüències.",
+          "font": {
+            "file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx",
+            "paragraph_index": 1752,
+            "confidence": "docx_structural_text"
+          },
+          "dades_originals": {
+            "code": "CA03",
+            "code_full": "ICB0_1709_RA2_CA03",
+            "description": "2.3 Determina l'avaluació de riscos en l'empresa o organisme equiparat i defineix les tècniques de prevenció i de protecció que s’han d'aplicar per a evitar els danys a l'origen i minimitzar les seves conseqüències.",
+            "source": {
+              "file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx",
+              "paragraph_index": 1752,
+              "confidence": "docx_structural_text"
+            }
+          }
+        },
+        "CA04": {
+          "codi": "CA04",
+          "codi_complet": "ICB0_1709_RA2_CA04",
+          "descripcio": "2.4 Analitza els protocols d'actuació en cas d'emergència.",
+          "font": {
+            "file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx",
+            "paragraph_index": 1753,
+            "confidence": "docx_structural_text"
+          },
+          "dades_originals": {
+            "code": "CA04",
+            "code_full": "ICB0_1709_RA2_CA04",
+            "description": "2.4 Analitza els protocols d'actuació en cas d'emergència.",
+            "source": {
+              "file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx",
+              "paragraph_index": 1753,
+              "confidence": "docx_structural_text"
+            }
+          }
+        },
+        "CA05": {
+          "codi": "CA05",
+          "codi_complet": "ICB0_1709_RA2_CA05",
+          "descripcio": "2.5 Determina els principals drets i deures en matèria de prevenció de riscos laborals.",
+          "font": {
+            "file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx",
+            "paragraph_index": 1754,
+            "confidence": "docx_structural_text"
+          },
+          "dades_originals": {
+            "code": "CA05",
+            "code_full": "ICB0_1709_RA2_CA05",
+            "description": "2.5 Determina els principals drets i deures en matèria de prevenció de riscos laborals.",
+            "source": {
+              "file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx",
+              "paragraph_index": 1754,
+              "confidence": "docx_structural_text"
+            }
+          }
+        },
+        "CA06": {
+          "codi": "CA06",
+          "codi_complet": "ICB0_1709_RA2_CA06",
+          "descripcio": "2.6 Classifica les diferents formes de gestió de la prevenció en l'empresa o organisme equiparat, en funció dels diferents criteris establerts en la normativa sobre prevenció de riscos laborals i determina les formes de representació de les persones treballadores en l'empresa o organisme equiparat en matèria de prevenció de riscos.",
+          "font": {
+            "file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx",
+            "paragraph_index": 1755,
+            "confidence": "docx_structural_text"
+          },
+          "dades_originals": {
+            "code": "CA06",
+            "code_full": "ICB0_1709_RA2_CA06",
+            "description": "2.6 Classifica les diferents formes de gestió de la prevenció en l'empresa o organisme equiparat, en funció dels diferents criteris establerts en la normativa sobre prevenció de riscos laborals i determina les formes de representació de les persones treballadores en l'empresa o organisme equiparat en matèria de prevenció de riscos.",
+            "source": {
+              "file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx",
+              "paragraph_index": 1755,
+              "confidence": "docx_structural_text"
+            }
+          }
+        },
+        "CA07": {
+          "codi": "CA07",
+          "codi_complet": "ICB0_1709_RA2_CA07",
+          "descripcio": "2.7 Valora la importància de l'existència d'un pla preventiu en l'empresa o organisme equiparat que inclogui la seqüenciació d'actuacions a realitzar en cas d'emergència i reflexiona sobre el seu contingut.",
+          "font": {
+            "file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx",
+            "paragraph_index": 1756,
+            "confidence": "docx_structural_text"
+          },
+          "dades_originals": {
+            "code": "CA07",
+            "code_full": "ICB0_1709_RA2_CA07",
+            "description": "2.7 Valora la importància de l'existència d'un pla preventiu en l'empresa o organisme equiparat que inclogui la seqüenciació d'actuacions a realitzar en cas d'emergència i reflexiona sobre el seu contingut.",
+            "source": {
+              "file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx",
+              "paragraph_index": 1756,
+              "confidence": "docx_structural_text"
+            }
+          }
+        },
+        "CA08": {
+          "codi": "CA08",
+          "codi_complet": "ICB0_1709_RA2_CA08",
+          "descripcio": "2.8 Determina els requisits i condicions per a la vigilància de la salut de la persona treballadora i la seva importància com a mesura de prevenció.",
+          "font": {
+            "file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx",
+            "paragraph_index": 1757,
+            "confidence": "docx_structural_text"
+          },
+          "dades_originals": {
+            "code": "CA08",
+            "code_full": "ICB0_1709_RA2_CA08",
+            "description": "2.8 Determina els requisits i condicions per a la vigilància de la salut de la persona treballadora i la seva importància com a mesura de prevenció.",
+            "source": {
+              "file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx",
+              "paragraph_index": 1757,
+              "confidence": "docx_structural_text"
+            }
+          }
+        },
+        "CA09": {
+          "codi": "CA09",
+          "codi_complet": "ICB0_1709_RA2_CA09",
+          "descripcio": "2.9 Identifica les tècniques bàsiques de primers auxilis que s’han d’aplicar en el lloc de l'accident davant diferents tipus de danys i la composició i ús de la farmaciola.",
+          "font": {
+            "file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx",
+            "paragraph_index": 1758,
+            "confidence": "docx_structural_text"
+          },
+          "dades_originals": {
+            "code": "CA09",
+            "code_full": "ICB0_1709_RA2_CA09",
+            "description": "2.9 Identifica les tècniques bàsiques de primers auxilis que s’han d’aplicar en el lloc de l'accident davant diferents tipus de danys i la composició i ús de la farmaciola.",
+            "source": {
+              "file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx",
+              "paragraph_index": 1758,
+              "confidence": "docx_structural_text"
+            }
+          }
+        },
+        "CA10": {
+          "codi": "CA10",
+          "codi_complet": "ICB0_1709_RA2_CA10",
+          "descripcio": "Analitza les seves condicions laborals com a persona treballadora per compte d'altri, identificant-les en els principals tipus de canvis i vicissituds rellevants que es poden presentar en la relació laboral, en la normativa laboral i, especialment, en el conveni col·lectiu del sector.",
+          "font": {
+            "file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx",
+            "paragraph_index": 1759,
+            "confidence": "docx_structural_text"
+          },
+          "dades_originals": {
+            "code": "CA10",
+            "code_full": "ICB0_1709_RA2_CA10",
+            "description": "Analitza les seves condicions laborals com a persona treballadora per compte d'altri, identificant-les en els principals tipus de canvis i vicissituds rellevants que es poden presentar en la relació laboral, en la normativa laboral i, especialment, en el conveni col·lectiu del sector.",
+            "source": {
+              "file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx",
+              "paragraph_index": 1759,
+              "confidence": "docx_structural_text"
+            }
+          }
+        },
+        "CA11": {
+          "codi": "CA11",
+          "codi_complet": "ICB0_1709_RA2_CA11",
+          "descripcio": "Criteris avaluació",
+          "font": {
+            "file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx",
+            "paragraph_index": 1760,
+            "confidence": "docx_structural_text"
+          },
+          "dades_originals": {
+            "code": "CA11",
+            "code_full": "ICB0_1709_RA2_CA11",
+            "description": "Criteris avaluació",
+            "source": {
+              "file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx",
+              "paragraph_index": 1760,
+              "confidence": "docx_structural_text"
+            }
+          }
+        },
+        "CA12": {
+          "codi": "CA12",
+          "codi_complet": "ICB0_1709_RA2_CA12",
+          "descripcio": "3.1 Analitza els drets i obligacions derivats de la relació laboral, així com les condicions de treball pactades en un conveni col·lectiu aplicable al sector professional relacionat amb el títol.",
+          "font": {
+            "file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx",
+            "paragraph_index": 1761,
+            "confidence": "docx_structural_text"
+          },
+          "dades_originals": {
+            "code": "CA12",
+            "code_full": "ICB0_1709_RA2_CA12",
+            "description": "3.1 Analitza els drets i obligacions derivats de la relació laboral, així com les condicions de treball pactades en un conveni col·lectiu aplicable al sector professional relacionat amb el títol.",
+            "source": {
+              "file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx",
+              "paragraph_index": 1761,
+              "confidence": "docx_structural_text"
+            }
+          }
+        },
+        "CA13": {
+          "codi": "CA13",
+          "codi_complet": "ICB0_1709_RA2_CA13",
+          "descripcio": "3.2 Compara les principals modalitats de contractació, localitzant els diferents models en les fonts oficials.",
+          "font": {
+            "file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx",
+            "paragraph_index": 1762,
+            "confidence": "docx_structural_text"
+          },
+          "dades_originals": {
+            "code": "CA13",
+            "code_full": "ICB0_1709_RA2_CA13",
+            "description": "3.2 Compara les principals modalitats de contractació, localitzant els diferents models en les fonts oficials.",
+            "source": {
+              "file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx",
+              "paragraph_index": 1762,
+              "confidence": "docx_structural_text"
+            }
+          }
+        },
+        "CA14": {
+          "codi": "CA14",
+          "codi_complet": "ICB0_1709_RA2_CA14",
+          "descripcio": "3.3 Identificat les característiques definitòries dels nous entorns d'organització del treball i els drets que comporta.",
+          "font": {
+            "file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx",
+            "paragraph_index": 1763,
+            "confidence": "docx_structural_text"
+          },
+          "dades_originals": {
+            "code": "CA14",
+            "code_full": "ICB0_1709_RA2_CA14",
+            "description": "3.3 Identificat les característiques definitòries dels nous entorns d'organització del treball i els drets que comporta.",
+            "source": {
+              "file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx",
+              "paragraph_index": 1763,
+              "confidence": "docx_structural_text"
+            }
+          }
+        },
+        "CA15": {
+          "codi": "CA15",
+          "codi_complet": "ICB0_1709_RA2_CA15",
+          "descripcio": "3.4 Identifica els diferents components del rebut de salari.",
+          "font": {
+            "file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx",
+            "paragraph_index": 1764,
+            "confidence": "docx_structural_text"
+          },
+          "dades_originals": {
+            "code": "CA15",
+            "code_full": "ICB0_1709_RA2_CA15",
+            "description": "3.4 Identifica els diferents components del rebut de salari.",
+            "source": {
+              "file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx",
+              "paragraph_index": 1764,
+              "confidence": "docx_structural_text"
+            }
+          }
+        },
+        "CA16": {
+          "codi": "CA16",
+          "codi_complet": "ICB0_1709_RA2_CA16",
+          "descripcio": "3.5 Identifica els recursos laborals existents davant les diferents vicissituds que es poden donar en la relació laboral.",
+          "font": {
+            "file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx",
+            "paragraph_index": 1765,
+            "confidence": "docx_structural_text"
+          },
+          "dades_originals": {
+            "code": "CA16",
+            "code_full": "ICB0_1709_RA2_CA16",
+            "description": "3.5 Identifica els recursos laborals existents davant les diferents vicissituds que es poden donar en la relació laboral.",
+            "source": {
+              "file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx",
+              "paragraph_index": 1765,
+              "confidence": "docx_structural_text"
+            }
+          }
+        },
+        "CA17": {
+          "codi": "CA17",
+          "codi_complet": "ICB0_1709_RA2_CA17",
+          "descripcio": "3.6 Valora el paper de la Seguretat Social com a pilar essencial per a la millora de la qualitat de vida dels ciutadans.",
+          "font": {
+            "file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx",
+            "paragraph_index": 1766,
+            "confidence": "docx_structural_text"
+          },
+          "dades_originals": {
+            "code": "CA17",
+            "code_full": "ICB0_1709_RA2_CA17",
+            "description": "3.6 Valora el paper de la Seguretat Social com a pilar essencial per a la millora de la qualitat de vida dels ciutadans.",
+            "source": {
+              "file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx",
+              "paragraph_index": 1766,
+              "confidence": "docx_structural_text"
+            }
+          }
+        },
+        "CA18": {
+          "codi": "CA18",
+          "codi_complet": "ICB0_1709_RA2_CA18",
+          "descripcio": "3.7 Analitza les principals prestacions derivades de la suspensió i extinció de la relació laboral.",
+          "font": {
+            "file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx",
+            "paragraph_index": 1767,
+            "confidence": "docx_structural_text"
+          },
+          "dades_originals": {
+            "code": "CA18",
+            "code_full": "ICB0_1709_RA2_CA18",
+            "description": "3.7 Analitza les principals prestacions derivades de la suspensió i extinció de la relació laboral.",
+            "source": {
+              "file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx",
+              "paragraph_index": 1767,
+              "confidence": "docx_structural_text"
+            }
+          }
+        }
+      }
+    },
+    "RA3": {
+      "ordre": 3,
+      "codi": "RA3",
+      "codi_complet": "ICB0_1709_RA3",
+      "descripcio": "Analitza i avalua el seu potencial professional i els seus interessos per a guiar-se en el procés d'autoorientació i elabora un full de ruta per a la inserció professional partint de l'anàlisi de les competències, interessos i destreses personals.",
+      "descripcio_curta": "Analitza i avalua el seu potencial professional i els seus interessos per a guia",
+      "font": {
+        "file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx",
+        "paragraph_index": 1768,
+        "confidence": "docx_structural_text"
+      },
+      "criteris_avaluacio": {
+        "CA01": {
+          "codi": "CA01",
+          "codi_complet": "ICB0_1709_RA3_CA01",
+          "descripcio": "4.1 Avalua els interessos propis, motivacions, habilitats i destreses en el marc d'un procés d'autoconeixement.",
+          "font": {
+            "file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx",
+            "paragraph_index": 1770,
+            "confidence": "docx_structural_text"
+          },
+          "dades_originals": {
+            "code": "CA01",
+            "code_full": "ICB0_1709_RA3_CA01",
+            "description": "4.1 Avalua els interessos propis, motivacions, habilitats i destreses en el marc d'un procés d'autoconeixement.",
+            "source": {
+              "file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx",
+              "paragraph_index": 1770,
+              "confidence": "docx_structural_text"
+            }
+          }
+        },
+        "CA02": {
+          "codi": "CA02",
+          "codi_complet": "ICB0_1709_RA3_CA02",
+          "descripcio": "4.2 Analitza les qualitats i competències personals afins a l'activitat professional relacionada amb el perfil del títol.",
+          "font": {
+            "file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx",
+            "paragraph_index": 1771,
+            "confidence": "docx_structural_text"
+          },
+          "dades_originals": {
+            "code": "CA02",
+            "code_full": "ICB0_1709_RA3_CA02",
+            "description": "4.2 Analitza les qualitats i competències personals afins a l'activitat professional relacionada amb el perfil del títol.",
+            "source": {
+              "file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx",
+              "paragraph_index": 1771,
+              "confidence": "docx_structural_text"
+            }
+          }
+        },
+        "CA03": {
+          "codi": "CA03",
+          "codi_complet": "ICB0_1709_RA3_CA03",
+          "descripcio": "4.3 Determina les competències personals i socials amb valor per a l'ocupació.",
+          "font": {
+            "file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx",
+            "paragraph_index": 1772,
+            "confidence": "docx_structural_text"
+          },
+          "dades_originals": {
+            "code": "CA03",
+            "code_full": "ICB0_1709_RA3_CA03",
+            "description": "4.3 Determina les competències personals i socials amb valor per a l'ocupació.",
+            "source": {
+              "file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx",
+              "paragraph_index": 1772,
+              "confidence": "docx_structural_text"
+            }
+          }
+        },
+        "CA04": {
+          "codi": "CA04",
+          "codi_complet": "ICB0_1709_RA3_CA04",
+          "descripcio": "4.4 Assenyala les preferències professionals, interessos i metes en el marc d'un projecte professional.",
+          "font": {
+            "file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx",
+            "paragraph_index": 1773,
+            "confidence": "docx_structural_text"
+          },
+          "dades_originals": {
+            "code": "CA04",
+            "code_full": "ICB0_1709_RA3_CA04",
+            "description": "4.4 Assenyala les preferències professionals, interessos i metes en el marc d'un projecte professional.",
+            "source": {
+              "file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx",
+              "paragraph_index": 1773,
+              "confidence": "docx_structural_text"
+            }
+          }
+        },
+        "CA05": {
+          "codi": "CA05",
+          "codi_complet": "ICB0_1709_RA3_CA05",
+          "descripcio": "4.5 Valora el concepte d'autoestima en el procés de cerca d'ocupació.",
+          "font": {
+            "file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx",
+            "paragraph_index": 1774,
+            "confidence": "docx_structural_text"
+          },
+          "dades_originals": {
+            "code": "CA05",
+            "code_full": "ICB0_1709_RA3_CA05",
+            "description": "4.5 Valora el concepte d'autoestima en el procés de cerca d'ocupació.",
+            "source": {
+              "file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx",
+              "paragraph_index": 1774,
+              "confidence": "docx_structural_text"
+            }
+          }
+        },
+        "CA06": {
+          "codi": "CA06",
+          "codi_complet": "ICB0_1709_RA3_CA06",
+          "descripcio": "4.6 Identifica les fortaleses, febleses, amenaces i oportunitats pròpies per a la inserció professional.",
+          "font": {
+            "file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx",
+            "paragraph_index": 1775,
+            "confidence": "docx_structural_text"
+          },
+          "dades_originals": {
+            "code": "CA06",
+            "code_full": "ICB0_1709_RA3_CA06",
+            "description": "4.6 Identifica les fortaleses, febleses, amenaces i oportunitats pròpies per a la inserció professional.",
+            "source": {
+              "file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx",
+              "paragraph_index": 1775,
+              "confidence": "docx_structural_text"
+            }
+          }
+        },
+        "CA07": {
+          "codi": "CA07",
+          "codi_complet": "ICB0_1709_RA3_CA07",
+          "descripcio": "4.7 Identifica expectatives de futur per a la inserció professional analitzant competències, interessos i destreses personals.",
+          "font": {
+            "file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx",
+            "paragraph_index": 1776,
+            "confidence": "docx_structural_text"
+          },
+          "dades_originals": {
+            "code": "CA07",
+            "code_full": "ICB0_1709_RA3_CA07",
+            "description": "4.7 Identifica expectatives de futur per a la inserció professional analitzant competències, interessos i destreses personals.",
+            "source": {
+              "file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx",
+              "paragraph_index": 1776,
+              "confidence": "docx_structural_text"
+            }
+          }
+        },
+        "CA08": {
+          "codi": "CA08",
+          "codi_complet": "ICB0_1709_RA3_CA08",
+          "descripcio": "4.8 Valora fites importants en la trajectòria vital amb valor professionalitzador.",
+          "font": {
+            "file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx",
+            "paragraph_index": 1777,
+            "confidence": "docx_structural_text"
+          },
+          "dades_originals": {
+            "code": "CA08",
+            "code_full": "ICB0_1709_RA3_CA08",
+            "description": "4.8 Valora fites importants en la trajectòria vital amb valor professionalitzador.",
+            "source": {
+              "file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx",
+              "paragraph_index": 1777,
+              "confidence": "docx_structural_text"
+            }
+          }
+        },
+        "CA09": {
+          "codi": "CA09",
+          "codi_complet": "ICB0_1709_RA3_CA09",
+          "descripcio": "4.9 Identifica els itineraris formatius professionals relacionats amb el perfil professional.",
+          "font": {
+            "file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx",
+            "paragraph_index": 1778,
+            "confidence": "docx_structural_text"
+          },
+          "dades_originals": {
+            "code": "CA09",
+            "code_full": "ICB0_1709_RA3_CA09",
+            "description": "4.9 Identifica els itineraris formatius professionals relacionats amb el perfil professional.",
+            "source": {
+              "file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx",
+              "paragraph_index": 1778,
+              "confidence": "docx_structural_text"
+            }
+          }
+        },
+        "CA10": {
+          "codi": "CA10",
+          "codi_complet": "ICB0_1709_RA3_CA10",
+          "descripcio": "4.10 Formula objectius professionals i determina metes personals i professionals per a la millora de l'ocupabilitat i les condicions d'inserció laboral.",
+          "font": {
+            "file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx",
+            "paragraph_index": 1779,
+            "confidence": "docx_structural_text"
+          },
+          "dades_originals": {
+            "code": "CA10",
+            "code_full": "ICB0_1709_RA3_CA10",
+            "description": "4.10 Formula objectius professionals i determina metes personals i professionals per a la millora de l'ocupabilitat i les condicions d'inserció laboral.",
+            "source": {
+              "file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx",
+              "paragraph_index": 1779,
+              "confidence": "docx_structural_text"
+            }
+          }
+        },
+        "CA11": {
+          "codi": "CA11",
+          "codi_complet": "ICB0_1709_RA3_CA11",
+          "descripcio": "4.11 Traça un pla d'acció per a desenvolupar les àrees de millora i potenciar les fortaleses personals amb valor per a l'ocupació.",
+          "font": {
+            "file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx",
+            "paragraph_index": 1780,
+            "confidence": "docx_structural_text"
+          },
+          "dades_originals": {
+            "code": "CA11",
+            "code_full": "ICB0_1709_RA3_CA11",
+            "description": "4.11 Traça un pla d'acció per a desenvolupar les àrees de millora i potenciar les fortaleses personals amb valor per a l'ocupació.",
+            "source": {
+              "file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx",
+              "paragraph_index": 1780,
+              "confidence": "docx_structural_text"
+            }
+          }
+        }
+      }
+    },
+    "RA4": {
+      "ordre": 4,
+      "codi": "RA4",
+      "codi_complet": "ICB0_1709_RA4",
+      "descripcio": "Aplica les estratègies per a l'aprenentatge autònom reconeixent el seu valor professionalitzador, dissenyant i optimitzant el seu propi entorn d'aprenentatge fent ús de les tecnologies digitals com a eines d'aprenentatge autònom, sent coherent amb la seva identitat digital i els seus objectius professionals plantejats en el seu pla de desenvolupament individual.",
+      "descripcio_curta": "Aplica les estratègies per a l'aprenentatge autònom reconeixent el seu valor pro",
+      "font": {
+        "file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx",
+        "paragraph_index": 1781,
+        "confidence": "docx_structural_text"
+      },
+      "criteris_avaluacio": {
+        "CA01": {
+          "codi": "CA01",
+          "codi_complet": "ICB0_1709_RA4_CA01",
+          "descripcio": "5.1 Pren consciència de la responsabilitat individual en el desenvolupament professional valorant l'actitud d'aprenentatge permanent per al desenvolupament de competències pròpies i noves.",
+          "font": {
+            "file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx",
+            "paragraph_index": 1783,
+            "confidence": "docx_structural_text"
+          },
+          "dades_originals": {
+            "code": "CA01",
+            "code_full": "ICB0_1709_RA4_CA01",
+            "description": "5.1 Pren consciència de la responsabilitat individual en el desenvolupament professional valorant l'actitud d'aprenentatge permanent per al desenvolupament de competències pròpies i noves.",
+            "source": {
+              "file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx",
+              "paragraph_index": 1783,
+              "confidence": "docx_structural_text"
+            }
+          }
+        },
+        "CA02": {
+          "codi": "CA02",
+          "codi_complet": "ICB0_1709_RA4_CA02",
+          "descripcio": "5.2 Identifica l'ocupabilitat com a capacitat d'adaptació a l'entorn laboral.",
+          "font": {
+            "file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx",
+            "paragraph_index": 1784,
+            "confidence": "docx_structural_text"
+          },
+          "dades_originals": {
+            "code": "CA02",
+            "code_full": "ICB0_1709_RA4_CA02",
+            "description": "5.2 Identifica l'ocupabilitat com a capacitat d'adaptació a l'entorn laboral.",
+            "source": {
+              "file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx",
+              "paragraph_index": 1784,
+              "confidence": "docx_structural_text"
+            }
+          }
+        },
+        "CA03": {
+          "codi": "CA03",
+          "codi_complet": "ICB0_1709_RA4_CA03",
+          "descripcio": "5.3 Coneix i utilitza eines, fonts d'informació, connexions i activitats per a la configuració d'un entorn personal d'aprenentatge per a l'ocupabilitat.",
+          "font": {
+            "file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx",
+            "paragraph_index": 1785,
+            "confidence": "docx_structural_text"
+          },
+          "dades_originals": {
+            "code": "CA03",
+            "code_full": "ICB0_1709_RA4_CA03",
+            "description": "5.3 Coneix i utilitza eines, fonts d'informació, connexions i activitats per a la configuració d'un entorn personal d'aprenentatge per a l'ocupabilitat.",
+            "source": {
+              "file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx",
+              "paragraph_index": 1785,
+              "confidence": "docx_structural_text"
+            }
+          }
+        },
+        "CA04": {
+          "codi": "CA04",
+          "codi_complet": "ICB0_1709_RA4_CA04",
+          "descripcio": "5.3 Posa en pràctica la competència digital per a configurar un entorn personal d'aprenentatge per a l'ocupabilitat.",
+          "font": {
+            "file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx",
+            "paragraph_index": 1786,
+            "confidence": "docx_structural_text"
+          },
+          "dades_originals": {
+            "code": "CA04",
+            "code_full": "ICB0_1709_RA4_CA04",
+            "description": "5.3 Posa en pràctica la competència digital per a configurar un entorn personal d'aprenentatge per a l'ocupabilitat.",
+            "source": {
+              "file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx",
+              "paragraph_index": 1786,
+              "confidence": "docx_structural_text"
+            }
+          }
+        },
+        "CA05": {
+          "codi": "CA05",
+          "codi_complet": "ICB0_1709_RA4_CA05",
+          "descripcio": "5.4 Analitza el concepte d'identitat digital i el seu impacte en l'ocupabilitat.",
+          "font": {
+            "file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx",
+            "paragraph_index": 1787,
+            "confidence": "docx_structural_text"
+          },
+          "dades_originals": {
+            "code": "CA05",
+            "code_full": "ICB0_1709_RA4_CA05",
+            "description": "5.4 Analitza el concepte d'identitat digital i el seu impacte en l'ocupabilitat.",
+            "source": {
+              "file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx",
+              "paragraph_index": 1787,
+              "confidence": "docx_structural_text"
+            }
+          }
+        },
+        "CA06": {
+          "codi": "CA06",
+          "codi_complet": "ICB0_1709_RA4_CA06",
+          "descripcio": "5.5 Justifica el disseny del seu entorn d'aprenentatge basat en com aquest millora l'ocupabilitat.",
+          "font": {
+            "file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx",
+            "paragraph_index": 1788,
+            "confidence": "docx_structural_text"
+          },
+          "dades_originals": {
+            "code": "CA06",
+            "code_full": "ICB0_1709_RA4_CA06",
+            "description": "5.5 Justifica el disseny del seu entorn d'aprenentatge basat en com aquest millora l'ocupabilitat.",
+            "source": {
+              "file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx",
+              "paragraph_index": 1788,
+              "confidence": "docx_structural_text"
+            }
+          }
+        },
+        "CA07": {
+          "codi": "CA07",
+          "codi_complet": "ICB0_1709_RA4_CA07",
+          "descripcio": "5.6 Elabora el seu pla de desenvolupament individual com a eina per a la millora de l'ocupabilitat.",
+          "font": {
+            "file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx",
+            "paragraph_index": 1789,
+            "confidence": "docx_structural_text"
+          },
+          "dades_originals": {
+            "code": "CA07",
+            "code_full": "ICB0_1709_RA4_CA07",
+            "description": "5.6 Elabora el seu pla de desenvolupament individual com a eina per a la millora de l'ocupabilitat.",
+            "source": {
+              "file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx",
+              "paragraph_index": 1789,
+              "confidence": "docx_structural_text"
+            }
+          }
+        },
+        "CA08": {
+          "codi": "CA08",
+          "codi_complet": "ICB0_1709_RA4_CA08",
+          "descripcio": "5.7 Aplica les eines d'aprenentatge autònom per al seu desenvolupament personal i professional.",
+          "font": {
+            "file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx",
+            "paragraph_index": 1790,
+            "confidence": "docx_structural_text"
+          },
+          "dades_originals": {
+            "code": "CA08",
+            "code_full": "ICB0_1709_RA4_CA08",
+            "description": "5.7 Aplica les eines d'aprenentatge autònom per al seu desenvolupament personal i professional.",
+            "source": {
+              "file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx",
+              "paragraph_index": 1790,
+              "confidence": "docx_structural_text"
+            }
+          }
+        },
+        "CA09": {
+          "codi": "CA09",
+          "codi_complet": "ICB0_1709_RA4_CA09",
+          "descripcio": "5.8 Dissenya l'entorn d'aprenentatge que permet aconseguir el pla de desenvolupament individual.",
+          "font": {
+            "file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx",
+            "paragraph_index": 1791,
+            "confidence": "docx_structural_text"
+          },
+          "dades_originals": {
+            "code": "CA09",
+            "code_full": "ICB0_1709_RA4_CA09",
+            "description": "5.8 Dissenya l'entorn d'aprenentatge que permet aconseguir el pla de desenvolupament individual.",
+            "source": {
+              "file": "mp_ICB0_desenvolupament_aplicacions_multiplataforma_20240424.docx",
+              "paragraph_index": 1791,
+              "confidence": "docx_structural_text"
+            }
+          }
+        }
+      }
+    }
+  },
+  "metadata": {
+    "font": "docs/data",
+    "fitxer_origen": "icb0.json",
+    "estat": "generat",
+    "data_generacio": "2026-07-15T14:28:35.869249+00:00"
+  }
+}

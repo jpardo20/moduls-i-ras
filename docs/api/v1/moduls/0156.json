@@ -1,0 +1,1014 @@
+{
+  "api_version": "1.0",
+  "codi": "0156",
+  "nom": "Anglès Professional",
+  "cicle": {
+    "codi": "IC10",
+    "nom": "smx"
+  },
+  "hores": {
+    "total": 66
+  },
+  "empresa": {
+    "te_estada": false
+  },
+  "num_ra": 5,
+  "resultats_aprenentatge": {
+    "RA1": {
+      "ordre": 1,
+      "codi": "RA1",
+      "codi_complet": "IC10_0156_RA1",
+      "descripcio": "Comprèn informació, d'índole professional i quotidiana, continguda en discursos orals senzills, emesos en llengua estàndard, desxifrant el contingut global del missatge, i relacionant-lo amb els recursos lingüístics corresponents.",
+      "descripcio_curta": "Comprèn informació, d'índole professional i quotidiana, continguda en discursos ",
+      "font": {
+        "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+        "paragraph_index": 1064,
+        "confidence": "docx_structural_text"
+      },
+      "criteris_avaluacio": {
+        "CA01": {
+          "codi": "CA01",
+          "codi_complet": "IC10_0156_RA1_CA01",
+          "descripcio": "Situa el missatge en el seu context per mitjà de l'anàlisi de les seves característiques textuals i contextuals.",
+          "font": {
+            "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+            "paragraph_index": 1066,
+            "confidence": "docx_structural_text"
+          },
+          "dades_originals": {
+            "code": "CA01",
+            "code_full": "IC10_0156_RA1_CA01",
+            "description": "Situa el missatge en el seu context per mitjà de l'anàlisi de les seves característiques textuals i contextuals.",
+            "source": {
+              "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+              "paragraph_index": 1066,
+              "confidence": "docx_structural_text"
+            }
+          }
+        },
+        "CA02": {
+          "codi": "CA02",
+          "codi_complet": "IC10_0156_RA1_CA02",
+          "descripcio": "Identifica el fil argumental de missatges orals i determina els rols que hi apareixen.",
+          "font": {
+            "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+            "paragraph_index": 1067,
+            "confidence": "docx_structural_text"
+          },
+          "dades_originals": {
+            "code": "CA02",
+            "code_full": "IC10_0156_RA1_CA02",
+            "description": "Identifica el fil argumental de missatges orals i determina els rols que hi apareixen.",
+            "source": {
+              "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+              "paragraph_index": 1067,
+              "confidence": "docx_structural_text"
+            }
+          }
+        },
+        "CA03": {
+          "codi": "CA03",
+          "codi_complet": "IC10_0156_RA1_CA03",
+          "descripcio": "Reconeix la finalitat del missatge, ja es tracti d'un missatge directe, telefònic o en qualsevol altre mig auditiu.",
+          "font": {
+            "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+            "paragraph_index": 1068,
+            "confidence": "docx_structural_text"
+          },
+          "dades_originals": {
+            "code": "CA03",
+            "code_full": "IC10_0156_RA1_CA03",
+            "description": "Reconeix la finalitat del missatge, ja es tracti d'un missatge directe, telefònic o en qualsevol altre mig auditiu.",
+            "source": {
+              "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+              "paragraph_index": 1068,
+              "confidence": "docx_structural_text"
+            }
+          }
+        },
+        "CA04": {
+          "codi": "CA04",
+          "codi_complet": "IC10_0156_RA1_CA04",
+          "descripcio": "Extreu informació específica continguda en discursos orals, en llengua estàndard, relacionats amb la vida social, professional o acadèmica.",
+          "font": {
+            "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+            "paragraph_index": 1069,
+            "confidence": "docx_structural_text"
+          },
+          "dades_originals": {
+            "code": "CA04",
+            "code_full": "IC10_0156_RA1_CA04",
+            "description": "Extreu informació específica continguda en discursos orals, en llengua estàndard, relacionats amb la vida social, professional o acadèmica.",
+            "source": {
+              "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+              "paragraph_index": 1069,
+              "confidence": "docx_structural_text"
+            }
+          }
+        },
+        "CA05": {
+          "codi": "CA05",
+          "codi_complet": "IC10_0156_RA1_CA05",
+          "descripcio": "Fa la seqüència dels elements constituents del missatge.",
+          "font": {
+            "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+            "paragraph_index": 1070,
+            "confidence": "docx_structural_text"
+          },
+          "dades_originals": {
+            "code": "CA05",
+            "code_full": "IC10_0156_RA1_CA05",
+            "description": "Fa la seqüència dels elements constituents del missatge.",
+            "source": {
+              "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+              "paragraph_index": 1070,
+              "confidence": "docx_structural_text"
+            }
+          }
+        },
+        "CA06": {
+          "codi": "CA06",
+          "codi_complet": "IC10_0156_RA1_CA06",
+          "descripcio": "Identifica i resumeix amb claredat les idees principals d'un discurs sobre temes coneguts, transmès pels mitjans de comunicació i emès en llengua estàndard.",
+          "font": {
+            "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+            "paragraph_index": 1071,
+            "confidence": "docx_structural_text"
+          },
+          "dades_originals": {
+            "code": "CA06",
+            "code_full": "IC10_0156_RA1_CA06",
+            "description": "Identifica i resumeix amb claredat les idees principals d'un discurs sobre temes coneguts, transmès pels mitjans de comunicació i emès en llengua estàndard.",
+            "source": {
+              "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+              "paragraph_index": 1071,
+              "confidence": "docx_structural_text"
+            }
+          }
+        },
+        "CA07": {
+          "codi": "CA07",
+          "codi_complet": "IC10_0156_RA1_CA07",
+          "descripcio": "Reconeix les instruccions orals i segueix les indicacions sent capaç de concloure si precisen d'una resposta verbal o d'una no verbal.",
+          "font": {
+            "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+            "paragraph_index": 1072,
+            "confidence": "docx_structural_text"
+          },
+          "dades_originals": {
+            "code": "CA07",
+            "code_full": "IC10_0156_RA1_CA07",
+            "description": "Reconeix les instruccions orals i segueix les indicacions sent capaç de concloure si precisen d'una resposta verbal o d'una no verbal.",
+            "source": {
+              "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+              "paragraph_index": 1072,
+              "confidence": "docx_structural_text"
+            }
+          }
+        },
+        "CA08": {
+          "codi": "CA08",
+          "codi_complet": "IC10_0156_RA1_CA08",
+          "descripcio": "Pren consciència de la importància de comprendre globalment un missatge, sense necessitat d'entendre’n tots i cadascun dels elements.",
+          "font": {
+            "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+            "paragraph_index": 1073,
+            "confidence": "docx_structural_text"
+          },
+          "dades_originals": {
+            "code": "CA08",
+            "code_full": "IC10_0156_RA1_CA08",
+            "description": "Pren consciència de la importància de comprendre globalment un missatge, sense necessitat d'entendre’n tots i cadascun dels elements.",
+            "source": {
+              "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+              "paragraph_index": 1073,
+              "confidence": "docx_structural_text"
+            }
+          }
+        },
+        "CA09": {
+          "codi": "CA09",
+          "codi_complet": "IC10_0156_RA1_CA09",
+          "descripcio": "Es serveix de l'anàlisi de l'entonació i dels elements visuals per a identificar els diversos significats i intencions comunicatives de l'emissor.",
+          "font": {
+            "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+            "paragraph_index": 1074,
+            "confidence": "docx_structural_text"
+          },
+          "dades_originals": {
+            "code": "CA09",
+            "code_full": "IC10_0156_RA1_CA09",
+            "description": "Es serveix de l'anàlisi de l'entonació i dels elements visuals per a identificar els diversos significats i intencions comunicatives de l'emissor.",
+            "source": {
+              "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+              "paragraph_index": 1074,
+              "confidence": "docx_structural_text"
+            }
+          }
+        }
+      }
+    },
+    "RA2": {
+      "ordre": 2,
+      "codi": "RA2",
+      "codi_complet": "IC10_0156_RA2",
+      "descripcio": "Comprèn informació professional continguda en textos escrits senzills, analitzant de manera comprensiva el seu contingut.",
+      "descripcio_curta": "Comprèn informació professional continguda en textos escrits senzills, analitzan",
+      "font": {
+        "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+        "paragraph_index": 1076,
+        "confidence": "docx_structural_text"
+      },
+      "criteris_avaluacio": {
+        "CA01": {
+          "codi": "CA01",
+          "codi_complet": "IC10_0156_RA2_CA01",
+          "descripcio": "Selecciona els materials de consulta i diccionaris tècnics per a la comprensió del text.",
+          "font": {
+            "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+            "paragraph_index": 1080,
+            "confidence": "docx_structural_text"
+          },
+          "dades_originals": {
+            "code": "CA01",
+            "code_full": "IC10_0156_RA2_CA01",
+            "description": "Selecciona els materials de consulta i diccionaris tècnics per a la comprensió del text.",
+            "source": {
+              "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+              "paragraph_index": 1080,
+              "confidence": "docx_structural_text"
+            }
+          }
+        },
+        "CA02": {
+          "codi": "CA02",
+          "codi_complet": "IC10_0156_RA2_CA02",
+          "descripcio": "Llegeix de manera comprensiva textos clars en llengua estàndard.",
+          "font": {
+            "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+            "paragraph_index": 1081,
+            "confidence": "docx_structural_text"
+          },
+          "dades_originals": {
+            "code": "CA02",
+            "code_full": "IC10_0156_RA2_CA02",
+            "description": "Llegeix de manera comprensiva textos clars en llengua estàndard.",
+            "source": {
+              "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+              "paragraph_index": 1081,
+              "confidence": "docx_structural_text"
+            }
+          }
+        },
+        "CA03": {
+          "codi": "CA03",
+          "codi_complet": "IC10_0156_RA2_CA03",
+          "descripcio": "Relaciona el text amb l'àmbit del sector a què es refereix.",
+          "font": {
+            "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+            "paragraph_index": 1082,
+            "confidence": "docx_structural_text"
+          },
+          "dades_originals": {
+            "code": "CA03",
+            "code_full": "IC10_0156_RA2_CA03",
+            "description": "Relaciona el text amb l'àmbit del sector a què es refereix.",
+            "source": {
+              "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+              "paragraph_index": 1082,
+              "confidence": "docx_structural_text"
+            }
+          }
+        },
+        "CA04": {
+          "codi": "CA04",
+          "codi_complet": "IC10_0156_RA2_CA04",
+          "descripcio": "Reconeix les idees principals d'un text escrit identificant la informació rellevant, sense necessitat d'entendre tots i cadascun dels seus elements.",
+          "font": {
+            "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+            "paragraph_index": 1083,
+            "confidence": "docx_structural_text"
+          },
+          "dades_originals": {
+            "code": "CA04",
+            "code_full": "IC10_0156_RA2_CA04",
+            "description": "Reconeix les idees principals d'un text escrit identificant la informació rellevant, sense necessitat d'entendre tots i cadascun dels seus elements.",
+            "source": {
+              "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+              "paragraph_index": 1083,
+              "confidence": "docx_structural_text"
+            }
+          }
+        },
+        "CA05": {
+          "codi": "CA05",
+          "codi_complet": "IC10_0156_RA2_CA05",
+          "descripcio": "Identifica la terminologia utilitzada, així com les estructures gramaticals i altres elements característics de cada tipologia discursiva.",
+          "font": {
+            "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+            "paragraph_index": 1084,
+            "confidence": "docx_structural_text"
+          },
+          "dades_originals": {
+            "code": "CA05",
+            "code_full": "IC10_0156_RA2_CA05",
+            "description": "Identifica la terminologia utilitzada, així com les estructures gramaticals i altres elements característics de cada tipologia discursiva.",
+            "source": {
+              "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+              "paragraph_index": 1084,
+              "confidence": "docx_structural_text"
+            }
+          }
+        },
+        "CA06": {
+          "codi": "CA06",
+          "codi_complet": "IC10_0156_RA2_CA06",
+          "descripcio": "Realitza traduccions de textos en llengua estàndard utilitzant material de suport en cas necessari.",
+          "font": {
+            "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+            "paragraph_index": 1085,
+            "confidence": "docx_structural_text"
+          },
+          "dades_originals": {
+            "code": "CA06",
+            "code_full": "IC10_0156_RA2_CA06",
+            "description": "Realitza traduccions de textos en llengua estàndard utilitzant material de suport en cas necessari.",
+            "source": {
+              "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+              "paragraph_index": 1085,
+              "confidence": "docx_structural_text"
+            }
+          }
+        },
+        "CA07": {
+          "codi": "CA07",
+          "codi_complet": "IC10_0156_RA2_CA07",
+          "descripcio": "Interpreta el missatge rebut a través de suports telemàtics o qualsevol altre tipus de suport.",
+          "font": {
+            "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+            "paragraph_index": 1086,
+            "confidence": "docx_structural_text"
+          },
+          "dades_originals": {
+            "code": "CA07",
+            "code_full": "IC10_0156_RA2_CA07",
+            "description": "Interpreta el missatge rebut a través de suports telemàtics o qualsevol altre tipus de suport.",
+            "source": {
+              "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+              "paragraph_index": 1086,
+              "confidence": "docx_structural_text"
+            }
+          }
+        },
+        "CA08": {
+          "codi": "CA08",
+          "codi_complet": "IC10_0156_RA2_CA08",
+          "descripcio": "Reconeix la finalitat de diferents textos escrits en qualsevol suport, en llengua estàndard i relacionats amb l'activitat professional.",
+          "font": {
+            "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+            "paragraph_index": 1087,
+            "confidence": "docx_structural_text"
+          },
+          "dades_originals": {
+            "code": "CA08",
+            "code_full": "IC10_0156_RA2_CA08",
+            "description": "Reconeix la finalitat de diferents textos escrits en qualsevol suport, en llengua estàndard i relacionats amb l'activitat professional.",
+            "source": {
+              "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+              "paragraph_index": 1087,
+              "confidence": "docx_structural_text"
+            }
+          }
+        },
+        "CA09": {
+          "codi": "CA09",
+          "codi_complet": "IC10_0156_RA2_CA09",
+          "descripcio": "Extreu informació específica de textos de diferent naturalesa, relatius a la seva professió i continguts en diferents suports.",
+          "font": {
+            "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+            "paragraph_index": 1088,
+            "confidence": "docx_structural_text"
+          },
+          "dades_originals": {
+            "code": "CA09",
+            "code_full": "IC10_0156_RA2_CA09",
+            "description": "Extreu informació específica de textos de diferent naturalesa, relatius a la seva professió i continguts en diferents suports.",
+            "source": {
+              "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+              "paragraph_index": 1088,
+              "confidence": "docx_structural_text"
+            }
+          }
+        }
+      }
+    },
+    "RA3": {
+      "ordre": 3,
+      "codi": "RA3",
+      "codi_complet": "IC10_0156_RA3",
+      "descripcio": "Emet missatges orals senzills, clars i estructurats, participant com a agent actiu en converses professionals.",
+      "descripcio_curta": "Emet missatges orals senzills, clars i estructurats, participant com a agent act",
+      "font": {
+        "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+        "paragraph_index": 1089,
+        "confidence": "docx_structural_text"
+      },
+      "criteris_avaluacio": {
+        "CA01": {
+          "codi": "CA01",
+          "codi_complet": "IC10_0156_RA3_CA01",
+          "descripcio": "Determina els registres més adequats per a l'emissió del missatge.",
+          "font": {
+            "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+            "paragraph_index": 1096,
+            "confidence": "docx_structural_text"
+          },
+          "dades_originals": {
+            "code": "CA01",
+            "code_full": "IC10_0156_RA3_CA01",
+            "description": "Determina els registres més adequats per a l'emissió del missatge.",
+            "source": {
+              "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+              "paragraph_index": 1096,
+              "confidence": "docx_structural_text"
+            }
+          }
+        },
+        "CA02": {
+          "codi": "CA02",
+          "codi_complet": "IC10_0156_RA3_CA02",
+          "descripcio": "Comunica utilitzant fórmules, nexes d'unió, marcadors discursius i estratègies d'interacció concordes a la situació de comunicació.",
+          "font": {
+            "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+            "paragraph_index": 1097,
+            "confidence": "docx_structural_text"
+          },
+          "dades_originals": {
+            "code": "CA02",
+            "code_full": "IC10_0156_RA3_CA02",
+            "description": "Comunica utilitzant fórmules, nexes d'unió, marcadors discursius i estratègies d'interacció concordes a la situació de comunicació.",
+            "source": {
+              "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+              "paragraph_index": 1097,
+              "confidence": "docx_structural_text"
+            }
+          }
+        },
+        "CA03": {
+          "codi": "CA03",
+          "codi_complet": "IC10_0156_RA3_CA03",
+          "descripcio": "Descriu fets breus i imprevistos relacionats amb la seva professió.",
+          "font": {
+            "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+            "paragraph_index": 1098,
+            "confidence": "docx_structural_text"
+          },
+          "dades_originals": {
+            "code": "CA03",
+            "code_full": "IC10_0156_RA3_CA03",
+            "description": "Descriu fets breus i imprevistos relacionats amb la seva professió.",
+            "source": {
+              "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+              "paragraph_index": 1098,
+              "confidence": "docx_structural_text"
+            }
+          }
+        },
+        "CA04": {
+          "codi": "CA04",
+          "codi_complet": "IC10_0156_RA3_CA04",
+          "descripcio": "Utilitza correctament la terminologia de la professió.",
+          "font": {
+            "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+            "paragraph_index": 1099,
+            "confidence": "docx_structural_text"
+          },
+          "dades_originals": {
+            "code": "CA04",
+            "code_full": "IC10_0156_RA3_CA04",
+            "description": "Utilitza correctament la terminologia de la professió.",
+            "source": {
+              "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+              "paragraph_index": 1099,
+              "confidence": "docx_structural_text"
+            }
+          }
+        },
+        "CA05": {
+          "codi": "CA05",
+          "codi_complet": "IC10_0156_RA3_CA05",
+          "descripcio": "Expressa sentiments, idees o opinions.",
+          "font": {
+            "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+            "paragraph_index": 1100,
+            "confidence": "docx_structural_text"
+          },
+          "dades_originals": {
+            "code": "CA05",
+            "code_full": "IC10_0156_RA3_CA05",
+            "description": "Expressa sentiments, idees o opinions.",
+            "source": {
+              "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+              "paragraph_index": 1100,
+              "confidence": "docx_structural_text"
+            }
+          }
+        },
+        "CA06": {
+          "codi": "CA06",
+          "codi_complet": "IC10_0156_RA3_CA06",
+          "descripcio": "Enumera les activitats pròpies de la tasca professional.",
+          "font": {
+            "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+            "paragraph_index": 1101,
+            "confidence": "docx_structural_text"
+          },
+          "dades_originals": {
+            "code": "CA06",
+            "code_full": "IC10_0156_RA3_CA06",
+            "description": "Enumera les activitats pròpies de la tasca professional.",
+            "source": {
+              "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+              "paragraph_index": 1101,
+              "confidence": "docx_structural_text"
+            }
+          }
+        },
+        "CA07": {
+          "codi": "CA07",
+          "codi_complet": "IC10_0156_RA3_CA07",
+          "descripcio": "Descriu i fa la seqüència un procés de treball de la seva competència.",
+          "font": {
+            "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+            "paragraph_index": 1102,
+            "confidence": "docx_structural_text"
+          },
+          "dades_originals": {
+            "code": "CA07",
+            "code_full": "IC10_0156_RA3_CA07",
+            "description": "Descriu i fa la seqüència un procés de treball de la seva competència.",
+            "source": {
+              "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+              "paragraph_index": 1102,
+              "confidence": "docx_structural_text"
+            }
+          }
+        },
+        "CA08": {
+          "codi": "CA08",
+          "codi_complet": "IC10_0156_RA3_CA08",
+          "descripcio": "Justifica l'acceptació o la no-acceptació de propostes realitzades fent ús de normes de cortesia i de maneres apropiades.",
+          "font": {
+            "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+            "paragraph_index": 1103,
+            "confidence": "docx_structural_text"
+          },
+          "dades_originals": {
+            "code": "CA08",
+            "code_full": "IC10_0156_RA3_CA08",
+            "description": "Justifica l'acceptació o la no-acceptació de propostes realitzades fent ús de normes de cortesia i de maneres apropiades.",
+            "source": {
+              "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+              "paragraph_index": 1103,
+              "confidence": "docx_structural_text"
+            }
+          }
+        },
+        "CA09": {
+          "codi": "CA09",
+          "codi_complet": "IC10_0156_RA3_CA09",
+          "descripcio": "Intercanvia, amb relativa fluïdesa, informació específica i detallada utilitzant frases d'estructura senzilla i diferents suports telemàtics.",
+          "font": {
+            "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+            "paragraph_index": 1104,
+            "confidence": "docx_structural_text"
+          },
+          "dades_originals": {
+            "code": "CA09",
+            "code_full": "IC10_0156_RA3_CA09",
+            "description": "Intercanvia, amb relativa fluïdesa, informació específica i detallada utilitzant frases d'estructura senzilla i diferents suports telemàtics.",
+            "source": {
+              "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+              "paragraph_index": 1104,
+              "confidence": "docx_structural_text"
+            }
+          }
+        },
+        "CA10": {
+          "codi": "CA10",
+          "codi_complet": "IC10_0156_RA3_CA10",
+          "descripcio": "Realitza, de manera clara, presentacions breus i preparades sobre un tema dins de la seva especialitat, fent ús dels protocols adequats.",
+          "font": {
+            "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+            "paragraph_index": 1105,
+            "confidence": "docx_structural_text"
+          },
+          "dades_originals": {
+            "code": "CA10",
+            "code_full": "IC10_0156_RA3_CA10",
+            "description": "Realitza, de manera clara, presentacions breus i preparades sobre un tema dins de la seva especialitat, fent ús dels protocols adequats.",
+            "source": {
+              "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+              "paragraph_index": 1105,
+              "confidence": "docx_structural_text"
+            }
+          }
+        },
+        "CA11": {
+          "codi": "CA11",
+          "codi_complet": "IC10_0156_RA3_CA11",
+          "descripcio": "Comunica espontàniament adoptant un nivell de formalitat adequat a les circumstàncies.",
+          "font": {
+            "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+            "paragraph_index": 1106,
+            "confidence": "docx_structural_text"
+          },
+          "dades_originals": {
+            "code": "CA11",
+            "code_full": "IC10_0156_RA3_CA11",
+            "description": "Comunica espontàniament adoptant un nivell de formalitat adequat a les circumstàncies.",
+            "source": {
+              "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+              "paragraph_index": 1106,
+              "confidence": "docx_structural_text"
+            }
+          }
+        },
+        "CA12": {
+          "codi": "CA12",
+          "codi_complet": "IC10_0156_RA3_CA12",
+          "descripcio": "Respon preguntes relatives a la seva vida socioprofessional, incloses les pròpies d'una entrevista de treball.",
+          "font": {
+            "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+            "paragraph_index": 1107,
+            "confidence": "docx_structural_text"
+          },
+          "dades_originals": {
+            "code": "CA12",
+            "code_full": "IC10_0156_RA3_CA12",
+            "description": "Respon preguntes relatives a la seva vida socioprofessional, incloses les pròpies d'una entrevista de treball.",
+            "source": {
+              "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+              "paragraph_index": 1107,
+              "confidence": "docx_structural_text"
+            }
+          }
+        },
+        "CA13": {
+          "codi": "CA13",
+          "codi_complet": "IC10_0156_RA3_CA13",
+          "descripcio": "Sol·licita la reformulació del discurs o l'aclariment d’una part quan es consideri necessari per a una millor comprensió.",
+          "font": {
+            "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+            "paragraph_index": 1108,
+            "confidence": "docx_structural_text"
+          },
+          "dades_originals": {
+            "code": "CA13",
+            "code_full": "IC10_0156_RA3_CA13",
+            "description": "Sol·licita la reformulació del discurs o l'aclariment d’una part quan es consideri necessari per a una millor comprensió.",
+            "source": {
+              "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+              "paragraph_index": 1108,
+              "confidence": "docx_structural_text"
+            }
+          }
+        }
+      }
+    },
+    "RA4": {
+      "ordre": 4,
+      "codi": "RA4",
+      "codi_complet": "IC10_0156_RA4",
+      "descripcio": "Redacta textos senzills en llengua estàndard, relacionant les regles gramaticals amb la seva finalitat.",
+      "descripcio_curta": "Redacta textos senzills en llengua estàndard, relacionant les regles gramaticals",
+      "font": {
+        "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+        "paragraph_index": 1109,
+        "confidence": "docx_structural_text"
+      },
+      "criteris_avaluacio": {
+        "CA01": {
+          "codi": "CA01",
+          "codi_complet": "IC10_0156_RA4_CA01",
+          "descripcio": "Selecciona les estratègies, estructures, vocabulari i convencions més adequades per al tipus de text que es crearà (fax, nota, carta o correu electrònic, entre altres).",
+          "font": {
+            "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+            "paragraph_index": 1114,
+            "confidence": "docx_structural_text"
+          },
+          "dades_originals": {
+            "code": "CA01",
+            "code_full": "IC10_0156_RA4_CA01",
+            "description": "Selecciona les estratègies, estructures, vocabulari i convencions més adequades per al tipus de text que es crearà (fax, nota, carta o correu electrònic, entre altres).",
+            "source": {
+              "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+              "paragraph_index": 1114,
+              "confidence": "docx_structural_text"
+            }
+          }
+        },
+        "CA02": {
+          "codi": "CA02",
+          "codi_complet": "IC10_0156_RA4_CA02",
+          "descripcio": "Redacta textos breus relacionats amb aspectes quotidians i/o professionals.",
+          "font": {
+            "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+            "paragraph_index": 1115,
+            "confidence": "docx_structural_text"
+          },
+          "dades_originals": {
+            "code": "CA02",
+            "code_full": "IC10_0156_RA4_CA02",
+            "description": "Redacta textos breus relacionats amb aspectes quotidians i/o professionals.",
+            "source": {
+              "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+              "paragraph_index": 1115,
+              "confidence": "docx_structural_text"
+            }
+          }
+        },
+        "CA03": {
+          "codi": "CA03",
+          "codi_complet": "IC10_0156_RA4_CA03",
+          "descripcio": "Organitza la informació de manera coherent i cohesionada.",
+          "font": {
+            "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+            "paragraph_index": 1116,
+            "confidence": "docx_structural_text"
+          },
+          "dades_originals": {
+            "code": "CA03",
+            "code_full": "IC10_0156_RA4_CA03",
+            "description": "Organitza la informació de manera coherent i cohesionada.",
+            "source": {
+              "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+              "paragraph_index": 1116,
+              "confidence": "docx_structural_text"
+            }
+          }
+        },
+        "CA04": {
+          "codi": "CA04",
+          "codi_complet": "IC10_0156_RA4_CA04",
+          "descripcio": "Resumeix textos relacionats amb el seu entorn professional, identificant les idees principals.",
+          "font": {
+            "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+            "paragraph_index": 1117,
+            "confidence": "docx_structural_text"
+          },
+          "dades_originals": {
+            "code": "CA04",
+            "code_full": "IC10_0156_RA4_CA04",
+            "description": "Resumeix textos relacionats amb el seu entorn professional, identificant les idees principals.",
+            "source": {
+              "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+              "paragraph_index": 1117,
+              "confidence": "docx_structural_text"
+            }
+          }
+        },
+        "CA05": {
+          "codi": "CA05",
+          "codi_complet": "IC10_0156_RA4_CA05",
+          "descripcio": "Emplena documentació específica del seu camp professional, aplicant les fórmules establertes i el vocabulari específic.",
+          "font": {
+            "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+            "paragraph_index": 1118,
+            "confidence": "docx_structural_text"
+          },
+          "dades_originals": {
+            "code": "CA05",
+            "code_full": "IC10_0156_RA4_CA05",
+            "description": "Emplena documentació específica del seu camp professional, aplicant les fórmules establertes i el vocabulari específic.",
+            "source": {
+              "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+              "paragraph_index": 1118,
+              "confidence": "docx_structural_text"
+            }
+          }
+        },
+        "CA06": {
+          "codi": "CA06",
+          "codi_complet": "IC10_0156_RA4_CA06",
+          "descripcio": "Emplena un text donat amb suports visuals i claus lingüístiques aportades.",
+          "font": {
+            "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+            "paragraph_index": 1119,
+            "confidence": "docx_structural_text"
+          },
+          "dades_originals": {
+            "code": "CA06",
+            "code_full": "IC10_0156_RA4_CA06",
+            "description": "Emplena un text donat amb suports visuals i claus lingüístiques aportades.",
+            "source": {
+              "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+              "paragraph_index": 1119,
+              "confidence": "docx_structural_text"
+            }
+          }
+        },
+        "CA07": {
+          "codi": "CA07",
+          "codi_complet": "IC10_0156_RA4_CA07",
+          "descripcio": "Utilitza les fórmules de cortesia pròpies del document que s'elaborarà.",
+          "font": {
+            "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+            "paragraph_index": 1120,
+            "confidence": "docx_structural_text"
+          },
+          "dades_originals": {
+            "code": "CA07",
+            "code_full": "IC10_0156_RA4_CA07",
+            "description": "Utilitza les fórmules de cortesia pròpies del document que s'elaborarà.",
+            "source": {
+              "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+              "paragraph_index": 1120,
+              "confidence": "docx_structural_text"
+            }
+          }
+        },
+        "CA08": {
+          "codi": "CA08",
+          "codi_complet": "IC10_0156_RA4_CA08",
+          "descripcio": "Escriu correspondència formal bàsica en format físic o digital destinada principalment a demanar informació, sol·licitar un servei o dur a terme una reclamació o una altra gestió senzilla, atenent sempre les convencions de la tipologia textual.",
+          "font": {
+            "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+            "paragraph_index": 1121,
+            "confidence": "docx_structural_text"
+          },
+          "dades_originals": {
+            "code": "CA08",
+            "code_full": "IC10_0156_RA4_CA08",
+            "description": "Escriu correspondència formal bàsica en format físic o digital destinada principalment a demanar informació, sol·licitar un servei o dur a terme una reclamació o una altra gestió senzilla, atenent sempre les convencions de la tipologia textual.",
+            "source": {
+              "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+              "paragraph_index": 1121,
+              "confidence": "docx_structural_text"
+            }
+          }
+        },
+        "CA09": {
+          "codi": "CA09",
+          "codi_complet": "IC10_0156_RA4_CA09",
+          "descripcio": "Pren notes, i missatges, amb informació senzilla sobre aspectes propis de la seva tasca professional.",
+          "font": {
+            "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+            "paragraph_index": 1122,
+            "confidence": "docx_structural_text"
+          },
+          "dades_originals": {
+            "code": "CA09",
+            "code_full": "IC10_0156_RA4_CA09",
+            "description": "Pren notes, i missatges, amb informació senzilla sobre aspectes propis de la seva tasca professional.",
+            "source": {
+              "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+              "paragraph_index": 1122,
+              "confidence": "docx_structural_text"
+            }
+          }
+        },
+        "CA10": {
+          "codi": "CA10",
+          "codi_complet": "IC10_0156_RA4_CA10",
+          "descripcio": "Sol·licita, de manera escrita, informació referent a aspectes relacionats amb el seu camp professional (pàgina web i correu electrònic, entre altres).",
+          "font": {
+            "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+            "paragraph_index": 1123,
+            "confidence": "docx_structural_text"
+          },
+          "dades_originals": {
+            "code": "CA10",
+            "code_full": "IC10_0156_RA4_CA10",
+            "description": "Sol·licita, de manera escrita, informació referent a aspectes relacionats amb el seu camp professional (pàgina web i correu electrònic, entre altres).",
+            "source": {
+              "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+              "paragraph_index": 1123,
+              "confidence": "docx_structural_text"
+            }
+          }
+        }
+      }
+    },
+    "RA5": {
+      "ordre": 5,
+      "codi": "RA5",
+      "codi_complet": "IC10_0156_RA5",
+      "descripcio": "Aplica actituds i comportaments professionals en situacions de comunicació, descrivint les relacions típiques característiques del país de la llengua estrangera.",
+      "descripcio_curta": "Aplica actituds i comportaments professionals en situacions de comunicació, desc",
+      "font": {
+        "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+        "paragraph_index": 1124,
+        "confidence": "docx_structural_text"
+      },
+      "criteris_avaluacio": {
+        "CA01": {
+          "codi": "CA01",
+          "codi_complet": "IC10_0156_RA5_CA01",
+          "descripcio": "Defineix els trets més significatius dels costums i usos de la comunitat on es parla la llengua estrangera.",
+          "font": {
+            "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+            "paragraph_index": 1129,
+            "confidence": "docx_structural_text"
+          },
+          "dades_originals": {
+            "code": "CA01",
+            "code_full": "IC10_0156_RA5_CA01",
+            "description": "Defineix els trets més significatius dels costums i usos de la comunitat on es parla la llengua estrangera.",
+            "source": {
+              "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+              "paragraph_index": 1129,
+              "confidence": "docx_structural_text"
+            }
+          }
+        },
+        "CA02": {
+          "codi": "CA02",
+          "codi_complet": "IC10_0156_RA5_CA02",
+          "descripcio": "Descriu els protocols i normes de relació social propis del país.",
+          "font": {
+            "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+            "paragraph_index": 1130,
+            "confidence": "docx_structural_text"
+          },
+          "dades_originals": {
+            "code": "CA02",
+            "code_full": "IC10_0156_RA5_CA02",
+            "description": "Descriu els protocols i normes de relació social propis del país.",
+            "source": {
+              "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+              "paragraph_index": 1130,
+              "confidence": "docx_structural_text"
+            }
+          }
+        },
+        "CA03": {
+          "codi": "CA03",
+          "codi_complet": "IC10_0156_RA5_CA03",
+          "descripcio": "Identifica els valors i creences propis de la comunitat on es parla la llengua estrangera.",
+          "font": {
+            "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+            "paragraph_index": 1131,
+            "confidence": "docx_structural_text"
+          },
+          "dades_originals": {
+            "code": "CA03",
+            "code_full": "IC10_0156_RA5_CA03",
+            "description": "Identifica els valors i creences propis de la comunitat on es parla la llengua estrangera.",
+            "source": {
+              "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+              "paragraph_index": 1131,
+              "confidence": "docx_structural_text"
+            }
+          }
+        },
+        "CA04": {
+          "codi": "CA04",
+          "codi_complet": "IC10_0156_RA5_CA04",
+          "descripcio": "Identifica els aspectes socioprofessionals propis del sector, en qualsevol tipus de text.",
+          "font": {
+            "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+            "paragraph_index": 1132,
+            "confidence": "docx_structural_text"
+          },
+          "dades_originals": {
+            "code": "CA04",
+            "code_full": "IC10_0156_RA5_CA04",
+            "description": "Identifica els aspectes socioprofessionals propis del sector, en qualsevol tipus de text.",
+            "source": {
+              "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+              "paragraph_index": 1132,
+              "confidence": "docx_structural_text"
+            }
+          }
+        },
+        "CA05": {
+          "codi": "CA05",
+          "codi_complet": "IC10_0156_RA5_CA05",
+          "descripcio": "Aplica els protocols i normes de relació social propis del país de la llengua estrangera.",
+          "font": {
+            "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+            "paragraph_index": 1133,
+            "confidence": "docx_structural_text"
+          },
+          "dades_originals": {
+            "code": "CA05",
+            "code_full": "IC10_0156_RA5_CA05",
+            "description": "Aplica els protocols i normes de relació social propis del país de la llengua estrangera.",
+            "source": {
+              "file": "mp_IC10_sistemes_microinformatics_xarxes_20240424.docx",
+              "paragraph_index": 1133,
+              "confidence": "docx_structural_text"
+            }
+          }
+        }
+      }
+    }
+  },
+  "metadata": {
+    "font": "docs/data",
+    "fitxer_origen": "ic10.json",
+    "estat": "generat",
+    "data_generacio": "2026-07-15T14:28:35.869249+00:00"
+  }
+}
