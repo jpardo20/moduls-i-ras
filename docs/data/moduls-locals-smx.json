@@ -6,40 +6,886 @@
             "id": "MOPT1",
             "name": "Programació Python i Robòtica",
             "hours": 99,
+            "company": {
+                "enabled": false
+            },
             "ra": [
                 {
                     "code": "RA1",
-                    "long_description": "Participa en la definició, planificació i organització d'un projecte de robòtica educativa, utilitzant eines de gestió de tasques i treball col·laboratiu."
+                    "code_full": "IC10_MOPT1_RA1",
+                    "short_description": "Descriu els fonaments bàsics dels senyals elèctrics.",
+                    "long_description": "Descriu els fonaments bàsics dels senyals elèctrics.",
+                    "criteria": [
+                        {
+                            "code": "CA01",
+                            "code_full": "IC10_MOPT1_RA1_CA01",
+                            "description": "Descriu el significat de corrent, tensió, resistència, potència i energia.",
+                            "source": {
+                                "file": "catalogo_de_optatividad_de_formacion_profesional.pdf",
+                                "page": 125,
+                                "module_code": "CMO-311",
+                                "ra_code": "RA1",
+                                "confidence": "official_catalog_translated_to_catalan",
+                                "criterion_code": "a"
+                            }
+                        },
+                        {
+                            "code": "CA02",
+                            "code_full": "IC10_MOPT1_RA1_CA02",
+                            "description": "Identifica senyals continus i alterns.",
+                            "source": {
+                                "file": "catalogo_de_optatividad_de_formacion_profesional.pdf",
+                                "page": 125,
+                                "module_code": "CMO-311",
+                                "ra_code": "RA1",
+                                "confidence": "official_catalog_translated_to_catalan",
+                                "criterion_code": "b"
+                            }
+                        },
+                        {
+                            "code": "CA03",
+                            "code_full": "IC10_MOPT1_RA1_CA03",
+                            "description": "Identifica senyals periòdics i aleatoris.",
+                            "source": {
+                                "file": "catalogo_de_optatividad_de_formacion_profesional.pdf",
+                                "page": 125,
+                                "module_code": "CMO-311",
+                                "ra_code": "RA1",
+                                "confidence": "official_catalog_translated_to_catalan",
+                                "criterion_code": "c"
+                            }
+                        },
+                        {
+                            "code": "CA04",
+                            "code_full": "IC10_MOPT1_RA1_CA04",
+                            "description": "Descriu l'amplitud, la freqüència i el període d'un senyal periòdic.",
+                            "source": {
+                                "file": "catalogo_de_optatividad_de_formacion_profesional.pdf",
+                                "page": 125,
+                                "module_code": "CMO-311",
+                                "ra_code": "RA1",
+                                "confidence": "official_catalog_translated_to_catalan",
+                                "criterion_code": "d"
+                            }
+                        },
+                        {
+                            "code": "CA05",
+                            "code_full": "IC10_MOPT1_RA1_CA05",
+                            "description": "Identifica senyals en temps continu i discret.",
+                            "source": {
+                                "file": "catalogo_de_optatividad_de_formacion_profesional.pdf",
+                                "page": 125,
+                                "module_code": "CMO-311",
+                                "ra_code": "RA1",
+                                "confidence": "official_catalog_translated_to_catalan",
+                                "criterion_code": "e"
+                            }
+                        },
+                        {
+                            "code": "CA06",
+                            "code_full": "IC10_MOPT1_RA1_CA06",
+                            "description": "Descriu la conversió analògica-digital (mostreig, quantificació i codificació), examinant-ne els conceptes bàsics, com ara la freqüència de mostreig i la resolució.",
+                            "source": {
+                                "file": "catalogo_de_optatividad_de_formacion_profesional.pdf",
+                                "page": 125,
+                                "module_code": "CMO-311",
+                                "ra_code": "RA1",
+                                "confidence": "official_catalog_translated_to_catalan",
+                                "criterion_code": "f"
+                            }
+                        }
+                    ],
+                    "source": {
+                        "file": "catalogo_de_optatividad_de_formacion_profesional.pdf",
+                        "page": 125,
+                        "module_code": "CMO-311",
+                        "ra_code": "RA1",
+                        "confidence": "official_catalog_translated_to_catalan",
+                        "adaptation": "Traducció al català del RA1 de CMO-311."
+                    }
                 },
                 {
                     "code": "RA2",
-                    "long_description": "Munta i configura els components físics necessaris per al desenvolupament d'un sistema robòtic senzill, aplicant criteris de seguretat i funcionament."
+                    "code_full": "IC10_MOPT1_RA2",
+                    "short_description": "Analitza, dissenya, simula i mesura circuits electrònics en corrent continu.",
+                    "long_description": "Analitza, dissenya, simula i mesura circuits electrònics en corrent continu.",
+                    "criteria": [
+                        {
+                            "code": "CA01",
+                            "code_full": "IC10_MOPT1_RA2_CA01",
+                            "description": "Identifica els diferents components discrets que formen part d'un circuit electrònic.",
+                            "source": {
+                                "file": "catalogo_de_optatividad_de_formacion_profesional.pdf",
+                                "page": 125,
+                                "module_code": "CMO-311",
+                                "ra_code": "RA2",
+                                "confidence": "official_catalog_translated_to_catalan",
+                                "criterion_code": "a"
+                            }
+                        },
+                        {
+                            "code": "CA02",
+                            "code_full": "IC10_MOPT1_RA2_CA02",
+                            "description": "Descriu les característiques bàsiques i els principis dels diferents components discrets.",
+                            "source": {
+                                "file": "catalogo_de_optatividad_de_formacion_profesional.pdf",
+                                "page": 125,
+                                "module_code": "CMO-311",
+                                "ra_code": "RA2",
+                                "confidence": "official_catalog_translated_to_catalan",
+                                "criterion_code": "b"
+                            }
+                        },
+                        {
+                            "code": "CA03",
+                            "code_full": "IC10_MOPT1_RA2_CA03",
+                            "description": "Analitza i explica circuits electrònics amb components discrets.",
+                            "source": {
+                                "file": "catalogo_de_optatividad_de_formacion_profesional.pdf",
+                                "page": 125,
+                                "module_code": "CMO-311",
+                                "ra_code": "RA2",
+                                "confidence": "official_catalog_translated_to_catalan",
+                                "criterion_code": "c"
+                            }
+                        },
+                        {
+                            "code": "CA04",
+                            "code_full": "IC10_MOPT1_RA2_CA04",
+                            "description": "Dissenya circuits electrònics amb components discrets.",
+                            "source": {
+                                "file": "catalogo_de_optatividad_de_formacion_profesional.pdf",
+                                "page": 125,
+                                "module_code": "CMO-311",
+                                "ra_code": "RA2",
+                                "confidence": "official_catalog_translated_to_catalan",
+                                "criterion_code": "d"
+                            }
+                        },
+                        {
+                            "code": "CA05",
+                            "code_full": "IC10_MOPT1_RA2_CA05",
+                            "description": "Utilitza programes de simulació per comprovar càlculs i verificar el disseny dels circuits electrònics.",
+                            "source": {
+                                "file": "catalogo_de_optatividad_de_formacion_profesional.pdf",
+                                "page": 125,
+                                "module_code": "CMO-311",
+                                "ra_code": "RA2",
+                                "confidence": "official_catalog_translated_to_catalan",
+                                "criterion_code": "e"
+                            }
+                        },
+                        {
+                            "code": "CA06",
+                            "code_full": "IC10_MOPT1_RA2_CA06",
+                            "description": "Realitza muntatges i proves de funcionament de circuits amb components discrets amb les eines i la instrumentació adequades.",
+                            "source": {
+                                "file": "catalogo_de_optatividad_de_formacion_profesional.pdf",
+                                "page": 125,
+                                "module_code": "CMO-311",
+                                "ra_code": "RA2",
+                                "confidence": "official_catalog_translated_to_catalan",
+                                "criterion_code": "f"
+                            }
+                        },
+                        {
+                            "code": "CA07",
+                            "code_full": "IC10_MOPT1_RA2_CA07",
+                            "description": "Identifica circuits oberts i curtcircuits.",
+                            "source": {
+                                "file": "catalogo_de_optatividad_de_formacion_profesional.pdf",
+                                "page": 125,
+                                "module_code": "CMO-311",
+                                "ra_code": "RA2",
+                                "confidence": "official_catalog_translated_to_catalan",
+                                "criterion_code": "g"
+                            }
+                        }
+                    ],
+                    "source": {
+                        "file": "catalogo_de_optatividad_de_formacion_profesional.pdf",
+                        "page": 125,
+                        "module_code": "CMO-311",
+                        "ra_code": "RA2",
+                        "confidence": "official_catalog_translated_to_catalan",
+                        "adaptation": "Traducció al català del RA2 de CMO-311."
+                    }
                 },
                 {
                     "code": "RA3",
-                    "long_description": "Desenvolupa i integra solucions de programació per controlar el comportament del sistema robòtic i resoldre els reptes plantejats."
+                    "code_full": "IC10_MOPT1_RA3",
+                    "short_description": "Utilitza amb destresa un entorn de programació de sistemes electrònics digitals.",
+                    "long_description": "Utilitza amb destresa un entorn de programació de sistemes electrònics digitals.",
+                    "criteria": [
+                        {
+                            "code": "CA01",
+                            "code_full": "IC10_MOPT1_RA3_CA01",
+                            "description": "Utilitza amb precisió l'entorn de programació d'un sistema electrònic.",
+                            "source": {
+                                "file": "catalogo_de_optatividad_de_formacion_profesional.pdf",
+                                "page": 125,
+                                "module_code": "CMO-311",
+                                "ra_code": "RA3",
+                                "confidence": "official_catalog_translated_to_catalan",
+                                "criterion_code": "a"
+                            }
+                        },
+                        {
+                            "code": "CA02",
+                            "code_full": "IC10_MOPT1_RA3_CA02",
+                            "description": "Desenvolupa programes per controlar el funcionament d'un sistema electrònic.",
+                            "source": {
+                                "file": "catalogo_de_optatividad_de_formacion_profesional.pdf",
+                                "page": 125,
+                                "module_code": "CMO-311",
+                                "ra_code": "RA3",
+                                "confidence": "official_catalog_translated_to_catalan",
+                                "criterion_code": "b"
+                            }
+                        },
+                        {
+                            "code": "CA03",
+                            "code_full": "IC10_MOPT1_RA3_CA03",
+                            "description": "Utilitza adequadament ordres de control d'execució, com ara condicionals i bucles.",
+                            "source": {
+                                "file": "catalogo_de_optatividad_de_formacion_profesional.pdf",
+                                "page": 125,
+                                "module_code": "CMO-311",
+                                "ra_code": "RA3",
+                                "confidence": "official_catalog_translated_to_catalan",
+                                "criterion_code": "c"
+                            }
+                        },
+                        {
+                            "code": "CA04",
+                            "code_full": "IC10_MOPT1_RA3_CA04",
+                            "description": "Utilitza adequadament constants, variables i llistes.",
+                            "source": {
+                                "file": "catalogo_de_optatividad_de_formacion_profesional.pdf",
+                                "page": 125,
+                                "module_code": "CMO-311",
+                                "ra_code": "RA3",
+                                "confidence": "official_catalog_translated_to_catalan",
+                                "criterion_code": "d"
+                            }
+                        },
+                        {
+                            "code": "CA05",
+                            "code_full": "IC10_MOPT1_RA3_CA05",
+                            "description": "Analitza el funcionament d'un programa d'un sistema electrònic.",
+                            "source": {
+                                "file": "catalogo_de_optatividad_de_formacion_profesional.pdf",
+                                "page": 125,
+                                "module_code": "CMO-311",
+                                "ra_code": "RA3",
+                                "confidence": "official_catalog_translated_to_catalan",
+                                "criterion_code": "e"
+                            }
+                        }
+                    ],
+                    "source": {
+                        "file": "catalogo_de_optatividad_de_formacion_profesional.pdf",
+                        "page": 125,
+                        "module_code": "CMO-311",
+                        "ra_code": "RA3",
+                        "confidence": "official_catalog_translated_to_catalan",
+                        "adaptation": "Traducció al català del RA3 de CMO-311."
+                    }
                 },
                 {
                     "code": "RA4",
-                    "long_description": "Documenta el desenvolupament del projecte i comunica els resultats obtinguts utilitzant eines digitals i documentació tècnica."
+                    "code_full": "IC10_MOPT1_RA4",
+                    "short_description": "Desenvolupa un projecte per a la creació d’un prototip d’un sistema robòtic funcional, respectant les fases de disseny, elaborant documentació tècnica i presentant el projecte.",
+                    "long_description": "Desenvolupa un projecte per a la creació d’un prototip d’un sistema robòtic funcional, respectant les fases de disseny, elaborant documentació tècnica i presentant el projecte.",
+                    "criteria": [
+                        {
+                            "code": "CA01",
+                            "code_full": "IC10_MOPT1_RA4_CA01",
+                            "description": "Descriu les fases del procés d'un projecte tecnològic.",
+                            "source": {
+                                "file": "catalogo_de_optatividad_de_formacion_profesional.pdf",
+                                "page": 126,
+                                "module_code": "CMO-311",
+                                "ra_code": "RA5",
+                                "confidence": "official_catalog_translated_to_catalan",
+                                "criterion_code": "a"
+                            }
+                        },
+                        {
+                            "code": "CA02",
+                            "code_full": "IC10_MOPT1_RA4_CA02",
+                            "description": "Utilitza eines de gestió de projectes.",
+                            "source": {
+                                "file": "catalogo_de_optatividad_de_formacion_profesional.pdf",
+                                "page": 126,
+                                "module_code": "CMO-311",
+                                "ra_code": "RA5",
+                                "confidence": "official_catalog_translated_to_catalan",
+                                "criterion_code": "b"
+                            }
+                        },
+                        {
+                            "code": "CA03",
+                            "code_full": "IC10_MOPT1_RA4_CA03",
+                            "description": "Utilitza el programari adequat per generar la documentació associada al procés tecnològic, com ara exposicions i pressupostos.",
+                            "source": {
+                                "file": "catalogo_de_optatividad_de_formacion_profesional.pdf",
+                                "page": 126,
+                                "module_code": "CMO-311",
+                                "ra_code": "RA5",
+                                "confidence": "official_catalog_translated_to_catalan",
+                                "criterion_code": "c"
+                            }
+                        },
+                        {
+                            "code": "CA04",
+                            "code_full": "IC10_MOPT1_RA4_CA04",
+                            "description": "Elabora documentació tècnica associada a un projecte tecnològic.",
+                            "source": {
+                                "file": "catalogo_de_optatividad_de_formacion_profesional.pdf",
+                                "page": 126,
+                                "module_code": "CMO-311",
+                                "ra_code": "RA5",
+                                "confidence": "official_catalog_translated_to_catalan",
+                                "criterion_code": "d"
+                            }
+                        },
+                        {
+                            "code": "CA05",
+                            "code_full": "IC10_MOPT1_RA4_CA05",
+                            "description": "Elabora i segueix una planificació del projecte.",
+                            "source": {
+                                "file": "catalogo_de_optatividad_de_formacion_profesional.pdf",
+                                "page": 126,
+                                "module_code": "CMO-311",
+                                "ra_code": "RA5",
+                                "confidence": "official_catalog_translated_to_catalan",
+                                "criterion_code": "e"
+                            }
+                        },
+                        {
+                            "code": "CA06",
+                            "code_full": "IC10_MOPT1_RA4_CA06",
+                            "description": "Dissenya i crea un sistema robòtic.",
+                            "source": {
+                                "file": "catalogo_de_optatividad_de_formacion_profesional.pdf",
+                                "page": 126,
+                                "module_code": "CMO-311",
+                                "ra_code": "RA5",
+                                "confidence": "official_catalog_translated_to_catalan",
+                                "criterion_code": "f"
+                            }
+                        },
+                        {
+                            "code": "CA07",
+                            "code_full": "IC10_MOPT1_RA4_CA07",
+                            "description": "Presenta adequadament el projecte d'un sistema robòtic.",
+                            "source": {
+                                "file": "catalogo_de_optatividad_de_formacion_profesional.pdf",
+                                "page": 126,
+                                "module_code": "CMO-311",
+                                "ra_code": "RA5",
+                                "confidence": "official_catalog_translated_to_catalan",
+                                "criterion_code": "g"
+                            }
+                        }
+                    ],
+                    "source": {
+                        "file": "catalogo_de_optatividad_de_formacion_profesional.pdf",
+                        "page": 126,
+                        "module_code": "CMO-311",
+                        "ra_code": "RA5",
+                        "confidence": "official_catalog_translated_to_catalan",
+                        "adaptation": "Traducció al català i renumeració del RA5 de CMO-311 com a RA4 de MOPT1. S’exclou el RA4 de CMO-311 relatiu al disseny i la impressió 3D."
+                    }
                 },
                 {
                     "code": "RA5",
-                    "long_description": "Desenvolupa programes senzills en Python utilitzant variables, operadors, estructures de control i funcions."
+                    "code_full": "IC10_MOPT1_RA5",
+                    "short_description": "Reconeix l’estructura d’un programa informàtic, identificant i relacionant els elements propis del llenguatge de programació utilitzat.",
+                    "long_description": "Reconeix l’estructura d’un programa informàtic, identificant i relacionant els elements propis del llenguatge de programació utilitzat.",
+                    "criteria": [
+                        {
+                            "code": "CA01",
+                            "code_full": "IC10_MOPT1_RA5_CA01",
+                            "description": "Identifica els blocs que componen l'estructura d'un programa informàtic.",
+                            "source": {
+                                "file": "catalogo_de_optatividad_de_formacion_profesional.pdf",
+                                "page": 130,
+                                "module_code": "CMO-313",
+                                "ra_code": "RA1",
+                                "confidence": "official_catalog_translated_to_catalan",
+                                "criterion_code": "a"
+                            }
+                        },
+                        {
+                            "code": "CA02",
+                            "code_full": "IC10_MOPT1_RA5_CA02",
+                            "description": "Crea projectes de desenvolupament d'aplicacions.",
+                            "source": {
+                                "file": "catalogo_de_optatividad_de_formacion_profesional.pdf",
+                                "page": 130,
+                                "module_code": "CMO-313",
+                                "ra_code": "RA1",
+                                "confidence": "official_catalog_translated_to_catalan",
+                                "criterion_code": "b"
+                            }
+                        },
+                        {
+                            "code": "CA03",
+                            "code_full": "IC10_MOPT1_RA5_CA03",
+                            "description": "Utilitza entorns integrats de desenvolupament.",
+                            "source": {
+                                "file": "catalogo_de_optatividad_de_formacion_profesional.pdf",
+                                "page": 130,
+                                "module_code": "CMO-313",
+                                "ra_code": "RA1",
+                                "confidence": "official_catalog_translated_to_catalan",
+                                "criterion_code": "c"
+                            }
+                        },
+                        {
+                            "code": "CA04",
+                            "code_full": "IC10_MOPT1_RA5_CA04",
+                            "description": "Identifica els diferents tipus de variables i la utilitat específica de cadascun.",
+                            "source": {
+                                "file": "catalogo_de_optatividad_de_formacion_profesional.pdf",
+                                "page": 130,
+                                "module_code": "CMO-313",
+                                "ra_code": "RA1",
+                                "confidence": "official_catalog_translated_to_catalan",
+                                "criterion_code": "d"
+                            }
+                        },
+                        {
+                            "code": "CA05",
+                            "code_full": "IC10_MOPT1_RA5_CA05",
+                            "description": "Modifica el codi d'un programa per crear i utilitzar variables.",
+                            "source": {
+                                "file": "catalogo_de_optatividad_de_formacion_profesional.pdf",
+                                "page": 130,
+                                "module_code": "CMO-313",
+                                "ra_code": "RA1",
+                                "confidence": "official_catalog_translated_to_catalan",
+                                "criterion_code": "e"
+                            }
+                        },
+                        {
+                            "code": "CA06",
+                            "code_full": "IC10_MOPT1_RA5_CA06",
+                            "description": "Crea i utilitza constants i literals.",
+                            "source": {
+                                "file": "catalogo_de_optatividad_de_formacion_profesional.pdf",
+                                "page": 130,
+                                "module_code": "CMO-313",
+                                "ra_code": "RA1",
+                                "confidence": "official_catalog_translated_to_catalan",
+                                "criterion_code": "f"
+                            }
+                        },
+                        {
+                            "code": "CA07",
+                            "code_full": "IC10_MOPT1_RA5_CA07",
+                            "description": "Classifica, reconeix i utilitza els operadors del llenguatge en expressions.",
+                            "source": {
+                                "file": "catalogo_de_optatividad_de_formacion_profesional.pdf",
+                                "page": 130,
+                                "module_code": "CMO-313",
+                                "ra_code": "RA1",
+                                "confidence": "official_catalog_translated_to_catalan",
+                                "criterion_code": "g"
+                            }
+                        },
+                        {
+                            "code": "CA08",
+                            "code_full": "IC10_MOPT1_RA5_CA08",
+                            "description": "Comprova el funcionament de les conversions de tipus explícites i implícites.",
+                            "source": {
+                                "file": "catalogo_de_optatividad_de_formacion_profesional.pdf",
+                                "page": 130,
+                                "module_code": "CMO-313",
+                                "ra_code": "RA1",
+                                "confidence": "official_catalog_translated_to_catalan",
+                                "criterion_code": "h"
+                            }
+                        },
+                        {
+                            "code": "CA09",
+                            "code_full": "IC10_MOPT1_RA5_CA09",
+                            "description": "Introdueix comentaris en el codi.",
+                            "source": {
+                                "file": "catalogo_de_optatividad_de_formacion_profesional.pdf",
+                                "page": 130,
+                                "module_code": "CMO-313",
+                                "ra_code": "RA1",
+                                "confidence": "official_catalog_translated_to_catalan",
+                                "criterion_code": "i"
+                            }
+                        }
+                    ],
+                    "source": {
+                        "file": "catalogo_de_optatividad_de_formacion_profesional.pdf",
+                        "page": 130,
+                        "module_code": "CMO-313",
+                        "ra_code": "RA1",
+                        "confidence": "official_catalog_translated_to_catalan",
+                        "adaptation": "Traducció al català del RA1 de CMO-313 i renumeració com a RA5 de MOPT1."
+                    }
                 },
                 {
                     "code": "RA6",
-                    "long_description": "Gestiona dades mitjançant estructures bàsiques de Python i organitza el codi en mòduls reutilitzables."
+                    "code_full": "IC10_MOPT1_RA6",
+                    "short_description": "Escriu i prova programes senzills, reconeixent i aplicant els fonaments de la programació.",
+                    "long_description": "Escriu i prova programes senzills, reconeixent i aplicant els fonaments de la programació.",
+                    "criteria": [
+                        {
+                            "code": "CA01",
+                            "code_full": "IC10_MOPT1_RA6_CA01",
+                            "description": "Identifica els fonaments de la programació.",
+                            "source": {
+                                "file": "catalogo_de_optatividad_de_formacion_profesional.pdf",
+                                "page": 130,
+                                "module_code": "CMO-313",
+                                "ra_code": "RA2",
+                                "confidence": "official_catalog_translated_to_catalan",
+                                "criterion_code": "a"
+                            }
+                        },
+                        {
+                            "code": "CA02",
+                            "code_full": "IC10_MOPT1_RA6_CA02",
+                            "description": "Escriu programes simples.",
+                            "source": {
+                                "file": "catalogo_de_optatividad_de_formacion_profesional.pdf",
+                                "page": 130,
+                                "module_code": "CMO-313",
+                                "ra_code": "RA2",
+                                "confidence": "official_catalog_translated_to_catalan",
+                                "criterion_code": "b"
+                            }
+                        },
+                        {
+                            "code": "CA03",
+                            "code_full": "IC10_MOPT1_RA6_CA03",
+                            "description": "Utilitza mètodes o funcions.",
+                            "source": {
+                                "file": "catalogo_de_optatividad_de_formacion_profesional.pdf",
+                                "page": 130,
+                                "module_code": "CMO-313",
+                                "ra_code": "RA2",
+                                "confidence": "official_catalog_translated_to_catalan",
+                                "criterion_code": "c"
+                            }
+                        },
+                        {
+                            "code": "CA04",
+                            "code_full": "IC10_MOPT1_RA6_CA04",
+                            "description": "Utilitza paràmetres en la crida de mètodes o funcions.",
+                            "source": {
+                                "file": "catalogo_de_optatividad_de_formacion_profesional.pdf",
+                                "page": 130,
+                                "module_code": "CMO-313",
+                                "ra_code": "RA2",
+                                "confidence": "official_catalog_translated_to_catalan",
+                                "criterion_code": "d"
+                            }
+                        },
+                        {
+                            "code": "CA05",
+                            "code_full": "IC10_MOPT1_RA6_CA05",
+                            "description": "Incorpora i utilitza llibreries.",
+                            "source": {
+                                "file": "catalogo_de_optatividad_de_formacion_profesional.pdf",
+                                "page": 130,
+                                "module_code": "CMO-313",
+                                "ra_code": "RA2",
+                                "confidence": "official_catalog_translated_to_catalan",
+                                "criterion_code": "e"
+                            }
+                        }
+                    ],
+                    "source": {
+                        "file": "catalogo_de_optatividad_de_formacion_profesional.pdf",
+                        "page": 130,
+                        "module_code": "CMO-313",
+                        "ra_code": "RA2",
+                        "confidence": "official_catalog_translated_to_catalan",
+                        "adaptation": "Traducció al català del RA2 de CMO-313 i renumeració com a RA6 de MOPT1."
+                    }
                 },
                 {
                     "code": "RA7",
-                    "long_description": "Aplica tècniques de prova, depuració i documentació per garantir la qualitat dels programes desenvolupats."
+                    "code_full": "IC10_MOPT1_RA7",
+                    "short_description": "Coneix els fonaments de la programació orientada a objectes.",
+                    "long_description": "Coneix els fonaments de la programació orientada a objectes.",
+                    "criteria": [
+                        {
+                            "code": "CA01",
+                            "code_full": "IC10_MOPT1_RA7_CA01",
+                            "description": "Defineix i utilitza classes adequadament.",
+                            "source": {
+                                "file": "catalogo_de_optatividad_de_formacion_profesional.pdf",
+                                "page": 130,
+                                "module_code": "CMO-313",
+                                "ra_code": "RA4",
+                                "confidence": "official_catalog_translated_to_catalan",
+                                "criterion_code": "a"
+                            }
+                        },
+                        {
+                            "code": "CA02",
+                            "code_full": "IC10_MOPT1_RA7_CA02",
+                            "description": "Coneix el concepte d'herència i la seva utilització.",
+                            "source": {
+                                "file": "catalogo_de_optatividad_de_formacion_profesional.pdf",
+                                "page": 130,
+                                "module_code": "CMO-313",
+                                "ra_code": "RA4",
+                                "confidence": "official_catalog_translated_to_catalan",
+                                "criterion_code": "b"
+                            }
+                        },
+                        {
+                            "code": "CA03",
+                            "code_full": "IC10_MOPT1_RA7_CA03",
+                            "description": "Diferencia les condicions d'accés als atributs i mètodes que defineixen una classe.",
+                            "source": {
+                                "file": "catalogo_de_optatividad_de_formacion_profesional.pdf",
+                                "page": 130,
+                                "module_code": "CMO-313",
+                                "ra_code": "RA4",
+                                "confidence": "official_catalog_translated_to_catalan",
+                                "criterion_code": "c"
+                            }
+                        }
+                    ],
+                    "source": {
+                        "file": "catalogo_de_optatividad_de_formacion_profesional.pdf",
+                        "page": 130,
+                        "module_code": "CMO-313",
+                        "ra_code": "RA4",
+                        "confidence": "official_catalog_translated_to_catalan",
+                        "adaptation": "Traducció al català del RA4 de CMO-313 i renumeració com a RA7 de MOPT1."
+                    }
                 },
                 {
                     "code": "RA8",
-                    "long_description": "Desenvolupa aplicacions senzilles orientades a la resolució de problemes reals integrant els coneixements adquirits."
+                    "code_full": "IC10_MOPT1_RA8",
+                    "short_description": "Realitza operacions d’entrada i sortida d’informació utilitzant fitxers, fent ús de les llibreries o classes que ofereix el llenguatge de programació.",
+                    "long_description": "Realitza operacions d’entrada i sortida d’informació utilitzant fitxers, fent ús de les llibreries o classes que ofereix el llenguatge de programació.",
+                    "criteria": [
+                        {
+                            "code": "CA01",
+                            "code_full": "IC10_MOPT1_RA8_CA01",
+                            "description": "Utilitza la consola per realitzar operacions d'entrada i sortida d'informació.",
+                            "source": {
+                                "file": "catalogo_de_optatividad_de_formacion_profesional.pdf",
+                                "page": 130,
+                                "module_code": "CMO-313",
+                                "ra_code": "RA5",
+                                "confidence": "official_catalog_translated_to_catalan",
+                                "criterion_code": "a"
+                            }
+                        },
+                        {
+                            "code": "CA02",
+                            "code_full": "IC10_MOPT1_RA8_CA02",
+                            "description": "Aplica formats en la visualització de la informació.",
+                            "source": {
+                                "file": "catalogo_de_optatividad_de_formacion_profesional.pdf",
+                                "page": 130,
+                                "module_code": "CMO-313",
+                                "ra_code": "RA5",
+                                "confidence": "official_catalog_translated_to_catalan",
+                                "criterion_code": "b"
+                            }
+                        },
+                        {
+                            "code": "CA03",
+                            "code_full": "IC10_MOPT1_RA8_CA03",
+                            "description": "Reconeix les possibilitats d'entrada i sortida del llenguatge i les llibreries associades.",
+                            "source": {
+                                "file": "catalogo_de_optatividad_de_formacion_profesional.pdf",
+                                "page": 130,
+                                "module_code": "CMO-313",
+                                "ra_code": "RA5",
+                                "confidence": "official_catalog_translated_to_catalan",
+                                "criterion_code": "c"
+                            }
+                        },
+                        {
+                            "code": "CA04",
+                            "code_full": "IC10_MOPT1_RA8_CA04",
+                            "description": "Utilitza fitxers per emmagatzemar i recuperar informació.",
+                            "source": {
+                                "file": "catalogo_de_optatividad_de_formacion_profesional.pdf",
+                                "page": 130,
+                                "module_code": "CMO-313",
+                                "ra_code": "RA5",
+                                "confidence": "official_catalog_translated_to_catalan",
+                                "criterion_code": "d"
+                            }
+                        },
+                        {
+                            "code": "CA05",
+                            "code_full": "IC10_MOPT1_RA8_CA05",
+                            "description": "Crea programes que utilitzen fitxers de formats diferents.",
+                            "source": {
+                                "file": "catalogo_de_optatividad_de_formacion_profesional.pdf",
+                                "page": 130,
+                                "module_code": "CMO-313",
+                                "ra_code": "RA5",
+                                "confidence": "official_catalog_translated_to_catalan",
+                                "criterion_code": "e"
+                            }
+                        }
+                    ],
+                    "source": {
+                        "file": "catalogo_de_optatividad_de_formacion_profesional.pdf",
+                        "page": 130,
+                        "module_code": "CMO-313",
+                        "ra_code": "RA5",
+                        "confidence": "official_catalog_translated_to_catalan",
+                        "adaptation": "Traducció al català del RA5 de CMO-313 i renumeració com a RA8 de MOPT1."
+                    }
+                },
+                {
+                    "code": "RA9",
+                    "code_full": "IC10_MOPT1_RA9",
+                    "short_description": "Gestiona informació emmagatzemada en bases de dades relacionals, mantenint la integritat i la consistència de les dades.",
+                    "long_description": "Gestiona informació emmagatzemada en bases de dades relacionals, mantenint la integritat i la consistència de les dades.",
+                    "criteria": [
+                        {
+                            "code": "CA01",
+                            "code_full": "IC10_MOPT1_RA9_CA01",
+                            "description": "Identifica les característiques i els mètodes d'accés als sistemes gestors de bases de dades relacionals.",
+                            "source": {
+                                "file": "catalogo_de_optatividad_de_formacion_profesional.pdf",
+                                "page": 130,
+                                "module_code": "CMO-313",
+                                "ra_code": "RA6",
+                                "confidence": "official_catalog_translated_to_catalan",
+                                "criterion_code": "a"
+                            }
+                        },
+                        {
+                            "code": "CA02",
+                            "code_full": "IC10_MOPT1_RA9_CA02",
+                            "description": "Programa connexions amb bases de dades.",
+                            "source": {
+                                "file": "catalogo_de_optatividad_de_formacion_profesional.pdf",
+                                "page": 130,
+                                "module_code": "CMO-313",
+                                "ra_code": "RA6",
+                                "confidence": "official_catalog_translated_to_catalan",
+                                "criterion_code": "b"
+                            }
+                        },
+                        {
+                            "code": "CA03",
+                            "code_full": "IC10_MOPT1_RA9_CA03",
+                            "description": "Escriu codi per emmagatzemar informació en bases de dades.",
+                            "source": {
+                                "file": "catalogo_de_optatividad_de_formacion_profesional.pdf",
+                                "page": 130,
+                                "module_code": "CMO-313",
+                                "ra_code": "RA6",
+                                "confidence": "official_catalog_translated_to_catalan",
+                                "criterion_code": "c"
+                            }
+                        },
+                        {
+                            "code": "CA04",
+                            "code_full": "IC10_MOPT1_RA9_CA04",
+                            "description": "Crea programes per recuperar i mostrar informació emmagatzemada en bases de dades.",
+                            "source": {
+                                "file": "catalogo_de_optatividad_de_formacion_profesional.pdf",
+                                "page": 130,
+                                "module_code": "CMO-313",
+                                "ra_code": "RA6",
+                                "confidence": "official_catalog_translated_to_catalan",
+                                "criterion_code": "d"
+                            }
+                        },
+                        {
+                            "code": "CA05",
+                            "code_full": "IC10_MOPT1_RA9_CA05",
+                            "description": "Efectua esborraments i modificacions sobre la informació emmagatzemada.",
+                            "source": {
+                                "file": "catalogo_de_optatividad_de_formacion_profesional.pdf",
+                                "page": 130,
+                                "module_code": "CMO-313",
+                                "ra_code": "RA6",
+                                "confidence": "official_catalog_translated_to_catalan",
+                                "criterion_code": "e"
+                            }
+                        },
+                        {
+                            "code": "CA06",
+                            "code_full": "IC10_MOPT1_RA9_CA06",
+                            "description": "Crea aplicacions que executen consultes sobre bases de dades.",
+                            "source": {
+                                "file": "catalogo_de_optatividad_de_formacion_profesional.pdf",
+                                "page": 130,
+                                "module_code": "CMO-313",
+                                "ra_code": "RA6",
+                                "confidence": "official_catalog_translated_to_catalan",
+                                "criterion_code": "f"
+                            }
+                        },
+                        {
+                            "code": "CA07",
+                            "code_full": "IC10_MOPT1_RA9_CA07",
+                            "description": "Crea aplicacions que permeten gestionar informació present en bases de dades relacionals.",
+                            "source": {
+                                "file": "catalogo_de_optatividad_de_formacion_profesional.pdf",
+                                "page": 130,
+                                "module_code": "CMO-313",
+                                "ra_code": "RA6",
+                                "confidence": "official_catalog_translated_to_catalan",
+                                "criterion_code": "g"
+                            }
+                        }
+                    ],
+                    "source": {
+                        "file": "catalogo_de_optatividad_de_formacion_profesional.pdf",
+                        "page": 130,
+                        "module_code": "CMO-313",
+                        "ra_code": "RA6",
+                        "confidence": "official_catalog_translated_to_catalan",
+                        "adaptation": "Traducció al català del RA6 de CMO-313 i renumeració com a RA9 de MOPT1."
+                    }
                 }
-            ]
+            ],
+            "source": {
+                "type": "local_combination",
+                "administration": "Comunitat de Madrid",
+                "file": "catalogo_de_optatividad_de_formacion_profesional.pdf",
+                "modules": [
+                    {
+                        "code": "CMO-311",
+                        "name": "Informática aplicada a sistemas electrónicos (Robótica)",
+                        "selected_ra": [
+                            "RA1",
+                            "RA2",
+                            "RA3",
+                            "RA5"
+                        ]
+                    },
+                    {
+                        "code": "CMO-313",
+                        "name": "Fundamentos de programación",
+                        "selected_ra": [
+                            "RA1",
+                            "RA2",
+                            "RA4",
+                            "RA5",
+                            "RA6"
+                        ]
+                    }
+                ],
+                "adaptation": "Configuració curricular local definitiva de nou RA. S’exclou el RA4 de CMO-311, relatiu al disseny i la impressió 3D. Les descripcions i els criteris s’han traduït al català i s’han renumerat per al mòdul MOPT1."
+            }
         }
     ]
 }

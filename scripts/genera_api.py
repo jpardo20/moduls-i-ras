@@ -1,16 +1,19 @@
 import json
+import os
 import shutil
 from pathlib import Path
 from datetime import datetime, timezone
 
 
-DATA_DIR = Path("docs/data")
-API_DIR = Path("docs/api/v1")
+BASE_DIR = Path(__file__).resolve().parents[1]
+DATA_DIR = BASE_DIR / "docs" / "data"
+API_DIR = BASE_DIR / "docs" / "api" / "v1"
 
 
 CICLES_INFO = {
     "smx": {
         "fitxer": "smx.json",
+        "fitxer_local": "moduls-locals-smx.json",
         "codi": "SMX",
         "codi_oficial": "IC10",
         "nom": "Sistemes Microinformàtics i Xarxes",
@@ -18,6 +21,7 @@ CICLES_INFO = {
     },
     "dam": {
         "fitxer": "dam.json",
+        "fitxer_local": "moduls-locals-dam.json",
         "codi": "DAM",
         "codi_oficial": "ICB0",
         "nom": "Desenvolupament d'Aplicacions Multiplataforma",
@@ -100,11 +104,17 @@ def normalitzar_ra(ra_llista: list) -> dict:
     return resultats
 
 
-def normalitzar_modul(modul: dict, cicle_info: dict, data_generacio: str) -> dict:
+def normalitzar_modul(
+    modul: dict,
+    cicle_info: dict,
+    data_generacio: str,
+    fitxer_origen: str,
+    tipus_curriculum: str,
+) -> dict:
     ra = modul.get("ra", [])
     empresa = modul.get("company", {})
 
-    return {
+    modul_api = {
         "api_version": "1.0",
         "codi": modul.get("id", ""),
         "nom": modul.get("name", ""),
@@ -124,42 +134,108 @@ def normalitzar_modul(modul: dict, cicle_info: dict, data_generacio: str) -> dic
         "resultats_aprenentatge": normalitzar_ra(ra),
         "metadata": {
             "font": "docs/data",
-            "fitxer_origen": cicle_info["fitxer"],
+            "fitxer_origen": fitxer_origen,
             "estat": "generat",
             "data_generacio": data_generacio
         }
     }
 
+    if tipus_curriculum == "local":
+        modul_api["metadata"]["tipus_curriculum"] = "local"
 
-def generar_api_cicle(cicle_info: dict, data_generacio: str) -> tuple[dict, list[dict]]:
-    path = DATA_DIR / cicle_info["fitxer"]
+    font_curricular = modul.get("source")
+    if font_curricular:
+        modul_api["font_curricular"] = font_curricular
 
-    if not path.exists():
-        print(f"AVÍS: no existeix {path}. S'ignora.")
-        return {}, []
+    return modul_api
 
-    dades_cicle = llegir_json(path)
 
-    moduls_api = []
+def carregar_fonts_moduls(
+    cicle_info: dict,
+) -> list[tuple[str, str, list[dict]]]:
+    fonts = []
 
-    for modul in dades_cicle.get("modules", []):
-        modul_api = normalitzar_modul(modul, cicle_info, data_generacio)
-        codi_modul = modul_api["codi"]
-
-        if not codi_modul:
-            print("AVÍS: mòdul sense codi. S'ignora.")
+    for tipus_curriculum, clau_fitxer in (
+        ("oficial", "fitxer"),
+        ("local", "fitxer_local"),
+    ):
+        nom_fitxer = cicle_info.get(clau_fitxer, "")
+        if not nom_fitxer:
             continue
 
-        escriure_json(API_DIR / "moduls" / f"{codi_modul}.json", modul_api)
+        path = DATA_DIR / nom_fitxer
+        if not path.exists():
+            print(f"AVÍS: no existeix {path}. S'ignora.")
+            continue
 
-        moduls_api.append({
-            "codi": codi_modul,
-            "nom": modul_api["nom"],
-            "hores_total": modul_api["hores"]["total"],
-            "te_empresa": modul_api["empresa"]["te_estada"],
-            "num_ra": modul_api["num_ra"],
-            "url": f"../moduls/{codi_modul}.json"
-        })
+        dades = llegir_json(path)
+        moduls = dades.get("modules", [])
+        if tipus_curriculum == "local" and not moduls:
+            continue
+
+        fonts.append((
+            tipus_curriculum,
+            nom_fitxer,
+            moduls,
+        ))
+
+    return fonts
+
+
+def generar_api_cicle(cicle_info: dict, data_generacio: str) -> tuple[dict, list[dict]]:
+    fonts_moduls = carregar_fonts_moduls(cicle_info)
+    if not fonts_moduls:
+        return {}, []
+
+    moduls_api = []
+    codis_modul = set()
+
+    for tipus_curriculum, nom_fitxer, moduls in fonts_moduls:
+        for modul in moduls:
+            modul_api = normalitzar_modul(
+                modul,
+                cicle_info,
+                data_generacio,
+                nom_fitxer,
+                tipus_curriculum,
+            )
+            codi_modul = modul_api["codi"]
+
+            if not codi_modul:
+                print("AVÍS: mòdul sense codi. S'ignora.")
+                continue
+
+            if codi_modul in codis_modul:
+                raise ValueError(
+                    f"Codi de mòdul duplicat al cicle "
+                    f"{cicle_info['slug']}: {codi_modul}"
+                )
+
+            codis_modul.add(codi_modul)
+            escriure_json(
+                API_DIR / "moduls" / f"{codi_modul}.json",
+                modul_api,
+            )
+
+            moduls_api.append({
+                "codi": codi_modul,
+                "nom": modul_api["nom"],
+                "hores_total": modul_api["hores"]["total"],
+                "te_empresa": modul_api["empresa"]["te_estada"],
+                "num_ra": modul_api["num_ra"],
+                "url": f"../moduls/{codi_modul}.json"
+            })
+
+    metadata = {
+        "font": f"docs/data/{cicle_info['fitxer']}",
+        "estat": "generat",
+        "data_generacio": data_generacio
+    }
+    if len(fonts_moduls) > 1:
+        metadata["fonts"] = [
+            f"docs/data/{nom_fitxer}"
+            for _, nom_fitxer, _ in fonts_moduls
+        ]
 
     cicle_api = {
         "api_version": "1.0",
@@ -169,11 +245,7 @@ def generar_api_cicle(cicle_info: dict, data_generacio: str) -> tuple[dict, list
         "slug": cicle_info["slug"],
         "num_moduls": len(moduls_api),
         "moduls": moduls_api,
-        "metadata": {
-            "font": f"docs/data/{cicle_info['fitxer']}",
-            "estat": "generat",
-            "data_generacio": data_generacio
-        }
+        "metadata": metadata
     }
 
     escriure_json(API_DIR / "cicles" / f"{cicle_info['slug']}.json", cicle_api)
@@ -228,7 +300,9 @@ def generar_index(cicles_api: list[dict], moduls_index: list[dict], data_generac
 
 
 def main() -> None:
-    data_generacio = datetime.now(timezone.utc).isoformat()
+    data_generacio = os.getenv(
+        "API_GENERATION_TIMESTAMP"
+    ) or datetime.now(timezone.utc).isoformat()
 
     netejar_api()
 
