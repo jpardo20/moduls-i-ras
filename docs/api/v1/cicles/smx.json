@@ -4,7 +4,7 @@
   "codi_oficial": "IC10",
   "nom": "Sistemes Microinformàtics i Xarxes",
   "slug": "smx",
-  "num_moduls": 14,
+  "num_moduls": 15,
   "moduls": [
     {
       "codi": "0221",
@@ -117,11 +117,23 @@
       "te_empresa": false,
       "num_ra": 5,
       "url": "../moduls/1713.json"
+    },
+    {
+      "codi": "MOPT1",
+      "nom": "Programació Python i Robòtica",
+      "hores_total": 99,
+      "te_empresa": false,
+      "num_ra": 9,
+      "url": "../moduls/MOPT1.json"
     }
   ],
   "metadata": {
     "font": "docs/data/smx.json",
     "estat": "generat",
-    "data_generacio": "2026-07-15T14:38:12.114606+00:00"
+    "data_generacio": "2026-07-15T14:38:12.114606+00:00",
+    "fonts": [
+      "docs/data/smx.json",
+      "docs/data/moduls-locals-smx.json"
+    ]
   }
 }

@@ -20,9 +20,17 @@ Centralitzar informació útil per a la planificació docent, l'avaluació per R
 ## Estructura
 
 - `docs/` — web estàtica de consulta.
-- `docs/data/` — dades en format JSON.
+- `docs/data/` — dades en format JSON, inclosos els mòduls locals.
 - `scripts/` — scripts de creació i validació.
 - `contextos/` — documents de treball i context curricular.
+
+## Generació de l’API
+
+L’API combina el currículum oficial de cada cicle amb els mòduls locals definits a `docs/data/moduls-locals-<cicle>.json`. Els mòduls locals han d’indicar explícitament la procedència curricular i no poden repetir el codi d’un mòdul oficial.
+
+```bash
+python scripts/genera_api.py
+```
 
 ## Tecnologies
 
