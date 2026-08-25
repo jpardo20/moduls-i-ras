@@ -28,6 +28,10 @@ Centralitzar informació útil per a la planificació docent, l'avaluació per R
 
 L’API combina el currículum oficial de cada cicle amb els mòduls locals definits a `docs/data/moduls-locals-<cicle>.json`. Els mòduls locals han d’indicar explícitament la procedència curricular i no poden repetir el codi d’un mòdul oficial.
 
+Quan la font curricular proporciona el desglossament, l’API publica
+`hores.total`, `hores.centre` i `hores.empresa`. El generador comprova que
+les hores de centre i d’empresa sumin la durada total del mòdul.
+
 ```bash
 python scripts/genera_api.py
 ```

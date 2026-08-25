@@ -87,6 +87,11 @@ def parse_modules(paragraphs, source_file, cycle_code):
                         "id": module_id,
                         "name": module_name,
                         "hours": None,
+                        "school_hours": None,
+                        "company": {
+                            "enabled": False,
+                            "hours": 0
+                        },
                         "ra": []
                     }
 
@@ -108,6 +113,26 @@ def parse_modules(paragraphs, source_file, cycle_code):
             match = re.search(r"Durada:\s*(\d+)", text)
             if match:
                 current_module["hours"] = int(match.group(1))
+
+        if "Hores a realitzar en el centre educatiu:" in text:
+            match = re.search(
+                r"Hores a realitzar en el centre educatiu:\s*(\d+)",
+                text,
+            )
+            if match:
+                current_module["school_hours"] = int(match.group(1))
+
+        if "Hores d’estada a l’empresa:" in text:
+            match = re.search(
+                r"Hores d’estada a l’empresa:\s*(\d+)",
+                text,
+            )
+            if match:
+                hores_empresa = int(match.group(1))
+                current_module["company"] = {
+                    "enabled": hores_empresa > 0,
+                    "hours": hores_empresa
+                }
 
         # ---------- INICI RA ----------
         if "Resultats d’aprenentatge" in text:

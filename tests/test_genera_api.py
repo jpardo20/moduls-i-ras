@@ -49,6 +49,51 @@ def test_ponderacions_mopt1_sumen_cent() -> None:
     assert sum(ponderacions.values()) == 100
 
 
+def test_0227_te_el_desglossament_oficial_d_hores() -> None:
+    dades = _llegir_json(DATA_DIR / "smx.json")
+    modul = next(
+        modul
+        for modul in dades["modules"]
+        if modul["id"] == "0227"
+    )
+
+    assert modul["hours"] == 198
+    assert modul["school_hours"] == 132
+    assert modul["company"] == {
+        "enabled": True,
+        "hours": 66,
+    }
+
+
+def test_generador_rebutja_un_desglossament_incoherent() -> None:
+    modul = {
+        "id": "PROVA",
+        "name": "Mòdul de prova",
+        "hours": 198,
+        "school_hours": 132,
+        "company": {
+            "enabled": True,
+            "hours": 60,
+        },
+        "ra": [],
+    }
+
+    try:
+        genera_api.normalitzar_modul(
+            modul,
+            genera_api.CICLES_INFO["smx"],
+            "2026-07-24T00:00:00+00:00",
+            "prova.json",
+            "oficial",
+        )
+    except ValueError as error:
+        assert "132 + 60 != 198" in str(error)
+    else:
+        raise AssertionError(
+            "El generador ha acceptat hores incoherents"
+        )
+
+
 def test_generador_publica_mopt1_a_l_api(
     tmp_path: Path,
     monkeypatch,
@@ -88,6 +133,9 @@ def test_generador_publica_mopt1_a_l_api(
     mopt1 = _llegir_json(
         api_dir / "moduls" / "MOPT1.json"
     )
+    modul_0227 = _llegir_json(
+        api_dir / "moduls" / "0227.json"
+    )
 
     assert "MOPT1" in index["moduls"]
     assert any(
@@ -107,6 +155,12 @@ def test_generador_publica_mopt1_a_l_api(
         mopt1["metadata"]["tipus_curriculum"]
         == "local"
     )
+    assert modul_0227["hores"] == {
+        "total": 198,
+        "centre": 132,
+        "empresa": 66,
+    }
+    assert modul_0227["empresa"]["te_estada"] is True
 
 
 def test_rutes_del_generador_no_depenen_del_cwd(

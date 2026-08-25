@@ -9,10 +9,12 @@
     "slug": "smx"
   },
   "hores": {
-    "total": 198
+    "total": 198,
+    "centre": 132,
+    "empresa": 66
   },
   "empresa": {
-    "te_estada": false
+    "te_estada": true
   },
   "num_ra": 8,
   "resultats_aprenentatge": {

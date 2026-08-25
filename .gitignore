@@ -13,6 +13,7 @@ docs/**/_rels/
 # Python
 __pycache__/
 *.pyc
+.venv/
 
 # OS
 .DS_Storetmp/

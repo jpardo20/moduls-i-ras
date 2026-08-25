@@ -3583,6 +3583,7 @@
       "id": "0227",
       "name": "Serveis de xarxa",
       "hours": 198,
+      "school_hours": 132,
       "ra": [
         {
           "code": "RA1",
@@ -4318,7 +4319,11 @@
             "confidence": "docx_structural_text"
           }
         }
-      ]
+      ],
+      "company": {
+        "enabled": true,
+        "hours": 66
+      }
     },
     {
       "id": "0228",
