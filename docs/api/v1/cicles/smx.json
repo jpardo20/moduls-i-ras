@@ -58,7 +58,7 @@
       "codi": "0227",
       "nom": "Serveis de xarxa",
       "hores_total": 198,
-      "te_empresa": false,
+      "te_empresa": true,
       "num_ra": 8,
       "url": "../moduls/0227.json"
     },

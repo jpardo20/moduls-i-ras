@@ -113,6 +113,48 @@ def normalitzar_modul(
 ) -> dict:
     ra = modul.get("ra", [])
     empresa = modul.get("company", {})
+    hores_total = modul.get("hours", 0)
+    hores_centre = modul.get("school_hours")
+    hores_empresa = empresa.get("hours")
+
+    te_desglossament = (
+        hores_centre is not None
+        or hores_empresa is not None
+    )
+    if te_desglossament:
+        if hores_centre is None or hores_empresa is None:
+            raise ValueError(
+                f"Desglossament d'hores incomplet al mòdul "
+                f"{modul.get('id', '')}"
+            )
+        if hores_centre + hores_empresa != hores_total:
+            raise ValueError(
+                f"Desglossament d'hores incoherent al mòdul "
+                f"{modul.get('id', '')}: "
+                f"{hores_centre} + {hores_empresa} != {hores_total}"
+            )
+        empresa_habilitada = empresa.get("enabled")
+        if (
+            empresa_habilitada is not None
+            and bool(empresa_habilitada) != (hores_empresa > 0)
+        ):
+            raise ValueError(
+                f"Indicador d'empresa incoherent al mòdul "
+                f"{modul.get('id', '')}"
+            )
+
+    hores_api = {"total": hores_total}
+    if te_desglossament:
+        hores_api.update({
+            "centre": hores_centre,
+            "empresa": hores_empresa,
+        })
+
+    te_estada = (
+        hores_empresa > 0
+        if hores_empresa is not None
+        else bool(empresa.get("enabled", False))
+    )
 
     modul_api = {
         "api_version": "1.0",
@@ -124,11 +166,9 @@ def normalitzar_modul(
             "nom": cicle_info["nom"],
             "slug": cicle_info["slug"]
         },
-        "hores": {
-            "total": modul.get("hours", 0)
-        },
+        "hores": hores_api,
         "empresa": {
-            "te_estada": bool(empresa.get("enabled", False))
+            "te_estada": te_estada
         },
         "num_ra": len(ra),
         "resultats_aprenentatge": normalitzar_ra(ra),
